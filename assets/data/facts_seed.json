@@ -1,0 +1,64 @@
+{
+  "facts": [
+    {
+      "title": "Drink More Water",
+      "image": "assets/images/facts/water.png",
+      "description": "Staying hydrated is crucial for metabolism and energy levels. Aim for at least 8 glasses a day!",
+      "category": "Hydration"
+    },
+    {
+      "title": "Go Green",
+      "image": "assets/images/facts/spinach.png",
+      "description": "Leafy greens like spinach are loaded with nutrients and fiber, keeping you full and energized.",
+      "category": "Vegetables"
+    },
+    {
+      "title": "Fiber Power",
+      "image": "assets/images/facts/oats.png",
+      "description": "Oats are a fantastic source of soluble fiber, which helps regulate blood sugar and cholesterol.",
+      "category": "Grains"
+    },
+    {
+      "title": "Smart Snacking",
+      "image": "assets/images/facts/nuts.png",
+      "description": "A handful of nuts makes a perfect snack, providing healthy fats and protein to curb hunger.",
+      "category": "Snacks"
+    },
+    {
+      "title": "Protein Rich",
+      "image": "assets/images/facts/chicken.png",
+      "description": "Lean proteins like chicken help repair muscles and keep you satisfied longer.",
+      "category": "Protein"
+    },
+    {
+      "title": "Fruit Power",
+      "image": "assets/images/facts/berries.png",
+      "description": "Berries are packed with antioxidants and are low in calories, making them a guilt-free treat.",
+      "category": "Fruits"
+    },
+    {
+      "title": "Gut Health",
+      "image": "assets/images/facts/yogurt.png",
+      "description": "Yogurt contains probiotics that support a healthy gut microbiome and aid digestion.",
+      "category": "Dairy"
+    },
+    {
+      "title": "Healthy Fats",
+      "image": "assets/images/facts/avocado.png",
+      "description": "Avocado is loaded with monounsaturated fats that are great for heart health.",
+      "category": "Healthy Fats"
+    },
+    {
+      "title": "Spice It Up",
+      "image": "assets/images/facts/turmeric.png",
+      "description": "Turmeric contains curcumin, a natural anti-inflammatory compound.",
+      "category": "Spices"
+    },
+    {
+      "title": "Stay Active",
+      "image": "assets/images/facts/running.png",
+      "description": "Regular physical activity boosts metabolism and improves overall health.",
+      "category": "Fitness"
+    }
+  ]
+}
