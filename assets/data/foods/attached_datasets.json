@@ -1,0 +1,1032 @@
+{
+  "foods": [
+    {
+      "id": "cb74fa4d-f49a-4c89-aa6c-3a329c26b678",
+      "name": "Hot tea (Garam Chai)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 6.140000000000001,
+        "caloriesMax": 26.14,
+        "protein": 0.39,
+        "carbs": 2.58,
+        "fat": 0.53,
+        "fiber": 0,
+        "sugar": 2.58,
+        "sodium": 3.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot tea (garam chai)"
+      ]
+    },
+    {
+      "id": "2248d66c-cb1e-4190-9a56-e42e7b4dc480",
+      "name": "Instant coffee",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 13.16,
+        "caloriesMax": 33.16,
+        "protein": 0.64,
+        "carbs": 3.65,
+        "fat": 0.75,
+        "fiber": 0,
+        "sugar": 3.62,
+        "sodium": 4.92
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "instant coffee"
+      ]
+    },
+    {
+      "id": "f0a89aa9-3109-4bb3-ba8c-3dfc706b62e9",
+      "name": "Espreso coffee",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 41.54,
+        "caloriesMax": 61.54,
+        "protein": 1.75,
+        "carbs": 6.62,
+        "fat": 2.14,
+        "fiber": 0,
+        "sugar": 6.53,
+        "sodium": 13.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "espreso coffee"
+      ]
+    },
+    {
+      "id": "b0e80065-cd6e-4403-8cc9-5f87237f4410",
+      "name": "Iced tea",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 0.33999999999999986,
+        "caloriesMax": 20.34,
+        "protein": 0.03,
+        "carbs": 2.7,
+        "fat": 0.01,
+        "fiber": 0,
+        "sugar": 2.7,
+        "sodium": 0.23
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "iced tea"
+      ]
+    },
+    {
+      "id": "84dea981-d3b7-4c06-addc-50a4ab364e99",
+      "name": "Raw mango drink (Aam panna)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 25.92,
+        "caloriesMax": 45.92,
+        "protein": 0.16,
+        "carbs": 9.05,
+        "fat": 0.03,
+        "fiber": 0.61,
+        "sugar": 7.49,
+        "sodium": 79.82
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raw mango drink (aam panna)"
+      ]
+    },
+    {
+      "id": "55053e0e-fbd5-43d9-a808-80ba5d4dbd7a",
+      "name": "Fruit Punch (with fresh juices)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 26.119999999999997,
+        "caloriesMax": 46.12,
+        "protein": 0.14,
+        "carbs": 9.38,
+        "fat": 0.03,
+        "fiber": 0.06,
+        "sugar": 9.25,
+        "sodium": 2.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit punch (with fresh juices)"
+      ]
+    },
+    {
+      "id": "848dc1cd-ee26-4456-9f1b-0f84c8a80d9f",
+      "name": "Fruit Punch (with squashes)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 13.129999999999999,
+        "caloriesMax": 33.129999999999995,
+        "protein": 0.07,
+        "carbs": 5.99,
+        "fat": 0.02,
+        "fiber": 0.17,
+        "sugar": 5.88,
+        "sodium": 2.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit punch (with squashes)"
+      ]
+    },
+    {
+      "id": "46a3ee22-a061-4f4f-8327-cf76818794a7",
+      "name": "Lemonade",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 10.8,
+        "caloriesMax": 30.8,
+        "protein": 0.03,
+        "carbs": 5.48,
+        "fat": 0.01,
+        "fiber": 0.02,
+        "sugar": 5.47,
+        "sodium": 28.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemonade"
+      ]
+    },
+    {
+      "id": "68e5c97b-2771-4a24-8b72-d0d128ebe8c7",
+      "name": "Lem-o-gin",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 11.52,
+        "caloriesMax": 31.52,
+        "protein": 0.08,
+        "carbs": 5.55,
+        "fat": 0.03,
+        "fiber": 0.13,
+        "sugar": 5.38,
+        "sodium": 28.13
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lem-o-gin"
+      ]
+    },
+    {
+      "id": "1c25fc4b-d673-4d55-8168-44f419ff6cb4",
+      "name": "Cumin infused water (Jeere/Zeere ka pani)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 0,
+        "caloriesMax": 19.09,
+        "protein": 0.17,
+        "carbs": 1.86,
+        "fat": 0.11,
+        "fiber": 0.46,
+        "sugar": 1.46,
+        "sodium": 189.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cumin infused water (jeere/zeere ka pani)"
+      ]
+    },
+    {
+      "id": "587395c1-999e-49e8-91f3-7e222356ad38",
+      "name": "Coco pine cooler",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 22.75,
+        "caloriesMax": 42.75,
+        "protein": 0.56,
+        "carbs": 5.72,
+        "fat": 1.0,
+        "fiber": 0.26,
+        "sugar": 5.52,
+        "sodium": 23.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coco pine cooler"
+      ]
+    },
+    {
+      "id": "b2b73e14-a378-4a1d-a64b-61732f5910e7",
+      "name": "Summer cooler",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 12.43,
+        "caloriesMax": 32.43,
+        "protein": 0.37,
+        "carbs": 5.43,
+        "fat": 0.04,
+        "fiber": 0.2,
+        "sugar": 5.21,
+        "sodium": 1.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "summer cooler"
+      ]
+    },
+    {
+      "id": "930a5dc1-51f6-443f-86aa-aa1e0ae1dced",
+      "name": "Hot cocoa",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 80.1,
+        "caloriesMax": 100.1,
+        "protein": 3.36,
+        "carbs": 9.23,
+        "fat": 4.56,
+        "fiber": 0,
+        "sugar": 9.01,
+        "sodium": 24.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot cocoa"
+      ]
+    },
+    {
+      "id": "7581258d-f700-4d9b-8edd-04e3a7a25c63",
+      "name": "Cold coffee with ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 57.849999999999994,
+        "caloriesMax": 77.85,
+        "protein": 1.57,
+        "carbs": 11.24,
+        "fat": 2.11,
+        "fiber": 0.01,
+        "sugar": 11.18,
+        "sodium": 13.84
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cold coffee with ice cream"
+      ]
+    },
+    {
+      "id": "bb150e1d-afd1-48d6-a167-0eefd9ba595f",
+      "name": "Banana milkshake (Kele milkshake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 55.31,
+        "caloriesMax": 75.31,
+        "protein": 1.84,
+        "carbs": 9.15,
+        "fat": 2.37,
+        "fiber": 0.26,
+        "sugar": 7.96,
+        "sodium": 13.61
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana milkshake (kele milkshake)"
+      ]
+    },
+    {
+      "id": "45bd7890-02de-4b30-91df-0d42e8113862",
+      "name": "Mango milkshake (Aam milkshake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 46.9,
+        "caloriesMax": 66.9,
+        "protein": 1.73,
+        "carbs": 7.23,
+        "fat": 2.35,
+        "fiber": 0.26,
+        "sugar": 7.15,
+        "sodium": 13.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango milkshake (aam milkshake)"
+      ]
+    },
+    {
+      "id": "6ffbd836-1b09-485d-9bf1-87fcf3be6daa",
+      "name": "Pineapple milkshake (Ananas milkshake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 45.72,
+        "caloriesMax": 65.72,
+        "protein": 1.66,
+        "carbs": 7.62,
+        "fat": 2.23,
+        "fiber": 0,
+        "sugar": 7.6,
+        "sodium": 14.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple milkshake (ananas milkshake)"
+      ]
+    },
+    {
+      "id": "fb723f65-5fa3-42d9-82a7-e4bbaf5aa0c0",
+      "name": "Orange milkshake (Narangi milkshake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 47.42,
+        "caloriesMax": 67.42,
+        "protein": 1.86,
+        "carbs": 7.11,
+        "fat": 2.52,
+        "fiber": 0,
+        "sugar": 7.08,
+        "sodium": 14.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange milkshake (narangi milkshake)"
+      ]
+    },
+    {
+      "id": "d259421a-e658-4242-81ea-354d7a2fa24c",
+      "name": "Egg nog",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 87.14,
+        "caloriesMax": 107.14,
+        "protein": 4.78,
+        "carbs": 8.15,
+        "fat": 5.11,
+        "fiber": 0.02,
+        "sugar": 8.06,
+        "sodium": 40.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg nog"
+      ]
+    },
+    {
+      "id": "678732ac-393c-4401-a574-751d79572761",
+      "name": "Sweet Lassi (Meethi lassi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 25.659999999999997,
+        "caloriesMax": 45.66,
+        "protein": 1.29,
+        "carbs": 6.51,
+        "fat": 0.68,
+        "fiber": 0,
+        "sugar": 6.51,
+        "sodium": 18.31
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet lassi (meethi lassi)"
+      ]
+    },
+    {
+      "id": "cce10113-a3a1-4dda-a3d2-d30b42bd330b",
+      "name": "Lassi (salted)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 8.84,
+        "caloriesMax": 28.84,
+        "protein": 1.35,
+        "carbs": 1.86,
+        "fat": 0.72,
+        "fiber": 0.02,
+        "sugar": 1.84,
+        "sodium": 65.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lassi (salted)"
+      ]
+    },
+    {
+      "id": "9d72b16b-0292-4668-93dc-17d783bb7f02",
+      "name": "Cheese and chilli sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 208.11,
+        "caloriesMax": 228.11,
+        "protein": 6.8,
+        "carbs": 27.4,
+        "fat": 9.78,
+        "fiber": 2.08,
+        "sugar": 2.38,
+        "sodium": 437.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese and chilli sandwich"
+      ]
+    },
+    {
+      "id": "0e54ad67-b151-4737-af37-1bcbe4dcabc3",
+      "name": "Egg sandwich (Ande ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 275.96,
+        "caloriesMax": 295.96,
+        "protein": 8.69,
+        "carbs": 29.16,
+        "fat": 15.8,
+        "fiber": 1.88,
+        "sugar": 1.86,
+        "sodium": 461.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg sandwich (ande ka sandwich)"
+      ]
+    },
+    {
+      "id": "2b4474a3-42d5-4d2a-84b2-fd7c985209f2",
+      "name": "Cucumber sandwich (Kheere ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 178.6,
+        "caloriesMax": 198.6,
+        "protein": 4.8,
+        "carbs": 25.77,
+        "fat": 8.0,
+        "fiber": 2.45,
+        "sugar": 1.64,
+        "sodium": 362.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cucumber sandwich (kheere ka sandwich)"
+      ]
+    },
+    {
+      "id": "127dc906-2644-4fb1-b047-42baeaffae01",
+      "name": "Cheese and pineapple sandwich (Cheese aur ananas ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 247.70999999999998,
+        "caloriesMax": 267.71,
+        "protein": 8.2,
+        "carbs": 29.1,
+        "fat": 12.8,
+        "fiber": 2.33,
+        "sugar": 4.1,
+        "sodium": 571.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese and pineapple sandwich (cheese aur ananas ka sandwich)"
+      ]
+    },
+    {
+      "id": "9c2ab16b-15d9-4141-aefa-ebd2204fa7fc",
+      "name": "Cheese and tomato sandwich (Cheese aur tamatar ke sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 233.32,
+        "caloriesMax": 253.32,
+        "protein": 7.92,
+        "carbs": 26.92,
+        "fat": 12.27,
+        "fiber": 1.97,
+        "sugar": 2.85,
+        "sodium": 549.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese and tomato sandwich (cheese aur tamatar ke sandwich)"
+      ]
+    },
+    {
+      "id": "39491e6f-08f9-4b43-abc4-1e7d3b41d8fd",
+      "name": "Chicken sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 243.27,
+        "caloriesMax": 263.27,
+        "protein": 13.12,
+        "carbs": 25.38,
+        "fat": 11.75,
+        "fiber": 1.64,
+        "sugar": 1.6,
+        "sodium": 389.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken sandwich"
+      ]
+    },
+    {
+      "id": "b24cc39b-35e6-4be7-8294-3d3423f1ae2c",
+      "name": "Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 281.43,
+        "caloriesMax": 301.43,
+        "protein": 9.53,
+        "carbs": 28.54,
+        "fat": 16.14,
+        "fiber": 4.03,
+        "sugar": 2.82,
+        "sodium": 364.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut and tomato sandwich (moongfali aur tamatar ka sandwich)"
+      ]
+    },
+    {
+      "id": "9394299d-4f30-47cf-b65d-ec9be59051db",
+      "name": "Rainbow sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 262.75,
+        "caloriesMax": 282.75,
+        "protein": 7.75,
+        "carbs": 34.26,
+        "fat": 12.54,
+        "fiber": 2.1,
+        "sugar": 4.05,
+        "sodium": 612.49
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rainbow sandwich"
+      ]
+    },
+    {
+      "id": "ead3842f-dd0a-4507-a4ec-843ff23b145f",
+      "name": "Club sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 225.32,
+        "caloriesMax": 245.32,
+        "protein": 7.31,
+        "carbs": 18.51,
+        "fat": 15.12,
+        "fiber": 1.81,
+        "sugar": 2.01,
+        "sodium": 461.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "club sandwich"
+      ]
+    },
+    {
+      "id": "f1f490e5-69b2-4a4a-aa14-a335a7fc1a52",
+      "name": "Vegetarian club sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
