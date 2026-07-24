@@ -1,0 +1,280 @@
+{
+  "version": "1.0.0",
+  "category": "regional_dishes",
+  "foods": [
+    {
+      "id": "hyderabadi_biryani_chicken",
+      "name": "Hyderabadi Chicken Biryani",
+      "nameHi": "हैदराबादी चिकन बिरयानी",
+      "nameHinglish": "hyderabadi biryani",
+      "aliases": ["hyderabadi biryani", "chicken biryani", "dum biryani", "hyderabadi dum biryani"],
+      "category": "nonVeg",
+      "subCategory": "rice_dish",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Heavy on ghee and oil; meat to rice ratio varies.",
+      "per100g": {
+        "caloriesMin": 190,
+        "caloriesMax": 260,
+        "protein": 11.0,
+        "carbs": 24.0,
+        "fat": 9.0,
+        "fiber": 1.0,
+        "sugar": 1.0,
+        "sodium": 420
+      },
+      "portions": [
+        {"name": "1 plate (Restaurant)", "nameHi": "एक प्लेट (होटल)", "weightMinG": 400, "weightMaxG": 500},
+        {"name": "½ plate", "nameHi": "आधी प्लेट", "weightMinG": 200, "weightMaxG": 250},
+        {"name": "1 bowl (Homemade)", "nameHi": "एक कटोरा (घर का)", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    },
+    {
+      "id": "litti_chokha",
+      "name": "Litti Chokha",
+      "nameHi": "लिट्टी चोखा",
+      "nameHinglish": "litti chokha",
+      "aliases": ["litti chokha", "bihari litti", "sattu litti", "litti", "chokha"],
+      "category": "veg",
+      "subCategory": "regional_specialty",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Litti is typically dipped in ghee, making calories highly variable.",
+      "per100g": {
+        "caloriesMin": 220,
+        "caloriesMax": 320,
+        "protein": 8.0,
+        "carbs": 40.0,
+        "fat": 12.0,
+        "fiber": 6.0,
+        "sugar": 2.0,
+        "sodium": 350
+      },
+      "portions": [
+        {"name": "1 litti with chokha", "nameHi": "एक लिट्टी चोखा के साथ", "weightMinG": 120, "weightMaxG": 150},
+        {"name": "2 littis with chokha", "nameHi": "दो लिट्टी चोखा के साथ", "weightMinG": 240, "weightMaxG": 300},
+        {"name": "1 litti (no ghee)", "nameHi": "एक लिट्टी (बिना घी)", "weightMinG": 80, "weightMaxG": 100}
+      ]
+    },
+    {
+      "id": "sarson_ka_saag",
+      "name": "Sarson Ka Saag",
+      "nameHi": "सरसों का साग",
+      "nameHinglish": "sarson ka saag",
+      "aliases": ["sarson ka saag", "sarson saag", "mustard greens curry", "punjabi saag"],
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Cooked with butter/ghee which adds most of the calories. Base veg is low cal.",
+      "per100g": {
+        "caloriesMin": 80,
+        "caloriesMax": 140,
+        "protein": 3.5,
+        "carbs": 6.0,
+        "fat": 8.0,
+        "fiber": 3.0,
+        "sugar": 1.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    },
+    {
+      "id": "makki_ki_roti",
+      "name": "Makki Ki Roti",
+      "nameHi": "मक्के की रोटी",
+      "nameHinglish": "makki ki roti",
+      "aliases": ["makki ki roti", "makki roti", "corn flour flatbread", "maize roti"],
+      "category": "breads",
+      "subCategory": "roti",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Usually topped with butter/ghee.",
+      "per100g": {
+        "caloriesMin": 300,
+        "caloriesMax": 330,
+        "protein": 6.0,
+        "carbs": 66.0,
+        "fat": 4.0,
+        "fiber": 7.0,
+        "sugar": 1.0,
+        "sodium": 150
+      },
+      "portions": [
+        {"name": "1 roti", "nameHi": "एक रोटी", "weightMinG": 60, "weightMaxG": 80},
+        {"name": "2 rotis", "nameHi": "दो रोटी", "weightMinG": 120, "weightMaxG": 160}
+      ]
+    },
+    {
+      "id": "machher_jhol",
+      "name": "Machher Jhol (Bengali Fish Curry)",
+      "nameHi": "माछेर झोल (मछली करी)",
+      "nameHinglish": "machher jhol",
+      "aliases": ["machher jhol", "bengali fish curry", "fish curry", "machhli curry", "rui machher jhol"],
+      "category": "nonVeg",
+      "subCategory": "fish",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Mustard oil and potato quantity varies.",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 160,
+        "protein": 14.0,
+        "carbs": 5.0,
+        "fat": 6.0,
+        "fiber": 0.5,
+        "sugar": 1.0,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 piece with gravy", "nameHi": "ग्रेवी के साथ 1 टुकड़ा", "weightMinG": 150, "weightMaxG": 200},
+        {"name": "2 pieces with gravy", "nameHi": "ग्रेवी के साथ 2 टुकड़े", "weightMinG": 250, "weightMaxG": 320},
+        {"name": "1 katori gravy only", "weightMinG": 100, "weightMaxG": 120}
+      ]
+    },
+    {
+      "id": "bisi_bele_bath",
+      "name": "Bisi Bele Bath",
+      "nameHi": "बिसी बेले भात",
+      "nameHinglish": "bisi bele bath",
+      "aliases": ["bisi bele bath", "bisibele bath", "bisi bele bhath", "hot lentil rice"],
+      "category": "veg",
+      "subCategory": "rice_dish",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Topped with ghee. Rich in vegetables and lentils.",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 4.5,
+        "carbs": 22.0,
+        "fat": 6.0,
+        "fiber": 3.0,
+        "sugar": 2.0,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक प्लेट", "weightMinG": 300, "weightMaxG": 400},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 200, "weightMaxG": 250}
+      ]
+    },
+    {
+      "id": "dhokla",
+      "name": "Khaman Dhokla",
+      "nameHi": "खमन ढोकला",
+      "nameHinglish": "dhokla",
+      "aliases": ["dhokla", "khaman", "gujarati dhokla", "besan dhokla"],
+      "category": "snacks",
+      "subCategory": "steamed_snack",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Steamed besan, but tempered with oil and sugar syrup.",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 180,
+        "protein": 5.0,
+        "carbs": 24.0,
+        "fat": 4.5,
+        "fiber": 2.0,
+        "sugar": 6.0,
+        "sodium": 350
+      },
+      "portions": [
+        {"name": "1 piece (medium)", "nameHi": "एक टुकड़ा", "weightMinG": 40, "weightMaxG": 50},
+        {"name": "3 pieces", "nameHi": "तीन टुकड़े", "weightMinG": 120, "weightMaxG": 150},
+        {"name": "1 plate (4 pieces)", "nameHi": "एक प्लेट (4 पीस)", "weightMinG": 160, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "misal_pav",
+      "name": "Misal Pav",
+      "nameHi": "मिसल पाव",
+      "nameHinglish": "misal pav",
+      "aliases": ["misal pav", "maharashtrian misal", "spicy sprouts curry with bread"],
+      "category": "veg",
+      "subCategory": "regional_specialty",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch", "snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil in 'tarri' (gravy) and farsan toppings add massive calories.",
+      "per100g": {
+        "caloriesMin": 180,
+        "caloriesMax": 250,
+        "protein": 6.0,
+        "carbs": 26.0,
+        "fat": 10.0,
+        "fiber": 4.0,
+        "sugar": 2.0,
+        "sodium": 450
+      },
+      "portions": [
+        {"name": "1 plate (with 2 pav)", "nameHi": "एक प्लेट (2 पाव के साथ)", "weightMinG": 350, "weightMaxG": 450},
+        {"name": "1 bowl misal only", "nameHi": "सिर्फ मिसल", "weightMinG": 200, "weightMaxG": 250}
+      ]
+    },
+    {
+      "id": "pongal",
+      "name": "Ven Pongal",
+      "nameHi": "वेन पोंगल",
+      "nameHinglish": "pongal",
+      "aliases": ["ven pongal", "khara pongal", "ghee pongal", "pongal"],
+      "category": "southIndian",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Ghee is the primary variable.",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 220,
+        "protein": 4.5,
+        "carbs": 20.0,
+        "fat": 10.0,
+        "fiber": 1.5,
+        "sugar": 0.5,
+        "sodium": 280
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक प्लेट", "weightMinG": 250, "weightMaxG": 300},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "pork_vindaloo",
+      "name": "Goan Pork Vindaloo",
+      "nameHi": "गोअन पोर्क विंदालू",
+      "nameHinglish": "pork vindaloo",
+      "aliases": ["pork vindaloo", "goan vindaloo", "vindaloo"],
+      "category": "nonVeg",
+      "subCategory": "meats",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Pork fat content varies drastically.",
+      "per100g": {
+        "caloriesMin": 220,
+        "caloriesMax": 310,
+        "protein": 14.0,
+        "carbs": 6.0,
+        "fat": 20.0,
+        "fiber": 1.0,
+        "sugar": 3.0,
+        "sodium": 400
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "Medium serving", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    }
+  ]
+}
