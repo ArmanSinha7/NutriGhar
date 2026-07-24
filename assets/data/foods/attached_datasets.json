@@ -1030,3 +1030,1035 @@
         "lunch",
         "dinner",
         "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 188.33,
+        "caloriesMax": 208.33,
+        "protein": 5.45,
+        "carbs": 19.68,
+        "fat": 11.33,
+        "fiber": 2.06,
+        "sugar": 2.08,
+        "sodium": 305.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetarian club sandwich"
+      ]
+    },
+    {
+      "id": "0bf217a2-484c-40c2-a2e5-59b638ebf01d",
+      "name": "Pin wheel sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 301.52,
+        "caloriesMax": 321.52,
+        "protein": 8.77,
+        "carbs": 14.0,
+        "fat": 24.93,
+        "fiber": 0.93,
+        "sugar": 1.45,
+        "sodium": 374.39
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pin wheel sandwich"
+      ]
+    },
+    {
+      "id": "63b79ef3-4fc0-46b5-9cb9-b8e2cd24e4a7",
+      "name": "Carrot apple sandwich (Gajar aur seb ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 204.11,
+        "caloriesMax": 224.11,
+        "protein": 5.3,
+        "carbs": 29.04,
+        "fat": 9.12,
+        "fiber": 3.66,
+        "sugar": 5.3,
+        "sodium": 302.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot apple sandwich (gajar aur seb ka sandwich)"
+      ]
+    },
+    {
+      "id": "77d09d9f-563a-4413-a521-74b6278fdf17",
+      "name": "Salami sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 245.59,
+        "caloriesMax": 265.59000000000003,
+        "protein": 8.7,
+        "carbs": 21.54,
+        "fat": 15.51,
+        "fiber": 1.97,
+        "sugar": 2.0,
+        "sodium": 662.75
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "salami sandwich"
+      ]
+    },
+    {
+      "id": "0becbbb8-e58e-417b-a2cc-525c3a0a94dc",
+      "name": "Vegetable and mayonnaise sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 234.26,
+        "caloriesMax": 254.26,
+        "protein": 4.47,
+        "carbs": 23.2,
+        "fat": 15.4,
+        "fiber": 2.35,
+        "sugar": 2.35,
+        "sodium": 342.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable and mayonnaise sandwich"
+      ]
+    },
+    {
+      "id": "6af20685-e493-4e25-9f7f-a35894fc6906",
+      "name": "Egg and tomato sandwich (Ande aur tamatar ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 212.11,
+        "caloriesMax": 232.11,
+        "protein": 7.66,
+        "carbs": 25.9,
+        "fat": 10.51,
+        "fiber": 1.77,
+        "sugar": 2.09,
+        "sodium": 423.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg and tomato sandwich (ande aur tamatar ka sandwich)"
+      ]
+    },
+    {
+      "id": "675ce3dd-998f-449e-8dc8-52ad53964c22",
+      "name": "Sweet open sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 234.25,
+        "caloriesMax": 254.25,
+        "protein": 4.99,
+        "carbs": 39.24,
+        "fat": 8.15,
+        "fiber": 2.36,
+        "sugar": 12.23,
+        "sodium": 205.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet open sandwich"
+      ]
+    },
+    {
+      "id": "044a7f4c-379a-4017-ae0f-86038a0dabc2",
+      "name": "Mushroom and cheese sandwich (toasted)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 217.42,
+        "caloriesMax": 237.42,
+        "protein": 7.79,
+        "carbs": 21.01,
+        "fat": 13.01,
+        "fiber": 2.28,
+        "sugar": 2.11,
+        "sodium": 456.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom and cheese sandwich (toasted)"
+      ]
+    },
+    {
+      "id": "8712d200-db2f-41cd-8df4-5b05e4b0cd8b",
+      "name": "Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted))",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 214.58,
+        "caloriesMax": 234.58,
+        "protein": 6.82,
+        "carbs": 21.42,
+        "fat": 12.95,
+        "fiber": 1.78,
+        "sugar": 2.67,
+        "sodium": 457.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese and tomato sandwich (toasted) (cheese aur tamatar ke sandwich (toasted))"
+      ]
+    },
+    {
+      "id": "95cac32e-59fb-4161-bd2b-8a4aed5e6a4b",
+      "name": "Pea potato sandwich (toasted) (Matar aloo ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 154.9,
+        "caloriesMax": 174.9,
+        "protein": 4.6,
+        "carbs": 25.17,
+        "fat": 5.43,
+        "fiber": 2.89,
+        "sugar": 1.33,
+        "sodium": 262.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea potato sandwich (toasted) (matar aloo ka sandwich)"
+      ]
+    },
+    {
+      "id": "810f215a-675b-4065-a354-872492ad1a87",
+      "name": "Paneer pea sandwich (toasted) (Paneer matar ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 239.56,
+        "caloriesMax": 259.56,
+        "protein": 12.4,
+        "carbs": 24.05,
+        "fat": 11.98,
+        "fiber": 2.12,
+        "sugar": 6.4,
+        "sodium": 268.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer pea sandwich (toasted) (paneer matar ka sandwich)"
+      ]
+    },
+    {
+      "id": "3622cde2-e751-4df8-977d-41d9c89a1550",
+      "name": "Chicken sandwich (toasted)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 157.37,
+        "caloriesMax": 177.37,
+        "protein": 12.08,
+        "carbs": 18.82,
+        "fat": 5.32,
+        "fiber": 1.64,
+        "sugar": 2.13,
+        "sodium": 327.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken sandwich (toasted)"
+      ]
+    },
+    {
+      "id": "23f0de2c-32b3-43fa-9534-dcef05f98972",
+      "name": "Pea keema sandwich (toasted) (Matar aur keema ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 161.78,
+        "caloriesMax": 181.78,
+        "protein": 11.06,
+        "carbs": 20.26,
+        "fat": 5.61,
+        "fiber": 2.45,
+        "sugar": 1.94,
+        "sodium": 290.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea keema sandwich (toasted) (matar aur keema ka sandwich)"
+      ]
+    },
+    {
+      "id": "32ecd601-7155-4dc5-ad07-a77e01fb98a7",
+      "name": "Classic club sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 190.83,
+        "caloriesMax": 210.83,
+        "protein": 6.74,
+        "carbs": 18.49,
+        "fat": 11.56,
+        "fiber": 1.62,
+        "sugar": 1.86,
+        "sodium": 277.49
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "classic club sandwich"
+      ]
+    },
+    {
+      "id": "0826ebf8-5b6c-4b8c-ba62-5b5254505b1e",
+      "name": "Sesame toast",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 485.19,
+        "caloriesMax": 505.19,
+        "protein": 1.9,
+        "carbs": 11.15,
+        "fat": 49.38,
+        "fiber": 1.32,
+        "sugar": 1.46,
+        "sodium": 128.78
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sesame toast"
+      ]
+    },
+    {
+      "id": "fe0a4216-3985-42cd-8156-1c2fd4646a71",
+      "name": "Cracked wheat porridge (Meetha daliya)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 71.57,
+        "caloriesMax": 91.57,
+        "protein": 2.64,
+        "carbs": 8.87,
+        "fat": 4.08,
+        "fiber": 0.62,
+        "sugar": 5.12,
+        "sodium": 15.89
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cracked wheat porridge (meetha daliya)"
+      ]
+    },
+    {
+      "id": "0a4185d1-de3a-4529-bad9-a291aecaf67c",
+      "name": "Semolina porridge (Suji/Rava daliya)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90.89,
+        "caloriesMax": 110.89,
+        "protein": 3.75,
+        "carbs": 12.39,
+        "fat": 4.08,
+        "fiber": 0.7,
+        "sugar": 7.54,
+        "sodium": 23.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina porridge (suji/rava daliya)"
+      ]
+    },
+    {
+      "id": "407ea2cd-dd2e-47c5-9ffd-58aac8685508",
+      "name": "Oatmeal Porridge",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 62.849999999999994,
+        "caloriesMax": 82.85,
+        "protein": 2.6,
+        "carbs": 8.77,
+        "fat": 3.22,
+        "fiber": 0.39,
+        "sugar": 5.2,
+        "sodium": 16.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "oatmeal porridge"
+      ]
+    },
+    {
+      "id": "d2a264de-fcf2-4748-a810-190d5efc905c",
+      "name": "Cornflakes with milk",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107.33,
+        "caloriesMax": 127.33,
+        "protein": 3.59,
+        "carbs": 14.95,
+        "fat": 5.12,
+        "fiber": 0.78,
+        "sugar": 9.97,
+        "sodium": 26.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cornflakes with milk"
+      ]
+    },
+    {
+      "id": "e7761282-c2d9-4b36-8ffa-61346607fb71",
+      "name": "Rice flakes (Chiwda/Aval)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102.44,
+        "caloriesMax": 122.44,
+        "protein": 3.62,
+        "carbs": 15.57,
+        "fat": 3.99,
+        "fiber": 0.37,
+        "sugar": 7.28,
+        "sodium": 22.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice flakes (chiwda/aval)"
+      ]
+    },
+    {
+      "id": "d2bcc18f-dd47-4697-acd7-9377b2b5a042",
+      "name": "Wheat flakes",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102.44,
+        "caloriesMax": 122.44,
+        "protein": 3.62,
+        "carbs": 15.57,
+        "fat": 3.99,
+        "fiber": 0.37,
+        "sugar": 7.28,
+        "sodium": 22.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wheat flakes"
+      ]
+    },
+    {
+      "id": "203309a6-9ae3-4210-ae41-43402c1ff3e6",
+      "name": "Murmura (Puffed rice)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103.32,
+        "caloriesMax": 123.32,
+        "protein": 3.62,
+        "carbs": 15.67,
+        "fat": 4.04,
+        "fiber": 0.28,
+        "sugar": 7.31,
+        "sodium": 22.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "murmura (puffed rice)"
+      ]
+    },
+    {
+      "id": "dbdd8f93-bae9-4de7-b77d-168e874e674b",
+      "name": "Puffed wheat (Murmure/Moori)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103.32,
+        "caloriesMax": 123.32,
+        "protein": 3.62,
+        "carbs": 15.67,
+        "fat": 4.04,
+        "fiber": 0.28,
+        "sugar": 7.31,
+        "sodium": 22.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "puffed wheat (murmure/moori)"
+      ]
+    },
+    {
+      "id": "7df4e9f4-766e-4196-b7dd-4a28424fec24",
+      "name": "Boiled egg (Ubla anda)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 35.35,
+        "caloriesMax": 55.35,
+        "protein": 4.43,
+        "carbs": 0.12,
+        "fat": 3.04,
+        "fiber": 0.11,
+        "sugar": 0.0,
+        "sodium": 170.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled egg (ubla anda)"
+      ]
+    },
+    {
+      "id": "26c3e896-de82-4dec-9cd6-ea2af0088c8e",
+      "name": "Fried Egg",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 213.67,
+        "caloriesMax": 233.67,
+        "protein": 11.59,
+        "carbs": 0.31,
+        "fat": 19.62,
+        "fiber": 0.29,
+        "sugar": 0.0,
+        "sodium": 446.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fried egg"
+      ]
+    },
+    {
+      "id": "253ae20a-ee47-4831-b2d4-7f057c4d7d16",
+      "name": "Poached egg",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113.87,
+        "caloriesMax": 133.87,
+        "protein": 11.98,
+        "carbs": 0.37,
+        "fat": 8.19,
+        "fiber": 0.3,
+        "sugar": 0.05,
+        "sodium": 1163.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poached egg"
+      ]
+    },
+    {
+      "id": "1e09feb2-44e3-4595-ad37-c514a261ac1b",
+      "name": "Scrambled egg (Ande ki bhurji)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 145.97,
+        "caloriesMax": 165.97,
+        "protein": 10.29,
+        "carbs": 1.35,
+        "fat": 12.21,
+        "fiber": 0.24,
+        "sugar": 1.08,
+        "sodium": 374.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "scrambled egg (ande ki bhurji)"
+      ]
+    },
+    {
+      "id": "4f8d75a2-4b09-441f-be2e-ba5dbb4eedb8",
+      "name": "Baked egg",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 208.85,
+        "caloriesMax": 228.85,
+        "protein": 11.88,
+        "carbs": 15.42,
+        "fat": 12.65,
+        "fiber": 1.03,
+        "sugar": 1.66,
+        "sodium": 523.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baked egg"
+      ]
+    },
+    {
+      "id": "bf672d69-a683-4189-a66f-64c0bd5d0e43",
+      "name": "Plain omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 262.41,
+        "caloriesMax": 282.41,
+        "protein": 9.66,
+        "carbs": 0.64,
+        "fat": 25.74,
+        "fiber": 0.12,
+        "sugar": 0.51,
+        "sodium": 226.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "plain omelette/omlet"
+      ]
+    },
+    {
+      "id": "83eadfb3-2e18-465e-8ad2-c504f97e010c",
+      "name": "Stuffed egg omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 193.51,
+        "caloriesMax": 213.51,
+        "protein": 8.6,
+        "carbs": 2.3,
+        "fat": 17.77,
+        "fiber": 0.75,
+        "sugar": 1.57,
+        "sodium": 267.19
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed egg omelette/omlet"
+      ]
+    },
+    {
+      "id": "a94fa194-cdd8-4baa-8cb0-3dcc5984566f",
+      "name": "Pancake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 193.36,
+        "caloriesMax": 213.36,
+        "protein": 5.68,
+        "carbs": 20.49,
+        "fat": 10.82,
+        "fiber": 0.65,
+        "sugar": 3.32,
+        "sodium": 143.7
