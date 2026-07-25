@@ -1,0 +1,548 @@
+{
+  "foods": [
+    {
+      "id": "ba0fb1b5-c08a-487f-bc00-a8c88dbaa5dd",
+      "name": "Litti Chokha",
+      "category": "veg",
+      "subCategory": "bihari",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310,
+        "caloriesMax": 330,
+        "protein": 10,
+        "carbs": 50,
+        "fat": 8,
+        "fiber": 6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "litti chokha"
+      ]
+    },
+    {
+      "id": "5e9445cc-4718-4489-bac1-1041179a1035",
+      "name": "Bati Chokha",
+      "category": "veg",
+      "subCategory": "up",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300,
+        "caloriesMax": 320,
+        "protein": 9,
+        "carbs": 48,
+        "fat": 9,
+        "fiber": 5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bati chokha"
+      ]
+    },
+    {
+      "id": "b221d234-718d-4b0c-8a9e-99524f4d370a",
+      "name": "Sattu Paratha",
+      "category": "veg",
+      "subCategory": "bihari",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270,
+        "caloriesMax": 290,
+        "protein": 12,
+        "carbs": 42,
+        "fat": 7,
+        "fiber": 8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "sattu paratha"
+      ]
+    },
+    {
+      "id": "b0ecc874-0ae0-4ce1-b08f-4b834d159741",
+      "name": "Dhuska",
+      "category": "veg",
+      "subCategory": "jharkhandi",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230,
+        "caloriesMax": 250,
+        "protein": 6,
+        "carbs": 38,
+        "fat": 8,
+        "fiber": 4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dhuska"
+      ]
+    },
+    {
+      "id": "71c7ff45-b367-454e-9509-636661f94bec",
+      "name": "Thekua",
+      "category": "veg",
+      "subCategory": "bihari",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340,
+        "caloriesMax": 360,
+        "protein": 4,
+        "carbs": 55,
+        "fat": 12,
+        "fiber": 2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "thekua"
+      ]
+    },
+    {
+      "id": "af2e5ace-efc9-4586-989a-8b159f204b4d",
+      "name": "Chana Ghugni",
+      "category": "veg",
+      "subCategory": "bihari",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170,
+        "caloriesMax": 190,
+        "protein": 9,
+        "carbs": 25,
+        "fat": 4,
+        "fiber": 6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana ghugni"
+      ]
+    },
+    {
+      "id": "a883e9dd-2c2a-4bff-9030-b350f83a9b9f",
+      "name": "Dal Pitha",
+      "category": "veg",
+      "subCategory": "bihari",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 220,
+        "protein": 8,
+        "carbs": 40,
+        "fat": 2,
+        "fiber": 5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal pitha"
+      ]
+    },
+    {
+      "id": "bd5c5978-acac-48dc-b881-2f21626e697b",
+      "name": "Malpua (Bihari style)",
+      "category": "veg",
+      "subCategory": "bihari",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 390,
+        "caloriesMax": 410,
+        "protein": 5,
+        "carbs": 60,
+        "fat": 15,
+        "fiber": 1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malpua (bihari style)"
+      ]
+    },
+    {
+      "id": "77454a2a-6226-4d29-8f85-8dae9244a2a0",
+      "name": "Aloo Puri",
+      "category": "veg",
+      "subCategory": "north_indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340,
+        "caloriesMax": 360,
+        "protein": 6,
+        "carbs": 45,
+        "fat": 15,
+        "fiber": 4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo puri"
+      ]
+    },
+    {
+      "id": "317ac4ba-4ab5-405d-9167-8c735669e94c",
+      "name": "Khasta Kachori",
+      "category": "veg",
+      "subCategory": "north_indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270,
+        "caloriesMax": 290,
+        "protein": 5,
+        "carbs": 30,
+        "fat": 16,
+        "fiber": 3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "khasta kachori"
+      ]
+    },
+    {
+      "id": "ffd6a8fe-25de-44e1-8e5c-d429dafe5848",
+      "name": "Pyaz Kachori",
+      "category": "veg",
+      "subCategory": "rajasthani",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280,
+        "caloriesMax": 300,
+        "protein": 4,
+        "carbs": 32,
+        "fat": 16,
+        "fiber": 3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pyaz kachori"
+      ]
+    },
+    {
+      "id": "dfbc0a7a-f1a5-4e31-aea0-2d21afa09433",
+      "name": "Rugra Curry",
+      "category": "veg",
+      "subCategory": "jharkhandi",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140,
+        "caloriesMax": 160,
+        "protein": 6,
+        "carbs": 12,
+        "fat": 8,
+        "fiber": 4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rugra curry"
+      ]
+    },
+    {
+      "id": "66a24a7b-4ae4-4723-bda6-d3f3750df738",
+      "name": "Chilka Roti",
+      "category": "veg",
+      "subCategory": "jharkhandi",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 170,
+        "protein": 5,
+        "carbs": 30,
+        "fat": 2,
+        "fiber": 3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chilka roti"
+      ]
+    },
+    {
+      "id": "fcbe0eb9-3bb5-4206-bd49-d3ca9bd79408",
+      "name": "Arsa",
+      "category": "veg",
+      "subCategory": "jharkhandi",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310,
+        "caloriesMax": 330,
+        "protein": 3,
+        "carbs": 65,
+        "fat": 5,
+        "fiber": 1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "arsa"
+      ]
+    },
+    {
+      "id": "135ae55c-453d-4307-ac6a-d99405d7fbdb",
+      "name": "Bihari Chicken Curry",
+      "category": "nonVeg",
+      "subCategory": "bihari",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240,
+        "caloriesMax": 260,
+        "protein": 18,
+        "carbs": 10,
+        "fat": 15,
+        "fiber": 2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bihari chicken curry"
+      ]
+    },
+    {
+      "id": "344c745a-2e16-4895-a8f6-8ac50aa1551a",
+      "name": "Bihari Mutton Curry (Ahuna)",
+      "category": "nonVeg",
+      "subCategory": "bihari",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300,
+        "caloriesMax": 320,
+        "protein": 20,
+        "carbs": 8,
+        "fat": 20,
+        "fiber": 1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bihari mutton curry (ahuna)"
+      ]
+    },
+    {
+      "id": "1d9f5de0-d6e8-40e1-8524-3ed145424671",
+      "name": "Handia (Rice Beer)",
+      "category": "veg",
+      "subCategory": "jharkhandi",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70,
+        "caloriesMax": 90,
+        "protein": 1,
+        "carbs": 15,
+        "fat": 0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "handia (rice beer)"
+      ]
+    }
+  ]
+}
