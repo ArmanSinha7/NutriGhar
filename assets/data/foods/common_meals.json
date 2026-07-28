@@ -1,0 +1,200 @@
+{
+  "version": "1.0.0",
+  "category": "common_meals",
+  "foods": [
+    {
+      "id": "dal_tadka",
+      "name": "Dal Tadka",
+      "nameHi": "दाल तड़का",
+      "nameHinglish": "dal tadka",
+      "aliases": ["dal tadka", "yellow dal tadka", "arhar dal fry", "toor dal tadka", "peeli dal"],
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Tadka oil/ghee adds 50-80 calories per katori compared to plain boiled dal.",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 150,
+        "protein": 5.0,
+        "carbs": 13.0,
+        "fat": 4.5,
+        "fiber": 2.0,
+        "sugar": 0.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 180},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 220, "weightMaxG": 260},
+        {"name": "1 ladle (karchi)", "nameHi": "एक करछी", "weightMinG": 50, "weightMaxG": 65}
+      ]
+    },
+    {
+      "id": "dal_makhani",
+      "name": "Dal Makhani",
+      "nameHi": "दाल मखनी",
+      "nameHinglish": "dal makhani",
+      "aliases": ["dal makhani", "black dal", "kaali dal", "urad dal makhani"],
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Cream and butter quantities are very high and variable.",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 200,
+        "protein": 5.5,
+        "carbs": 12.0,
+        "fat": 8.0,
+        "fiber": 3.5,
+        "sugar": 1.0,
+        "sodium": 350
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 180},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 220, "weightMaxG": 260},
+        {"name": "1 ladle (karchi)", "nameHi": "एक करछी", "weightMinG": 50, "weightMaxG": 65}
+      ]
+    },
+    {
+      "id": "mutton_curry_home",
+      "name": "Homemade Mutton Curry",
+      "nameHi": "घर का मटन करी",
+      "nameHinglish": "mutton curry",
+      "aliases": ["mutton curry", "meat", "gosht", "mutton gravy", "mutton masala"],
+      "category": "nonVeg",
+      "subCategory": "meats",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Fat content depends on the cut of meat and oil used for gravy.",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 220,
+        "protein": 14.0,
+        "carbs": 5.0,
+        "fat": 10.0,
+        "fiber": 0.5,
+        "sugar": 1.0,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 katori (with 2 pieces)", "nameHi": "एक कटोरी (2 पीस)", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "Medium serving", "weightMinG": 250, "weightMaxG": 300},
+        {"name": "1 piece with gravy", "weightMinG": 90, "weightMaxG": 110}
+      ]
+    },
+    {
+      "id": "aloo_gobi",
+      "name": "Aloo Gobi",
+      "nameHi": "आलू गोभी",
+      "nameHinglish": "aloo gobi",
+      "aliases": ["aloo gobi", "cauliflower potato", "aloo phool gobi", "gobi aloo"],
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Dry sabzi, relatively consistent. Oil is the main variable.",
+      "per100g": {
+        "caloriesMin": 70,
+        "caloriesMax": 100,
+        "protein": 2.0,
+        "carbs": 9.0,
+        "fat": 4.0,
+        "fiber": 2.5,
+        "sugar": 2.0,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 120, "weightMaxG": 150},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "jeera_rice",
+      "name": "Jeera Rice",
+      "nameHi": "जीरा राइस",
+      "nameHinglish": "jeera rice",
+      "aliases": ["jeera rice", "zeera rice", "cumin rice", "jeera chawal"],
+      "category": "veg",
+      "subCategory": "rice_dish",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Fried in ghee/oil before or after cooking.",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 180,
+        "protein": 2.8,
+        "carbs": 29.0,
+        "fat": 3.0,
+        "fiber": 0.5,
+        "sugar": 0.0,
+        "sodium": 150
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 120, "weightMaxG": 150},
+        {"name": "½ plate", "nameHi": "आधी प्लेट", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "1 plate", "nameHi": "एक प्लेट", "weightMinG": 300, "weightMaxG": 350}
+      ]
+    },
+    {
+      "id": "bhindi_fry",
+      "name": "Bhindi Fry (Kurkuri Bhindi)",
+      "nameHi": "कुरकुरी भिंडी",
+      "nameHinglish": "bhindi fry",
+      "aliases": ["bhindi fry", "kurkuri bhindi", "crispy okra", "fried bhindi", "okra fry"],
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Deep fried or shallow fried with besan, greatly increases calories compared to regular sabzi.",
+      "per100g": {
+        "caloriesMin": 180,
+        "caloriesMax": 260,
+        "protein": 3.0,
+        "carbs": 12.0,
+        "fat": 15.0,
+        "fiber": 4.0,
+        "sugar": 1.5,
+        "sodium": 250
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 100, "weightMaxG": 130},
+        {"name": "½ katori", "nameHi": "आधी कटोरी", "weightMinG": 50, "weightMaxG": 65}
+      ]
+    },
+    {
+      "id": "chole_bhature",
+      "name": "Chole Bhature",
+      "nameHi": "छोले भटूरे",
+      "nameHinglish": "chole bhature",
+      "aliases": ["chole bhature", "channa bhatura", "bhature chole", "punjabi chole bhature"],
+      "category": "veg",
+      "subCategory": "heavy_meal",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "LOW",
+      "confidenceNote": "Bhatura oil absorption is highly variable. Often high in sodium.",
+      "per100g": {
+        "caloriesMin": 220,
+        "caloriesMax": 300,
+        "protein": 6.5,
+        "carbs": 28.0,
+        "fat": 12.0,
+        "fiber": 3.0,
+        "sugar": 2.0,
+        "sodium": 450
+      },
+      "portions": [
+        {"name": "1 plate (2 bhature + chole)", "nameHi": "एक प्लेट (2 भटूरे + छोले)", "weightMinG": 400, "weightMaxG": 500},
+        {"name": "1 bhatura with chole", "nameHi": "1 भटूरा छोले के साथ", "weightMinG": 250, "weightMaxG": 300},
+        {"name": "1 bhatura only", "nameHi": "सिर्फ 1 भटूरा", "weightMinG": 80, "weightMaxG": 120}
+      ]
+    }
+  ]
+}
