@@ -1,0 +1,682 @@
+{
+  "version": "1.0.0",
+  "category": "extended_part1",
+  "foods": [
+    {
+      "id": "pani_puri",
+      "name": "Pani Puri (Golgappa)",
+      "nameHi": "पानी पूरी (गोलगप्पा)",
+      "nameHinglish": "pani puri",
+      "aliases": ["pani puri", "golgappa", "puchka", "gupchup", "pani poori", "phuchka"],
+      "category": "snacks",
+      "subCategory": "street_food",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Calories depend on the amount of sweet chutney and potato/boondi filling.",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 200,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 5.0,
+        "fiber": 2.0,
+        "sugar": 4.0,
+        "sodium": 600
+      },
+      "portions": [
+        {"name": "1 plate (6 puris)", "nameHi": "एक प्लेट (6 पूरी)", "weightMinG": 120, "weightMaxG": 160},
+        {"name": "1 puri with water", "nameHi": "एक पानी पूरी", "weightMinG": 20, "weightMaxG": 25}
+      ]
+    },
+    {
+      "id": "vada_pav",
+      "name": "Vada Pav",
+      "nameHi": "वड़ा पाव",
+      "nameHinglish": "vada pav",
+      "aliases": ["vada pav", "wada pav", "bombay burger", "batata vada pav"],
+      "category": "snacks",
+      "subCategory": "street_food",
+      "isVegetarian": true,
+      "mealTypes": ["snack", "breakfast"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Deep fried vada and buttered pav make this calorie dense.",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 5.0,
+        "carbs": 35.0,
+        "fat": 12.0,
+        "fiber": 3.0,
+        "sugar": 3.0,
+        "sodium": 500
+      },
+      "portions": [
+        {"name": "1 Vada Pav", "nameHi": "एक वड़ा पाव", "weightMinG": 120, "weightMaxG": 150}
+      ]
+    },
+    {
+      "id": "pav_bhaji",
+      "name": "Pav Bhaji",
+      "nameHi": "पाव भाजी",
+      "nameHinglish": "pav bhaji",
+      "aliases": ["pav bhaji", "pao bhaji", "bhaji pav"],
+      "category": "snacks",
+      "subCategory": "street_food",
+      "isVegetarian": true,
+      "mealTypes": ["snack", "dinner"],
+      "confidenceLevel": "LOW",
+      "confidenceNote": "Butter quantity is highly variable. Street versions use excessive butter.",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 18.0,
+        "fat": 7.0,
+        "fiber": 3.0,
+        "sugar": 4.0,
+        "sodium": 400
+      },
+      "portions": [
+        {"name": "1 plate (2 pav + bhaji)", "nameHi": "एक प्लेट", "weightMinG": 300, "weightMaxG": 400},
+        {"name": "Bhaji only (1 katori)", "nameHi": "सिर्फ भाजी", "weightMinG": 150, "weightMaxG": 200},
+        {"name": "1 butter pav", "nameHi": "बटर पाव", "weightMinG": 40, "weightMaxG": 50}
+      ]
+    },
+    {
+      "id": "kathi_roll_chicken",
+      "name": "Chicken Kathi Roll",
+      "nameHi": "चिकन काठी रोल",
+      "nameHinglish": "chicken roll",
+      "aliases": ["kathi roll", "chicken roll", "frankie", "chicken frankie", "kolkata roll"],
+      "category": "snacks",
+      "subCategory": "street_food",
+      "isVegetarian": false,
+      "mealTypes": ["snack", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Paratha fried in oil/egg, plus sauces.",
+      "per100g": {
+        "caloriesMin": 220,
+        "caloriesMax": 280,
+        "protein": 12.0,
+        "carbs": 25.0,
+        "fat": 12.0,
+        "fiber": 2.0,
+        "sugar": 3.0,
+        "sodium": 550
+      },
+      "portions": [
+        {"name": "1 Roll", "nameHi": "एक रोल", "weightMinG": 180, "weightMaxG": 250}
+      ]
+    },
+    {
+      "id": "gulab_jamun",
+      "name": "Gulab Jamun",
+      "nameHi": "गुलाब जामुन",
+      "nameHinglish": "gulab jamun",
+      "aliases": ["gulab jamun", "jamun", "kala jamun"],
+      "category": "sweets",
+      "subCategory": "mithai",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Deep fried khoya soaked in sugar syrup.",
+      "per100g": {
+        "caloriesMin": 300,
+        "caloriesMax": 350,
+        "protein": 5.0,
+        "carbs": 50.0,
+        "fat": 12.0,
+        "fiber": 0.5,
+        "sugar": 40.0,
+        "sodium": 100
+      },
+      "portions": [
+        {"name": "1 piece (Standard)", "nameHi": "एक पीस", "weightMinG": 40, "weightMaxG": 60},
+        {"name": "2 pieces", "nameHi": "दो पीस", "weightMinG": 80, "weightMaxG": 120}
+      ]
+    },
+    {
+      "id": "rasgulla",
+      "name": "Rasgulla",
+      "nameHi": "रसगुल्ला",
+      "nameHinglish": "rasgulla",
+      "aliases": ["rasgulla", "roshogolla", "white rasgulla", "sponge rasgulla"],
+      "category": "sweets",
+      "subCategory": "mithai",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Chena balls boiled in sugar syrup. Lower fat than Gulab Jamun.",
+      "per100g": {
+        "caloriesMin": 180,
+        "caloriesMax": 220,
+        "protein": 4.0,
+        "carbs": 40.0,
+        "fat": 2.0,
+        "fiber": 0.0,
+        "sugar": 35.0,
+        "sodium": 30
+      },
+      "portions": [
+        {"name": "1 piece (Standard)", "nameHi": "एक पीस", "weightMinG": 40, "weightMaxG": 60},
+        {"name": "2 pieces", "nameHi": "दो पीस", "weightMinG": 80, "weightMaxG": 120}
+      ]
+    },
+    {
+      "id": "jalebi",
+      "name": "Jalebi",
+      "nameHi": "जलेबी",
+      "nameHinglish": "jalebi",
+      "aliases": ["jalebi", "imarti", "jilapi"],
+      "category": "sweets",
+      "subCategory": "mithai",
+      "isVegetarian": true,
+      "mealTypes": ["snack", "breakfast"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Deep fried maida soaked in sugar syrup.",
+      "per100g": {
+        "caloriesMin": 350,
+        "caloriesMax": 400,
+        "protein": 3.0,
+        "carbs": 65.0,
+        "fat": 10.0,
+        "fiber": 1.0,
+        "sugar": 45.0,
+        "sodium": 50
+      },
+      "portions": [
+        {"name": "100g", "nameHi": "100 ग्राम", "weightMinG": 95, "weightMaxG": 105},
+        {"name": "1 piece (Medium)", "nameHi": "एक पीस", "weightMinG": 20, "weightMaxG": 30}
+      ]
+    },
+    {
+      "id": "kaju_katli",
+      "name": "Kaju Katli",
+      "nameHi": "काजू कतली",
+      "nameHinglish": "kaju katli",
+      "aliases": ["kaju katli", "kaju barfi", "cashew barfi"],
+      "category": "sweets",
+      "subCategory": "mithai",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Cashew and sugar based.",
+      "per100g": {
+        "caloriesMin": 420,
+        "caloriesMax": 480,
+        "protein": 10.0,
+        "carbs": 48.0,
+        "fat": 25.0,
+        "fiber": 2.0,
+        "sugar": 35.0,
+        "sodium": 15
+      },
+      "portions": [
+        {"name": "1 piece", "nameHi": "एक पीस", "weightMinG": 15, "weightMaxG": 20},
+        {"name": "2 pieces", "nameHi": "दो पीस", "weightMinG": 30, "weightMaxG": 40}
+      ]
+    },
+    {
+      "id": "medu_vada",
+      "name": "Medu Vada",
+      "nameHi": "मेदू वड़ा",
+      "nameHinglish": "medu vada",
+      "aliases": ["medu vada", "urad dal vada", "sambar vada", "wada"],
+      "category": "southIndian",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Deep fried urad dal batter. Oil absorption varies.",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 28.0,
+        "fat": 15.0,
+        "fiber": 4.0,
+        "sugar": 1.0,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 piece", "nameHi": "एक वड़ा", "weightMinG": 40, "weightMaxG": 60},
+        {"name": "2 pieces", "nameHi": "दो वड़े", "weightMinG": 80, "weightMaxG": 120}
+      ]
+    },
+    {
+      "id": "uttapam",
+      "name": "Uttapam",
+      "nameHi": "उत्तपम",
+      "nameHinglish": "uttapam",
+      "aliases": ["uttapam", "onion uttapam", "tomato uttapam", "oothappam"],
+      "category": "southIndian",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Thick rice/dal pancake. Oil on tawa varies.",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 26.0,
+        "fat": 5.0,
+        "fiber": 2.0,
+        "sugar": 1.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 piece", "nameHi": "एक उत्तपम", "weightMinG": 120, "weightMaxG": 180}
+      ]
+    },
+    {
+      "id": "lemon_rice",
+      "name": "Lemon Rice",
+      "nameHi": "नींबू चावल",
+      "nameHinglish": "lemon rice",
+      "aliases": ["lemon rice", "chitranna", "nimmakaya pulihora"],
+      "category": "southIndian",
+      "subCategory": "rice_dish",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "breakfast"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Tempered with peanuts and oil.",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 190,
+        "protein": 3.5,
+        "carbs": 28.0,
+        "fat": 5.0,
+        "fiber": 1.0,
+        "sugar": 0.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 180},
+        {"name": "1 plate", "nameHi": "एक प्लेट", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    },
+    {
+      "id": "curd_rice",
+      "name": "Curd Rice",
+      "nameHi": "दही चावल",
+      "nameHinglish": "curd rice",
+      "aliases": ["curd rice", "thayir sadam", "daddojanam", "dahi chawal"],
+      "category": "southIndian",
+      "subCategory": "rice_dish",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Curd to rice ratio can vary slightly.",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 140,
+        "protein": 3.0,
+        "carbs": 16.0,
+        "fat": 3.5,
+        "fiber": 0.5,
+        "sugar": 2.0,
+        "sodium": 100
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "1 plate", "nameHi": "एक प्लेट", "weightMinG": 300, "weightMaxG": 350}
+      ]
+    },
+    {
+      "id": "rajma_chawal",
+      "name": "Rajma Chawal (Plate)",
+      "nameHi": "राजमा चावल",
+      "nameHinglish": "rajma chawal",
+      "aliases": ["rajma chawal", "kidney beans and rice"],
+      "category": "northIndian",
+      "subCategory": "heavy_meal",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Combined meal. Macros represent average mix.",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 160,
+        "protein": 4.5,
+        "carbs": 20.0,
+        "fat": 2.5,
+        "fiber": 2.0,
+        "sugar": 1.0,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 plate (Mixed)", "nameHi": "एक प्लेट", "weightMinG": 350, "weightMaxG": 450},
+        {"name": "½ plate", "nameHi": "आधी प्लेट", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "kadhi_pakora",
+      "name": "Kadhi Pakora",
+      "nameHi": "कढ़ी पकोड़ा",
+      "nameHinglish": "kadhi pakora",
+      "aliases": ["kadhi pakora", "punjabi kadhi", "curd curry"],
+      "category": "northIndian",
+      "subCategory": "curry",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Deep fried pakoras add fat to yogurt/besan curry.",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 150,
+        "protein": 4.0,
+        "carbs": 12.0,
+        "fat": 7.0,
+        "fiber": 1.5,
+        "sugar": 2.0,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 katori (with 2 pakoras)", "nameHi": "एक कटोरी (2 पकोड़े)", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    },
+    {
+      "id": "naan_butter",
+      "name": "Butter Naan",
+      "nameHi": "बटर नान",
+      "nameHinglish": "butter naan",
+      "aliases": ["butter naan", "naan", "garlic naan", "tandoori naan"],
+      "category": "northIndian",
+      "subCategory": "breads",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Maida flatbread with butter.",
+      "per100g": {
+        "caloriesMin": 300,
+        "caloriesMax": 330,
+        "protein": 8.0,
+        "carbs": 48.0,
+        "fat": 9.0,
+        "fiber": 2.0,
+        "sugar": 2.5,
+        "sodium": 350
+      },
+      "portions": [
+        {"name": "1 Naan", "nameHi": "एक नान", "weightMinG": 80, "weightMaxG": 110},
+        {"name": "1/2 Naan", "weightMinG": 40, "weightMaxG": 55}
+      ]
+    },
+    {
+      "id": "pakora_onion",
+      "name": "Onion Pakora (Bhajiya)",
+      "nameHi": "प्याज पकोड़ा (भजिया)",
+      "nameHinglish": "pyaz pakoda",
+      "aliases": ["pakora", "pakoda", "bhajiya", "kanda bhaji", "onion fritters"],
+      "category": "snacks",
+      "subCategory": "fried_snack",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Deep fried in oil.",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 320,
+        "protein": 5.0,
+        "carbs": 26.0,
+        "fat": 15.0,
+        "fiber": 3.0,
+        "sugar": 3.0,
+        "sodium": 400
+      },
+      "portions": [
+        {"name": "1 plate (5-6 pieces)", "nameHi": "एक प्लेट", "weightMinG": 100, "weightMaxG": 130},
+        {"name": "1 piece", "nameHi": "एक पीस", "weightMinG": 15, "weightMaxG": 25}
+      ]
+    },
+    {
+      "id": "aloo_bhujia",
+      "name": "Aloo Bhujia (Haldiram type)",
+      "nameHi": "आलू भुजिया",
+      "nameHinglish": "aloo bhujia",
+      "aliases": ["aloo bhujia", "bhujia", "namkeen", "sev"],
+      "category": "snacks",
+      "subCategory": "packaged_snack",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Packaged deep fried snack.",
+      "per100g": {
+        "caloriesMin": 540,
+        "caloriesMax": 580,
+        "protein": 9.0,
+        "carbs": 40.0,
+        "fat": 42.0,
+        "fiber": 2.0,
+        "sugar": 1.0,
+        "sodium": 750
+      },
+      "portions": [
+        {"name": "1 small bowl (katori)", "nameHi": "छोटी कटोरी", "weightMinG": 30, "weightMaxG": 40},
+        {"name": "100g pack", "weightMinG": 95, "weightMaxG": 105},
+        {"name": "1 tablespoon", "weightMinG": 10, "weightMaxG": 12}
+      ]
+    },
+    {
+      "id": "moong_dal_namkeen",
+      "name": "Fried Moong Dal (Namkeen)",
+      "nameHi": "मूंग दाल नमकीन",
+      "nameHinglish": "moong dal namkeen",
+      "aliases": ["moong dal namkeen", "fried moong dal", "salted moong dal"],
+      "category": "snacks",
+      "subCategory": "packaged_snack",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Deep fried salted lentils.",
+      "per100g": {
+        "caloriesMin": 440,
+        "caloriesMax": 480,
+        "protein": 18.0,
+        "carbs": 48.0,
+        "fat": 20.0,
+        "fiber": 6.0,
+        "sugar": 1.0,
+        "sodium": 650
+      },
+      "portions": [
+        {"name": "1 small bowl (katori)", "nameHi": "छोटी कटोरी", "weightMinG": 30, "weightMaxG": 40},
+        {"name": "100g pack", "weightMinG": 95, "weightMaxG": 105},
+        {"name": "1 tablespoon", "weightMinG": 10, "weightMaxG": 15}
+      ]
+    },
+    {
+      "id": "mutton_rogan_josh",
+      "name": "Mutton Rogan Josh",
+      "nameHi": "मटन रोगन जोश",
+      "nameHinglish": "mutton rogan josh",
+      "aliases": ["rogan josh", "kashmiri mutton curry", "mutton curry"],
+      "category": "nonVeg",
+      "subCategory": "meats",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil/ghee rich kashmiri curry.",
+      "per100g": {
+        "caloriesMin": 180,
+        "caloriesMax": 260,
+        "protein": 13.0,
+        "carbs": 4.0,
+        "fat": 15.0,
+        "fiber": 0.5,
+        "sugar": 1.0,
+        "sodium": 400
+      },
+      "portions": [
+        {"name": "1 katori (with 2 pieces)", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "Medium serving", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    },
+    {
+      "id": "palak_gosht",
+      "name": "Palak Gosht (Mutton with Spinach)",
+      "nameHi": "पालक गोश्त",
+      "nameHinglish": "palak gosht",
+      "aliases": ["palak gosht", "saag meat", "spinach mutton"],
+      "category": "nonVeg",
+      "subCategory": "meats",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Spinach dilutes calorie density slightly compared to pure meat curries.",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 12.0,
+        "carbs": 4.0,
+        "fat": 9.0,
+        "fiber": 1.5,
+        "sugar": 1.0,
+        "sodium": 350
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "Medium serving", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    },
+    {
+      "id": "prawn_curry",
+      "name": "Prawn Curry (Goan/Kerala style)",
+      "nameHi": "प्रॉन करी (झींगा)",
+      "nameHinglish": "prawn curry",
+      "aliases": ["prawn curry", "shrimp curry", "jhinga curry", "chemmeen curry"],
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Coconut milk adds fat and calories.",
+      "per100g": {
+        "caloriesMin": 140,
+        "caloriesMax": 190,
+        "protein": 12.0,
+        "carbs": 5.0,
+        "fat": 10.0,
+        "fiber": 0.5,
+        "sugar": 1.5,
+        "sodium": 380
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 160, "weightMaxG": 200},
+        {"name": "Medium serving", "weightMinG": 220, "weightMaxG": 280}
+      ]
+    },
+    {
+      "id": "chapati_plain",
+      "name": "Plain Chapati (No oil/ghee)",
+      "nameHi": "सादी चपाती (बिना घी)",
+      "nameHinglish": "chapati",
+      "aliases": ["chapati", "phulka", "plain roti", "dry roti"],
+      "category": "breads",
+      "subCategory": "roti",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner", "breakfast"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "No fat added after cooking.",
+      "per100g": {
+        "caloriesMin": 280,
+        "caloriesMax": 300,
+        "protein": 9.0,
+        "carbs": 58.0,
+        "fat": 2.0,
+        "fiber": 3.0,
+        "sugar": 0.5,
+        "sodium": 150
+      },
+      "portions": [
+        {"name": "1 chapati", "nameHi": "एक चपाती", "weightMinG": 25, "weightMaxG": 35},
+        {"name": "2 chapatis", "nameHi": "दो चपाती", "weightMinG": 50, "weightMaxG": 70},
+        {"name": "3 chapatis", "nameHi": "तीन चपाती", "weightMinG": 75, "weightMaxG": 105}
+      ]
+    },
+    {
+      "id": "bhakri_jowar",
+      "name": "Jowar Bhakri (Sorghum Roti)",
+      "nameHi": "ज्वार की भाकरी",
+      "nameHinglish": "jowar roti",
+      "aliases": ["jowar bhakri", "jowar roti", "sorghum flatbread", "jolada rotti"],
+      "category": "breads",
+      "subCategory": "roti",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Gluten-free millet flatbread.",
+      "per100g": {
+        "caloriesMin": 300,
+        "caloriesMax": 320,
+        "protein": 8.0,
+        "carbs": 65.0,
+        "fat": 2.5,
+        "fiber": 6.5,
+        "sugar": 1.0,
+        "sodium": 50
+      },
+      "portions": [
+        {"name": "1 bhakri (medium)", "nameHi": "एक भाकरी", "weightMinG": 50, "weightMaxG": 70},
+        {"name": "1 bhakri (large)", "weightMinG": 80, "weightMaxG": 100}
+      ]
+    },
+    {
+      "id": "bhakri_bajra",
+      "name": "Bajra Bhakri (Pearl Millet Roti)",
+      "nameHi": "बाजरे की रोटी",
+      "nameHinglish": "bajra roti",
+      "aliases": ["bajra roti", "bajra bhakri", "pearl millet flatbread", "sajje rotti"],
+      "category": "breads",
+      "subCategory": "roti",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Gluten-free millet flatbread.",
+      "per100g": {
+        "caloriesMin": 310,
+        "caloriesMax": 330,
+        "protein": 9.5,
+        "carbs": 60.0,
+        "fat": 4.5,
+        "fiber": 8.0,
+        "sugar": 1.0,
+        "sodium": 50
+      },
+      "portions": [
+        {"name": "1 bhakri (medium)", "nameHi": "एक भाकरी", "weightMinG": 50, "weightMaxG": 70},
+        {"name": "1 bhakri (large)", "weightMinG": 80, "weightMaxG": 100}
+      ]
+    },
+    {
+      "id": "ragi_mudde",
+      "name": "Ragi Mudde (Finger Millet Ball)",
+      "nameHi": "रागी मुड्डे",
+      "nameHinglish": "ragi mudde",
+      "aliases": ["ragi mudde", "ragi ball", "finger millet ball"],
+      "category": "southIndian",
+      "subCategory": "millet",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Cooked ragi flour ball.",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 150,
+        "protein": 3.0,
+        "carbs": 26.0,
+        "fat": 0.5,
+        "fiber": 4.0,
+        "sugar": 0.0,
+        "sodium": 10
+      },
+      "portions": [
+        {"name": "1 medium mudde", "nameHi": "एक मुड्डे", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "1 large mudde", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    }
+  ]
+}
