@@ -1,0 +1,664 @@
+{
+  "version": "1.0.0",
+  "source": "ICMR-NIN Nutritive Value of Indian Foods (approximate values)",
+  "lastUpdated": "2024-01",
+  "foods": [
+    {
+      "id": "rice_cooked",
+      "name": "Cooked Rice",
+      "nameHi": "पका हुआ चावल",
+      "nameHinglish": "chawal",
+      "aliases": ["rice", "chawal", "bhaat", "plain rice", "steamed rice", "chaawal", "चावल", "भात"],
+      "category": "grains",
+      "subCategory": "rice",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Standard ICMR values; varies slightly with rice variety",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 140,
+        "protein": 2.7,
+        "carbs": 28.0,
+        "fat": 0.3,
+        "fiber": 0.2,
+        "sugar": 0.0,
+        "sodium": 5
+      },
+      "portions": [
+        {"name": "½ plate", "nameHi": "आधी थाली", "weightMinG": 100, "weightMaxG": 130},
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 200, "weightMaxG": 280},
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 120, "weightMaxG": 150},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "Small", "weightMinG": 80, "weightMaxG": 120},
+        {"name": "Medium", "weightMinG": 150, "weightMaxG": 200},
+        {"name": "Large", "weightMinG": 250, "weightMaxG": 320}
+      ]
+    },
+    {
+      "id": "roti_wheat",
+      "name": "Wheat Roti",
+      "nameHi": "गेहूं की रोटी",
+      "nameHinglish": "roti",
+      "aliases": ["roti", "chapati", "chapatti", "phulka", "रोटी", "चपाती", "फुलका", "wheat roti", "atta roti"],
+      "category": "breads",
+      "subCategory": "roti",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Standard medium roti (~30g); oil added during cooking not counted here",
+      "per100g": {
+        "caloriesMin": 295,
+        "caloriesMax": 310,
+        "protein": 9.5,
+        "carbs": 56.0,
+        "fat": 4.0,
+        "fiber": 2.8,
+        "sugar": 0.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 roti", "nameHi": "एक रोटी", "weightMinG": 28, "weightMaxG": 35},
+        {"name": "2 rotis", "nameHi": "दो रोटी", "weightMinG": 56, "weightMaxG": 70},
+        {"name": "3 rotis", "nameHi": "तीन रोटी", "weightMinG": 84, "weightMaxG": 105},
+        {"name": "Small roti", "weightMinG": 20, "weightMaxG": 25},
+        {"name": "Large roti", "weightMinG": 40, "weightMaxG": 50}
+      ]
+    },
+    {
+      "id": "paratha_plain",
+      "name": "Plain Paratha",
+      "nameHi": "सादा पराठा",
+      "nameHinglish": "paratha",
+      "aliases": ["paratha", "parata", "plain paratha", "पराठा", "sada paratha", "tawa paratha"],
+      "category": "breads",
+      "subCategory": "paratha",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil/ghee quantity during cooking varies significantly",
+      "per100g": {
+        "caloriesMin": 300,
+        "caloriesMax": 370,
+        "protein": 7.0,
+        "carbs": 45.0,
+        "fat": 10.0,
+        "fiber": 2.5,
+        "sugar": 0.5,
+        "sodium": 220
+      },
+      "portions": [
+        {"name": "1 paratha", "nameHi": "एक पराठा", "weightMinG": 60, "weightMaxG": 80},
+        {"name": "2 parathas", "nameHi": "दो पराठे", "weightMinG": 120, "weightMaxG": 160},
+        {"name": "Small", "weightMinG": 45, "weightMaxG": 55},
+        {"name": "Large", "weightMinG": 90, "weightMaxG": 110}
+      ]
+    },
+    {
+      "id": "dal_toor",
+      "name": "Toor Dal (cooked)",
+      "nameHi": "तूर दाल",
+      "nameHinglish": "toor dal",
+      "aliases": ["toor dal", "arhar dal", "tur dal", "split pigeon pea", "तूर दाल", "अरहर दाल", "dal", "daal"],
+      "category": "legumes",
+      "subCategory": "dal",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Varies with water, ghee tadka, and cooking style",
+      "per100g": {
+        "caloriesMin": 85,
+        "caloriesMax": 120,
+        "protein": 5.5,
+        "carbs": 14.0,
+        "fat": 1.5,
+        "fiber": 2.0,
+        "sugar": 0.8,
+        "sodium": 150
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 180},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 200, "weightMaxG": 250},
+        {"name": "½ katori", "weightMinG": 75, "weightMaxG": 90},
+        {"name": "Large bowl", "weightMinG": 280, "weightMaxG": 350}
+      ]
+    },
+    {
+      "id": "dal_moong",
+      "name": "Moong Dal (cooked)",
+      "nameHi": "मूंग दाल",
+      "nameHinglish": "moong dal",
+      "aliases": ["moong dal", "mung dal", "yellow moong", "मूंग दाल", "green moong dal", "moong"],
+      "category": "legumes",
+      "subCategory": "dal",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Lighter than toor dal; varies with cooking method",
+      "per100g": {
+        "caloriesMin": 75,
+        "caloriesMax": 105,
+        "protein": 5.0,
+        "carbs": 12.0,
+        "fat": 0.8,
+        "fiber": 1.8,
+        "sugar": 0.5,
+        "sodium": 120
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 180},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 200, "weightMaxG": 250}
+      ]
+    },
+    {
+      "id": "rajma_cooked",
+      "name": "Rajma (cooked)",
+      "nameHi": "राजमा",
+      "nameHinglish": "rajma",
+      "aliases": ["rajma", "kidney beans", "red kidney beans", "राजमा", "rajmah", "rajma chawal"],
+      "category": "legumes",
+      "subCategory": "curry",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "With gravy; oil and tomato-onion base adds significant calories",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 160,
+        "protein": 6.5,
+        "carbs": 16.0,
+        "fat": 3.5,
+        "fiber": 4.0,
+        "sugar": 1.5,
+        "sodium": 250
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 160, "weightMaxG": 200},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 220, "weightMaxG": 280}
+      ]
+    },
+    {
+      "id": "chole_chickpea",
+      "name": "Chole (Chana Masala)",
+      "nameHi": "छोले",
+      "nameHinglish": "chole",
+      "aliases": ["chole", "chana masala", "chhole", "chickpea curry", "छोले", "चना मसाला", "chana", "kabuli chana"],
+      "category": "legumes",
+      "subCategory": "curry",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil and spice level varies significantly in homemade chole",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 170,
+        "protein": 6.0,
+        "carbs": 18.0,
+        "fat": 4.0,
+        "fiber": 4.5,
+        "sugar": 2.0,
+        "sodium": 280
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 160, "weightMaxG": 200},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 220, "weightMaxG": 280}
+      ]
+    },
+    {
+      "id": "chicken_curry",
+      "name": "Chicken Curry",
+      "nameHi": "चिकन करी",
+      "nameHinglish": "chicken curry",
+      "aliases": ["chicken curry", "chicken sabji", "chicken ki sabji", "murgi curry", "चिकन करी", "murga curry", "chicken gravy", "chicken masala"],
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Bone-in vs boneless, oil quantity, and gravy thickness vary significantly",
+      "per100g": {
+        "caloriesMin": 140,
+        "caloriesMax": 200,
+        "protein": 15.0,
+        "carbs": 4.0,
+        "fat": 8.0,
+        "fiber": 0.5,
+        "sugar": 1.0,
+        "sodium": 350
+      },
+      "portions": [
+        {"name": "1 piece", "nameHi": "एक टुकड़ा", "weightMinG": 80, "weightMaxG": 120},
+        {"name": "2 pieces", "nameHi": "दो टुकड़े", "weightMinG": 160, "weightMaxG": 240},
+        {"name": "3 pieces", "nameHi": "तीन टुकड़े", "weightMinG": 240, "weightMaxG": 360},
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "Medium serving", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "Large serving", "weightMinG": 280, "weightMaxG": 350}
+      ]
+    },
+    {
+      "id": "chicken_tikka",
+      "name": "Chicken Tikka",
+      "nameHi": "चिकन टिक्का",
+      "nameHinglish": "chicken tikka",
+      "aliases": ["chicken tikka", "tikka", "grilled chicken", "tandoori chicken", "चिकन टिक्का", "chicken tandoori"],
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner", "snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Marination and cooking method affect calorie content",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 210,
+        "protein": 22.0,
+        "carbs": 4.0,
+        "fat": 8.0,
+        "fiber": 0.3,
+        "sugar": 1.5,
+        "sodium": 400
+      },
+      "portions": [
+        {"name": "1 piece", "weightMinG": 60, "weightMaxG": 90},
+        {"name": "2 pieces", "weightMinG": 120, "weightMaxG": 180},
+        {"name": "4 pieces", "weightMinG": 240, "weightMaxG": 360},
+        {"name": "Starter portion", "weightMinG": 150, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "chicken_biryani",
+      "name": "Chicken Biryani",
+      "nameHi": "चिकन बिरयानी",
+      "nameHinglish": "chicken biryani",
+      "aliases": ["chicken biryani", "biryani", "dum biryani", "चिकन बिरयानी", "birayani", "biriyani"],
+      "category": "nonVeg",
+      "subCategory": "rice_dish",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil, ghee, and rice-to-chicken ratio vary greatly",
+      "per100g": {
+        "caloriesMin": 180,
+        "caloriesMax": 250,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 7.0,
+        "fiber": 0.5,
+        "sugar": 1.0,
+        "sodium": 400
+      },
+      "portions": [
+        {"name": "½ plate", "weightMinG": 200, "weightMaxG": 250},
+        {"name": "1 plate", "weightMinG": 350, "weightMaxG": 450},
+        {"name": "1 bowl", "weightMinG": 250, "weightMaxG": 320}
+      ]
+    },
+    {
+      "id": "egg_bhurji",
+      "name": "Anda Bhurji (Egg Scramble)",
+      "nameHi": "अंडा भुर्जी",
+      "nameHinglish": "anda bhurji",
+      "aliases": ["anda bhurji", "egg bhurji", "scrambled eggs", "अंडा भुर्जी", "egg masala", "anda masala", "egg scramble"],
+      "category": "nonVeg",
+      "subCategory": "eggs",
+      "isVegetarian": false,
+      "mealTypes": ["breakfast", "lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil and onion-tomato quantity varies",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 220,
+        "protein": 12.0,
+        "carbs": 4.0,
+        "fat": 12.0,
+        "fiber": 0.5,
+        "sugar": 1.5,
+        "sodium": 280
+      },
+      "portions": [
+        {"name": "2 eggs (bhurji)", "nameHi": "दो अंडे", "weightMinG": 120, "weightMaxG": 160},
+        {"name": "3 eggs (bhurji)", "nameHi": "तीन अंडे", "weightMinG": 180, "weightMaxG": 240},
+        {"name": "1 egg (bhurji)", "nameHi": "एक अंडा", "weightMinG": 60, "weightMaxG": 80}
+      ]
+    },
+    {
+      "id": "egg_boiled",
+      "name": "Boiled Egg",
+      "nameHi": "उबला अंडा",
+      "nameHinglish": "ubla anda",
+      "aliases": ["boiled egg", "ubla anda", "ubla hua anda", "उबला अंडा", "hard boiled egg", "anda"],
+      "category": "nonVeg",
+      "subCategory": "eggs",
+      "isVegetarian": false,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Very consistent nutritional value",
+      "per100g": {
+        "caloriesMin": 143,
+        "caloriesMax": 155,
+        "protein": 13.0,
+        "carbs": 1.1,
+        "fat": 9.5,
+        "fiber": 0.0,
+        "sugar": 1.1,
+        "sodium": 142
+      },
+      "portions": [
+        {"name": "1 egg", "nameHi": "एक अंडा", "weightMinG": 50, "weightMaxG": 60},
+        {"name": "2 eggs", "nameHi": "दो अंडे", "weightMinG": 100, "weightMaxG": 120},
+        {"name": "3 eggs", "nameHi": "तीन अंडे", "weightMinG": 150, "weightMaxG": 180}
+      ]
+    },
+    {
+      "id": "egg_curry",
+      "name": "Egg Curry",
+      "nameHi": "अंडा करी",
+      "nameHinglish": "anda curry",
+      "aliases": ["egg curry", "anda curry", "anda gravy", "अंडा करी", "अंडा ग्रेवी", "egg masala curry"],
+      "category": "nonVeg",
+      "subCategory": "eggs",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Gravy and oil quantity vary; 2 eggs per serving typical",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 175,
+        "protein": 9.0,
+        "carbs": 6.0,
+        "fat": 8.0,
+        "fiber": 0.5,
+        "sugar": 2.0,
+        "sodium": 320
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220},
+        {"name": "2 eggs curry", "nameHi": "दो अंडे करी", "weightMinG": 200, "weightMaxG": 250}
+      ]
+    },
+    {
+      "id": "paneer_butter_masala",
+      "name": "Paneer Butter Masala",
+      "nameHi": "पनीर बटर मसाला",
+      "nameHinglish": "paneer butter masala",
+      "aliases": ["paneer butter masala", "pbm", "paneer makhani", "butter paneer", "पनीर बटर मसाला", "paneer"],
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Cream and butter quantity vary significantly; restaurant versions much higher",
+      "per100g": {
+        "caloriesMin": 180,
+        "caloriesMax": 280,
+        "protein": 9.0,
+        "carbs": 8.0,
+        "fat": 14.0,
+        "fiber": 1.0,
+        "sugar": 3.0,
+        "sodium": 380
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 160, "weightMaxG": 200},
+        {"name": "Medium serving", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "palak_paneer",
+      "name": "Palak Paneer",
+      "nameHi": "पालक पनीर",
+      "nameHinglish": "palak paneer",
+      "aliases": ["palak paneer", "spinach paneer", "palak ki sabji", "पालक पनीर", "saag paneer"],
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Cream/ghee quantity varies",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 190,
+        "protein": 8.0,
+        "carbs": 6.0,
+        "fat": 8.0,
+        "fiber": 2.5,
+        "sugar": 1.5,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 160, "weightMaxG": 200},
+        {"name": "Medium serving", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "paneer_raw",
+      "name": "Paneer (raw)",
+      "nameHi": "पनीर",
+      "nameHinglish": "paneer",
+      "aliases": ["paneer", "cottage cheese", "पनीर", "fresh paneer", "homemade paneer"],
+      "category": "dairy",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Based on full-fat paneer",
+      "per100g": {
+        "caloriesMin": 260,
+        "caloriesMax": 280,
+        "protein": 18.3,
+        "carbs": 1.2,
+        "fat": 20.8,
+        "fiber": 0.0,
+        "sugar": 1.2,
+        "sodium": 30
+      },
+      "portions": [
+        {"name": "50g piece", "weightMinG": 45, "weightMaxG": 55},
+        {"name": "100g", "weightMinG": 95, "weightMaxG": 105},
+        {"name": "1 small cube", "weightMinG": 20, "weightMaxG": 30}
+      ]
+    },
+    {
+      "id": "idli",
+      "name": "Idli",
+      "nameHi": "इडली",
+      "nameHinglish": "idli",
+      "aliases": ["idli", "idly", "इडली", "steamed idli", "rice idli"],
+      "category": "southIndian",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Standard medium idli; accompaniments add more calories",
+      "per100g": {
+        "caloriesMin": 140,
+        "caloriesMax": 160,
+        "protein": 4.0,
+        "carbs": 30.0,
+        "fat": 0.5,
+        "fiber": 1.2,
+        "sugar": 0.5,
+        "sodium": 180
+      },
+      "portions": [
+        {"name": "1 idli", "nameHi": "एक इडली", "weightMinG": 50, "weightMaxG": 65},
+        {"name": "2 idlis", "nameHi": "दो इडली", "weightMinG": 100, "weightMaxG": 130},
+        {"name": "3 idlis", "nameHi": "तीन इडली", "weightMinG": 150, "weightMaxG": 195},
+        {"name": "4 idlis", "nameHi": "चार इडली", "weightMinG": 200, "weightMaxG": 260}
+      ]
+    },
+    {
+      "id": "dosa_plain",
+      "name": "Plain Dosa",
+      "nameHi": "सादा डोसा",
+      "nameHinglish": "dosa",
+      "aliases": ["dosa", "plain dosa", "sada dosa", "डोसा", "dosai", "dose"],
+      "category": "southIndian",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil used on tawa varies significantly",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 190,
+        "protein": 3.5,
+        "carbs": 27.0,
+        "fat": 2.5,
+        "fiber": 1.0,
+        "sugar": 0.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 dosa", "nameHi": "एक डोसा", "weightMinG": 80, "weightMaxG": 120},
+        {"name": "1 large dosa", "weightMinG": 130, "weightMaxG": 170}
+      ]
+    },
+    {
+      "id": "masala_dosa",
+      "name": "Masala Dosa",
+      "nameHi": "मसाला डोसा",
+      "nameHinglish": "masala dosa",
+      "aliases": ["masala dosa", "potato dosa", "masala dosai", "मसाला डोसा"],
+      "category": "southIndian",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Potato filling and oil on tawa vary",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 230,
+        "protein": 4.0,
+        "carbs": 32.0,
+        "fat": 5.0,
+        "fiber": 1.5,
+        "sugar": 1.0,
+        "sodium": 280
+      },
+      "portions": [
+        {"name": "1 masala dosa", "nameHi": "एक मसाला डोसा", "weightMinG": 150, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "poha",
+      "name": "Poha",
+      "nameHi": "पोहा",
+      "nameHinglish": "poha",
+      "aliases": ["poha", "pohe", "batata poha", "पोहा", "aloo poha", "poha chivda", "flattened rice"],
+      "category": "breakfast",
+      "subCategory": "indian_breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil and potato quantity varies",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 180,
+        "protein": 2.5,
+        "carbs": 28.0,
+        "fat": 3.0,
+        "fiber": 1.0,
+        "sugar": 1.0,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 200, "weightMaxG": 260},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 150, "weightMaxG": 200},
+        {"name": "½ plate", "weightMinG": 100, "weightMaxG": 130}
+      ]
+    },
+    {
+      "id": "upma",
+      "name": "Upma",
+      "nameHi": "उपमा",
+      "nameHinglish": "upma",
+      "aliases": ["upma", "rava upma", "suji upma", "उपमा", "semolina upma"],
+      "category": "breakfast",
+      "subCategory": "indian_breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Ghee/oil quantity and vegetables vary",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 160,
+        "protein": 3.0,
+        "carbs": 22.0,
+        "fat": 3.5,
+        "fiber": 1.5,
+        "sugar": 1.0,
+        "sodium": 220
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 200, "weightMaxG": 260},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 150, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "khichdi",
+      "name": "Khichdi",
+      "nameHi": "खिचड़ी",
+      "nameHinglish": "khichdi",
+      "aliases": ["khichdi", "khichri", "kitchari", "खिचड़ी", "dal khichdi", "moong khichdi"],
+      "category": "grains",
+      "subCategory": "rice_dish",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Dal and rice ratio, ghee quantity vary",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 140,
+        "protein": 3.5,
+        "carbs": 18.0,
+        "fat": 2.0,
+        "fiber": 1.5,
+        "sugar": 0.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 250, "weightMaxG": 320},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "aloo_sabji",
+      "name": "Aloo Sabji",
+      "nameHi": "आलू की सब्जी",
+      "nameHinglish": "aloo sabji",
+      "aliases": ["aloo sabji", "potato curry", "aloo bhaji", "आलू की सब्जी", "aloo masala", "potato sabzi"],
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil quantity and cooking style vary significantly",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 140,
+        "protein": 2.0,
+        "carbs": 18.0,
+        "fat": 3.0,
+        "fiber": 1.8,
+        "sugar": 1.0,
+        "sodium": 250
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 200},
+        {"name": "½ katori", "weightMinG": 75, "weightMaxG": 100}
+      ]
+    },
+    {
+      "id": "baingan_bharta",
+      "name": "Baingan Bharta",
+      "nameHi": "बैंगन भर्ता",
+      "nameHinglish": "baingan bharta",
+      "aliases": ["baingan bharta", "brinjal bharta", "eggplant masala", "बैंगन भर्ता", "baigan bharta", "smoky eggplant"],
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 75,
+        "caloriesMax": 120,
