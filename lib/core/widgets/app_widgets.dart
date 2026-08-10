@@ -562,3 +562,566 @@ class InsightCard extends StatelessWidget {
         break;
       case InsightType.suggestion:
         bgColor = AppColors.secondaryContainer;
+        break;
+      case InsightType.warning:
+        bgColor = AppColors.error.withOpacity(0.1);
+        break;
+      default:
+        bgColor = AppColors.surfaceVariant;
+    }
+
+    return Container(
+      padding: const EdgeInsets.all(14),
+      decoration: BoxDecoration(
+        color: bgColor,
+        borderRadius: BorderRadius.circular(AppRadius.lg),
+      ),
+      child: Row(
+        children: [
+          Text(insight.emoji, style: const TextStyle(fontSize: 22)),
+          const SizedBox(width: 12),
+          Expanded(
+            child: Text(
+              insight.message,
+              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                    color: AppColors.textPrimary,
+                    fontWeight: FontWeight.w500,
+                  ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+// ─── Empty State ────────────────────────────────────────────────────────────
+
+class EmptyState extends StatelessWidget {
+  final String emoji;
+  final String title;
+  final String subtitle;
+  final String? actionLabel;
+  final VoidCallback? onAction;
+
+  const EmptyState({
+    super.key,
+    required this.emoji,
+    required this.title,
+    required this.subtitle,
+    this.actionLabel,
+    this.onAction,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      child: Padding(
+        padding: const EdgeInsets.all(AppSpacing.xxxl),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(emoji, style: const TextStyle(fontSize: 56)),
+            const SizedBox(height: AppSpacing.lg),
+            Text(
+              title,
+              style: Theme.of(context).textTheme.headlineSmall,
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: AppSpacing.sm),
+            Text(
+              subtitle,
+              style: Theme.of(context).textTheme.bodyMedium,
+              textAlign: TextAlign.center,
+            ),
+            if (actionLabel != null && onAction != null) ...[
+              const SizedBox(height: AppSpacing.xxl),
+              ElevatedButton(
+                onPressed: onAction,
+                child: Text(actionLabel!),
+              ),
+            ],
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+// ─── Section Header ─────────────────────────────────────────────────────────
+
+class SectionHeader extends StatelessWidget {
+  final String title;
+  final String? subtitle;
+  final Widget? trailing;
+
+  const SectionHeader({
+    super.key,
+    required this.title,
+    this.subtitle,
+    this.trailing,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: [
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(title, style: Theme.of(context).textTheme.headlineSmall),
+              if (subtitle != null) ...[
+                const SizedBox(height: 2),
+                Text(subtitle!, style: Theme.of(context).textTheme.bodyMedium),
+              ],
+            ],
+          ),
+        ),
+        if (trailing != null) trailing!,
+      ],
+    );
+  }
+}
+
+// ─── Portion Selector ───────────────────────────────────────────────────────
+
+class PortionSelectorBottomSheet extends StatefulWidget {
+  final FoodItem food;
+  final Function(PortionSize portion, double quantity) onConfirm;
+
+  const PortionSelectorBottomSheet({
+    super.key,
+    required this.food,
+    required this.onConfirm,
+  });
+
+  @override
+  State<PortionSelectorBottomSheet> createState() =>
+      _PortionSelectorBottomSheetState();
+}
+
+class _PortionSelectorBottomSheetState
+    extends State<PortionSelectorBottomSheet> {
+  PortionSize? _selectedPortion;
+  double _quantity = 1.0;
+
+  @override
+  void initState() {
+    super.initState();
+    if (widget.food.portions.isNotEmpty) {
+      _selectedPortion = widget.food.portions.first;
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final portions = widget.food.portions;
+    final calc = NutritionCalculator();
+
+    NutritionRange? preview;
+    if (_selectedPortion != null) {
+      preview = calc.calculateForPortion(
+        food: widget.food,
+        portion: _selectedPortion!,
+        quantity: _quantity,
+      );
+    }
+
+    return Container(
+      padding: const EdgeInsets.all(AppSpacing.xxl),
+      decoration: const BoxDecoration(
+        color: AppColors.surface,
+        borderRadius: BorderRadius.vertical(top: Radius.circular(24)),
+      ),
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Handle
+          Center(
+            child: Container(
+              width: 36,
+              height: 4,
+              decoration: BoxDecoration(
+                color: AppColors.textTertiary.withOpacity(0.3),
+                borderRadius: BorderRadius.circular(2),
+              ),
+            ),
+          ),
+          const SizedBox(height: 16),
+
+          Text(widget.food.name, style: Theme.of(context).textTheme.headlineMedium),
+          if (widget.food.nameHi != null)
+            Text(widget.food.nameHi!, style: Theme.of(context).textTheme.bodyMedium),
+
+          const SizedBox(height: 20),
+
+          // Quantity selector
+          Row(
+            children: [
+              Text('Quantity:', style: Theme.of(context).textTheme.titleSmall),
+              const SizedBox(width: 12),
+              _QuantityButton(
+                icon: Icons.remove,
+                onTap: _quantity > 0.5
+                    ? () => setState(() => _quantity = (_quantity - 0.5).clamp(0.5, 10))
+                    : null,
+              ),
+              const SizedBox(width: 12),
+              Text(
+                _quantity % 1 == 0
+                    ? _quantity.toInt().toString()
+                    : _quantity.toStringAsFixed(1),
+                style: Theme.of(context).textTheme.titleLarge?.copyWith(
+                      fontWeight: FontWeight.w800,
+                    ),
+              ),
+              const SizedBox(width: 12),
+              _QuantityButton(
+                icon: Icons.add,
+                onTap: _quantity < 10
+                    ? () => setState(() => _quantity += 0.5)
+                    : null,
+              ),
+            ],
+          ),
+
+          const SizedBox(height: 16),
+          Text('Portion size:', style: Theme.of(context).textTheme.titleSmall),
+          const SizedBox(height: 10),
+
+          // Portion chips
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: portions.map((portion) {
+              final isSelected = _selectedPortion?.name == portion.name;
+              return GestureDetector(
+                onTap: () => setState(() => _selectedPortion = portion),
+                child: AnimatedContainer(
+                  duration: const Duration(milliseconds: 200),
+                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: isSelected ? AppColors.primary : AppColors.surfaceVariant,
+                    borderRadius: BorderRadius.circular(AppRadius.full),
+                    border: Border.all(
+                      color: isSelected ? AppColors.primary : Colors.transparent,
+                    ),
+                  ),
+                  child: Column(
+                    children: [
+                      Text(
+                        portion.name,
+                        style: TextStyle(
+                          color: isSelected ? Colors.white : AppColors.textPrimary,
+                          fontWeight: FontWeight.w600,
+                          fontSize: 13,
+                        ),
+                      ),
+                      Text(
+                        '~${portion.weightMinG.round()}–${portion.weightMaxG.round()}g',
+                        style: TextStyle(
+                          color: isSelected
+                              ? Colors.white.withOpacity(0.8)
+                              : AppColors.textTertiary,
+                          fontSize: 10,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              );
+            }).toList(),
+          ),
+
+          const SizedBox(height: 20),
+
+          // Nutrition preview
+          if (preview != null)
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: AppColors.calorieColor.withOpacity(0.08),
+                borderRadius: BorderRadius.circular(AppRadius.md),
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: [
+                  _PreviewMacro(
+                      emoji: '🔥',
+                      label: 'kcal',
+                      value:
+                          '~${preview.caloriesMin.round()}–${preview.caloriesMax.round()}'),
+                  _PreviewMacro(
+                      emoji: '🥩',
+                      label: 'protein',
+                      value: '${preview.protein.toStringAsFixed(1)}g'),
+                  _PreviewMacro(
+                      emoji: '🍚',
+                      label: 'carbs',
+                      value: '${preview.carbs.toStringAsFixed(1)}g'),
+                  _PreviewMacro(
+                      emoji: '🥑',
+                      label: 'fat',
+                      value: '${preview.fat.toStringAsFixed(1)}g'),
+                ],
+              ),
+            ),
+
+          const SizedBox(height: 20),
+
+          SizedBox(
+            width: double.infinity,
+            child: ElevatedButton.icon(
+              onPressed: _selectedPortion != null
+                  ? () {
+                      widget.onConfirm(_selectedPortion!, _quantity);
+                      Navigator.pop(context);
+                    }
+                  : null,
+              icon: const Icon(Icons.add_circle_outline_rounded),
+              label: const Text('Add to Meal Log'),
+            ),
+          ),
+          const SizedBox(height: 8),
+        ],
+      ),
+    );
+  }
+}
+
+class _QuantityButton extends StatelessWidget {
+  final IconData icon;
+  final VoidCallback? onTap;
+
+  const _QuantityButton({required this.icon, this.onTap});
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        width: 32,
+        height: 32,
+        decoration: BoxDecoration(
+          color: onTap != null
+              ? AppColors.primaryContainer
+              : AppColors.surfaceVariant,
+          shape: BoxShape.circle,
+        ),
+        child: Icon(
+          icon,
+          size: 18,
+          color: onTap != null ? AppColors.primary : AppColors.textTertiary,
+        ),
+      ),
+    );
+  }
+}
+
+class _PreviewMacro extends StatelessWidget {
+  final String emoji;
+  final String label;
+  final String value;
+
+  const _PreviewMacro({
+    required this.emoji,
+    required this.label,
+    required this.value,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      children: [
+        Text(emoji, style: const TextStyle(fontSize: 16)),
+        Text(
+          value,
+          style: const TextStyle(
+            fontWeight: FontWeight.w700,
+            fontSize: 12,
+            color: AppColors.textPrimary,
+          ),
+        ),
+        Text(
+          label,
+          style: const TextStyle(fontSize: 10, color: AppColors.textTertiary),
+        ),
+      ],
+    );
+  }
+}
+
+// ─── Recommendation Card ────────────────────────────────────────────────────
+
+class RecommendationCard extends StatelessWidget {
+  final MealRecommendation recommendation;
+  final VoidCallback? onTap;
+
+  const RecommendationCard({
+    super.key,
+    required this.recommendation,
+    this.onTap,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final n = recommendation.estimatedNutrition;
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        margin: const EdgeInsets.only(bottom: 10),
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [
+              AppColors.primary.withOpacity(0.06),
+              AppColors.primaryLight.withOpacity(0.04),
+            ],
+          ),
+          borderRadius: BorderRadius.circular(AppRadius.lg),
+          border: Border.all(
+            color: AppColors.primary.withOpacity(0.15),
+          ),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              recommendation.title,
+              style: Theme.of(context).textTheme.titleMedium,
+            ),
+            const SizedBox(height: 4),
+            Text(
+              recommendation.reasoning,
+              style: Theme.of(context)
+                  .textTheme
+                  .bodySmall
+                  ?.copyWith(color: AppColors.textTertiary),
+            ),
+            const SizedBox(height: 10),
+            Row(
+              children: [
+                _TagChip(
+                  text: '🔥 ~${n.caloriesMin.round()}–${n.caloriesMax.round()} kcal',
+                  color: AppColors.calorieColor,
+                ),
+                const SizedBox(width: 6),
+                _TagChip(
+                  text: '🥩 ${n.protein.toStringAsFixed(0)}g protein',
+                  color: AppColors.proteinColor,
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _TagChip extends StatelessWidget {
+  final String text;
+  final Color color;
+
+  const _TagChip({required this.text, required this.color});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+      decoration: BoxDecoration(
+        color: color.withOpacity(0.12),
+        borderRadius: BorderRadius.circular(AppRadius.full),
+      ),
+      child: Text(
+        text,
+        style: TextStyle(
+          fontSize: 11,
+          fontWeight: FontWeight.w600,
+          color: color,
+        ),
+      ),
+    );
+  }
+}
+
+// ─── BMI Gauge ──────────────────────────────────────────────────────────────
+
+class BMIGauge extends StatelessWidget {
+  final double bmi;
+  final BMICategory category;
+
+  const BMIGauge({super.key, required this.bmi, required this.category});
+
+  @override
+  Widget build(BuildContext context) {
+    Color color;
+    switch (category) {
+      case BMICategory.underweight:
+        color = AppColors.info;
+        break;
+      case BMICategory.normal:
+        color = AppColors.success;
+        break;
+      case BMICategory.overweight:
+        color = AppColors.warning;
+        break;
+      default:
+        color = AppColors.error;
+    }
+
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: color.withOpacity(0.08),
+        borderRadius: BorderRadius.circular(AppRadius.xl),
+        border: Border.all(color: color.withOpacity(0.2)),
+      ),
+      child: Column(
+        children: [
+          Text(
+            '⚖️ Your BMI',
+            style: Theme.of(context).textTheme.titleSmall,
+          ),
+          const SizedBox(height: 8),
+          Text(
+            bmi.toStringAsFixed(1),
+            style: Theme.of(context).textTheme.displayMedium?.copyWith(
+                  color: color,
+                  fontWeight: FontWeight.w800,
+                ),
+          ),
+          const SizedBox(height: 4),
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+            decoration: BoxDecoration(
+              color: color,
+              borderRadius: BorderRadius.circular(AppRadius.full),
+            ),
+            child: Text(
+              '${category.emoji} ${category.label}',
+              style: const TextStyle(
+                color: Colors.white,
+                fontWeight: FontWeight.w700,
+                fontSize: 13,
+              ),
+            ),
+          ),
+          const SizedBox(height: 10),
+          const Text(
+            '* BMI is a general screening measure, not a complete health indicator.',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 10,
+              color: AppColors.textTertiary,
+              fontStyle: FontStyle.italic,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
