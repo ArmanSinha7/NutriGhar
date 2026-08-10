@@ -1,0 +1,635 @@
+{
+  "foods": [
+    {
+      "id": "bb841537-9e96-48fc-a9fd-6ea2b53427c0",
+      "name": "Dal Makhani",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 148,
+        "protein": 4.540154684205492,
+        "carbs": 8.582532024359042,
+        "fat": 4.834217567238626,
+        "fiber": 1.8197438871017462
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "dal makhani",
+        "DalMakhani"
+      ]
+    },
+    {
+      "id": "82419e9b-bc91-4865-8b91-7cccf2ba6c35",
+      "name": "Dal Makhani (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 180,
+        "protein": 5.056742946441301,
+        "carbs": 14.514749201526634,
+        "fat": 8.203128724633917,
+        "fiber": 2.6748599986950388
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (punjabi)"
+      ]
+    },
+    {
+      "id": "de967a0c-e072-442c-a974-4e764fc397db",
+      "name": "Dal Makhani (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 173,
+        "protein": 10.5827034519451,
+        "carbs": 5.218713577269865,
+        "fat": 11.449320384473069,
+        "fiber": 3.084820445063708
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (south indian style)"
+      ]
+    },
+    {
+      "id": "c419cf24-7040-4771-8d55-134154eeb4e5",
+      "name": "Dal Makhani (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 154,
+        "protein": 9.62534373557937,
+        "carbs": 13.336741305986187,
+        "fat": 6.5448140521452896,
+        "fiber": 2.8398913261313834
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (bengali style)"
+      ]
+    },
+    {
+      "id": "f4962f31-539e-4c63-95b5-e62661822e62",
+      "name": "Dal Makhani (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 179,
+        "protein": 9.396315546729884,
+        "carbs": 9.599971668330236,
+        "fat": 5.541739898168958,
+        "fiber": 4.059624200130342
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "673eed82-ed23-48d6-9e18-6adc1d153c7b",
+      "name": "Dal Makhani (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 190,
+        "protein": 10.903627188019582,
+        "carbs": 11.435223095610942,
+        "fat": 7.6565383332743675,
+        "fiber": 2.4725016628043917
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (gujarati style)"
+      ]
+    },
+    {
+      "id": "cff90938-3693-4168-bec2-341bc495789c",
+      "name": "Dal Makhani (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122,
+        "caloriesMax": 167,
+        "protein": 6.730513504491519,
+        "carbs": 13.633745906083883,
+        "fat": 14.430775818401564,
+        "fiber": 1.442583485138389
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (rajasthani)"
+      ]
+    },
+    {
+      "id": "b6b60acb-27b5-4002-adcc-36052739e73a",
+      "name": "Dal Makhani (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 180,
+        "protein": 6.189696402777871,
+        "carbs": 10.880931542830293,
+        "fat": 7.5484574407503455,
+        "fiber": 4.7369074837646625
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (home-style)"
+      ]
+    },
+    {
+      "id": "5809a867-e51a-4025-9cdc-11c964c30ff2",
+      "name": "Dal Makhani (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.9709190728478587,
+        "carbs": 13.06758032846561,
+        "fat": 9.64720785771772,
+        "fiber": 4.850514734862279
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (dhaba style)"
+      ]
+    },
+    {
+      "id": "ecfc7bd1-6e17-493f-a88b-eff16bf6e9ac",
+      "name": "Dal Makhani (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92,
+        "caloriesMax": 189,
+        "protein": 10.91335834946046,
+        "carbs": 7.784467623294353,
+        "fat": 9.862623796092073,
+        "fiber": 4.2447192972426215
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal makhani (restaurant style)"
+      ]
+    },
+    {
+      "id": "3324715c-b8b9-4278-af86-9d30dcb8f1d9",
+      "name": "Dal Tadka",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80,
+        "caloriesMax": 179,
+        "protein": 9.208511438238013,
+        "carbs": 7.726106464216727,
+        "fat": 7.328433747707351,
+        "fiber": 3.02074242861941
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "dal tadka",
+        "DalTadka"
+      ]
+    },
+    {
+      "id": "262a8979-1466-4906-91df-4c4629f163a0",
+      "name": "Dal Tadka (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 158,
+        "protein": 6.715595497647472,
+        "carbs": 5.870656376603128,
+        "fat": 4.274162738741391,
+        "fiber": 2.0256726369936793
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (punjabi)"
+      ]
+    },
+    {
+      "id": "51d88e5c-e6df-44a3-85e7-8bb537335ae7",
+      "name": "Dal Tadka (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 186,
+        "protein": 3.303232465592674,
+        "carbs": 11.613013928206353,
+        "fat": 13.904457994122687,
+        "fiber": 3.3101289708106925
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (south indian style)"
+      ]
+    },
+    {
+      "id": "fdf00605-41a7-4c9b-a741-c2ad2da5c1e8",
+      "name": "Dal Tadka (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 181,
+        "protein": 10.117588237901078,
+        "carbs": 9.956026822601489,
+        "fat": 4.706843674626375,
+        "fiber": 2.409452740677949
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (bengali style)"
+      ]
+    },
+    {
+      "id": "3065c331-20a7-4c5a-b722-471404d156c5",
+      "name": "Dal Tadka (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 140,
+        "protein": 11.467013567221205,
+        "carbs": 7.081381364914302,
+        "fat": 5.798383574766307,
+        "fiber": 3.1656370696769494
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "3e61d8cf-d41c-4032-aad0-d0287710a33e",
+      "name": "Dal Tadka (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 195,
+        "protein": 10.078465827230904,
+        "carbs": 7.272999500636095,
+        "fat": 9.401798155024629,
+        "fiber": 4.987775866744907
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (gujarati style)"
+      ]
+    },
+    {
+      "id": "fab86a49-4504-4cd9-a943-e4e050666ac1",
+      "name": "Dal Tadka (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 157,
+        "protein": 11.599066804633585,
+        "carbs": 7.235788167228115,
+        "fat": 10.70252128355223,
+        "fiber": 4.44302895713947
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (rajasthani)"
+      ]
+    },
+    {
+      "id": "7bccb9a1-83e1-48e7-bfab-090186fe6a7e",
+      "name": "Dal Tadka (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 190,
+        "protein": 11.000605374057898,
+        "carbs": 13.700594150932377,
+        "fat": 4.011031695858236,
+        "fiber": 3.9160682593164715
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (home-style)"
+      ]
+    },
+    {
+      "id": "e3192e2e-1ed6-4158-acc1-55093d88bcda",
+      "name": "Dal Tadka (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 171,
+        "protein": 10.403190117274313,
+        "carbs": 6.741741768214629,
+        "fat": 12.42192080332653,
+        "fiber": 1.0112915103607252
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (dhaba style)"
+      ]
+    },
+    {
+      "id": "1eb55c70-7f05-408d-aebd-16350965576d",
+      "name": "Dal Tadka (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 192,
+        "protein": 4.176059159961756,
+        "carbs": 11.68244386948593,
+        "fat": 10.946121613693034,
+        "fiber": 3.9330523229940697
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dal tadka (restaurant style)"
+      ]
+    },
+    {
+      "id": "07ca3e7c-99c4-4e10-b4a3-0c3d5230a408",
+      "name": "Moong Dal",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 145,
+        "protein": 6.090226859298214,
+        "carbs": 14.233407140177501,
+        "fat": 3.5955532332515814,
+        "fiber": 3.8659332039226983
+      },
+      "portions": [
+        {
