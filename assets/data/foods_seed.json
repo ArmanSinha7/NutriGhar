@@ -662,3 +662,667 @@
       "per100g": {
         "caloriesMin": 75,
         "caloriesMax": 120,
+        "protein": 2.5,
+        "carbs": 10.0,
+        "fat": 4.0,
+        "fiber": 2.8,
+        "sugar": 2.0,
+        "sodium": 220
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "bhindi_masala",
+      "name": "Bhindi Masala",
+      "nameHi": "भिंडी मसाला",
+      "nameHinglish": "bhindi masala",
+      "aliases": ["bhindi", "okra", "ladies finger", "bhindi masala", "भिंडी मसाला", "bhendi"],
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 60,
+        "caloriesMax": 100,
+        "protein": 2.0,
+        "carbs": 8.0,
+        "fat": 3.5,
+        "fiber": 3.2,
+        "sugar": 1.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "dahi_curd",
+      "name": "Dahi (Curd/Yogurt)",
+      "nameHi": "दही",
+      "nameHinglish": "dahi",
+      "aliases": ["dahi", "curd", "yogurt", "दही", "plain dahi", "homemade dahi"],
+      "category": "dairy",
+      "subCategory": "curd",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch", "dinner", "snack"],
+      "confidenceLevel": "HIGH",
+      "confidenceNote": "Full-fat homemade dahi",
+      "per100g": {
+        "caloriesMin": 60,
+        "caloriesMax": 70,
+        "protein": 3.1,
+        "carbs": 4.7,
+        "fat": 3.0,
+        "fiber": 0.0,
+        "sugar": 4.5,
+        "sodium": 45
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 180},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 200, "weightMaxG": 250},
+        {"name": "2 spoons", "weightMinG": 40, "weightMaxG": 50}
+      ]
+    },
+    {
+      "id": "lassi_sweet",
+      "name": "Sweet Lassi",
+      "nameHi": "मीठी लस्सी",
+      "nameHinglish": "meethi lassi",
+      "aliases": ["lassi", "sweet lassi", "mango lassi", "meethi lassi", "लस्सी", "मीठी लस्सी"],
+      "category": "beverages",
+      "subCategory": "dairy_drink",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Sugar and cream quantity vary",
+      "per100g": {
+        "caloriesMin": 70,
+        "caloriesMax": 110,
+        "protein": 3.0,
+        "carbs": 10.0,
+        "fat": 2.5,
+        "fiber": 0.0,
+        "sugar": 9.0,
+        "sodium": 50
+      },
+      "portions": [
+        {"name": "1 glass", "nameHi": "एक गिलास", "weightMinG": 250, "weightMaxG": 300},
+        {"name": "1 large glass", "nameHi": "बड़ा गिलास", "weightMinG": 350, "weightMaxG": 400}
+      ]
+    },
+    {
+      "id": "chai_milk_tea",
+      "name": "Chai (Milk Tea)",
+      "nameHi": "चाय",
+      "nameHinglish": "chai",
+      "aliases": ["chai", "tea", "milk tea", "चाय", "indian tea", "masala chai", "garam chai"],
+      "category": "beverages",
+      "subCategory": "hot_drink",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Milk ratio and sugar quantity vary significantly",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 60,
+        "protein": 1.0,
+        "carbs": 4.0,
+        "fat": 1.0,
+        "fiber": 0.0,
+        "sugar": 4.0,
+        "sodium": 10
+      },
+      "portions": [
+        {"name": "1 cup", "nameHi": "एक कप", "weightMinG": 130, "weightMaxG": 160},
+        {"name": "1 glass", "nameHi": "एक गिलास", "weightMinG": 200, "weightMaxG": 250},
+        {"name": "1 small cup", "weightMinG": 80, "weightMaxG": 100}
+      ]
+    },
+    {
+      "id": "samosa",
+      "name": "Samosa",
+      "nameHi": "समोसा",
+      "nameHinglish": "samosa",
+      "aliases": ["samosa", "samsa", "samusa", "समोसा", "aloo samosa", "potato samosa"],
+      "category": "snacks",
+      "subCategory": "fried_snack",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil absorbed during frying varies; filling also varies",
+      "per100g": {
+        "caloriesMin": 280,
+        "caloriesMax": 380,
+        "protein": 5.0,
+        "carbs": 38.0,
+        "fat": 15.0,
+        "fiber": 2.0,
+        "sugar": 1.0,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 samosa", "nameHi": "एक समोसा", "weightMinG": 80, "weightMaxG": 110},
+        {"name": "2 samosas", "nameHi": "दो समोसे", "weightMinG": 160, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "pakora_aloo",
+      "name": "Aloo Pakora",
+      "nameHi": "आलू पकौड़ा",
+      "nameHinglish": "aloo pakora",
+      "aliases": ["pakora", "aloo pakora", "pakoda", "bhajiya", "आलू पकौड़ा", "pakodi", "potato fritter"],
+      "category": "snacks",
+      "subCategory": "fried_snack",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Frying oil absorption varies",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 320,
+        "protein": 5.0,
+        "carbs": 35.0,
+        "fat": 12.0,
+        "fiber": 2.0,
+        "sugar": 1.0,
+        "sodium": 280
+      },
+      "portions": [
+        {"name": "2 pieces", "nameHi": "दो टुकड़े", "weightMinG": 60, "weightMaxG": 80},
+        {"name": "4 pieces", "nameHi": "चार टुकड़े", "weightMinG": 120, "weightMaxG": 160}
+      ]
+    },
+    {
+      "id": "bhel_puri",
+      "name": "Bhel Puri",
+      "nameHi": "भेल पुरी",
+      "nameHinglish": "bhel puri",
+      "aliases": ["bhel puri", "bhelpuri", "bhel", "भेल पुरी", "mumbai bhel"],
+      "category": "snacks",
+      "subCategory": "chaat",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 28.0,
+        "fat": 5.0,
+        "fiber": 1.5,
+        "sugar": 5.0,
+        "sodium": 350
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 200, "weightMaxG": 250}
+      ]
+    },
+    {
+      "id": "mutton_curry",
+      "name": "Mutton Curry",
+      "nameHi": "मटन करी",
+      "nameHinglish": "mutton curry",
+      "aliases": ["mutton curry", "mutton masala", "gosht", "मटन करी", "gosht curry", "lamb curry", "bakra"],
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil quantity and gravy richness vary significantly",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 230,
+        "protein": 14.0,
+        "carbs": 4.0,
+        "fat": 12.0,
+        "fiber": 0.5,
+        "sugar": 1.0,
+        "sodium": 380
+      },
+      "portions": [
+        {"name": "1 piece", "nameHi": "एक टुकड़ा", "weightMinG": 80, "weightMaxG": 120},
+        {"name": "2 pieces", "nameHi": "दो टुकड़े", "weightMinG": 160, "weightMaxG": 240},
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "fish_curry",
+      "name": "Fish Curry",
+      "nameHi": "मछली करी",
+      "nameHinglish": "machli curry",
+      "aliases": ["fish curry", "machli curry", "maach curry", "मछली करी", "fish masala", "machali", "seafood curry"],
+      "category": "nonVeg",
+      "subCategory": "fish",
+      "isVegetarian": false,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 180,
+        "protein": 14.0,
+        "carbs": 4.0,
+        "fat": 6.0,
+        "fiber": 0.3,
+        "sugar": 1.0,
+        "sodium": 320
+      },
+      "portions": [
+        {"name": "1 piece", "nameHi": "एक टुकड़ा", "weightMinG": 100, "weightMaxG": 150},
+        {"name": "2 pieces", "nameHi": "दो टुकड़े", "weightMinG": 200, "weightMaxG": 300},
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "pulao_veg",
+      "name": "Veg Pulao",
+      "nameHi": "वेज पुलाव",
+      "nameHinglish": "veg pulao",
+      "aliases": ["veg pulao", "vegetable pulao", "pulao", "वेज पुलाव", "veg rice", "pilaf"],
+      "category": "grains",
+      "subCategory": "rice_dish",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 28.0,
+        "fat": 4.0,
+        "fiber": 1.5,
+        "sugar": 1.0,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 250, "weightMaxG": 320},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 180, "weightMaxG": 220}
+      ]
+    },
+    {
+      "id": "aloo_paratha",
+      "name": "Aloo Paratha",
+      "nameHi": "आलू पराठा",
+      "nameHinglish": "aloo paratha",
+      "aliases": ["aloo paratha", "potato paratha", "aloo ka paratha", "आलू पराठा", "stuffed paratha"],
+      "category": "breads",
+      "subCategory": "paratha",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Ghee/butter quantity and potato filling vary",
+      "per100g": {
+        "caloriesMin": 230,
+        "caloriesMax": 320,
+        "protein": 5.5,
+        "carbs": 40.0,
+        "fat": 8.0,
+        "fiber": 2.5,
+        "sugar": 1.0,
+        "sodium": 250
+      },
+      "portions": [
+        {"name": "1 paratha", "nameHi": "एक पराठा", "weightMinG": 90, "weightMaxG": 120},
+        {"name": "2 parathas", "nameHi": "दो पराठे", "weightMinG": 180, "weightMaxG": 240}
+      ]
+    },
+    {
+      "id": "puri",
+      "name": "Puri",
+      "nameHi": "पूरी",
+      "nameHinglish": "puri",
+      "aliases": ["puri", "poori", "पूरी", "deep fried bread", "fried puri"],
+      "category": "breads",
+      "subCategory": "fried_bread",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Oil absorption during frying varies",
+      "per100g": {
+        "caloriesMin": 340,
+        "caloriesMax": 420,
+        "protein": 7.5,
+        "carbs": 48.0,
+        "fat": 16.0,
+        "fiber": 2.0,
+        "sugar": 0.5,
+        "sodium": 200
+      },
+      "portions": [
+        {"name": "1 puri", "nameHi": "एक पूरी", "weightMinG": 30, "weightMaxG": 40},
+        {"name": "2 puris", "nameHi": "दो पूरी", "weightMinG": 60, "weightMaxG": 80},
+        {"name": "4 puris", "nameHi": "चार पूरी", "weightMinG": 120, "weightMaxG": 160}
+      ]
+    },
+    {
+      "id": "ghee",
+      "name": "Ghee (Clarified Butter)",
+      "nameHi": "घी",
+      "nameHinglish": "ghee",
+      "aliases": ["ghee", "clarified butter", "घी", "desi ghee", "butter fat"],
+      "category": "fats",
+      "subCategory": "cooking_fat",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 895,
+        "caloriesMax": 900,
+        "protein": 0.1,
+        "carbs": 0.0,
+        "fat": 99.5,
+        "fiber": 0.0,
+        "sugar": 0.0,
+        "sodium": 2
+      },
+      "portions": [
+        {"name": "1 teaspoon", "nameHi": "एक चम्मच", "weightMinG": 4, "weightMaxG": 5},
+        {"name": "1 tablespoon", "nameHi": "एक बड़ा चम्मच", "weightMinG": 13, "weightMaxG": 15},
+        {"name": "1 spoon", "nameHi": "एक चम्मच", "weightMinG": 7, "weightMaxG": 10}
+      ]
+    },
+    {
+      "id": "mustard_oil",
+      "name": "Mustard Oil",
+      "nameHi": "सरसों का तेल",
+      "nameHinglish": "sarson ka tel",
+      "aliases": ["mustard oil", "sarson ka tel", "सरसों का तेल", "tel", "cooking oil"],
+      "category": "fats",
+      "subCategory": "cooking_oil",
+      "isVegetarian": true,
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 880,
+        "caloriesMax": 900,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 100.0,
+        "fiber": 0.0,
+        "sugar": 0.0,
+        "sodium": 0
+      },
+      "portions": [
+        {"name": "1 teaspoon (5ml)", "nameHi": "एक चम्मच", "weightMinG": 4, "weightMaxG": 5},
+        {"name": "1 tablespoon (15ml)", "nameHi": "एक बड़ा चम्मच", "weightMinG": 13, "weightMaxG": 14},
+        {"name": "10ml", "weightMinG": 9, "weightMaxG": 10},
+        {"name": "20ml", "weightMinG": 18, "weightMaxG": 19},
+        {"name": "30ml", "weightMinG": 27, "weightMaxG": 28}
+      ]
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "nameHi": "केला",
+      "nameHinglish": "kela",
+      "aliases": ["banana", "kela", "केला", "plantain", "indian banana", "yelakki"],
+      "category": "fruits",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 88,
+        "caloriesMax": 95,
+        "protein": 1.1,
+        "carbs": 23.0,
+        "fat": 0.3,
+        "fiber": 2.6,
+        "sugar": 12.0,
+        "sodium": 1
+      },
+      "portions": [
+        {"name": "1 banana", "nameHi": "एक केला", "weightMinG": 100, "weightMaxG": 140},
+        {"name": "1 small banana", "nameHi": "छोटा केला", "weightMinG": 75, "weightMaxG": 100},
+        {"name": "2 bananas", "nameHi": "दो केले", "weightMinG": 200, "weightMaxG": 280}
+      ]
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "nameHi": "सेब",
+      "nameHinglish": "seb",
+      "aliases": ["apple", "seb", "सेब", "shimla apple", "indian apple"],
+      "category": "fruits",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50,
+        "caloriesMax": 58,
+        "protein": 0.3,
+        "carbs": 13.8,
+        "fat": 0.2,
+        "fiber": 2.4,
+        "sugar": 10.4,
+        "sodium": 1
+      },
+      "portions": [
+        {"name": "1 apple", "nameHi": "एक सेब", "weightMinG": 150, "weightMaxG": 200},
+        {"name": "1 small apple", "nameHi": "छोटा सेब", "weightMinG": 100, "weightMaxG": 130}
+      ]
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "nameHi": "आम",
+      "nameHinglish": "aam",
+      "aliases": ["mango", "aam", "आम", "alphonso", "kesar mango", "dasheri"],
+      "category": "fruits",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60,
+        "caloriesMax": 68,
+        "protein": 0.8,
+        "carbs": 16.9,
+        "fat": 0.4,
+        "fiber": 1.8,
+        "sugar": 14.8,
+        "sodium": 2
+      },
+      "portions": [
+        {"name": "1 medium mango", "nameHi": "एक आम", "weightMinG": 200, "weightMaxG": 300},
+        {"name": "½ mango", "nameHi": "आधा आम", "weightMinG": 100, "weightMaxG": 150},
+        {"name": "1 slice", "weightMinG": 50, "weightMaxG": 70}
+      ]
+    },
+    {
+      "id": "milk_full_fat",
+      "name": "Full Fat Milk",
+      "nameHi": "दूध",
+      "nameHinglish": "doodh",
+      "aliases": ["milk", "doodh", "doodh", "दूध", "full fat milk", "whole milk", "cow milk", "buffalo milk"],
+      "category": "dairy",
+      "subCategory": "milk",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "snack"],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60,
+        "caloriesMax": 70,
+        "protein": 3.2,
+        "carbs": 4.8,
+        "fat": 3.2,
+        "fiber": 0.0,
+        "sugar": 4.8,
+        "sodium": 50
+      },
+      "portions": [
+        {"name": "1 glass", "nameHi": "एक गिलास", "weightMinG": 240, "weightMaxG": 260},
+        {"name": "1 cup", "nameHi": "एक कप", "weightMinG": 200, "weightMaxG": 220},
+        {"name": "½ glass", "nameHi": "आधा गिलास", "weightMinG": 120, "weightMaxG": 130}
+      ]
+    },
+    {
+      "id": "nimbu_pani",
+      "name": "Nimbu Pani (Lemonade)",
+      "nameHi": "नींबू पानी",
+      "nameHinglish": "nimbu pani",
+      "aliases": ["nimbu pani", "lemon water", "shikanji", "नींबू पानी", "limonada", "lemonade"],
+      "category": "beverages",
+      "isVegetarian": true,
+      "mealTypes": ["snack"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Sugar quantity varies",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 60,
+        "protein": 0.2,
+        "carbs": 5.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "sugar": 5.0,
+        "sodium": 50
+      },
+      "portions": [
+        {"name": "1 glass", "nameHi": "एक गिलास", "weightMinG": 250, "weightMaxG": 300}
+      ]
+    },
+    {
+      "id": "raita_cucumber",
+      "name": "Cucumber Raita",
+      "nameHi": "खीरा रायता",
+      "nameHinglish": "kheera raita",
+      "aliases": ["raita", "cucumber raita", "kheera raita", "खीरा रायता", "dahi raita", "boondi raita"],
+      "category": "dairy",
+      "subCategory": "raita",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 40,
+        "caloriesMax": 60,
+        "protein": 2.5,
+        "carbs": 5.0,
+        "fat": 1.5,
+        "fiber": 0.3,
+        "sugar": 4.0,
+        "sodium": 60
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "salad_cucumber_tomato",
+      "name": "Cucumber Tomato Salad",
+      "nameHi": "खीरा टमाटर सलाद",
+      "nameHinglish": "salad",
+      "aliases": ["salad", "kachumber", "cucumber salad", "खीरा टमाटर सलाद", "कचम्बर", "green salad"],
+      "category": "veg",
+      "subCategory": "salad",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner", "snack"],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 15,
+        "caloriesMax": 30,
+        "protein": 0.8,
+        "carbs": 4.0,
+        "fat": 0.2,
+        "fiber": 1.2,
+        "sugar": 2.5,
+        "sodium": 20
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 150, "weightMaxG": 200},
+        {"name": "1 bowl", "nameHi": "एक कटोरा", "weightMinG": 100, "weightMaxG": 150}
+      ]
+    },
+    {
+      "id": "dal_makhani",
+      "name": "Dal Makhani",
+      "nameHi": "दाल मखनी",
+      "nameHinglish": "dal makhani",
+      "aliases": ["dal makhani", "black dal", "makhani dal", "दाल मखनी", "butter dal", "kali dal"],
+      "category": "legumes",
+      "subCategory": "dal",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Cream and butter quantity significantly affect calories",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 190,
+        "protein": 6.5,
+        "carbs": 14.0,
+        "fat": 7.0,
+        "fiber": 3.5,
+        "sugar": 1.0,
+        "sodium": 300
+      },
+      "portions": [
+        {"name": "1 katori", "nameHi": "एक कटोरी", "weightMinG": 150, "weightMaxG": 200}
+      ]
+    },
+    {
+      "id": "sabudana_khichdi",
+      "name": "Sabudana Khichdi",
+      "nameHi": "साबूदाना खिचड़ी",
+      "nameHinglish": "sabudana khichdi",
+      "aliases": ["sabudana khichdi", "sago khichdi", "vrat ka khana", "साबूदाना खिचड़ी", "tapioca khichdi"],
+      "category": "grains",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": ["breakfast", "lunch"],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 220,
+        "protein": 2.0,
+        "carbs": 32.0,
+        "fat": 5.0,
+        "fiber": 0.5,
+        "sugar": 1.0,
+        "sodium": 150
+      },
+      "portions": [
+        {"name": "1 plate", "nameHi": "एक थाली", "weightMinG": 200, "weightMaxG": 260}
+      ]
+    },
+    {
+      "id": "pav_bhaji",
+      "name": "Pav Bhaji",
+      "nameHi": "पाव भाजी",
+      "nameHinglish": "pav bhaji",
+      "aliases": ["pav bhaji", "pao bhaji", "पाव भाजी", "mumbai pav bhaji", "bhaji pav"],
+      "category": "snacks",
+      "subCategory": "street_food",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "snack", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "confidenceNote": "Butter quantity varies significantly",
+      "per100g": {
+        "caloriesMin": 180,
+        "caloriesMax": 280,
+        "protein": 5.0,
+        "carbs": 32.0,
+        "fat": 8.0,
+        "fiber": 3.0,
+        "sugar": 2.0,
+        "sodium": 450
+      },
+      "portions": [
+        {"name": "1 plate (2 pav + bhaji)", "nameHi": "एक थाली", "weightMinG": 280, "weightMaxG": 350}
+      ]
+    },
+    {
+      "id": "chana_dal",
+      "name": "Chana Dal",
+      "nameHi": "चना दाल",
+      "nameHinglish": "chana dal",
+      "aliases": ["chana dal", "split bengal gram", "चना दाल", "cholar dal"],
+      "category": "legumes",
+      "subCategory": "dal",
+      "isVegetarian": true,
+      "mealTypes": ["lunch", "dinner"],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 140,
+        "protein": 7.0,
+        "carbs": 16.0,
+        "fat": 2.0,
+        "fiber": 3.0,
