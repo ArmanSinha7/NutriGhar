@@ -3094,3 +3094,1035 @@
         "dal parantha/paratha"
       ]
     },
+    {
+      "id": "97bbc1bd-1ef9-489c-8428-40006ccf0a1c",
+      "name": "Sprouted moong parantha/paratha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 218.59,
+        "caloriesMax": 238.59,
+        "protein": 4.29,
+        "carbs": 24.31,
+        "fat": 12.43,
+        "fiber": 4.49,
+        "sugar": 1.47,
+        "sodium": 153.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sprouted moong parantha/paratha"
+      ]
+    },
+    {
+      "id": "d7960adb-ae68-4131-8cf6-6778b1dfb26e",
+      "name": "Pea parantha/paratha (Matar ka parantha/paratha)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 180.73,
+        "caloriesMax": 200.73,
+        "protein": 5.59,
+        "carbs": 21.51,
+        "fat": 8.8,
+        "fiber": 5.61,
+        "sugar": 1.29,
+        "sodium": 109.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea parantha/paratha (matar ka parantha/paratha)"
+      ]
+    },
+    {
+      "id": "353e30f0-c4d2-4507-83aa-10559935eac2",
+      "name": "Keema parantha/paratha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 228.09,
+        "caloriesMax": 248.09,
+        "protein": 9.41,
+        "carbs": 18.36,
+        "fat": 13.91,
+        "fiber": 3.44,
+        "sugar": 0.99,
+        "sodium": 140.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "keema parantha/paratha"
+      ]
+    },
+    {
+      "id": "a99d75ca-429f-40ce-9573-c9e94deeb472",
+      "name": "Paneer parantha/paratha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 252.97000000000003,
+        "caloriesMax": 272.97,
+        "protein": 7.98,
+        "carbs": 24.33,
+        "fat": 14.62,
+        "fiber": 4.0,
+        "sugar": 3.77,
+        "sodium": 142.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer parantha/paratha"
+      ]
+    },
+    {
+      "id": "6e12d9c6-e3f7-4b26-a2a6-63bad3a67e3b",
+      "name": "Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 206.49,
+        "caloriesMax": 226.49,
+        "protein": 5.54,
+        "carbs": 21.39,
+        "fat": 12.09,
+        "fiber": 4.39,
+        "sugar": 1.31,
+        "sodium": 177.19
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "besan and spinach parantha/paratha (besan aur palak ka parantha/paratha)"
+      ]
+    },
+    {
+      "id": "2172b92d-c0e7-4d29-8d74-1c53a25e2835",
+      "name": "Poori",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 727.63,
+        "caloriesMax": 747.63,
+        "protein": 1.35,
+        "carbs": 8.22,
+        "fat": 77.61,
+        "fiber": 1.46,
+        "sugar": 0.23,
+        "sodium": 31.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poori"
+      ]
+    },
+    {
+      "id": "4c4c9d97-6a9b-45ed-bc19-3eb1b2aed979",
+      "name": "Spinach poori (Palak poori)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 674.25,
+        "caloriesMax": 694.25,
+        "protein": 1.42,
+        "carbs": 7.76,
+        "fat": 71.86,
+        "fiber": 1.55,
+        "sugar": 0.24,
+        "sodium": 35.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach poori (palak poori)"
+      ]
+    },
+    {
+      "id": "8000e96b-968a-471b-9e8b-2eece3429670",
+      "name": "Methi poori",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 700.02,
+        "caloriesMax": 720.02,
+        "protein": 1.45,
+        "carbs": 7.98,
+        "fat": 74.6,
+        "fiber": 1.61,
+        "sugar": 0.26,
+        "sodium": 35.37
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi poori"
+      ]
+    },
+    {
+      "id": "763148d3-caff-4e5b-9d35-e3c7821d20ee",
+      "name": "Dal stuffed poori",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 775.16,
+        "caloriesMax": 795.16,
+        "protein": 2.08,
+        "carbs": 10.14,
+        "fat": 81.69,
+        "fiber": 1.96,
+        "sugar": 0.29,
+        "sodium": 128.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dal stuffed poori"
+      ]
+    },
+    {
+      "id": "793a9afb-9c1d-4ea4-b954-f693de41bc09",
+      "name": "Potato stuffed poori (Aloo ki poori)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 766.74,
+        "caloriesMax": 786.74,
+        "protein": 1.52,
+        "carbs": 9.4,
+        "fat": 81.35,
+        "fiber": 1.64,
+        "sugar": 0.26,
+        "sodium": 69.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato stuffed poori (aloo ki poori)"
+      ]
+    },
+    {
+      "id": "6b3ceb58-deab-4d40-80dd-4e7a282e8253",
+      "name": "Tandoori parantha/paratha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 285.37,
+        "caloriesMax": 305.37,
+        "protein": 5.08,
+        "carbs": 30.74,
+        "fat": 16.51,
+        "fiber": 5.44,
+        "sugar": 0.86,
+        "sodium": 1.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tandoori parantha/paratha"
+      ]
+    },
+    {
+      "id": "e2aa8cae-5819-4297-904d-1662c5cbf3f6",
+      "name": "Boiled rice (Uble chawal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107.19,
+        "caloriesMax": 127.19,
+        "protein": 2.6,
+        "carbs": 25.72,
+        "fat": 0.18,
+        "fiber": 1.25,
+        "sugar": 0.22,
+        "sodium": 1.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled rice (uble chawal)"
+      ]
+    },
+    {
+      "id": "5e2b0f04-872e-4feb-a281-a5f02cbc0b8a",
+      "name": "Plain pulao",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130.21,
+        "caloriesMax": 150.21,
+        "protein": 2.34,
+        "carbs": 21.82,
+        "fat": 4.62,
+        "fiber": 1.69,
+        "sugar": 1.15,
+        "sodium": 193.76
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "plain pulao"
+      ]
+    },
+    {
+      "id": "bbc19192-5064-486e-a808-261b13408d3f",
+      "name": "Mixed vegetable pulao",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103.05,
+        "caloriesMax": 123.05,
+        "protein": 2.72,
+        "carbs": 17.49,
+        "fat": 3.33,
+        "fiber": 2.67,
+        "sugar": 1.35,
+        "sodium": 187.92
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed vegetable pulao"
+      ]
+    },
+    {
+      "id": "affd825a-cea4-42e4-9b31-d35a61ee6a4a",
+      "name": "Mushroom pulao",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114.29,
+        "caloriesMax": 134.29000000000002,
+        "protein": 2.52,
+        "carbs": 19.02,
+        "fat": 4.03,
+        "fiber": 1.88,
+        "sugar": 1.0,
+        "sodium": 222.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom pulao"
+      ]
+    },
+    {
+      "id": "9662b4d1-ee92-4990-97e8-793bff54b7dc",
+      "name": "Sprouted moong pulao",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102.97,
+        "caloriesMax": 122.97,
+        "protein": 2.19,
+        "carbs": 17.49,
+        "fat": 3.61,
+        "fiber": 1.78,
+        "sugar": 1.43,
+        "sodium": 153.16
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sprouted moong pulao"
+      ]
+    },
+    {
+      "id": "ccc1e32b-3687-490c-8752-67546c4851d8",
+      "name": "Paneer pulao",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 571.91,
+        "caloriesMax": 591.91,
+        "protein": 1.98,
+        "carbs": 8.76,
+        "fat": 59.81,
+        "fiber": 0.62,
+        "sugar": 1.11,
+        "sodium": 72.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer pulao"
+      ]
+    },
+    {
+      "id": "9ed14175-32ea-4b55-839a-fc470aed30ac",
+      "name": "Peanut pulao",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 183.28,
+        "caloriesMax": 203.28,
+        "protein": 5.32,
+        "carbs": 21.18,
+        "fat": 9.51,
+        "fiber": 2.9,
+        "sugar": 1.6,
+        "sodium": 168.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut pulao"
+      ]
+    },
+    {
+      "id": "8a2cb36e-aa88-47d2-9b94-500fd1daa198",
+      "name": "Navratan pulao",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 251.70999999999998,
+        "caloriesMax": 271.71,
+        "protein": 6.2,
+        "carbs": 36.98,
+        "fat": 9.45,
+        "fiber": 3.82,
+        "sugar": 2.52,
+        "sodium": 334.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "navratan pulao"
+      ]
+    },
+    {
+      "id": "1f3587e1-c458-47cc-a395-d16626868592",
+      "name": "Green chickpeas pulao (Choliya pulao/Hare chane ka pulao)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 163.43,
+        "caloriesMax": 183.43,
+        "protein": 4.88,
+        "carbs": 27.57,
+        "fat": 4.82,
+        "fiber": 3.15,
+        "sugar": 2.48,
+        "sodium": 170.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green chickpeas pulao (choliya pulao/hare chane ka pulao)"
+      ]
+    },
+    {
+      "id": "0550d276-9a62-4a5d-8917-41e5280b0c3e",
+      "name": "Mutton biryani/biriyani",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 180.76,
+        "caloriesMax": 200.76,
+        "protein": 7.38,
+        "carbs": 22.5,
+        "fat": 7.72,
+        "fiber": 2.42,
+        "sugar": 2.39,
+        "sodium": 262.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton biryani/biriyani"
+      ]
+    },
+    {
+      "id": "f0c74d37-21ad-455a-8883-04d92094ccde",
+      "name": "Vegetable biryani/biriyani",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 164.61,
+        "caloriesMax": 184.61,
+        "protein": 3.16,
+        "carbs": 18.56,
+        "fat": 9.51,
+        "fiber": 3.31,
+        "sugar": 2.14,
+        "sodium": 183.79
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable biryani/biriyani"
+      ]
+    },
+    {
+      "id": "19c2f4fc-0ebf-43cf-ab03-23715d22c3c2",
+      "name": "Lemon rice (Pulihora, Elumichai sadam, Chitranna)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 166.3,
+        "caloriesMax": 186.3,
+        "protein": 4.26,
+        "carbs": 21.62,
+        "fat": 7.88,
+        "fiber": 2.52,
+        "sugar": 0.78,
+        "sodium": 187.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon rice (pulihora, elumichai sadam, chitranna)"
+      ]
+    },
+    {
+      "id": "e3fd67aa-f5eb-4834-acc4-95aae8e6a0b8",
+      "name": "Sweet rice (Meethe chawal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 205.41,
+        "caloriesMax": 225.41,
+        "protein": 2.1,
+        "carbs": 42.59,
+        "fat": 4.57,
+        "fiber": 1.13,
+        "sugar": 24.8,
+        "sodium": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet rice (meethe chawal)"
+      ]
+    },
+    {
+      "id": "81ae21b5-09fb-4550-b49a-80f79fba5075",
+      "name": "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 185.74,
+        "caloriesMax": 205.74,
+        "protein": 5.75,
+        "carbs": 32.93,
+        "fat": 4.32,
+        "fiber": 2.13,
+        "sugar": 3.91,
+        "sodium": 213.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd rice (dahi bhaat/dahi chawal/ perugu annam/daddojanam/thayir saadam)"
+      ]
+    },
+    {
+      "id": "42672628-b333-454b-8ce4-77ff5ea98d8e",
+      "name": "Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 363.04,
+        "caloriesMax": 383.04,
+        "protein": 7.45,
+        "carbs": 65.08,
+        "fat": 8.53,
+        "fiber": 5.12,
+        "sugar": 11.65,
+        "sodium": 162.41
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tamarind rice (chintapandu pulihora/puliyodharai/puli sadam/huli anna)"
+      ]
+    },
+    {
+      "id": "9d39603c-2d06-435e-bcc8-fb35e7e305fa",
+      "name": "Spanish rice",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 154.24,
+        "caloriesMax": 174.24,
+        "protein": 4.19,
+        "carbs": 31.1,
+        "fat": 2.23,
+        "fiber": 2.78,
+        "sugar": 1.26,
+        "sodium": 96.61
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spanish rice"
+      ]
+    },
+    {
+      "id": "ce4fab97-b566-4b41-9b05-fa9f67d8b514",
+      "name": "Chinese fried rice",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110.58,
+        "caloriesMax": 130.57999999999998,
+        "protein": 4.05,
+        "carbs": 13.4,
+        "fat": 5.43,
+        "fiber": 2.31,
+        "sugar": 1.47,
+        "sodium": 248.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chinese fried rice"
+      ]
+    },
+    {
+      "id": "58e3770f-2f58-4ba5-9db8-a61a31594b53",
+      "name": "Macroni cheese pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 160.63,
+        "caloriesMax": 180.63,
+        "protein": 5.85,
+        "carbs": 21.1,
+        "fat": 7.48,
+        "fiber": 0.4,
+        "sugar": 3.4,
+        "sodium": 200.51
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "macroni cheese pie"
+      ]
+    },
+    {
+      "id": "abd211b0-87ad-4b42-8175-4f09969c9c0d",
+      "name": "Vegetable chowmein",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119.71000000000001,
+        "caloriesMax": 139.71,
+        "protein": 3.07,
+        "carbs": 15.44,
+        "fat": 6.36,
+        "fiber": 1.86,
+        "sugar": 1.97,
+        "sodium": 258.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable chowmein"
+      ]
+    },
+    {
+      "id": "81b37f2e-02c9-4ca6-9832-8c586d684e24",
+      "name": "Chicken chowmein",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
