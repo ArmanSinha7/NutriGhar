@@ -4126,3 +4126,1035 @@
         "breakfast",
         "snack"
       ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 141.33,
+        "caloriesMax": 161.33,
+        "protein": 6.33,
+        "carbs": 13.3,
+        "fat": 8.23,
+        "fiber": 1.64,
+        "sugar": 1.63,
+        "sodium": 288.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken chowmein"
+      ]
+    },
+    {
+      "id": "67beb142-e934-4c76-9fba-5784f0ddff9c",
+      "name": "Cheese noodle ring",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123.66999999999999,
+        "caloriesMax": 143.67,
+        "protein": 6.22,
+        "carbs": 13.96,
+        "fat": 6.12,
+        "fiber": 1.27,
+        "sugar": 2.84,
+        "sodium": 241.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese noodle ring"
+      ]
+    },
+    {
+      "id": "17dd2dd0-b8ad-467a-b410-2f19d670cd18",
+      "name": "Spaghetti and cheese balls in tomato sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 498.32,
+        "caloriesMax": 518.3199999999999,
+        "protein": 2.41,
+        "carbs": 7.82,
+        "fat": 52.08,
+        "fiber": 0.59,
+        "sugar": 1.83,
+        "sodium": 104.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spaghetti and cheese balls in tomato sauce"
+      ]
+    },
+    {
+      "id": "6baf61f7-36b6-4602-82a0-4b9ec8612185",
+      "name": "Penne platter",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 167.4,
+        "caloriesMax": 187.4,
+        "protein": 5.04,
+        "carbs": 20.87,
+        "fat": 8.71,
+        "fiber": 1.09,
+        "sugar": 4.5,
+        "sodium": 283.37
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "penne platter"
+      ]
+    },
+    {
+      "id": "fab8ea04-5ee1-40b1-8be5-17dfc0b61552",
+      "name": "Pasta hot pot",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115.17,
+        "caloriesMax": 135.17000000000002,
+        "protein": 5.84,
+        "carbs": 11.6,
+        "fat": 6.47,
+        "fiber": 0.8,
+        "sugar": 5.99,
+        "sodium": 231.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pasta hot pot"
+      ]
+    },
+    {
+      "id": "d54bad25-47a3-44f9-954e-20a2e116bc8c",
+      "name": "Chicken lasagne",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 177.49,
+        "caloriesMax": 197.49,
+        "protein": 10.45,
+        "carbs": 13.9,
+        "fat": 10.36,
+        "fiber": 0.11,
+        "sugar": 2.74,
+        "sodium": 238.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken lasagne"
+      ]
+    },
+    {
+      "id": "337e9b49-edd4-45d7-94b8-a3faefb5e4d9",
+      "name": "Fettuccine with spinach sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119.21000000000001,
+        "caloriesMax": 139.21,
+        "protein": 3.1,
+        "carbs": 12.19,
+        "fat": 7.83,
+        "fiber": 0.77,
+        "sugar": 1.18,
+        "sodium": 153.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fettuccine with spinach sauce"
+      ]
+    },
+    {
+      "id": "cfc2e74b-c787-484d-83f3-ede4645ef026",
+      "name": "Naan",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 276.45,
+        "caloriesMax": 296.45,
+        "protein": 8.05,
+        "carbs": 51.75,
+        "fat": 4.99,
+        "fiber": 1.91,
+        "sugar": 5.59,
+        "sodium": 326.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "naan"
+      ]
+    },
+    {
+      "id": "0d4e5b05-f7c0-4041-b4f3-9898541deca2",
+      "name": "Bhatura",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 783.2,
+        "caloriesMax": 803.2,
+        "protein": 1.63,
+        "carbs": 10.73,
+        "fat": 82.56,
+        "fiber": 0.38,
+        "sugar": 0.69,
+        "sodium": 28.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhatura"
+      ]
+    },
+    {
+      "id": "6f966b74-88ec-4660-8655-f6dba4230aff",
+      "name": "Idli",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 127.53999999999999,
+        "caloriesMax": 147.54,
+        "protein": 4.64,
+        "carbs": 28.18,
+        "fat": 0.33,
+        "fiber": 2.31,
+        "sugar": 0.28,
+        "sodium": 100.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "idli"
+      ]
+    },
+    {
+      "id": "5eaee4ab-5b80-40e7-9363-6046f71feb20",
+      "name": "Masala dosa",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 154.58,
+        "caloriesMax": 174.58,
+        "protein": 3.29,
+        "carbs": 19.57,
+        "fat": 7.84,
+        "fiber": 2.52,
+        "sugar": 1.33,
+        "sodium": 191.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala dosa"
+      ]
+    },
+    {
+      "id": "78624f16-3338-4387-9710-6ef2dba37e31",
+      "name": "Semolina dosa (Suji/Rava dosa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 217.05,
+        "caloriesMax": 237.05,
+        "protein": 7.3,
+        "carbs": 32.84,
+        "fat": 7.12,
+        "fiber": 4.04,
+        "sugar": 4.37,
+        "sodium": 202.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina dosa (suji/rava dosa)"
+      ]
+    },
+    {
+      "id": "f4d8913d-b3c5-4b44-96fa-a11549e8b22a",
+      "name": "Onion tomato uttapam",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 452.02,
+        "caloriesMax": 472.02,
+        "protein": 1.91,
+        "carbs": 11.32,
+        "fat": 45.3,
+        "fiber": 1.26,
+        "sugar": 0.8,
+        "sodium": 143.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion tomato uttapam"
+      ]
+    },
+    {
+      "id": "2bdc1e1f-fbef-406f-b7f7-970fd045a93e",
+      "name": "Paneer kaathi roll",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 275.94,
+        "caloriesMax": 295.94,
+        "protein": 6.92,
+        "carbs": 20.1,
+        "fat": 19.55,
+        "fiber": 2.4,
+        "sugar": 3.29,
+        "sodium": 221.03
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer kaathi roll"
+      ]
+    },
+    {
+      "id": "de19c857-f622-4910-bf3e-a13056d1af60",
+      "name": "Makki ki roti",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 253.97000000000003,
+        "caloriesMax": 273.97,
+        "protein": 3.49,
+        "carbs": 24.19,
+        "fat": 16.85,
+        "fiber": 5.19,
+        "sugar": 0.7,
+        "sodium": 236.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makki ki roti"
+      ]
+    },
+    {
+      "id": "e67db0fb-a608-4809-bfff-12d71cf696a7",
+      "name": "Washed moong dal (Dhuli moong ki dal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 40.0,
+        "caloriesMax": 60.0,
+        "protein": 2.68,
+        "carbs": 5.91,
+        "fat": 1.68,
+        "fiber": 1.17,
+        "sugar": 0.12,
+        "sodium": 150.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "washed moong dal (dhuli moong ki dal)"
+      ]
+    },
+    {
+      "id": "5a6b08d1-0340-473a-9bc7-14bad310c9c4",
+      "name": "Washed urad dal (Dhuli urad ki dal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 51.32,
+        "caloriesMax": 71.32,
+        "protein": 2.51,
+        "carbs": 5.84,
+        "fat": 2.98,
+        "fiber": 1.53,
+        "sugar": 0.32,
+        "sodium": 142.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "washed urad dal (dhuli urad ki dal)"
+      ]
+    },
+    {
+      "id": "e988a12c-fdf6-4b5b-a3c7-5a27456b643f",
+      "name": "Split bengal gram with bottle gourd (Channa dal with ghiya/lauki)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 63.25,
+        "caloriesMax": 83.25,
+        "protein": 2.79,
+        "carbs": 7.1,
+        "fat": 3.6,
+        "fiber": 2.72,
+        "sugar": 1.05,
+        "sodium": 149.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "split bengal gram with bottle gourd (channa dal with ghiya/lauki)"
+      ]
+    },
+    {
+      "id": "55d96307-5b90-4f95-a9ac-009430504d72",
+      "name": "Dry washed urad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114.71,
+        "caloriesMax": 134.70999999999998,
+        "protein": 6.85,
+        "carbs": 15.66,
+        "fat": 3.5,
+        "fiber": 4.06,
+        "sugar": 0.73,
+        "sodium": 295.79
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dry washed urad"
+      ]
+    },
+    {
+      "id": "d75708f4-84fb-4bdf-b3b8-82d4cdf9cf90",
+      "name": "Mixed dal",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 51.93,
+        "caloriesMax": 71.93,
+        "protein": 2.51,
+        "carbs": 5.79,
+        "fat": 3.1,
+        "fiber": 1.62,
+        "sugar": 0.34,
+        "sodium": 141.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed dal"
+      ]
+    },
+    {
+      "id": "07bf00a9-0931-48b6-8ee6-b667b96b8f03",
+      "name": "Whole moong (Moong ki dal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 43.7,
+        "caloriesMax": 63.7,
+        "protein": 2.25,
+        "carbs": 5.22,
+        "fat": 2.56,
+        "fiber": 2.02,
+        "sugar": 0.59,
+        "sodium": 123.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "whole moong (moong ki dal)"
+      ]
+    },
+    {
+      "id": "bf11f9bc-cf21-48aa-9f2a-e09ec62d7836",
+      "name": "Whole masoor (Masoor ki dal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 44.05,
+        "caloriesMax": 64.05,
+        "protein": 2.28,
+        "carbs": 5.37,
+        "fat": 2.52,
+        "fiber": 1.98,
+        "sugar": 0.67,
+        "sodium": 123.72
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "whole masoor (masoor ki dal)"
+      ]
+    },
+    {
+      "id": "fc70cbde-018a-4516-9dc0-0770e96a84da",
+      "name": "Whole moth (Moth ki dal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 2.01,
+        "carbs": 5.74,
+        "fat": 2.62,
+        "fiber": 1.85,
+        "sugar": 0.66,
+        "sodium": 125.08
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "whole moth (moth ki dal)"
+      ]
+    },
+    {
+      "id": "d7cc22e3-2b52-4dad-a5ad-2dd6aee49a0e",
+      "name": "Whole urad (Urad ki dal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 43.8,
+        "caloriesMax": 63.8,
+        "protein": 2.21,
+        "carbs": 5.05,
+        "fat": 2.62,
+        "fiber": 2.32,
+        "sugar": 0.57,
+        "sodium": 126.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "whole urad (urad ki dal)"
+      ]
+    },
+    {
+      "id": "13124b20-3b64-4b64-8ba9-cd7cd52366bd",
+      "name": "Moti mahal dal (Urad rajmah mix dal)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93.13,
+        "caloriesMax": 113.13,
+        "protein": 3.93,
+        "carbs": 8.74,
+        "fat": 5.66,
+        "fiber": 3.38,
+        "sugar": 1.7,
+        "sodium": 157.61
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moti mahal dal (urad rajmah mix dal)"
+      ]
+    },
+    {
+      "id": "c34646c2-54a8-4787-a2c2-3f224dc6b545",
+      "name": "Black channa curry/Bengal gram curry (Kale chane ki curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130.68,
+        "caloriesMax": 150.68,
+        "protein": 5.67,
+        "carbs": 14.11,
+        "fat": 6.61,
+        "fiber": 7.99,
+        "sugar": 2.36,
+        "sodium": 358.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "black channa curry/bengal gram curry (kale chane ki curry)"
+      ]
+    },
+    {
+      "id": "ec90107e-7961-444e-8f2e-1f5c6c6b9290",
+      "name": "Chickpeas curry (Safed channa curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 153.43,
+        "caloriesMax": 173.43,
+        "protein": 6.1,
+        "carbs": 19.98,
+        "fat": 6.84,
+        "fiber": 4.73,
+        "sugar": 4.78,
+        "sodium": 357.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chickpeas curry (safed channa curry)"
+      ]
+    },
+    {
+      "id": "188b6625-c7ca-4bc2-b99e-8ab241197a11",
+      "name": "Lobia curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 138.99,
+        "caloriesMax": 158.99,
+        "protein": 6.06,
+        "carbs": 17.88,
+        "fat": 5.62,
+        "fiber": 4.57,
+        "sugar": 2.51,
+        "sodium": 355.41
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lobia curry"
+      ]
+    },
+    {
+      "id": "f8b3298d-92f5-4b30-a9d5-d89b58988925",
+      "name": "Soyabean curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 153.28,
+        "caloriesMax": 173.28,
+        "protein": 10.43,
+        "carbs": 6.76,
+        "fat": 10.19,
+        "fiber": 7.34,
+        "sugar": 2.66,
+        "sodium": 352.69
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soyabean curry"
+      ]
+    },
+    {
+      "id": "723949d9-e6db-4213-be68-bf42273dfb41",
+      "name": "Kidney bean curry (Rajmah curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 133.73,
+        "caloriesMax": 153.73,
+        "protein": 5.95,
+        "carbs": 16.38,
+        "fat": 5.77,
+        "fiber": 5.83,
+        "sugar": 2.49,
+        "sodium": 354.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kidney bean curry (rajmah curry)"
+      ]
+    },
+    {
+      "id": "19e36fbf-69fc-47e3-895f-1cc212416267",
+      "name": "Sambar",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 86.92,
+        "caloriesMax": 106.92,
+        "protein": 3.35,
+        "carbs": 10.57,
+        "fat": 4.38,
+        "fiber": 3.52,
+        "sugar": 3.31,
+        "sodium": 159.54
+      },
+      "portions": [
