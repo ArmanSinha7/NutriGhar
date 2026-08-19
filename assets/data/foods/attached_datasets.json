@@ -5158,3 +5158,1035 @@
         "sodium": 159.54
       },
       "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sambar"
+      ]
+    },
+    {
+      "id": "22dfebc1-1023-472a-985f-9f5121b06fbb",
+      "name": "Besan kadhi with pakodies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 393.35,
+        "caloriesMax": 413.35,
+        "protein": 1.64,
+        "carbs": 3.56,
+        "fat": 42.59,
+        "fiber": 0.81,
+        "sugar": 0.88,
+        "sodium": 60.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "besan kadhi with pakodies"
+      ]
+    },
+    {
+      "id": "1413a2e3-3bec-49da-adc2-f6e455e79b7d",
+      "name": "Khatta channa",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 192.57,
+        "caloriesMax": 212.57,
+        "protein": 6.3,
+        "carbs": 21.14,
+        "fat": 10.56,
+        "fiber": 5.26,
+        "sugar": 4.75,
+        "sodium": 513.32
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khatta channa"
+      ]
+    },
+    {
+      "id": "6efb7c46-19ec-4d7e-95f9-4d8a853a433f",
+      "name": "Sprouted moong dal chat",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 22.47,
+        "caloriesMax": 42.47,
+        "protein": 1.35,
+        "carbs": 6.01,
+        "fat": 0.32,
+        "fiber": 1.35,
+        "sugar": 1.57,
+        "sodium": 87.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sprouted moong dal chat"
+      ]
+    },
+    {
+      "id": "2c95fa87-0f7a-4b1e-b288-279cbe5a921c",
+      "name": "Potato cauliflower (Aloo gobhi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96.18,
+        "caloriesMax": 116.18,
+        "protein": 1.9,
+        "carbs": 5.99,
+        "fat": 8.13,
+        "fiber": 3.02,
+        "sugar": 0.44,
+        "sodium": 254.76
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato cauliflower (aloo gobhi)"
+      ]
+    },
+    {
+      "id": "8b3a42be-0f34-4711-a45f-d2397cf502b1",
+      "name": "Potato capsicum (Shimla mirch aloo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115.53,
+        "caloriesMax": 135.53,
+        "protein": 1.41,
+        "carbs": 8.72,
+        "fat": 9.33,
+        "fiber": 2.02,
+        "sugar": 0.54,
+        "sodium": 277.92
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato capsicum (shimla mirch aloo)"
+      ]
+    },
+    {
+      "id": "c206a6a7-f1bd-4c51-bac5-4241651e1780",
+      "name": "Cabbage and peas (Pattagobhi aur matar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 53.88,
+        "caloriesMax": 73.88,
+        "protein": 3.24,
+        "carbs": 6.24,
+        "fat": 2.64,
+        "fiber": 3.99,
+        "sugar": 0.97,
+        "sodium": 253.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cabbage and peas (pattagobhi aur matar)"
+      ]
+    },
+    {
+      "id": "9f9b9ecb-4f3f-4817-902a-70c48df79d59",
+      "name": "Carrot and fenugreek leaves (Gajar methi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 51.92,
+        "caloriesMax": 71.92,
+        "protein": 2.1,
+        "carbs": 4.17,
+        "fat": 3.81,
+        "fiber": 4.43,
+        "sugar": 2.11,
+        "sodium": 262.91
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot and fenugreek leaves (gajar methi)"
+      ]
+    },
+    {
+      "id": "1f6ff726-cfe1-4c73-9ed3-066a1e5a3dba",
+      "name": "Potato fenugreek (Aloo methi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125.15,
+        "caloriesMax": 145.15,
+        "protein": 2.25,
+        "carbs": 8.47,
+        "fat": 10.04,
+        "fiber": 2.93,
+        "sugar": 0.54,
+        "sodium": 221.93
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato fenugreek (aloo methi)"
+      ]
+    },
+    {
+      "id": "15ad1f1e-15a9-4aa0-8c08-47dd4e4c60e2",
+      "name": "Brinjal bhartha (Baingan ka bhartha)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 55.120000000000005,
+        "caloriesMax": 75.12,
+        "protein": 1.38,
+        "carbs": 4.4,
+        "fat": 4.48,
+        "fiber": 3.27,
+        "sugar": 1.82,
+        "sodium": 132.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "brinjal bhartha (baingan ka bhartha)"
+      ]
+    },
+    {
+      "id": "533e056c-411b-408b-93b7-ada8b31785f6",
+      "name": "Dry potato (Sookhe aloo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93.15,
+        "caloriesMax": 113.15,
+        "protein": 1.62,
+        "carbs": 14.38,
+        "fat": 4.18,
+        "fiber": 1.88,
+        "sugar": 0.33,
+        "sodium": 199.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dry potato (sookhe aloo)"
+      ]
+    },
+    {
+      "id": "014623b2-89e9-4534-a6a2-62f1ac0610a5",
+      "name": "Beans with coconut (Nariyal aur sem/phali; Beans thoran)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121.63,
+        "caloriesMax": 141.63,
+        "protein": 2.62,
+        "carbs": 4.39,
+        "fat": 11.39,
+        "fiber": 5.59,
+        "sugar": 2.06,
+        "sodium": 271.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beans with coconut (nariyal aur sem/phali; beans thoran)"
+      ]
+    },
+    {
+      "id": "908675e9-079e-473e-b9be-4a6925d63a8d",
+      "name": "Cauliflower with coconut (Nariyal ke saath phoolgobhi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122.11000000000001,
+        "caloriesMax": 142.11,
+        "protein": 2.64,
+        "carbs": 3.99,
+        "fat": 11.56,
+        "fiber": 5.27,
+        "sugar": 1.71,
+        "sodium": 286.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cauliflower with coconut (nariyal ke saath phoolgobhi)"
+      ]
+    },
+    {
+      "id": "3326cdc6-52ec-4eec-8597-c42dfddbc518",
+      "name": "Carrot and cabbage with coconut (Nariyal ke saath pattagobhi aur gajar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96.61,
+        "caloriesMax": 116.61,
+        "protein": 1.82,
+        "carbs": 4.99,
+        "fat": 8.62,
+        "fiber": 4.52,
+        "sugar": 2.36,
+        "sodium": 219.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot and cabbage with coconut (nariyal ke saath pattagobhi aur gajar)"
+      ]
+    },
+    {
+      "id": "c43fa12a-3874-476d-9e7e-98aae86f7d3e",
+      "name": "Raw turnip with coconut",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122.15,
+        "caloriesMax": 142.15,
+        "protein": 1.8,
+        "carbs": 5.78,
+        "fat": 11.47,
+        "fiber": 2.79,
+        "sugar": 4.4,
+        "sodium": 275.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raw turnip with coconut"
+      ]
+    },
+    {
+      "id": "2891b72f-f237-4b22-bb5b-2685045cedbb",
+      "name": "Raw papaya with coconut (Papaya thoran)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122.75,
+        "caloriesMax": 142.75,
+        "protein": 1.54,
+        "carbs": 5.58,
+        "fat": 11.42,
+        "fiber": 4.31,
+        "sugar": 3.82,
+        "sodium": 270.56
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raw papaya with coconut (papaya thoran)"
+      ]
+    },
+    {
+      "id": "32d420af-760b-43ed-b5af-a500a32d941d",
+      "name": "Stuffed okra (Bharwa bhindi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 84.34,
+        "caloriesMax": 104.34,
+        "protein": 2.08,
+        "carbs": 3.85,
+        "fat": 7.66,
+        "fiber": 4.15,
+        "sugar": 0.48,
+        "sodium": 210.03
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed okra (bharwa bhindi)"
+      ]
+    },
+    {
+      "id": "83c4e5a8-ac03-4bf1-8be7-b7a7cd9525fa",
+      "name": "Stuffed round gourd (Bharwa tinde)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 62.8,
+        "caloriesMax": 82.8,
+        "protein": 1.1,
+        "carbs": 4.02,
+        "fat": 5.75,
+        "fiber": 2.1,
+        "sugar": 1.96,
+        "sodium": 180.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed round gourd (bharwa tinde)"
+      ]
+    },
+    {
+      "id": "a99f433b-06b8-4fd5-b622-f8feab6c606d",
+      "name": "Stuffed capsicum (Bharwa shimla mirch)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 80.94,
+        "caloriesMax": 100.94,
+        "protein": 1.34,
+        "carbs": 8.26,
+        "fat": 5.7,
+        "fiber": 2.01,
+        "sugar": 1.21,
+        "sodium": 173.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed capsicum (bharwa shimla mirch)"
+      ]
+    },
+    {
+      "id": "274c7e23-da5d-4e65-a5ee-e8f5e4047176",
+      "name": "Stuffed brinjal (Bharwa baingan)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 83.0,
+        "caloriesMax": 103.0,
+        "protein": 1.53,
+        "carbs": 3.96,
+        "fat": 7.73,
+        "fiber": 4.09,
+        "sugar": 0.92,
+        "sodium": 212.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed brinjal (bharwa baingan)"
+      ]
+    },
+    {
+      "id": "f9ec2d1b-c96a-4ebc-884e-6a9736da75d0",
+      "name": "Stuffed tomatoes (Bharwa tamatar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 83.35,
+        "caloriesMax": 103.35,
+        "protein": 3.28,
+        "carbs": 6.19,
+        "fat": 6.06,
+        "fiber": 2.2,
+        "sugar": 2.68,
+        "sodium": 165.85
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed tomatoes (bharwa tamatar)"
+      ]
+    },
+    {
+      "id": "5af41e9d-84e8-42fe-a42d-5a749b4bef7b",
+      "name": "Pea potato curry (Aloo matar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90.92,
+        "caloriesMax": 110.92,
+        "protein": 3.48,
+        "carbs": 9.74,
+        "fat": 5.13,
+        "fiber": 3.61,
+        "sugar": 1.86,
+        "sodium": 154.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea potato curry (aloo matar)"
+      ]
+    },
+    {
+      "id": "52ab7e89-7112-4809-af23-dd4f353830f0",
+      "name": "Pea paneer curry (Matar paneer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124.83000000000001,
+        "caloriesMax": 144.83,
+        "protein": 6.61,
+        "carbs": 9.29,
+        "fat": 7.75,
+        "fiber": 3.3,
+        "sugar": 3.89,
+        "sodium": 157.34
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea paneer curry (matar paneer)"
+      ]
+    },
+    {
+      "id": "b1f96fc6-f302-4608-85a6-baedcea0d235",
+      "name": "Pea mushroom curry (Matar mushroom)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 83.3,
+        "caloriesMax": 103.3,
+        "protein": 3.87,
+        "carbs": 7.41,
+        "fat": 5.16,
+        "fiber": 3.86,
+        "sugar": 1.82,
+        "sodium": 155.48
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea mushroom curry (matar mushroom)"
+      ]
+    },
+    {
+      "id": "fc4e8da3-1e72-416d-b93f-7f68b436bce8",
+      "name": "Pea curry (Matar ki sabzi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92.99,
+        "caloriesMax": 112.99,
+        "protein": 4.51,
+        "carbs": 9.2,
+        "fat": 5.11,
+        "fiber": 4.44,
+        "sugar": 1.98,
+        "sodium": 154.75
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea curry (matar ki sabzi)"
+      ]
+    },
+    {
+      "id": "16016c89-18f0-4297-adfb-815f8369ad2e",
+      "name": "Pea vadi curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91.95,
+        "caloriesMax": 111.95,
+        "protein": 4.64,
+        "carbs": 8.9,
+        "fat": 5.08,
+        "fiber": 4.28,
+        "sugar": 1.92,
+        "sodium": 149.51
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea vadi curry"
+      ]
+    },
+    {
+      "id": "4562f851-d530-4567-a66a-452c62acd589",
+      "name": "Paneer curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 166.52,
+        "caloriesMax": 186.52,
+        "protein": 7.8,
+        "carbs": 8.4,
+        "fat": 12.38,
+        "fiber": 1.4,
+        "sugar": 6.29,
+        "sodium": 216.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer curry"
+      ]
+    },
+    {
+      "id": "3b747945-041a-49e8-8b8a-6bbb89c58062",
+      "name": "Lotus stem curry (Kamal kakdi curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100.34,
+        "caloriesMax": 120.34,
+        "protein": 1.53,
+        "carbs": 9.24,
+        "fat": 7.25,
+        "fiber": 3.14,
+        "sugar": 2.09,
+        "sodium": 217.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lotus stem curry (kamal kakdi curry)"
+      ]
+    },
+    {
+      "id": "1994613b-8bb3-4ae1-a185-74022ce12dc6",
+      "name": "Gravy for kofta",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115.59,
+        "caloriesMax": 135.59,
+        "protein": 1.75,
+        "carbs": 6.31,
+        "fat": 10.35,
+        "fiber": 1.96,
+        "sugar": 3.73,
+        "sodium": 312.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gravy for kofta"
+      ]
+    },
+    {
+      "id": "c0f5f5d7-c128-45c0-9b97-98f93b2608d9",
+      "name": "Pea kofta curry (Matar kofta curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 585.66,
+        "caloriesMax": 605.66,
+        "protein": 2.01,
+        "carbs": 4.17,
+        "fat": 63.39,
+        "fiber": 1.7,
+        "sugar": 0.88,
+        "sodium": 83.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pea kofta curry (matar kofta curry)"
+      ]
+    },
+    {
+      "id": "b6d54d90-7f2a-4e99-adaa-324deff3e8c5",
+      "name": "Spinach kofta curry (Palak kofta curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 561.78,
+        "caloriesMax": 581.78,
+        "protein": 1.09,
+        "carbs": 3.56,
+        "fat": 61.49,
+        "fiber": 0.92,
+        "sugar": 0.82,
+        "sodium": 104.51
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach kofta curry (palak kofta curry)"
+      ]
+    },
+    {
+      "id": "efe36071-5bab-4f55-a03f-a1ecc15f8dec",
