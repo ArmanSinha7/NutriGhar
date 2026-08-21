@@ -1268,3 +1268,638 @@
       "isVegetarian": true,
       "mealTypes": [
         "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 192,
+        "protein": 8.574150570407104,
+        "carbs": 7.395261049010216,
+        "fat": 10.097600459502049,
+        "fiber": 3.11849987792829
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (punjabi)"
+      ]
+    },
+    {
+      "id": "edfd68fa-8fba-493d-8717-4671b1f32d04",
+      "name": "Toor Dal (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 180,
+        "protein": 3.8376604859820613,
+        "carbs": 8.569438536052736,
+        "fat": 6.952964434273217,
+        "fiber": 3.7302939659910974
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (south indian style)"
+      ]
+    },
+    {
+      "id": "4576f6d9-420a-4d6e-8155-32ecb4d79cd2",
+      "name": "Toor Dal (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 158,
+        "protein": 2.434658719053168,
+        "carbs": 7.666847643134352,
+        "fat": 6.983372070510434,
+        "fiber": 3.479120701568241
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (bengali style)"
+      ]
+    },
+    {
+      "id": "d87b2c2c-a767-4667-8972-8cd7bedaf482",
+      "name": "Toor Dal (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 151,
+        "protein": 10.062100555631552,
+        "carbs": 14.057246103330897,
+        "fat": 12.70122486001056,
+        "fiber": 2.3157189048241187
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "fdea4802-c9b2-487e-9bf3-174ce1585843",
+      "name": "Toor Dal (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 194,
+        "protein": 10.237528436234436,
+        "carbs": 10.052146183383028,
+        "fat": 12.286485464522585,
+        "fiber": 4.811910095793649
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (gujarati style)"
+      ]
+    },
+    {
+      "id": "43f8df75-e8d7-4597-b840-4968d96bfda4",
+      "name": "Toor Dal (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 166,
+        "protein": 11.92142489503631,
+        "carbs": 8.297470324802221,
+        "fat": 12.6296392344849,
+        "fiber": 1.6585380662607987
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (rajasthani)"
+      ]
+    },
+    {
+      "id": "578806c1-71ea-479e-b4eb-d4b10b3c6a31",
+      "name": "Toor Dal (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 179,
+        "protein": 4.55081435200908,
+        "carbs": 13.354188892466835,
+        "fat": 13.395233013559785,
+        "fiber": 1.452324781452647
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (home-style)"
+      ]
+    },
+    {
+      "id": "258278c7-6ee8-4f9b-9811-205b9f1ceb24",
+      "name": "Toor Dal (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 161,
+        "protein": 6.336301500748037,
+        "carbs": 11.721307989038948,
+        "fat": 5.381912331057097,
+        "fiber": 1.6511487699980596
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (dhaba style)"
+      ]
+    },
+    {
+      "id": "56739ef1-73a7-4c2b-a0f5-6c594d3096d2",
+      "name": "Toor Dal (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 195,
+        "protein": 6.350306329921438,
+        "carbs": 9.71416439134417,
+        "fat": 14.996233248098322,
+        "fiber": 3.0569921706483063
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "toor dal (restaurant style)"
+      ]
+    },
+    {
+      "id": "722b68d5-32e8-423e-a394-976359fd00e0",
+      "name": "Chana Dal",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 83,
+        "caloriesMax": 170,
+        "protein": 5.02803994441473,
+        "carbs": 14.10881900647924,
+        "fat": 3.3183174566484968,
+        "fiber": 1.7266627805089305
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "chana dal",
+        "ChanaDal"
+      ]
+    },
+    {
+      "id": "06745232-af56-4f59-ab61-f08f1d801ca2",
+      "name": "Chana Dal (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 188,
+        "protein": 11.693713849572289,
+        "carbs": 11.7233443534822,
+        "fat": 10.14170378486611,
+        "fiber": 1.7405256692127589
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (punjabi)"
+      ]
+    },
+    {
+      "id": "5788fa0c-6e05-4ca8-855e-c6d018d49d9d",
+      "name": "Chana Dal (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 199,
+        "protein": 10.73893711015832,
+        "carbs": 14.552740837516922,
+        "fat": 8.625335945282806,
+        "fiber": 3.4528319794577813
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (south indian style)"
+      ]
+    },
+    {
+      "id": "e046f9fc-b66e-4ac8-911f-16506f87407c",
+      "name": "Chana Dal (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 143,
+        "protein": 10.374446116053173,
+        "carbs": 10.149852555837384,
+        "fat": 13.639191288183403,
+        "fiber": 3.1461890203781078
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (bengali style)"
+      ]
+    },
+    {
+      "id": "3547d62a-a6e6-449e-93bd-48e56dd5ea2a",
+      "name": "Chana Dal (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 172,
+        "protein": 11.485083202670891,
+        "carbs": 11.617563152564902,
+        "fat": 14.749360210108142,
+        "fiber": 2.6932260712478664
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "ee231a0a-5de4-47e3-a17f-9ba6dda231f9",
+      "name": "Chana Dal (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 168,
+        "protein": 6.427664856209528,
+        "carbs": 10.612483685673807,
+        "fat": 12.722935457799977,
+        "fiber": 4.052314287662379
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (gujarati style)"
+      ]
+    },
+    {
+      "id": "43f67b10-d18d-49fa-8027-a6dac0d00544",
+      "name": "Chana Dal (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 192,
+        "protein": 5.614629820737264,
+        "carbs": 6.8027491385952175,
+        "fat": 7.838588849730286,
+        "fiber": 3.728637814035231
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (rajasthani)"
+      ]
+    },
+    {
+      "id": "2205592a-9c16-4792-a51c-74509790b9f0",
+      "name": "Chana Dal (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 169,
+        "protein": 5.20383095200984,
+        "carbs": 7.084828764858435,
+        "fat": 7.521551565605589,
+        "fiber": 1.3621569200522656
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (home-style)"
+      ]
+    },
+    {
+      "id": "5c71627f-6f7f-439d-8e6c-991a75c1ed1f",
+      "name": "Chana Dal (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 189,
+        "protein": 2.810975718825481,
+        "carbs": 10.040934909965284,
+        "fat": 4.492521131556976,
+        "fiber": 1.477184448299877
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (dhaba style)"
+      ]
+    },
+    {
+      "id": "849b2f2f-e31c-43a4-aa8d-0f7b396866b9",
+      "name": "Chana Dal (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 147,
+        "protein": 2.8183812420082495,
+        "carbs": 8.780116392759084,
+        "fat": 10.279175849715065,
+        "fiber": 3.145436452429082
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chana dal (restaurant style)"
+      ]
+    },
+    {
+      "id": "d94653da-92b9-42d3-8c7a-d4fdb2befdaf",
+      "name": "Urad Dal",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 142,
+        "protein": 2.996509898321909,
+        "carbs": 10.06132745387772,
+        "fat": 8.05116256917578,
+        "fiber": 4.514807372300025
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "urad dal",
+        "UradDal"
+      ]
+    },
+    {
+      "id": "f447f473-1446-41ee-af04-c9e0c5bc67cc",
+      "name": "Urad Dal (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 181,
+        "protein": 8.637121067503038,
+        "carbs": 14.015672599826173,
+        "fat": 4.431432681116056,
+        "fiber": 1.1436857345198224
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (punjabi)"
+      ]
+    },
+    {
