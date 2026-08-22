@@ -8254,3 +8254,1035 @@
       "portions": [
         {
           "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed vegetable salad with curd sauce"
+      ]
+    },
+    {
+      "id": "4452a2a8-db57-466c-8324-5a8aec0b1df1",
+      "name": "Potato salad (Aloo ka salaad)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 79.91,
+        "caloriesMax": 99.91,
+        "protein": 1.4,
+        "carbs": 11.19,
+        "fat": 4.4,
+        "fiber": 1.32,
+        "sugar": 3.94,
+        "sodium": 125.01
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato salad (aloo ka salaad)"
+      ]
+    },
+    {
+      "id": "6791a1d3-a0ea-4d9d-931d-04ff4327a055",
+      "name": "Waldroff salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 131.75,
+        "caloriesMax": 151.75,
+        "protein": 1.47,
+        "carbs": 11.02,
+        "fat": 10.05,
+        "fiber": 1.87,
+        "sugar": 8.23,
+        "sodium": 13.42
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "waldroff salad"
+      ]
+    },
+    {
+      "id": "3034efe2-fc40-41cf-a20f-39317893f3bc",
+      "name": "Coleslaw",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 66.71,
+        "caloriesMax": 86.71,
+        "protein": 1.24,
+        "carbs": 5.59,
+        "fat": 5.32,
+        "fiber": 2.34,
+        "sugar": 3.62,
+        "sodium": 29.87
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coleslaw"
+      ]
+    },
+    {
+      "id": "77f89251-9c34-4c45-940e-03df7d6a06d0",
+      "name": "Fruit salad (Phalon ka salaad)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 68.14,
+        "caloriesMax": 88.14,
+        "protein": 0.91,
+        "carbs": 15.96,
+        "fat": 1.22,
+        "fiber": 1.58,
+        "sugar": 9.78,
+        "sodium": 7.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit salad (phalon ka salaad)"
+      ]
+    },
+    {
+      "id": "77decc84-4d30-46bd-9556-ce8c24e58d29",
+      "name": "Tomato onion raita (Tamatar aur pyaaz ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 49.0,
+        "caloriesMax": 69.0,
+        "protein": 3.74,
+        "carbs": 7.08,
+        "fat": 1.84,
+        "fiber": 0.97,
+        "sugar": 5.98,
+        "sodium": 165.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato onion raita (tamatar aur pyaaz ka raita)"
+      ]
+    },
+    {
+      "id": "0e7461c4-9039-4ce6-a62b-7c8c257128f4",
+      "name": "Peanut raita (Mungfali ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140.39,
+        "caloriesMax": 160.39,
+        "protein": 8.59,
+        "carbs": 9.3,
+        "fat": 8.98,
+        "fiber": 1.89,
+        "sugar": 7.11,
+        "sodium": 235.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut raita (mungfali ka raita)"
+      ]
+    },
+    {
+      "id": "1cbf66be-0bbb-46f5-8bd3-8a436b3b6a18",
+      "name": "Sprouted moong raita",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 50.89,
+        "caloriesMax": 70.89,
+        "protein": 4.62,
+        "carbs": 6.13,
+        "fat": 2.19,
+        "fiber": 0.16,
+        "sugar": 5.59,
+        "sodium": 189.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sprouted moong raita"
+      ]
+    },
+    {
+      "id": "3e6f0086-a89a-444b-addf-93c73f9bd03e",
+      "name": "Bottle gourd raita (Ghiya/Lauki ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 46.31,
+        "caloriesMax": 66.31,
+        "protein": 3.98,
+        "carbs": 5.76,
+        "fat": 2.07,
+        "fiber": 0.85,
+        "sugar": 5.25,
+        "sodium": 188.37
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bottle gourd raita (ghiya/lauki ka raita)"
+      ]
+    },
+    {
+      "id": "4fcea4cf-5de9-497e-9560-bae59002ea68",
+      "name": "Cucumber raita (Kheere ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 49.13,
+        "caloriesMax": 69.13,
+        "protein": 4.04,
+        "carbs": 6.35,
+        "fat": 2.08,
+        "fiber": 0.86,
+        "sugar": 5.22,
+        "sodium": 189.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cucumber raita (kheere ka raita)"
+      ]
+    },
+    {
+      "id": "e2d496f8-8ec4-417c-9631-777ca342418d",
+      "name": "Carrot and spinach raita (Gajar aur palak ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 46.83,
+        "caloriesMax": 66.83,
+        "protein": 4.0,
+        "carbs": 5.83,
+        "fat": 1.99,
+        "fiber": 1.39,
+        "sugar": 4.93,
+        "sodium": 180.79
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot and spinach raita (gajar aur palak ka raita)"
+      ]
+    },
+    {
+      "id": "1822dabb-840d-4229-86ac-16b52ce937b1",
+      "name": "Mint raita (Pudinay ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 67.59,
+        "caloriesMax": 87.59,
+        "protein": 5.64,
+        "carbs": 7.65,
+        "fat": 2.96,
+        "fiber": 0.34,
+        "sugar": 7.48,
+        "sodium": 274.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mint raita (pudinay ka raita)"
+      ]
+    },
+    {
+      "id": "c8ecdddf-6cd4-4773-af39-6d57dd89d042",
+      "name": "Potato raita (Aloo ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 65.38,
+        "caloriesMax": 85.38,
+        "protein": 4.22,
+        "carbs": 10.24,
+        "fat": 2.04,
+        "fiber": 0.75,
+        "sugar": 5.08,
+        "sodium": 183.37
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato raita (aloo ka raita)"
+      ]
+    },
+    {
+      "id": "12d132ee-8d89-48b9-b5ec-d7b955b08805",
+      "name": "Boondi raita",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 677.72,
+        "caloriesMax": 697.72,
+        "protein": 2.19,
+        "carbs": 3.96,
+        "fat": 73.83,
+        "fiber": 0.46,
+        "sugar": 1.88,
+        "sodium": 99.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boondi raita"
+      ]
+    },
+    {
+      "id": "717abced-ad84-4995-b4b3-ad6a35d0b73f",
+      "name": "Sweet raita (Meetha raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 89.24,
+        "caloriesMax": 109.24,
+        "protein": 3.24,
+        "carbs": 17.93,
+        "fat": 1.78,
+        "fiber": 1.02,
+        "sugar": 15.36,
+        "sodium": 42.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet raita (meetha raita)"
+      ]
+    },
+    {
+      "id": "3c115f1e-ffc0-447b-b64b-ab335ce5b000",
+      "name": "Dahi vadas/Dahi bhalla",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 657.73,
+        "caloriesMax": 677.73,
+        "protein": 2.96,
+        "carbs": 5.49,
+        "fat": 70.4,
+        "fiber": 0.97,
+        "sugar": 1.78,
+        "sodium": 79.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dahi vadas/dahi bhalla"
+      ]
+    },
+    {
+      "id": "79b72b42-d1fd-4d42-aacb-f4015e33264a",
+      "name": "Gunjia",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 657.34,
+        "caloriesMax": 677.34,
+        "protein": 2.98,
+        "carbs": 5.68,
+        "fat": 70.28,
+        "fiber": 1.13,
+        "sugar": 2.05,
+        "sodium": 77.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gunjia"
+      ]
+    },
+    {
+      "id": "62be2133-c185-4d4f-9ffc-7cc6f8333dc9",
+      "name": "Saunth/Sonth chutney with tamarind/imli",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 131.53,
+        "caloriesMax": 151.53,
+        "protein": 1.01,
+        "carbs": 33.55,
+        "fat": 0.15,
+        "fiber": 0.93,
+        "sugar": 31.31,
+        "sodium": 244.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saunth/sonth chutney with tamarind/imli"
+      ]
+    },
+    {
+      "id": "af1f885a-c88a-460c-b331-297f3246a538",
+      "name": "Rice kheer (Chawal ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 65.03,
+        "caloriesMax": 85.03,
+        "protein": 2.3,
+        "carbs": 10.05,
+        "fat": 2.97,
+        "fiber": 0.17,
+        "sugar": 8.02,
+        "sodium": 16.24
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice kheer (chawal ki kheer)"
+      ]
+    },
+    {
+      "id": "4d870488-1e8a-4c9a-81d6-0964475b0cca",
+      "name": "Makhana kheer",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97.85,
+        "caloriesMax": 117.85,
+        "protein": 3.31,
+        "carbs": 12.88,
+        "fat": 5.0,
+        "fiber": 0.11,
+        "sugar": 11.54,
+        "sodium": 23.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makhana kheer"
+      ]
+    },
+    {
+      "id": "c0a163a7-7239-4927-b3e0-b3d9f12f0b5c",
+      "name": "Vermicelli kheer (Semiya/Seviyan ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110.07,
+        "caloriesMax": 130.07,
+        "protein": 3.35,
+        "carbs": 15.87,
+        "fat": 5.0,
+        "fiber": 0.5,
+        "sugar": 12.79,
+        "sodium": 22.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vermicelli kheer (semiya/seviyan ki kheer)"
+      ]
+    },
+    {
+      "id": "98e1162a-f353-4984-b0e8-64ad2f758306",
+      "name": "Semolina kheer (Suji/Rava kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103.21,
+        "caloriesMax": 123.21,
+        "protein": 3.43,
+        "carbs": 15.88,
+        "fat": 4.2,
+        "fiber": 0.51,
+        "sugar": 12.88,
+        "sodium": 22.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina kheer (suji/rava kheer)"
+      ]
+    },
+    {
+      "id": "3ad65fe9-7847-4f70-8199-f2060aa89d59",
+      "name": "Paneer kheer",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95.31,
+        "caloriesMax": 115.31,
+        "protein": 4.53,
+        "carbs": 10.03,
+        "fat": 5.37,
+        "fiber": 0.07,
+        "sugar": 9.87,
+        "sodium": 23.81
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer kheer"
+      ]
+    },
+    {
+      "id": "3e7966f0-f725-46e8-a3f5-4423c7b703e6",
+      "name": "Cabbage kheer (Pattagobhi ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 73.51,
+        "caloriesMax": 93.51,
+        "protein": 2.87,
+        "carbs": 9.73,
+        "fat": 3.8,
+        "fiber": 0.51,
+        "sugar": 9.28,
+        "sodium": 22.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cabbage kheer (pattagobhi ki kheer)"
+      ]
+    },
+    {
+      "id": "46160f62-6197-4875-bf26-9efd66e61fb0",
+      "name": "Carrot kheer (Gajar ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 75.35,
+        "caloriesMax": 95.35,
+        "protein": 2.81,
+        "carbs": 10.09,
+        "fat": 3.85,
+        "fiber": 0.73,
+        "sugar": 9.63,
+        "sodium": 28.54
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot kheer (gajar ki kheer)"
+      ]
+    },
+    {
+      "id": "6581f334-30fd-482b-b757-bac7a5c215d9",
+      "name": "Cauliflower kheer (Phoolgobhi ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 71.95,
+        "caloriesMax": 91.95,
+        "protein": 3.04,
+        "carbs": 8.78,
+        "fat": 3.95,
+        "fiber": 0.55,
+        "sugar": 8.49,
+        "sodium": 25.19
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cauliflower kheer (phoolgobhi ki kheer)"
+      ]
+    },
+    {
+      "id": "97552cf1-154e-4212-b0a1-a41d68ed4dd5",
+      "name": "Moong dal kheer",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 67.16,
+        "caloriesMax": 87.16,
+        "protein": 2.95,
+        "carbs": 9.89,
+        "fat": 2.97,
+        "fiber": 0.4,
+        "sugar": 7.92,
+        "sodium": 16.34
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal kheer"
+      ]
+    },
+    {
+      "id": "2ca8747f-f2cf-4fec-ac9b-cd24614aa881",
+      "name": "Phirni",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106.12,
+        "caloriesMax": 126.12,
+        "protein": 3.49,
+        "carbs": 16.11,
+        "fat": 4.34,
+        "fiber": 0.36,
+        "sugar": 10.79,
+        "sodium": 22.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "phirni"
+      ]
+    },
+    {
+      "id": "d94898ea-acef-460e-bbf2-0286111ff200",
+      "name": "Semolina halwa (Suji ka halwa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 215.65,
+        "caloriesMax": 235.65,
+        "protein": 2.16,
+        "carbs": 24.67,
+        "fat": 13.38,
+        "fiber": 1.86,
+        "sugar": 13.98,
+        "sodium": 1.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina halwa (suji ka halwa)"
+      ]
+    },
+    {
+      "id": "1b8c94d5-2782-472e-a965-b07e5b3f3d92",
+      "name": "Shahi suji halwa",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 372.34,
+        "caloriesMax": 392.34,
+        "protein": 3.48,
+        "carbs": 44.44,
+        "fat": 21.73,
+        "fiber": 2.96,
+        "sugar": 27.21,
+        "sodium": 2.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shahi suji halwa"
+      ]
+    },
+    {
+      "id": "e06c54e4-9dbe-447d-a63f-ff0cc6a01862",
+      "name": "Carrot halwa (Gajar ka halwa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 162.64,
+        "caloriesMax": 182.64,
+        "protein": 3.11,
+        "carbs": 18.53,
+        "fat": 9.73,
+        "fiber": 2.65,
+        "sugar": 16.85,
+        "sodium": 39.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot halwa (gajar ka halwa)"
+      ]
+    },
+    {
+      "id": "6a790bf7-d0be-46bd-baf4-57e73ae83f06",
+      "name": "Egg halwa (Ande ka halwa)",
+      "category": "imported_csv_1",
