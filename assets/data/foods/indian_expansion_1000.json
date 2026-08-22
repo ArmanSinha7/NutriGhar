@@ -1903,3 +1903,638 @@
       ]
     },
     {
+      "id": "94072b78-6cf5-4927-ae64-4b5e9460631f",
+      "name": "Urad Dal (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 159,
+        "protein": 9.28427608358798,
+        "carbs": 6.455182410652026,
+        "fat": 13.970998281225121,
+        "fiber": 3.7043809626631656
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (south indian style)"
+      ]
+    },
+    {
+      "id": "8048bfa6-cbc0-4617-9376-553d05f77503",
+      "name": "Urad Dal (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 143,
+        "protein": 2.9198011059109854,
+        "carbs": 14.96844553496346,
+        "fat": 10.758774761394072,
+        "fiber": 3.33235598679136
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (bengali style)"
+      ]
+    },
+    {
+      "id": "8f177c1f-473b-4e63-a6a0-00bf0fd305cf",
+      "name": "Urad Dal (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 191,
+        "protein": 8.696912524660902,
+        "carbs": 9.640300042077907,
+        "fat": 5.175388962059449,
+        "fiber": 3.7857675819798726
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "b96bbc88-9a67-4db1-883f-15bb77d8c37d",
+      "name": "Urad Dal (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 156,
+        "protein": 6.077939756117472,
+        "carbs": 8.801461475722949,
+        "fat": 11.722427725230116,
+        "fiber": 2.559783908924782
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (gujarati style)"
+      ]
+    },
+    {
+      "id": "785266e9-2fba-4c00-97bc-df551a5d0194",
+      "name": "Urad Dal (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 166,
+        "protein": 11.704151713084945,
+        "carbs": 5.73491043319072,
+        "fat": 14.688466138994373,
+        "fiber": 3.5574422222706574
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (rajasthani)"
+      ]
+    },
+    {
+      "id": "ced83f1a-eb38-4bd1-90c1-d8aa6113be99",
+      "name": "Urad Dal (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 178,
+        "protein": 3.7998767114194267,
+        "carbs": 12.970001320738579,
+        "fat": 9.939913479535907,
+        "fiber": 4.600152166056311
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (home-style)"
+      ]
+    },
+    {
+      "id": "c02c26b5-d2e7-484d-9376-05c9aaa810fb",
+      "name": "Urad Dal (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 153,
+        "protein": 4.466647333275338,
+        "carbs": 14.06154087076225,
+        "fat": 5.50457321022822,
+        "fiber": 4.437550789493434
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (dhaba style)"
+      ]
+    },
+    {
+      "id": "37fa940a-3049-4701-bab4-49b8a6907ad9",
+      "name": "Urad Dal (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 142,
+        "protein": 5.627408111992202,
+        "carbs": 8.717016839349725,
+        "fat": 5.6606067893245005,
+        "fiber": 2.4710517469903754
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "urad dal (restaurant style)"
+      ]
+    },
+    {
+      "id": "d698e8ef-cebd-404e-9de3-4259b6de253c",
+      "name": "Panchratna Dal",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 135,
+        "protein": 2.4084882508542176,
+        "carbs": 5.944407191955631,
+        "fat": 4.0030143734728085,
+        "fiber": 3.400953089241066
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "panchratna dal",
+        "PanchratnaDal"
+      ]
+    },
+    {
+      "id": "a978dc59-0251-40ba-b71d-dda7acd223e3",
+      "name": "Panchratna Dal (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 166,
+        "protein": 7.010299116764867,
+        "carbs": 10.987846193201712,
+        "fat": 7.016941512888182,
+        "fiber": 1.458403454548257
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (punjabi)"
+      ]
+    },
+    {
+      "id": "52c054cc-f244-465d-960c-a98cb3306787",
+      "name": "Panchratna Dal (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 184,
+        "protein": 3.491871239066204,
+        "carbs": 10.309914388874168,
+        "fat": 13.95460524823785,
+        "fiber": 2.580849733322893
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (south indian style)"
+      ]
+    },
+    {
+      "id": "75d8c4a2-8a07-4ea3-8ac5-0d64629dd448",
+      "name": "Panchratna Dal (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 162,
+        "protein": 4.926684593675267,
+        "carbs": 8.975426358132605,
+        "fat": 8.169618789734852,
+        "fiber": 4.527769116327282
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (bengali style)"
+      ]
+    },
+    {
+      "id": "e9728302-6949-468b-bb20-d7231256ec9e",
+      "name": "Panchratna Dal (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 189,
+        "protein": 10.849006073283185,
+        "carbs": 7.261529845439458,
+        "fat": 13.416858396564153,
+        "fiber": 2.8677703146695235
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "dc276fdc-3754-4d0d-b219-21b50245312b",
+      "name": "Panchratna Dal (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 145,
+        "protein": 8.795102513616076,
+        "carbs": 7.368184535629716,
+        "fat": 4.985522064317265,
+        "fiber": 3.550808889895984
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (gujarati style)"
+      ]
+    },
+    {
+      "id": "d4c8b446-2dbe-4053-8550-e9fb9fdcb29b",
+      "name": "Panchratna Dal (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 172,
+        "protein": 8.26125767425987,
+        "carbs": 5.602491547929556,
+        "fat": 4.956589361192904,
+        "fiber": 4.8654309079839075
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (rajasthani)"
+      ]
+    },
+    {
+      "id": "bc5c91e2-1df3-4f5c-9544-2869f2c07649",
+      "name": "Panchratna Dal (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 153,
+        "protein": 6.375139216273736,
+        "carbs": 11.112892485243837,
+        "fat": 4.638900607115097,
+        "fiber": 2.237328604241698
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (home-style)"
+      ]
+    },
+    {
+      "id": "44051433-4b8b-4c49-a881-29d74e8121ba",
+      "name": "Panchratna Dal (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 148,
+        "protein": 3.8264822002062875,
+        "carbs": 7.854858546526814,
+        "fat": 7.79459947925483,
+        "fiber": 1.9975630592327906
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (dhaba style)"
+      ]
+    },
+    {
+      "id": "e2526cc7-b221-4037-982e-368e312b9546",
+      "name": "Panchratna Dal (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 177,
+        "protein": 9.088395212965123,
+        "carbs": 6.814783829157269,
+        "fat": 13.296704579875568,
+        "fiber": 4.170126281703687
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "panchratna dal (restaurant style)"
+      ]
+    },
+    {
+      "id": "ccd4522b-1f0b-4dcd-8a38-963d062f67a9",
+      "name": "Paneer Butter Masala",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 162,
+        "protein": 2.562682678235266,
+        "carbs": 13.180865196070009,
+        "fat": 8.299801395169766,
+        "fiber": 2.6165014840577445
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "paneer butter masala",
+        "PaneerButterMasala"
+      ]
+    },
+    {
+      "id": "617a9c75-addd-4129-af5c-464847f7041f",
+      "name": "Paneer Butter Masala (Punjabi)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 155,
+        "protein": 2.595580919174432,
+        "carbs": 12.03842201344181,
+        "fat": 9.880852876785463,
+        "fiber": 3.5573551422044143
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (punjabi)"
+      ]
+    },
+    {
+      "id": "0a4c35f8-7935-464c-b51f-fc2837156a0f",
+      "name": "Paneer Butter Masala (South Indian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 142,
+        "protein": 11.169526747274832,
+        "carbs": 5.544499356892016,
+        "fat": 5.356822820139177,
+        "fiber": 4.819751903657421
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
