@@ -9286,3 +9286,1035 @@
       "id": "6a790bf7-d0be-46bd-baf4-57e73ae83f06",
       "name": "Egg halwa (Ande ka halwa)",
       "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 289.74,
+        "caloriesMax": 309.74,
+        "protein": 7.85,
+        "carbs": 39.59,
+        "fat": 13.41,
+        "fiber": 0.49,
+        "sugar": 37.85,
+        "sodium": 83.04
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg halwa (ande ka halwa)"
+      ]
+    },
+    {
+      "id": "e29a7ed1-4467-45c3-92eb-beb486d0c4fb",
+      "name": "Potato halwa (Aloo ka halwa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 141.66,
+        "caloriesMax": 161.66,
+        "protein": 1.53,
+        "carbs": 29.18,
+        "fat": 3.48,
+        "fiber": 1.64,
+        "sugar": 17.42,
+        "sodium": 4.23
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato halwa (aloo ka halwa)"
+      ]
+    },
+    {
+      "id": "3964be5c-ce44-4917-b311-0f85f9c41f8d",
+      "name": "Pumpkin halwa (Kaddu ka halwa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 180.27,
+        "caloriesMax": 200.27,
+        "protein": 1.33,
+        "carbs": 27.6,
+        "fat": 8.81,
+        "fiber": 2.97,
+        "sugar": 26.64,
+        "sodium": 8.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pumpkin halwa (kaddu ka halwa)"
+      ]
+    },
+    {
+      "id": "f6204880-c983-4441-a607-c4fdeb17e7ba",
+      "name": "Moong dal halwa",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 339.8,
+        "caloriesMax": 359.8,
+        "protein": 8.35,
+        "carbs": 40.23,
+        "fat": 17.68,
+        "fiber": 2.65,
+        "sugar": 25.59,
+        "sodium": 11.19
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal halwa"
+      ]
+    },
+    {
+      "id": "10e96968-27e1-4518-9630-8e1262443edc",
+      "name": "Caramel custard (steamed)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111.58,
+        "caloriesMax": 131.57999999999998,
+        "protein": 4.97,
+        "carbs": 15.02,
+        "fat": 4.87,
+        "fiber": 0,
+        "sugar": 14.98,
+        "sodium": 43.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "caramel custard (steamed)"
+      ]
+    },
+    {
+      "id": "d17cb8c7-46f0-47fe-81a1-baec833ea162",
+      "name": "Baked custard",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96.53,
+        "caloriesMax": 116.53,
+        "protein": 5.41,
+        "carbs": 9.45,
+        "fat": 5.3,
+        "fiber": 0,
+        "sugar": 9.42,
+        "sodium": 47.13
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baked custard"
+      ]
+    },
+    {
+      "id": "a39a711c-f16e-4258-acbe-37ae98d5fad2",
+      "name": "Soft Custard (stirred)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99.18,
+        "caloriesMax": 119.18,
+        "protein": 5.01,
+        "carbs": 11.19,
+        "fat": 5.07,
+        "fiber": 0,
+        "sugar": 11.15,
+        "sodium": 122.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soft custard (stirred)"
+      ]
+    },
+    {
+      "id": "129a096e-7e50-4a89-9cca-d47ed7224d4f",
+      "name": "Chocolate ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 167.7,
+        "caloriesMax": 187.7,
+        "protein": 4.47,
+        "carbs": 15.41,
+        "fat": 11.25,
+        "fiber": 0,
+        "sugar": 15.33,
+        "sodium": 36.79
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate ice cream"
+      ]
+    },
+    {
+      "id": "36eb66d3-4f16-4066-b820-f59a87286d0b",
+      "name": "Mango ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115.69,
+        "caloriesMax": 135.69,
+        "protein": 3.4,
+        "carbs": 11.14,
+        "fat": 7.62,
+        "fiber": 0.52,
+        "sugar": 11.01,
+        "sodium": 29.13
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango ice cream"
+      ]
+    },
+    {
+      "id": "3c5c82e4-81cd-470b-8a94-fd407133decc",
+      "name": "Fruit Ice cream (Phalon ka Ice cream)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 161.46,
+        "caloriesMax": 181.46,
+        "protein": 4.37,
+        "carbs": 16.05,
+        "fat": 10.38,
+        "fiber": 0.33,
+        "sugar": 14.03,
+        "sodium": 38.78
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit ice cream (phalon ka ice cream)"
+      ]
+    },
+    {
+      "id": "9afcfcd3-5990-44aa-9694-a8b8ca210f1c",
+      "name": "Caramel ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 163.52,
+        "caloriesMax": 183.52,
+        "protein": 4.31,
+        "carbs": 14.81,
+        "fat": 11.15,
+        "fiber": 0.08,
+        "sugar": 14.52,
+        "sodium": 33.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "caramel ice cream"
+      ]
+    },
+    {
+      "id": "9b699a8d-254c-47f2-b4ea-67570f8c3741",
+      "name": "Lemon souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 158.51,
+        "caloriesMax": 178.51,
+        "protein": 6.95,
+        "carbs": 13.43,
+        "fat": 10.02,
+        "fiber": 0,
+        "sugar": 11.67,
+        "sodium": 50.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon souffle"
+      ]
+    },
+    {
+      "id": "48b1a28b-f97d-40dc-be0a-842dc33fc60d",
+      "name": "Orange souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 158.28,
+        "caloriesMax": 178.28,
+        "protein": 6.8,
+        "carbs": 14.2,
+        "fat": 9.73,
+        "fiber": 0.22,
+        "sugar": 12.31,
+        "sodium": 49.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange souffle"
+      ]
+    },
+    {
+      "id": "ee49c043-558a-45cf-ac59-76dc739b223f",
+      "name": "Vanilla souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 177.85,
+        "caloriesMax": 197.85,
+        "protein": 7.71,
+        "carbs": 14.78,
+        "fat": 11.19,
+        "fiber": 0,
+        "sugar": 12.86,
+        "sodium": 56.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vanilla souffle"
+      ]
+    },
+    {
+      "id": "08abe4cf-0d29-4f42-8310-1d55a38063d3",
+      "name": "Chocolate souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 179.32,
+        "caloriesMax": 199.32,
+        "protein": 7.88,
+        "carbs": 14.74,
+        "fat": 11.36,
+        "fiber": 0,
+        "sugar": 12.69,
+        "sodium": 56.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate souffle"
+      ]
+    },
+    {
+      "id": "ee6ea36c-c2cc-4ffb-887c-319db61d7072",
+      "name": "Pineapple souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 186.14,
+        "caloriesMax": 206.14,
+        "protein": 8.06,
+        "carbs": 15.52,
+        "fat": 11.72,
+        "fiber": 0,
+        "sugar": 13.45,
+        "sodium": 59.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple souffle"
+      ]
+    },
+    {
+      "id": "07b72451-528a-485d-899c-82d3eec987ac",
+      "name": "Apple mousse",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96.92,
+        "caloriesMax": 116.92,
+        "protein": 4.21,
+        "carbs": 12.77,
+        "fat": 4.27,
+        "fiber": 1.6,
+        "sugar": 10.56,
+        "sodium": 28.79
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple mousse"
+      ]
+    },
+    {
+      "id": "021add25-c7b8-4054-867a-de48ce33e4e4",
+      "name": "Rich chocolate mousse",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 178.26,
+        "caloriesMax": 198.26,
+        "protein": 7.96,
+        "carbs": 10.84,
+        "fat": 12.19,
+        "fiber": 0,
+        "sugar": 10.3,
+        "sodium": 51.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rich chocolate mousse"
+      ]
+    },
+    {
+      "id": "c1247ff7-521c-48a8-ad9e-052c429dcd65",
+      "name": "Mango mousse",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114.98,
+        "caloriesMax": 134.98000000000002,
+        "protein": 3.21,
+        "carbs": 9.14,
+        "fat": 8.47,
+        "fiber": 0.88,
+        "sugar": 8.89,
+        "sodium": 19.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango mousse"
+      ]
+    },
+    {
+      "id": "56efe7f6-dff2-44e9-bc53-313e949fc093",
+      "name": "Orange and pineapple cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91.18,
+        "caloriesMax": 111.18,
+        "protein": 1.44,
+        "carbs": 11.96,
+        "fat": 5.43,
+        "fiber": 1.03,
+        "sugar": 11.37,
+        "sodium": 10.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange and pineapple cream"
+      ]
+    },
+    {
+      "id": "6b165039-843b-4bc2-89a0-98bcb567c3ac",
+      "name": "Charlotte rousse",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 178.29,
+        "caloriesMax": 198.29,
+        "protein": 3.95,
+        "carbs": 34.08,
+        "fat": 4.78,
+        "fiber": 1.01,
+        "sugar": 20.48,
+        "sodium": 56.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "charlotte rousse"
+      ]
+    },
+    {
+      "id": "7a169975-6403-4316-93dd-03ab636ba641",
+      "name": "Triffle pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106.97,
+        "caloriesMax": 126.97,
+        "protein": 2.93,
+        "carbs": 18.24,
+        "fat": 3.93,
+        "fiber": 0.12,
+        "sugar": 13.89,
+        "sodium": 26.95
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "triffle pudding"
+      ]
+    },
+    {
+      "id": "9b534e1f-2d8b-4d72-9d48-ad44a7220ec6",
+      "name": "Snow flakes pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 85.21,
+        "caloriesMax": 105.21,
+        "protein": 4.67,
+        "carbs": 8.07,
+        "fat": 4.97,
+        "fiber": 0.03,
+        "sugar": 8.01,
+        "sodium": 39.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "snow flakes pudding"
+      ]
+    },
+    {
+      "id": "3c569e81-e024-4ac7-b273-be5faf69be5e",
+      "name": "Kulfi",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 88.43,
+        "caloriesMax": 108.43,
+        "protein": 3.21,
+        "carbs": 11.3,
+        "fat": 4.7,
+        "fiber": 0.12,
+        "sugar": 10.39,
+        "sodium": 23.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kulfi"
+      ]
+    },
+    {
+      "id": "254d6918-abd1-4342-9b44-3bf191acbbc5",
+      "name": "Steamed orange pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 268.03,
+        "caloriesMax": 288.03,
+        "protein": 2.34,
+        "carbs": 41.53,
+        "fat": 12.04,
+        "fiber": 0.58,
+        "sugar": 26.53,
+        "sodium": 79.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "steamed orange pudding"
+      ]
+    },
+    {
+      "id": "3c3db405-c23f-4f5d-ab65-8d5ebf09a51f",
+      "name": "Meringue and rice pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102.93,
+        "caloriesMax": 122.93,
+        "protein": 4.84,
+        "carbs": 14.6,
+        "fat": 4.05,
+        "fiber": 0.17,
+        "sugar": 10.87,
+        "sodium": 44.16
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "meringue and rice pudding"
+      ]
+    },
+    {
+      "id": "d400f7a1-3098-425b-a349-34b1945c832d",
+      "name": "Cheese pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 275.01,
+        "caloriesMax": 295.01,
+        "protein": 11.29,
+        "carbs": 19.27,
+        "fat": 18.37,
+        "fiber": 0.05,
+        "sugar": 18.63,
+        "sodium": 37.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese pudding"
+      ]
+    },
+    {
+      "id": "810455e0-31b5-4985-8eec-79bda790090b",
+      "name": "Chocolate pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 201.96,
+        "caloriesMax": 221.96,
+        "protein": 3.55,
+        "carbs": 29.59,
+        "fat": 9.48,
+        "fiber": 0.53,
+        "sugar": 20.68,
+        "sodium": 171.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate pudding"
+      ]
+    },
+    {
+      "id": "db3c9685-c749-4183-9668-e0229c9e87a9",
+      "name": "Bread and butter pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 157.94,
+        "caloriesMax": 177.94,
+        "protein": 5.59,
+        "carbs": 19.63,
+        "fat": 7.88,
+        "fiber": 0.98,
+        "sugar": 11.84,
+        "sodium": 96.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bread and butter pudding"
+      ]
+    },
+    {
+      "id": "bed05eb7-5cbf-44ab-9bb9-ef581bce70d9",
+      "name": "Queen of pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122.91999999999999,
+        "caloriesMax": 142.92,
+        "protein": 5.51,
+        "carbs": 16.35,
+        "fat": 5.38,
+        "fiber": 0.27,
+        "sugar": 11.77,
+        "sodium": 85.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "queen of pudding"
+      ]
+    },
+    {
+      "id": "97fffb07-0d71-4d77-8105-2497de5f7c42",
+      "name": "Pineapple upside down pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 247.73000000000002,
+        "caloriesMax": 267.73,
