@@ -2538,3 +2538,638 @@
           "name": "1 bowl",
           "weightMinG": 150,
           "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (south indian style)"
+      ]
+    },
+    {
+      "id": "44c514a5-e17a-438d-9ce1-ca8ad6663aae",
+      "name": "Paneer Butter Masala (Bengali style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 197,
+        "protein": 10.762440005338613,
+        "carbs": 8.971277617775243,
+        "fat": 8.805947216486338,
+        "fiber": 4.273692082114225
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (bengali style)"
+      ]
+    },
+    {
+      "id": "60909a6c-bee0-40d6-a076-353c924f9fd4",
+      "name": "Paneer Butter Masala (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 146,
+        "protein": 4.107537641999034,
+        "carbs": 9.972454359772005,
+        "fat": 10.217862475099107,
+        "fiber": 1.153720442778984
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "34ae9b32-c9ef-41cf-a8cd-af7657d9a197",
+      "name": "Paneer Butter Masala (Gujarati style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 147,
+        "protein": 6.413808323637012,
+        "carbs": 13.713839448080545,
+        "fat": 14.391181084265527,
+        "fiber": 4.165710983307237
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (gujarati style)"
+      ]
+    },
+    {
+      "id": "3d1ea19b-4729-4c2e-ae16-6cee5db226b3",
+      "name": "Paneer Butter Masala (Rajasthani)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 145,
+        "protein": 5.723943926015732,
+        "carbs": 11.657151027491707,
+        "fat": 7.192729155759409,
+        "fiber": 2.619607913924489
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (rajasthani)"
+      ]
+    },
+    {
+      "id": "fec4c941-8b71-4c3b-bdc0-262cc0db2663",
+      "name": "Paneer Butter Masala (Home-style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 153,
+        "protein": 5.045746939478934,
+        "carbs": 9.132998837873206,
+        "fat": 13.11874456009181,
+        "fiber": 1.8401635692042149
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (home-style)"
+      ]
+    },
+    {
+      "id": "01dbbfe7-d5c9-4e6e-ac58-7208eeaaee72",
+      "name": "Paneer Butter Masala (Dhaba style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 173,
+        "protein": 5.4883938256912606,
+        "carbs": 9.913712764647407,
+        "fat": 5.265293178922784,
+        "fiber": 2.3820081300561715
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (dhaba style)"
+      ]
+    },
+    {
+      "id": "ed082d2d-1ac5-4ea0-9e9d-46c67c2b777d",
+      "name": "Paneer Butter Masala (Restaurant style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 193,
+        "protein": 2.2743864785331693,
+        "carbs": 10.107638884144926,
+        "fat": 13.397536986865523,
+        "fiber": 2.801550576572818
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer butter masala (restaurant style)"
+      ]
+    },
+    {
+      "id": "3e6b7453-f088-47e0-9ee0-f705fa87477c",
+      "name": "Kadai Paneer",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 141,
+        "protein": 6.7540498830975375,
+        "carbs": 14.894094948204586,
+        "fat": 7.181905700997469,
+        "fiber": 1.256239592945429
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "kadai paneer",
+        "KadaiPaneer"
+      ]
+    },
+    {
+      "id": "f62b4586-ba2a-418b-b8d6-367ee81e2110",
+      "name": "Kadai Paneer (Punjabi)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 176,
+        "protein": 6.560541202783445,
+        "carbs": 11.670385325693097,
+        "fat": 8.050244998534001,
+        "fiber": 4.0371713860423375
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (punjabi)"
+      ]
+    },
+    {
+      "id": "eaaae5fc-8bf9-432e-9d8a-b793a743558c",
+      "name": "Kadai Paneer (South Indian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 194,
+        "protein": 8.06812376767601,
+        "carbs": 7.047696244366126,
+        "fat": 4.104548007501652,
+        "fiber": 4.795249909440152
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (south indian style)"
+      ]
+    },
+    {
+      "id": "2f1d83fd-0e57-434b-8139-e28eac09ad48",
+      "name": "Kadai Paneer (Bengali style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 182,
+        "protein": 4.360709951450367,
+        "carbs": 6.751921029170464,
+        "fat": 11.51141005183158,
+        "fiber": 3.770917196558006
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (bengali style)"
+      ]
+    },
+    {
+      "id": "9e556504-34a0-4bd5-aea4-9bf006842037",
+      "name": "Kadai Paneer (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 154,
+        "protein": 3.9984437487401783,
+        "carbs": 13.595485669055469,
+        "fat": 11.84627265744739,
+        "fiber": 2.09471013024972
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "7b4941ac-df46-49ad-80f6-addb7146a6f6",
+      "name": "Kadai Paneer (Gujarati style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 198,
+        "protein": 6.5046723190978275,
+        "carbs": 5.67162311366887,
+        "fat": 14.491866882515462,
+        "fiber": 3.801345738407142
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (gujarati style)"
+      ]
+    },
+    {
+      "id": "bf7c790b-16cc-4997-a471-3018297eb936",
+      "name": "Kadai Paneer (Rajasthani)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 192,
+        "protein": 3.1823179635489867,
+        "carbs": 11.039525515989782,
+        "fat": 14.515800489510676,
+        "fiber": 1.7444104364789443
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (rajasthani)"
+      ]
+    },
+    {
+      "id": "ca2f291e-4352-4325-9f08-def07b374a00",
+      "name": "Kadai Paneer (Home-style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 141,
+        "protein": 5.3302893902435615,
+        "carbs": 7.6467041058732255,
+        "fat": 4.749335273314198,
+        "fiber": 4.8984201299769445
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (home-style)"
+      ]
+    },
+    {
+      "id": "7f4af473-f307-4075-9d7e-588f5e9cf9e4",
+      "name": "Kadai Paneer (Dhaba style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 174,
+        "protein": 9.30418926574049,
+        "carbs": 10.111779489487322,
+        "fat": 5.4881097957742275,
+        "fiber": 1.6884817488385169
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (dhaba style)"
+      ]
+    },
+    {
+      "id": "0c532e66-d5e0-48c9-b5c3-6c09717612d5",
+      "name": "Kadai Paneer (Restaurant style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 147,
+        "protein": 4.042467763174846,
+        "carbs": 9.455804594905395,
+        "fat": 5.093117090830779,
+        "fiber": 1.2358739256805427
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai paneer (restaurant style)"
+      ]
+    },
+    {
+      "id": "ece17cc7-cd0e-4746-b389-f6c4a0cdfb66",
+      "name": "Palak Paneer",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 172,
+        "protein": 7.505391315542951,
+        "carbs": 6.749819744495284,
+        "fat": 10.165228287575218,
+        "fiber": 3.8656403119563953
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "palak paneer",
+        "PalakPaneer"
+      ]
+    },
+    {
+      "id": "7dba3294-b76b-4084-8b90-0aed764a6efa",
+      "name": "Palak Paneer (Punjabi)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92,
+        "caloriesMax": 182,
+        "protein": 4.902563010416257,
+        "carbs": 10.344188142475675,
+        "fat": 9.385861204067261,
+        "fiber": 3.9560991981760063
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (punjabi)"
+      ]
+    },
+    {
+      "id": "9eef7879-e999-4802-b89c-74a19ce13f4e",
+      "name": "Palak Paneer (South Indian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 185,
+        "protein": 4.315596649148883,
+        "carbs": 8.344815953458788,
+        "fat": 14.595419826975117,
+        "fiber": 2.8110075114419164
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (south indian style)"
+      ]
+    },
+    {
+      "id": "df6df5ce-6ec9-47fd-abea-7584222ef08c",
+      "name": "Palak Paneer (Bengali style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 151,
+        "protein": 8.704406805419353,
+        "carbs": 11.666643533650996,
+        "fat": 4.837818257875153,
