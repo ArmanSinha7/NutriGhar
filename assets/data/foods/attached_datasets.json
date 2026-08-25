@@ -11350,3 +11350,1035 @@
           "name": "1 serving",
           "weightMinG": 100,
           "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bread pakora/pakoda"
+      ]
+    },
+    {
+      "id": "d4226c39-b1a0-46b9-a482-ab6077a1f4be",
+      "name": "Paneer pakora/pakoda",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 708.12,
+        "caloriesMax": 728.12,
+        "protein": 3.27,
+        "carbs": 5.52,
+        "fat": 76.05,
+        "fiber": 0.89,
+        "sugar": 1.08,
+        "sodium": 131.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer pakora/pakoda"
+      ]
+    },
+    {
+      "id": "3a2b741f-88a3-420d-8cf7-a321fa592d7b",
+      "name": "Potato bonda (Aloo bonda)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 622.84,
+        "caloriesMax": 642.84,
+        "protein": 1.09,
+        "carbs": 4.53,
+        "fat": 67.8,
+        "fiber": 0.83,
+        "sugar": 0.27,
+        "sodium": 132.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato bonda (aloo bonda)"
+      ]
+    },
+    {
+      "id": "69305568-f414-4887-b9c0-51fa4e254eb9",
+      "name": "Potato samosa (Aloo ka samosa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 567.39,
+        "caloriesMax": 587.39,
+        "protein": 1.71,
+        "carbs": 9.21,
+        "fat": 59.19,
+        "fiber": 1.19,
+        "sugar": 0.29,
+        "sodium": 77.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato samosa (aloo ka samosa)"
+      ]
+    },
+    {
+      "id": "c5da901d-1dda-455b-83c0-09ad3fb84e10",
+      "name": "Minced meat samosa (Keema ka samosa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 610.99,
+        "caloriesMax": 630.99,
+        "protein": 4.43,
+        "carbs": 6.14,
+        "fat": 64.26,
+        "fiber": 0.39,
+        "sugar": 0.5,
+        "sodium": 88.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "minced meat samosa (keema ka samosa)"
+      ]
+    },
+    {
+      "id": "f747c0ff-3fff-498b-8865-8295b0073cdf",
+      "name": "Paneer and pea samosa (Paneer matar ka samosa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 613.81,
+        "caloriesMax": 633.81,
+        "protein": 4.02,
+        "carbs": 8.55,
+        "fat": 63.65,
+        "fiber": 1.02,
+        "sugar": 1.69,
+        "sodium": 78.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer and pea samosa (paneer matar ka samosa)"
+      ]
+    },
+    {
+      "id": "69cffe17-ac0b-4fff-b880-84b211730889",
+      "name": "Mathri",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 795.12,
+        "caloriesMax": 815.12,
+        "protein": 1.75,
+        "carbs": 12.32,
+        "fat": 83.1,
+        "fiber": 0.6,
+        "sugar": 0.29,
+        "sodium": 64.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mathri"
+      ]
+    },
+    {
+      "id": "50b5fab4-238f-463e-9af9-886ea0237c54",
+      "name": "Khasta kachori",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 702.73,
+        "caloriesMax": 722.73,
+        "protein": 2.51,
+        "carbs": 12.81,
+        "fat": 72.27,
+        "fiber": 0.97,
+        "sugar": 0.34,
+        "sodium": 90.56
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khasta kachori"
+      ]
+    },
+    {
+      "id": "4a8138db-ca7e-4d82-be53-cd0ca1e473ce",
+      "name": "Vegetable cutlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 655.45,
+        "caloriesMax": 675.45,
+        "protein": 1.25,
+        "carbs": 4.68,
+        "fat": 71.33,
+        "fiber": 0.93,
+        "sugar": 0.35,
+        "sodium": 85.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable cutlet"
+      ]
+    },
+    {
+      "id": "e471b0e0-a2be-4497-83e7-8337a74fb573",
+      "name": "Flattened rice cutlet (Chirwa cutlet/Chivda cutlet/Poha cutlet)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 691.71,
+        "caloriesMax": 711.71,
+        "protein": 1.76,
+        "carbs": 7.39,
+        "fat": 73.89,
+        "fiber": 0.86,
+        "sugar": 0.27,
+        "sodium": 76.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "flattened rice cutlet (chirwa cutlet/chivda cutlet/poha cutlet)"
+      ]
+    },
+    {
+      "id": "f8d1eb98-fd7b-4144-b764-54ac652098f7",
+      "name": "Peanut cutlet (Mungfali ke cutlet)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 688.77,
+        "caloriesMax": 708.77,
+        "protein": 2.63,
+        "carbs": 5.68,
+        "fat": 74.0,
+        "fiber": 1.21,
+        "sugar": 0.51,
+        "sodium": 84.24
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut cutlet (mungfali ke cutlet)"
+      ]
+    },
+    {
+      "id": "cceb4cd3-fab2-4c11-ac6a-3c5a6e012de8",
+      "name": "Fish cutlet (Machli ka cutlet)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 644.64,
+        "caloriesMax": 664.64,
+        "protein": 2.77,
+        "carbs": 3.13,
+        "fat": 70.11,
+        "fiber": 0.54,
+        "sugar": 0.29,
+        "sodium": 75.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish cutlet (machli ka cutlet)"
+      ]
+    },
+    {
+      "id": "787a4399-a4ba-40cf-a2f4-dbfb743f0f66",
+      "name": "Paneer potato cutlet (Paneer aloo cutlet)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 662.94,
+        "caloriesMax": 682.94,
+        "protein": 2.47,
+        "carbs": 5.23,
+        "fat": 71.4,
+        "fiber": 0.41,
+        "sugar": 1.02,
+        "sodium": 85.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer potato cutlet (paneer aloo cutlet)"
+      ]
+    },
+    {
+      "id": "94e25557-07c9-4134-8488-50935f197e65",
+      "name": "Spinach chickpeas cutlet (Palak channa dal cutlet)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 678.03,
+        "caloriesMax": 698.03,
+        "protein": 1.44,
+        "carbs": 4.93,
+        "fat": 73.6,
+        "fiber": 0.93,
+        "sugar": 0.16,
+        "sodium": 79.13
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach chickpeas cutlet (palak channa dal cutlet)"
+      ]
+    },
+    {
+      "id": "e6da57a5-fc15-4e22-b2b4-18c75d027f2b",
+      "name": "Cheese toast",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 775.37,
+        "caloriesMax": 795.37,
+        "protein": 1.98,
+        "carbs": 5.49,
+        "fat": 84.11,
+        "fiber": 0.31,
+        "sugar": 0.53,
+        "sodium": 121.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese toast"
+      ]
+    },
+    {
+      "id": "fb63c0ad-625e-45da-86c0-22ea88bb63ce",
+      "name": "Vegetable burger",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 509.92999999999995,
+        "caloriesMax": 529.93,
+        "protein": 3.26,
+        "carbs": 13.69,
+        "fat": 50.63,
+        "fiber": 1.7,
+        "sugar": 1.88,
+        "sodium": 168.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable burger"
+      ]
+    },
+    {
+      "id": "45efce63-581a-4453-9391-11ae649f0e3e",
+      "name": "Cheese pizza",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 239.5,
+        "caloriesMax": 259.5,
+        "protein": 5.79,
+        "carbs": 30.62,
+        "fat": 12.43,
+        "fiber": 1.95,
+        "sugar": 3.42,
+        "sodium": 397.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese pizza"
+      ]
+    },
+    {
+      "id": "047cc192-db98-4abf-ac88-d490aacb2a16",
+      "name": "Vegetable seekh kebab",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 680.73,
+        "caloriesMax": 700.73,
+        "protein": 1.57,
+        "carbs": 5.32,
+        "fat": 73.72,
+        "fiber": 0.59,
+        "sugar": 0.74,
+        "sodium": 83.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable seekh kebab"
+      ]
+    },
+    {
+      "id": "ab28bc80-f0c7-4a4a-b369-8eef53d869e1",
+      "name": "Masala vada",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 816.02,
+        "caloriesMax": 836.02,
+        "protein": 1.69,
+        "carbs": 4.06,
+        "fat": 89.15,
+        "fiber": 1.07,
+        "sugar": 0.24,
+        "sodium": 74.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala vada"
+      ]
+    },
+    {
+      "id": "3c142d29-f1ed-4f86-a543-3094121407bd",
+      "name": "Peanut sago vada (Sabudana mungfali vada)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 739.89,
+        "caloriesMax": 759.89,
+        "protein": 1.01,
+        "carbs": 7.14,
+        "fat": 79.82,
+        "fiber": 0.62,
+        "sugar": 0.19,
+        "sodium": 71.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut sago vada (sabudana mungfali vada)"
+      ]
+    },
+    {
+      "id": "93d12f87-25dd-49e3-bdd5-2ce4bd6639e8",
+      "name": "Vegeterian scotch egg",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 671.67,
+        "caloriesMax": 691.67,
+        "protein": 2.16,
+        "carbs": 4.64,
+        "fat": 72.77,
+        "fiber": 0.58,
+        "sugar": 0.23,
+        "sodium": 93.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegeterian scotch egg"
+      ]
+    },
+    {
+      "id": "f1a63c93-74ff-4f75-aeeb-0d166731e9b1",
+      "name": "Paneer shaslik/tikka",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 83.85,
+        "caloriesMax": 103.85,
+        "protein": 5.11,
+        "carbs": 7.98,
+        "fat": 4.49,
+        "fiber": 1.23,
+        "sugar": 4.61,
+        "sodium": 103.39
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer shaslik/tikka"
+      ]
+    },
+    {
+      "id": "ab13d583-aa4a-44f6-8da9-41815ccdfb47",
+      "name": "Peanut brittle (Moongfali ki chikki)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 310.46,
+        "caloriesMax": 330.46,
+        "protein": 6.94,
+        "carbs": 47.46,
+        "fat": 11.13,
+        "fiber": 2.63,
+        "sugar": 43.92,
+        "sodium": 15.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut brittle (moongfali ki chikki)"
+      ]
+    },
+    {
+      "id": "846b5759-421d-46c0-83fc-d43c77446393",
+      "name": "Spring roll",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 613.87,
+        "caloriesMax": 633.87,
+        "protein": 1.81,
+        "carbs": 8.56,
+        "fat": 64.63,
+        "fiber": 0.67,
+        "sugar": 0.6,
+        "sodium": 132.84
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spring roll"
+      ]
+    },
+    {
+      "id": "35ba0edc-d98a-4040-8324-e98611388a7b",
+      "name": "Dry mango chutney (Sookhe aam ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 288.13,
+        "caloriesMax": 308.13,
+        "protein": 2.43,
+        "carbs": 69.17,
+        "fat": 0.7,
+        "fiber": 3.74,
+        "sugar": 61.86,
+        "sodium": 437.91
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dry mango chutney (sookhe aam ki chutney)"
+      ]
+    },
+    {
+      "id": "05a12db9-1aff-400e-bb24-077351491a40",
+      "name": "Peanut chutney (Mungfali ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 248.37,
+        "caloriesMax": 268.37,
+        "protein": 11.8,
+        "carbs": 9.87,
+        "fat": 19.06,
+        "fiber": 5.73,
+        "sugar": 2.76,
+        "sodium": 475.34
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut chutney (mungfali ki chutney)"
+      ]
+    },
+    {
+      "id": "8d7c769b-edf3-4658-992d-4f024fccf534",
+      "name": "Coconut chutney (Nariyal ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 255.92000000000002,
+        "caloriesMax": 275.92,
+        "protein": 3.59,
+        "carbs": 8.29,
+        "fat": 25.0,
+        "fiber": 6.73,
+        "sugar": 3.79,
+        "sodium": 428.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut chutney (nariyal ki chutney)"
+      ]
+    },
+    {
+      "id": "e308aa22-2457-4c1b-a521-2802bb2fcbec",
+      "name": "Mint and coriander chutney (Pudinay aur dhaniye ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92.6,
+        "caloriesMax": 112.6,
+        "protein": 2.81,
+        "carbs": 21.18,
+        "fat": 0.51,
+        "fiber": 4.33,
+        "sugar": 15.88,
+        "sodium": 391.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mint and coriander chutney (pudinay aur dhaniye ki chutney)"
+      ]
+    },
+    {
+      "id": "d3a74a5d-1723-4c7b-9283-eb8a806b2f1f",
+      "name": "Custard tart",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 215.6,
+        "caloriesMax": 235.6,
+        "protein": 3.72,
+        "carbs": 28.66,
+        "fat": 10.73,
+        "fiber": 0.91,
+        "sugar": 9.31,
+        "sodium": 59.74
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "custard tart"
+      ]
+    },
+    {
+      "id": "eda5be16-31e7-4772-a3c4-d5bc2d44d8ac",
+      "name": "Lemon tart",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 293.35,
+        "caloriesMax": 313.35,
+        "protein": 6.12,
+        "carbs": 30.68,
+        "fat": 17.45,
+        "fiber": 0.81,
+        "sugar": 10.68,
+        "sodium": 76.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon tart"
+      ]
+    },
+    {
+      "id": "d128d72c-88c6-4533-aa10-33a175ab3422",
+      "name": "Jam tart",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 350.72,
+        "caloriesMax": 370.72,
+        "protein": 4.42,
+        "carbs": 46.18,
+        "fat": 17.35,
+        "fiber": 1.14,
+        "sugar": 14.74,
+        "sodium": 70.34
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jam tart"
+      ]
+    },
+    {
+      "id": "269664e3-ce6d-458e-9a8e-068124dc9847",
+      "name": "Orange cream tart",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
