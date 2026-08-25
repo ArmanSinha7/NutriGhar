@@ -10318,3 +10318,1035 @@
       "per100g": {
         "caloriesMin": 247.73000000000002,
         "caloriesMax": 267.73,
+        "protein": 3.15,
+        "carbs": 35.73,
+        "fat": 11.91,
+        "fiber": 0.8,
+        "sugar": 22.16,
+        "sodium": 74.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple upside down pudding"
+      ]
+    },
+    {
+      "id": "88f771fe-6397-4b9d-b462-6606d509a541",
+      "name": "Date and nut pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 312.42,
+        "caloriesMax": 332.42,
+        "protein": 3.93,
+        "carbs": 46.86,
+        "fat": 13.31,
+        "fiber": 4.13,
+        "sugar": 31.18,
+        "sodium": 3.87
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "date and nut pie"
+      ]
+    },
+    {
+      "id": "c55ae2cd-92ac-450c-900a-7cc59b753ee2",
+      "name": "Stewed apple with custard",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 82.87,
+        "caloriesMax": 102.87,
+        "protein": 1.27,
+        "carbs": 18.36,
+        "fat": 1.82,
+        "fiber": 1.01,
+        "sugar": 15.46,
+        "sodium": 16.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stewed apple with custard"
+      ]
+    },
+    {
+      "id": "a37f3cf4-04a6-43fa-b256-893baeab2902",
+      "name": "Apple snowballs",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91.51,
+        "caloriesMax": 111.51,
+        "protein": 0.86,
+        "carbs": 24.58,
+        "fat": 0.31,
+        "fiber": 1.25,
+        "sugar": 19.4,
+        "sodium": 12.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple snowballs"
+      ]
+    },
+    {
+      "id": "ccffd792-65cd-4eb2-ad00-42b65d6a67d5",
+      "name": "Hot orange souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 169.97,
+        "caloriesMax": 189.97,
+        "protein": 6.87,
+        "carbs": 18.77,
+        "fat": 8.95,
+        "fiber": 0.29,
+        "sugar": 14.93,
+        "sodium": 58.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot orange souffle"
+      ]
+    },
+    {
+      "id": "effd64a0-07a2-42e0-82d1-7c1e314c7145",
+      "name": "Hot chocolate souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 216.09,
+        "caloriesMax": 236.09,
+        "protein": 6.7,
+        "carbs": 26.21,
+        "fat": 11.1,
+        "fiber": 0.12,
+        "sugar": 22.88,
+        "sodium": 54.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot chocolate souffle"
+      ]
+    },
+    {
+      "id": "70ce1623-8437-463e-b700-dfc84a44d795",
+      "name": "Hot vanilla souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 182.93,
+        "caloriesMax": 202.93,
+        "protein": 6.87,
+        "carbs": 21.77,
+        "fat": 9.07,
+        "fiber": 0.13,
+        "sugar": 18.17,
+        "sodium": 59.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot vanilla souffle"
+      ]
+    },
+    {
+      "id": "c8977316-f511-40c8-9e9f-1c79c756b4d6",
+      "name": "Plain burfi (Burfi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 398.32,
+        "caloriesMax": 418.32,
+        "protein": 9.82,
+        "carbs": 30.88,
+        "fat": 27.96,
+        "fiber": 0.17,
+        "sugar": 30.43,
+        "sodium": 31.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "plain burfi (burfi)"
+      ]
+    },
+    {
+      "id": "13dc5978-306b-458c-bb61-8107832ce1f8",
+      "name": "Coconut burfi (Nariyal ki burfi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 457.64,
+        "caloriesMax": 477.64,
+        "protein": 8.81,
+        "carbs": 32.15,
+        "fat": 34.63,
+        "fiber": 3.5,
+        "sugar": 31.5,
+        "sodium": 27.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut burfi (nariyal ki burfi)"
+      ]
+    },
+    {
+      "id": "6e3cf02b-39ba-4f9a-92f3-c3e962f2130c",
+      "name": "Bottle gourd burfi (Ghiya/Lauki burfi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 265.96,
+        "caloriesMax": 285.96,
+        "protein": 5.86,
+        "carbs": 24.51,
+        "fat": 17.68,
+        "fiber": 0.73,
+        "sugar": 23.92,
+        "sodium": 18.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bottle gourd burfi (ghiya/lauki burfi)"
+      ]
+    },
+    {
+      "id": "a6db6da8-af9f-4f4e-add0-645740e4e59e",
+      "name": "Chocolate burfi",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 329.33,
+        "caloriesMax": 349.33,
+        "protein": 13.0,
+        "carbs": 33.15,
+        "fat": 17.86,
+        "fiber": 0,
+        "sugar": 32.38,
+        "sodium": 39.32
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate burfi"
+      ]
+    },
+    {
+      "id": "a21006da-d6f6-444c-9598-b60fec59dc84",
+      "name": "Cashewnut burfi (Kaju burfi/Kaju katli)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 411.74,
+        "caloriesMax": 431.74,
+        "protein": 5.48,
+        "carbs": 37.92,
+        "fat": 28.46,
+        "fiber": 1.12,
+        "sugar": 31.43,
+        "sodium": 4.23
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cashewnut burfi (kaju burfi/kaju katli)"
+      ]
+    },
+    {
+      "id": "172f46d3-149b-498c-8468-08dffa9ad937",
+      "name": "Gram flour burfi (Besan burfi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 411.79,
+        "caloriesMax": 431.79,
+        "protein": 11.19,
+        "carbs": 46.59,
+        "fat": 22.41,
+        "fiber": 3.41,
+        "sugar": 28.44,
+        "sodium": 13.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gram flour burfi (besan burfi)"
+      ]
+    },
+    {
+      "id": "26391af9-302a-4d1c-b5e9-fd1d2b6bd294",
+      "name": "Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo )",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 418.71,
+        "caloriesMax": 438.71,
+        "protein": 6.71,
+        "carbs": 52.86,
+        "fat": 21.86,
+        "fiber": 4.68,
+        "sugar": 33.28,
+        "sodium": 14.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina ladoo with khoya (suji/rava aur khoye ke ladoo )"
+      ]
+    },
+    {
+      "id": "2511150f-ec38-4eb0-8bcb-8196a859b21b",
+      "name": "Semolina ladoo with coconut (Suji/Rava aur nariyal ke ladoo )",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 454.43,
+        "caloriesMax": 474.43,
+        "protein": 5.68,
+        "carbs": 50.9,
+        "fat": 27.03,
+        "fiber": 6.69,
+        "sugar": 27.32,
+        "sodium": 9.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina ladoo with coconut (suji/rava aur nariyal ke ladoo )"
+      ]
+    },
+    {
+      "id": "ceef3a97-7570-4fff-be90-5f366f952bb2",
+      "name": "Gram flour ladoo (Besan ladoo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 466.91,
+        "caloriesMax": 486.91,
+        "protein": 8.93,
+        "carbs": 62.61,
+        "fat": 22.76,
+        "fiber": 4.43,
+        "sugar": 37.76,
+        "sodium": 5.48
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gram flour ladoo (besan ladoo)"
+      ]
+    },
+    {
+      "id": "b65db935-e883-4744-8e50-db40768a311a",
+      "name": "Sesame ladoo (Til ke ladoo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 386.96,
+        "caloriesMax": 406.96,
+        "protein": 10.7,
+        "carbs": 43.5,
+        "fat": 19.64,
+        "fiber": 7.72,
+        "sugar": 38.63,
+        "sodium": 18.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sesame ladoo (til ke ladoo)"
+      ]
+    },
+    {
+      "id": "22f311d9-e939-4c59-be7c-8d19f2f56c1f",
+      "name": "Chenna murki",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 242.69,
+        "caloriesMax": 262.69,
+        "protein": 10.46,
+        "carbs": 36.01,
+        "fat": 8.2,
+        "fiber": 0,
+        "sugar": 35.55,
+        "sodium": 11.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chenna murki"
+      ]
+    },
+    {
+      "id": "1957ed5d-d2dd-4440-9220-40e8ebe69a05",
+      "name": "Milk cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117.41,
+        "caloriesMax": 137.41,
+        "protein": 3.01,
+        "carbs": 9.13,
+        "fat": 8.93,
+        "fiber": 0.06,
+        "sugar": 8.9,
+        "sodium": 24.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "milk cake"
+      ]
+    },
+    {
+      "id": "ec1f096d-2e99-4894-b60b-95b745a5db3f",
+      "name": "Ghujia/Lavang latika",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 758.98,
+        "caloriesMax": 778.98,
+        "protein": 1.86,
+        "carbs": 13.0,
+        "fat": 78.93,
+        "fiber": 0.52,
+        "sugar": 6.08,
+        "sodium": 3.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ghujia/lavang latika"
+      ]
+    },
+    {
+      "id": "b9904244-3e69-4553-b79e-6faacfa6f534",
+      "name": "Gulab Jamun with khoya",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 576.06,
+        "caloriesMax": 596.06,
+        "protein": 2.03,
+        "carbs": 26.09,
+        "fat": 53.23,
+        "fiber": 0.07,
+        "sugar": 24.12,
+        "sodium": 15.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gulab jamun with khoya"
+      ]
+    },
+    {
+      "id": "5ba98773-14eb-4e67-a75d-be2270e781ba",
+      "name": "Mal pua",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 556.68,
+        "caloriesMax": 576.68,
+        "protein": 1.71,
+        "carbs": 17.56,
+        "fat": 54.64,
+        "fiber": 0.62,
+        "sugar": 11.77,
+        "sodium": 6.35
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mal pua"
+      ]
+    },
+    {
+      "id": "11f72801-d6a3-4a3d-9b2b-292d57ad808b",
+      "name": "Shahi tukre",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 179.81,
+        "caloriesMax": 199.81,
+        "protein": 2.76,
+        "carbs": 41.46,
+        "fat": 2.54,
+        "fiber": 0.51,
+        "sugar": 34.7,
+        "sodium": 71.04
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shahi tukre"
+      ]
+    },
+    {
+      "id": "ace01126-fe9c-4a72-ba05-1c0d040e7b3d",
+      "name": "Potato pakora/pakoda (Aloo pakoda)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 667.19,
+        "caloriesMax": 687.19,
+        "protein": 1.9,
+        "carbs": 6.04,
+        "fat": 71.84,
+        "fiber": 1.03,
+        "sugar": 0.22,
+        "sodium": 63.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato pakora/pakoda (aloo pakoda)"
+      ]
+    },
+    {
+      "id": "c56fd707-e39d-4294-980e-3d3e6dc74c0c",
+      "name": "Onion pakora/pakoda (Pyaaz ke pakode)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 664.61,
+        "caloriesMax": 684.61,
+        "protein": 1.9,
+        "carbs": 5.41,
+        "fat": 71.84,
+        "fiber": 1.11,
+        "sugar": 0.88,
+        "sodium": 63.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion pakora/pakoda (pyaaz ke pakode)"
+      ]
+    },
+    {
+      "id": "492b64db-12a0-4e20-8006-268af94ae7b6",
+      "name": "Cauliflower pakora/pakoda (Phoolgobhi ke pakode)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 661.63,
+        "caloriesMax": 681.63,
+        "protein": 1.98,
+        "carbs": 4.52,
+        "fat": 71.86,
+        "fiber": 1.26,
+        "sugar": 0.23,
+        "sodium": 66.54
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cauliflower pakora/pakoda (phoolgobhi ke pakode)"
+      ]
+    },
+    {
+      "id": "88b8983a-121d-4011-b716-a36781147c51",
+      "name": "Mixed vegetable pakora/pakoda",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 663.81,
+        "caloriesMax": 683.81,
+        "protein": 1.94,
+        "carbs": 5.12,
+        "fat": 71.86,
+        "fiber": 1.13,
+        "sugar": 0.38,
+        "sodium": 65.35
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed vegetable pakora/pakoda"
+      ]
+    },
+    {
+      "id": "e039f8f0-7e0e-4fdd-8632-6d1ab6d7c1eb",
+      "name": "Spinach pakora/pakoda (Palak pakoda)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 702.62,
+        "caloriesMax": 722.62,
+        "protein": 1.96,
+        "carbs": 4.68,
+        "fat": 76.38,
+        "fiber": 1.02,
+        "sugar": 0.2,
+        "sodium": 69.54
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach pakora/pakoda (palak pakoda)"
+      ]
+    },
+    {
+      "id": "794022ed-c9f7-4e30-870d-1080bd7283c7",
+      "name": "Methi pakora/pakoda (Methi ke pakode)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 703.25,
+        "caloriesMax": 723.25,
+        "protein": 2.06,
+        "carbs": 4.68,
+        "fat": 76.39,
+        "fiber": 1.18,
+        "sugar": 0.25,
+        "sodium": 69.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi pakora/pakoda (methi ke pakode)"
+      ]
+    },
+    {
+      "id": "11995825-7e12-49ce-b7b9-d76058e4c732",
+      "name": "Egg pakora/pakoda (Ande ke pakode)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 700.51,
+        "caloriesMax": 720.51,
+        "protein": 2.83,
+        "carbs": 4.48,
+        "fat": 75.86,
+        "fiber": 0.86,
+        "sugar": 0.19,
+        "sodium": 75.37
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg pakora/pakoda (ande ke pakode)"
+      ]
+    },
+    {
+      "id": "3751bf06-7454-47f5-9385-7f8c424e82db",
+      "name": "Bread pakora/pakoda",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 700.99,
+        "caloriesMax": 720.99,
+        "protein": 2.57,
+        "carbs": 8.87,
+        "fat": 74.2,
+        "fiber": 1.11,
+        "sugar": 0.46,
+        "sodium": 101.49
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
