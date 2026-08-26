@@ -3173,3 +3173,638 @@
         "protein": 8.704406805419353,
         "carbs": 11.666643533650996,
         "fat": 4.837818257875153,
+        "fiber": 1.489753617624634
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (bengali style)"
+      ]
+    },
+    {
+      "id": "9b0c5bf6-4d0c-4ce6-94c7-8579ae51b478",
+      "name": "Palak Paneer (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 186,
+        "protein": 7.4341494766682965,
+        "carbs": 6.851519554443469,
+        "fat": 5.154937905778853,
+        "fiber": 3.2798998894873543
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "a708d975-1289-41f8-b97d-e106f1266ede",
+      "name": "Palak Paneer (Gujarati style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 174,
+        "protein": 6.506167129817838,
+        "carbs": 9.238881726357492,
+        "fat": 6.686826294474436,
+        "fiber": 3.0946637022068355
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (gujarati style)"
+      ]
+    },
+    {
+      "id": "3343c644-6380-4ea4-907b-84272c15ae93",
+      "name": "Palak Paneer (Rajasthani)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 172,
+        "protein": 8.207385967983488,
+        "carbs": 5.939443654970243,
+        "fat": 12.560626867567203,
+        "fiber": 3.056759407303878
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (rajasthani)"
+      ]
+    },
+    {
+      "id": "b95e1979-9a35-4360-9bdf-6d8554d7e0b2",
+      "name": "Palak Paneer (Home-style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 197,
+        "protein": 2.2327233903973047,
+        "carbs": 5.632066447981315,
+        "fat": 9.17140193661104,
+        "fiber": 4.444164167926349
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (home-style)"
+      ]
+    },
+    {
+      "id": "8656485f-0409-4890-af8f-a1eb48ecee5e",
+      "name": "Palak Paneer (Dhaba style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 144,
+        "protein": 7.051416540566219,
+        "carbs": 8.81340465628214,
+        "fat": 8.64469532993546,
+        "fiber": 4.170338500369562
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (dhaba style)"
+      ]
+    },
+    {
+      "id": "e23116f4-8977-48a1-9a76-b07a4ad63ed9",
+      "name": "Palak Paneer (Restaurant style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 198,
+        "protein": 3.4455435995227726,
+        "carbs": 8.980088056451017,
+        "fat": 5.7599553620225326,
+        "fiber": 4.600093942825691
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "palak paneer (restaurant style)"
+      ]
+    },
+    {
+      "id": "a2141269-dc97-4878-b881-342812503537",
+      "name": "Matar Paneer",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 156,
+        "protein": 10.191902366225179,
+        "carbs": 12.832297097698685,
+        "fat": 10.360143612702348,
+        "fiber": 4.560718966973591
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "matar paneer",
+        "MatarPaneer"
+      ]
+    },
+    {
+      "id": "a481cda0-28d1-468f-96e9-8379c30705fe",
+      "name": "Matar Paneer (Punjabi)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 174,
+        "protein": 2.4544418051985466,
+        "carbs": 13.194168072537455,
+        "fat": 13.216158084305185,
+        "fiber": 1.052972586533616
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (punjabi)"
+      ]
+    },
+    {
+      "id": "ddc213ac-a439-4a64-9cf7-a66fc191c982",
+      "name": "Matar Paneer (South Indian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122,
+        "caloriesMax": 199,
+        "protein": 3.1686373876527725,
+        "carbs": 7.546763497067113,
+        "fat": 8.67575956538031,
+        "fiber": 1.9300824903170564
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (south indian style)"
+      ]
+    },
+    {
+      "id": "b71d98e8-3fbd-46e8-be18-9207112441c4",
+      "name": "Matar Paneer (Bengali style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129,
+        "caloriesMax": 152,
+        "protein": 9.797974322401775,
+        "carbs": 10.701119854732166,
+        "fat": 13.156729155919686,
+        "fiber": 1.8213127894326022
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (bengali style)"
+      ]
+    },
+    {
+      "id": "51de7241-5162-45f5-99e4-e47543b68d11",
+      "name": "Matar Paneer (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 185,
+        "protein": 2.9051193279998837,
+        "carbs": 13.17196260598353,
+        "fat": 5.164831844710529,
+        "fiber": 2.813453176951537
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "1da9dd01-ce4b-43a2-91a7-844b2b250aa5",
+      "name": "Matar Paneer (Gujarati style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 149,
+        "protein": 2.9524300556293586,
+        "carbs": 12.598944593668705,
+        "fat": 8.751513627584067,
+        "fiber": 4.267961546584125
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (gujarati style)"
+      ]
+    },
+    {
+      "id": "901a151a-84bd-442a-8c6a-c70b1c401449",
+      "name": "Matar Paneer (Rajasthani)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 171,
+        "protein": 8.619753236096262,
+        "carbs": 13.000669655521062,
+        "fat": 9.664903008281186,
+        "fiber": 3.830638794370678
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (rajasthani)"
+      ]
+    },
+    {
+      "id": "bb322818-fc3a-47be-9ab0-c44efc7586d4",
+      "name": "Matar Paneer (Home-style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 195,
+        "protein": 3.7090185077269346,
+        "carbs": 12.094405742902126,
+        "fat": 4.611034077311675,
+        "fiber": 4.526457789174634
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (home-style)"
+      ]
+    },
+    {
+      "id": "db0f127f-58cb-45f8-a2c8-68f474ffb4b3",
+      "name": "Matar Paneer (Dhaba style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 169,
+        "protein": 3.1317965253510245,
+        "carbs": 7.805769231225069,
+        "fat": 10.353887818031598,
+        "fiber": 3.5792626233897313
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (dhaba style)"
+      ]
+    },
+    {
+      "id": "2d330291-2e69-4c94-b10d-4e50d134d3a5",
+      "name": "Matar Paneer (Restaurant style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129,
+        "caloriesMax": 174,
+        "protein": 11.150290316738461,
+        "carbs": 7.492318037341187,
+        "fat": 9.277469360355266,
+        "fiber": 1.155906573153477
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "matar paneer (restaurant style)"
+      ]
+    },
+    {
+      "id": "84e4fbdd-47a6-4171-b98c-b65816f2f725",
+      "name": "Shahi Paneer",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 153,
+        "protein": 3.213163589220997,
+        "carbs": 10.02834958689822,
+        "fat": 9.748133247112873,
+        "fiber": 3.0244631976675618
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "shahi paneer",
+        "ShahiPaneer"
+      ]
+    },
+    {
+      "id": "e4a5d4e1-f02d-48ad-9ec8-255b0381146c",
+      "name": "Shahi Paneer (Punjabi)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 179,
+        "protein": 9.807469840279735,
+        "carbs": 7.380009947564022,
+        "fat": 11.642418987365044,
+        "fiber": 4.849372986075236
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (punjabi)"
+      ]
+    },
+    {
+      "id": "8e7e2bb5-f00d-42f3-b697-5e6381d89932",
+      "name": "Shahi Paneer (South Indian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92,
+        "caloriesMax": 180,
+        "protein": 3.697037816208952,
+        "carbs": 7.625259767874528,
+        "fat": 5.830533044777528,
+        "fiber": 4.818795402839369
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (south indian style)"
+      ]
+    },
+    {
+      "id": "52a7d4ea-e2e8-495e-928f-b62bb69afe94",
+      "name": "Shahi Paneer (Bengali style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 146,
+        "protein": 9.291866194488605,
+        "carbs": 7.5492222292965625,
+        "fat": 9.866680049280042,
+        "fiber": 1.522951785480989
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (bengali style)"
+      ]
+    },
+    {
+      "id": "76bfc58c-72af-4c3a-9334-813c14415356",
+      "name": "Shahi Paneer (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
