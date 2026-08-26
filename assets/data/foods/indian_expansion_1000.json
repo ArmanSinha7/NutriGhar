@@ -3808,3 +3808,638 @@
         "lunch",
         "dinner"
       ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 161,
+        "protein": 2.256543900062509,
+        "carbs": 9.794280048605145,
+        "fat": 14.99580324021611,
+        "fiber": 1.6913468004260737
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "a36f9198-a1d8-4e7e-8779-80cb3d6a87d1",
+      "name": "Shahi Paneer (Gujarati style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 185,
+        "protein": 5.769243675366319,
+        "carbs": 6.608182911457452,
+        "fat": 12.452985818369946,
+        "fiber": 2.468770955461078
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (gujarati style)"
+      ]
+    },
+    {
+      "id": "cc3ad19a-612c-4187-a3e0-5e1cfc099f2d",
+      "name": "Shahi Paneer (Rajasthani)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 195,
+        "protein": 3.475793050036931,
+        "carbs": 10.59766311875408,
+        "fat": 5.24855267045578,
+        "fiber": 4.612986711463767
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (rajasthani)"
+      ]
+    },
+    {
+      "id": "185014fe-dfd6-445f-bde6-c1333753baba",
+      "name": "Shahi Paneer (Home-style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 178,
+        "protein": 5.383176255914018,
+        "carbs": 12.042659443134607,
+        "fat": 10.630948925222357,
+        "fiber": 2.263081128239542
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (home-style)"
+      ]
+    },
+    {
+      "id": "744452b6-5822-4de7-aec5-67e385b28ac5",
+      "name": "Shahi Paneer (Dhaba style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 169,
+        "protein": 8.806410210935912,
+        "carbs": 10.847365638445526,
+        "fat": 9.283779736685998,
+        "fiber": 1.20485759725646
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (dhaba style)"
+      ]
+    },
+    {
+      "id": "3edc1150-e43a-443a-8424-cb6827555e78",
+      "name": "Shahi Paneer (Restaurant style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 127,
+        "caloriesMax": 158,
+        "protein": 11.59279789749939,
+        "carbs": 10.33893375057445,
+        "fat": 10.574990992172138,
+        "fiber": 1.4155446920497998
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "shahi paneer (restaurant style)"
+      ]
+    },
+    {
+      "id": "0c8235a2-c7de-406e-8d67-d474e0e64993",
+      "name": "Paneer Tikka Masala",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 131,
+        "protein": 3.2716830067481846,
+        "carbs": 14.569818174450354,
+        "fat": 4.08128242186636,
+        "fiber": 2.033303058688269
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala",
+        "PaneerTikkaMasala"
+      ]
+    },
+    {
+      "id": "862d1d62-bc47-4602-b0d8-6b5f6b2344d3",
+      "name": "Paneer Tikka Masala (Punjabi)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 192,
+        "protein": 3.1097002426378855,
+        "carbs": 8.278785787248308,
+        "fat": 13.279820053340382,
+        "fiber": 2.221589635550952
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (punjabi)"
+      ]
+    },
+    {
+      "id": "4192724f-2eb1-426b-8eaf-eda3dda4e277",
+      "name": "Paneer Tikka Masala (South Indian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 149,
+        "protein": 9.227990292272946,
+        "carbs": 8.566124122318017,
+        "fat": 5.114997288759627,
+        "fiber": 2.222856988169451
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (south indian style)"
+      ]
+    },
+    {
+      "id": "07ff8ffb-71b6-40af-9eda-e61b8e797e0c",
+      "name": "Paneer Tikka Masala (Bengali style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 193,
+        "protein": 7.428377382807412,
+        "carbs": 8.764268659655954,
+        "fat": 14.643203606873817,
+        "fiber": 3.9138241206389734
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (bengali style)"
+      ]
+    },
+    {
+      "id": "8c8b8f8a-ff12-40ed-8d85-28362c7c7f1e",
+      "name": "Paneer Tikka Masala (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 161,
+        "protein": 9.51475628067099,
+        "carbs": 8.268102868467668,
+        "fat": 14.834198159559438,
+        "fiber": 3.597084720357672
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "bbeeb282-072a-43b4-9e3a-3510ca60657b",
+      "name": "Paneer Tikka Masala (Gujarati style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 163,
+        "protein": 9.263118408572305,
+        "carbs": 6.315085742528774,
+        "fat": 6.129835898657488,
+        "fiber": 1.2118981509384903
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (gujarati style)"
+      ]
+    },
+    {
+      "id": "a0ccffa0-09c9-4ce1-9438-f637515cd34b",
+      "name": "Paneer Tikka Masala (Rajasthani)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122,
+        "caloriesMax": 178,
+        "protein": 8.351270953171316,
+        "carbs": 10.006929613453146,
+        "fat": 10.971163319976673,
+        "fiber": 2.506901166451829
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (rajasthani)"
+      ]
+    },
+    {
+      "id": "f0b2076d-f320-4aaf-acf1-fb40d4005052",
+      "name": "Paneer Tikka Masala (Home-style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 200,
+        "protein": 2.38180293117878,
+        "carbs": 7.135956858958825,
+        "fat": 10.523589364061436,
+        "fiber": 1.0908370349898089
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (home-style)"
+      ]
+    },
+    {
+      "id": "060c359b-6e29-430a-87b5-7f1bc6553a63",
+      "name": "Paneer Tikka Masala (Dhaba style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 173,
+        "protein": 5.6280660215727565,
+        "carbs": 8.359283630817322,
+        "fat": 6.380287176157441,
+        "fiber": 2.447873168139605
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (dhaba style)"
+      ]
+    },
+    {
+      "id": "b19c6e79-3419-4d43-96f7-0ca9ad9355f1",
+      "name": "Paneer Tikka Masala (Restaurant style)",
+      "category": "veg",
+      "subCategory": "paneer",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 187,
+        "protein": 9.319305595471645,
+        "carbs": 11.430128896537948,
+        "fat": 8.496838916644432,
+        "fiber": 2.9404549156716637
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "paneer tikka masala (restaurant style)"
+      ]
+    },
+    {
+      "id": "fe91fec6-b4d5-460e-bf0a-a9955c744d3c",
+      "name": "Aloo Gobi",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 89,
+        "caloriesMax": 167,
+        "protein": 2.738242180550076,
+        "carbs": 9.390248127536012,
+        "fat": 9.443705142090536,
+        "fiber": 4.90799921170839
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "aloo gobi",
+        "AlooGobi"
+      ]
+    },
+    {
+      "id": "5fb4f246-ca94-46d2-b813-0c496a4decd1",
+      "name": "Aloo Gobi (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 152,
+        "protein": 2.6690650484149083,
+        "carbs": 7.9835902030463215,
+        "fat": 14.271585518730582,
+        "fiber": 2.1363693686597043
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (punjabi)"
+      ]
+    },
+    {
+      "id": "4e976009-a285-48c4-9fc8-144d7abefd57",
+      "name": "Aloo Gobi (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 170,
+        "protein": 5.853922240941406,
+        "carbs": 10.557235943116435,
+        "fat": 6.895698060264072,
+        "fiber": 3.4549097448559363
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (south indian style)"
+      ]
+    },
+    {
+      "id": "8606063e-8e00-463d-8341-69e106e82a3c",
+      "name": "Aloo Gobi (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 191,
+        "protein": 2.152102917762782,
+        "carbs": 13.17670796053509,
+        "fat": 7.7001639263943815,
+        "fiber": 4.729038311019037
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (bengali style)"
+      ]
+    },
+    {
+      "id": "83613e2d-6153-4b6b-9bec-5076633130bb",
+      "name": "Aloo Gobi (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 192,
+        "protein": 9.235999881559726,
+        "carbs": 5.9498562599346725,
+        "fat": 4.530621062759321,
+        "fiber": 4.584962054735557
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "c9ab8967-e937-4764-bb58-4b17234d2291",
+      "name": "Aloo Gobi (Gujarati style)",
