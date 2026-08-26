@@ -12382,3 +12382,1035 @@
       "category": "imported_csv_1",
       "subCategory": null,
       "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 187.16,
+        "caloriesMax": 207.16,
+        "protein": 2.58,
+        "carbs": 27.43,
+        "fat": 8.72,
+        "fiber": 0.64,
+        "sugar": 10.08,
+        "sodium": 36.85
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange cream tart"
+      ]
+    },
+    {
+      "id": "7ef1d3b9-98f7-44b4-943b-8688397c007b",
+      "name": "Pineapple tart",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 185.4,
+        "caloriesMax": 205.4,
+        "protein": 2.29,
+        "carbs": 28.62,
+        "fat": 8.21,
+        "fiber": 0.87,
+        "sugar": 11.09,
+        "sodium": 37.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple tart"
+      ]
+    },
+    {
+      "id": "245cd1df-257b-4486-8fb0-396035d65b2f",
+      "name": "Cheese and mushroom tart",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 236.1,
+        "caloriesMax": 256.1,
+        "protein": 5.51,
+        "carbs": 21.43,
+        "fat": 15.28,
+        "fiber": 1.18,
+        "sugar": 3.16,
+        "sodium": 212.42
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese and mushroom tart"
+      ]
+    },
+    {
+      "id": "c369dd9a-e79a-43bd-addc-8eee889d031c",
+      "name": "Cottage cheese pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 228.98,
+        "caloriesMax": 248.98,
+        "protein": 7.45,
+        "carbs": 20.66,
+        "fat": 13.83,
+        "fiber": 2.21,
+        "sugar": 3.62,
+        "sodium": 103.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cottage cheese pie"
+      ]
+    },
+    {
+      "id": "59de1889-563c-4bcb-bcea-59c1c2ed3e45",
+      "name": "Minced meat pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 211.55,
+        "caloriesMax": 231.55,
+        "protein": 7.38,
+        "carbs": 18.11,
+        "fat": 13.04,
+        "fiber": 2.33,
+        "sugar": 1.42,
+        "sodium": 127.85
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "minced meat pie"
+      ]
+    },
+    {
+      "id": "86502af6-5fd9-4812-ab76-392de1ee41c2",
+      "name": "Apple cinnamon pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 248.73000000000002,
+        "caloriesMax": 268.73,
+        "protein": 3.35,
+        "carbs": 33.68,
+        "fat": 12.21,
+        "fiber": 1.77,
+        "sugar": 11.95,
+        "sodium": 60.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple cinnamon pie"
+      ]
+    },
+    {
+      "id": "4e77e963-d825-4fca-b321-5a3a1e90eaca",
+      "name": "Lemon meringue pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 214.43,
+        "caloriesMax": 234.43,
+        "protein": 3.88,
+        "carbs": 35.11,
+        "fat": 8.16,
+        "fiber": 0.44,
+        "sugar": 21.17,
+        "sodium": 85.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon meringue pie"
+      ]
+    },
+    {
+      "id": "634c4aaa-c348-4ed2-b825-575345be1e4d",
+      "name": "Chocolate meringue pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 204.76,
+        "caloriesMax": 224.76,
+        "protein": 4.98,
+        "carbs": 28.8,
+        "fat": 9.17,
+        "fiber": 0.37,
+        "sugar": 15.03,
+        "sodium": 80.77
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate meringue pie"
+      ]
+    },
+    {
+      "id": "4d6ae6e0-ed1c-453f-a8b9-bcaeb35ba88b",
+      "name": "Cream puffs",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 211.33,
+        "caloriesMax": 231.33,
+        "protein": 4.7,
+        "carbs": 16.0,
+        "fat": 15.48,
+        "fiber": 0.38,
+        "sugar": 5.94,
+        "sodium": 98.76
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cream puffs"
+      ]
+    },
+    {
+      "id": "03b2983a-3524-4a2c-9781-888a0c1de11e",
+      "name": "Chocolate eclairs",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 229.42,
+        "caloriesMax": 249.42,
+        "protein": 4.24,
+        "carbs": 26.22,
+        "fat": 13.5,
+        "fiber": 0.33,
+        "sugar": 17.34,
+        "sodium": 85.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate eclairs"
+      ]
+    },
+    {
+      "id": "5afb6f6a-ba03-4396-9667-e9525b991765",
+      "name": "Cheese balls",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 671.28,
+        "caloriesMax": 691.28,
+        "protein": 2.21,
+        "carbs": 4.81,
+        "fat": 72.57,
+        "fiber": 0.18,
+        "sugar": 0.63,
+        "sodium": 120.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese balls"
+      ]
+    },
+    {
+      "id": "668adbb2-4162-4bb7-968e-e0c7c9840045",
+      "name": "Minced meat patties",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 255.72000000000003,
+        "caloriesMax": 275.72,
+        "protein": 6.88,
+        "carbs": 15.25,
+        "fat": 19.57,
+        "fiber": 0.77,
+        "sugar": 0.88,
+        "sodium": 252.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "minced meat patties"
+      ]
+    },
+    {
+      "id": "9636b7fb-6667-4c6b-9d41-a1118ec65840",
+      "name": "Cheese patties",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 314.01,
+        "caloriesMax": 334.01,
+        "protein": 7.38,
+        "carbs": 22.23,
+        "fat": 22.67,
+        "fiber": 1.24,
+        "sugar": 3.93,
+        "sodium": 295.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese patties"
+      ]
+    },
+    {
+      "id": "1dc815e6-83db-4479-b00d-ed7c30ed739a",
+      "name": "Hot cheese souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 167.1,
+        "caloriesMax": 187.1,
+        "protein": 9.18,
+        "carbs": 5.41,
+        "fat": 13.23,
+        "fiber": 0.12,
+        "sugar": 2.91,
+        "sodium": 286.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot cheese souffle"
+      ]
+    },
+    {
+      "id": "9cc8c119-7ebe-442a-b9ec-9bb174d9123f",
+      "name": "Hot potato souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115.64,
+        "caloriesMax": 135.64,
+        "protein": 5.51,
+        "carbs": 8.56,
+        "fat": 7.64,
+        "fiber": 0.66,
+        "sugar": 1.78,
+        "sodium": 97.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot potato souffle"
+      ]
+    },
+    {
+      "id": "dfb094d0-3370-4d68-946a-46a334b98911",
+      "name": "Hot fish souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 132.92,
+        "caloriesMax": 152.92,
+        "protein": 11.23,
+        "carbs": 3.69,
+        "fat": 9.24,
+        "fiber": 0.1,
+        "sugar": 1.68,
+        "sodium": 110.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot fish souffle"
+      ]
+    },
+    {
+      "id": "01304c4f-b32f-4f44-8ebf-1ff644400e9f",
+      "name": "Hot spinach souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94.25,
+        "caloriesMax": 114.25,
+        "protein": 5.43,
+        "carbs": 4.19,
+        "fat": 7.24,
+        "fiber": 0.99,
+        "sugar": 1.64,
+        "sodium": 104.69
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot spinach souffle"
+      ]
+    },
+    {
+      "id": "e20e9bd8-7eca-47c4-830e-75fa9f947f98",
+      "name": "Plain cream cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 343.94,
+        "caloriesMax": 363.94,
+        "protein": 6.18,
+        "carbs": 47.18,
+        "fat": 16.17,
+        "fiber": 0.71,
+        "sugar": 27.74,
+        "sodium": 174.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "plain cream cake"
+      ]
+    },
+    {
+      "id": "6291da8a-04cc-416d-aa31-f790ef6d796f",
+      "name": "Apple cake (Seb ka cake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 280.08,
+        "caloriesMax": 300.08,
+        "protein": 4.94,
+        "carbs": 39.48,
+        "fat": 12.87,
+        "fiber": 1.22,
+        "sugar": 23.52,
+        "sodium": 136.95
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple cake (seb ka cake)"
+      ]
+    },
+    {
+      "id": "314f7507-da15-440f-b0f6-8b6f6105c0f9",
+      "name": "Marble cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 344.11,
+        "caloriesMax": 364.11,
+        "protein": 6.3,
+        "carbs": 46.88,
+        "fat": 16.27,
+        "fiber": 0.71,
+        "sugar": 27.56,
+        "sodium": 138.48
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "marble cake"
+      ]
+    },
+    {
+      "id": "5dd815f0-0d40-4ffe-a381-3db87d310ae2",
+      "name": "Chocolate cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 325.61,
+        "caloriesMax": 345.61,
+        "protein": 6.01,
+        "carbs": 45.14,
+        "fat": 15.18,
+        "fiber": 0.64,
+        "sugar": 27.58,
+        "sodium": 241.93
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate cake"
+      ]
+    },
+    {
+      "id": "e7010ef0-fdef-49e0-862f-9c373d570c36",
+      "name": "Orange cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 347.61,
+        "caloriesMax": 367.61,
+        "protein": 6.1,
+        "carbs": 48.28,
+        "fat": 16.21,
+        "fiber": 0.83,
+        "sugar": 28.38,
+        "sodium": 105.41
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange cake"
+      ]
+    },
+    {
+      "id": "ff47032d-fd67-44df-b09b-6eec63086913",
+      "name": "Fruit Loaf",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 314.19,
+        "caloriesMax": 334.19,
+        "protein": 5.36,
+        "carbs": 46.49,
+        "fat": 13.31,
+        "fiber": 0.87,
+        "sugar": 24.54,
+        "sodium": 160.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit loaf"
+      ]
+    },
+    {
+      "id": "bb521685-0b5f-4209-a313-8f10d21e16f9",
+      "name": "Banana cake (Kele ka cake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 379.51,
+        "caloriesMax": 399.51,
+        "protein": 5.77,
+        "carbs": 40.0,
+        "fat": 23.31,
+        "fiber": 1.14,
+        "sugar": 23.04,
+        "sodium": 117.81
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana cake (kele ka cake)"
+      ]
+    },
+    {
+      "id": "15738abe-02ed-4941-821d-15cb18e726f5",
+      "name": "Chocolate chiffon cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 301.71,
+        "caloriesMax": 321.71,
+        "protein": 5.76,
+        "carbs": 37.87,
+        "fat": 15.8,
+        "fiber": 0.7,
+        "sugar": 24.25,
+        "sodium": 188.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate chiffon cake"
+      ]
+    },
+    {
+      "id": "5526d0b8-ef33-40b5-80b1-0b36b25b8717",
+      "name": "Christmas cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 362.95,
+        "caloriesMax": 382.95,
+        "protein": 5.49,
+        "carbs": 48.29,
+        "fat": 16.88,
+        "fiber": 1.49,
+        "sugar": 27.45,
+        "sodium": 64.84
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "christmas cake"
+      ]
+    },
+    {
+      "id": "d452f59e-5e80-44e5-a5b2-bf32c79b373e",
+      "name": "Strawberry and vanilla cake with butter icing",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 360.54,
+        "caloriesMax": 380.54,
+        "protein": 3.89,
+        "carbs": 44.25,
+        "fat": 20.39,
+        "fiber": 0.79,
+        "sugar": 32.43,
+        "sodium": 107.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "strawberry and vanilla cake with butter icing"
+      ]
+    },
+    {
+      "id": "fe57132f-b232-4598-af28-cba4223e7b51",
+      "name": "Eggless cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 308.08,
+        "caloriesMax": 328.08,
+        "protein": 8.12,
+        "carbs": 46.14,
+        "fat": 11.75,
+        "fiber": 0.68,
+        "sugar": 27.7,
+        "sodium": 310.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "eggless cake"
+      ]
+    },
+    {
+      "id": "cf2120ff-6b22-4a09-8c0a-32b6a1588c0b",
+      "name": "Swiss roll",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 241.87,
+        "caloriesMax": 261.87,
+        "protein": 7.3,
+        "carbs": 48.34,
+        "fat": 3.77,
+        "fiber": 0.55,
+        "sugar": 32.96,
+        "sodium": 51.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "swiss roll"
+      ]
+    },
+    {
+      "id": "338efa1a-f146-4f2a-a78f-a436aa88d311",
+      "name": "Pineapple pastry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 198.21,
+        "caloriesMax": 218.21,
+        "protein": 6.06,
+        "carbs": 29.04,
+        "fat": 7.87,
+        "fiber": 0.72,
+        "sugar": 18.83,
+        "sodium": 44.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple pastry"
+      ]
+    },
+    {
+      "id": "29e7c563-ca35-48a4-b213-95c62a8bb8fe",
+      "name": "Black forest pastry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 223.55,
+        "caloriesMax": 243.55,
+        "protein": 6.09,
+        "carbs": 34.48,
