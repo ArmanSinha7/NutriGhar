@@ -13414,3 +13414,1035 @@
         "caloriesMax": 243.55,
         "protein": 6.09,
         "carbs": 34.48,
+        "fat": 8.46,
+        "fiber": 0.54,
+        "sugar": 21.35,
+        "sodium": 53.43
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "black forest pastry"
+      ]
+    },
+    {
+      "id": "ba08657c-f60d-443a-8c70-ba0035753e67",
+      "name": "Coconut finger",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 264.86,
+        "caloriesMax": 284.86,
+        "protein": 7.09,
+        "carbs": 42.56,
+        "fat": 8.86,
+        "fiber": 1.87,
+        "sugar": 28.55,
+        "sodium": 46.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut finger"
+      ]
+    },
+    {
+      "id": "42fd9b0c-9165-437c-9416-481556821dfa",
+      "name": "Pineapple cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 185.57,
+        "caloriesMax": 205.57,
+        "protein": 5.01,
+        "carbs": 23.51,
+        "fat": 9.34,
+        "fiber": 0.76,
+        "sugar": 16.16,
+        "sodium": 37.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple cake"
+      ]
+    },
+    {
+      "id": "06458867-de4b-44b5-8582-8e2aca7bd7c1",
+      "name": "Chocolate walnut cookies (Chocolate aur akhrot ke cookies)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 414.8,
+        "caloriesMax": 434.8,
+        "protein": 6.56,
+        "carbs": 47.1,
+        "fat": 23.62,
+        "fiber": 1.54,
+        "sugar": 22.58,
+        "sodium": 280.44
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate walnut cookies (chocolate aur akhrot ke cookies)"
+      ]
+    },
+    {
+      "id": "ace8cad6-dcf5-4d73-8d6b-3ed0dcffddf7",
+      "name": "Chocolate chip cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 415.29,
+        "caloriesMax": 435.29,
+        "protein": 5.79,
+        "carbs": 57.98,
+        "fat": 19.38,
+        "fiber": 1.05,
+        "sugar": 30.29,
+        "sodium": 278.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate chip cookies"
+      ]
+    },
+    {
+      "id": "89003434-cc6f-45e4-9453-f5ce5673f0fa",
+      "name": "Sweet plain biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 370.76,
+        "caloriesMax": 390.76,
+        "protein": 5.86,
+        "carbs": 50.29,
+        "fat": 17.67,
+        "fiber": 1.07,
+        "sugar": 21.77,
+        "sodium": 132.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet plain biscuit"
+      ]
+    },
+    {
+      "id": "1e16e070-da04-4d24-99df-80b5f042bec7",
+      "name": "Chocolate biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 369.76,
+        "caloriesMax": 389.76,
+        "protein": 5.88,
+        "carbs": 51.56,
+        "fat": 17.09,
+        "fiber": 1.01,
+        "sugar": 24.16,
+        "sodium": 127.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate biscuit"
+      ]
+    },
+    {
+      "id": "ddf2867d-5cb7-4642-bf65-bca3c7a19c92",
+      "name": "Coconut biscuit (Nariyal ke biscuit)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 424.98,
+        "caloriesMax": 444.98,
+        "protein": 5.78,
+        "carbs": 42.9,
+        "fat": 27.16,
+        "fiber": 3.64,
+        "sugar": 20.76,
+        "sodium": 105.76
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut biscuit (nariyal ke biscuit)"
+      ]
+    },
+    {
+      "id": "80e8ac4b-7f91-4359-9f86-f26f0abff1f0",
+      "name": "Sweet and salty biscuit (Meethay aur namkeen biscuit)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 397.96,
+        "caloriesMax": 417.96,
+        "protein": 6.15,
+        "carbs": 45.09,
+        "fat": 22.39,
+        "fiber": 1.68,
+        "sugar": 7.22,
+        "sodium": 414.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet and salty biscuit (meethay aur namkeen biscuit)"
+      ]
+    },
+    {
+      "id": "c363b9db-2766-4a35-a55e-4ae93143b8ee",
+      "name": "Peanut biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 391.05,
+        "caloriesMax": 411.05,
+        "protein": 8.45,
+        "carbs": 46.72,
+        "fat": 20.41,
+        "fiber": 2.48,
+        "sugar": 21.26,
+        "sodium": 202.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut biscuit"
+      ]
+    },
+    {
+      "id": "12db42a4-5702-4e45-85a7-c8e89c265257",
+      "name": "Pin wheel biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 394.6,
+        "caloriesMax": 414.6,
+        "protein": 5.4,
+        "carbs": 54.56,
+        "fat": 18.66,
+        "fiber": 1.16,
+        "sugar": 23.25,
+        "sodium": 131.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pin wheel biscuit"
+      ]
+    },
+    {
+      "id": "abb3d137-d9ec-47a1-846a-bb0c5e32f44b",
+      "name": "Saffron biscuit (Kesar biscuit)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 448.61,
+        "caloriesMax": 468.61,
+        "protein": 6.05,
+        "carbs": 59.7,
+        "fat": 22.01,
+        "fiber": 1.9,
+        "sugar": 22.42,
+        "sodium": 5.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saffron biscuit (kesar biscuit)"
+      ]
+    },
+    {
+      "id": "8f07838b-12c8-433e-bddd-1bf2f9e6f3a9",
+      "name": "Masala biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 383.64,
+        "caloriesMax": 403.64,
+        "protein": 6.06,
+        "carbs": 45.18,
+        "fat": 20.75,
+        "fiber": 2.14,
+        "sugar": 6.82,
+        "sodium": 714.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala biscuit"
+      ]
+    },
+    {
+      "id": "d0728e41-8e5e-40fa-bdc1-9a718ef1859e",
+      "name": "Ice box cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 364.24,
+        "caloriesMax": 384.24,
+        "protein": 5.7,
+        "carbs": 56.09,
+        "fat": 14.44,
+        "fiber": 1.28,
+        "sugar": 26.69,
+        "sodium": 449.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ice box cookies"
+      ]
+    },
+    {
+      "id": "6201df08-7174-4f57-bac6-e33e472bfc2d",
+      "name": "Ginger bread man",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 355.0,
+        "caloriesMax": 375.0,
+        "protein": 6.61,
+        "carbs": 60.26,
+        "fat": 11.01,
+        "fiber": 1.6,
+        "sugar": 29.12,
+        "sodium": 477.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ginger bread man"
+      ]
+    },
+    {
+      "id": "721158eb-0337-44e2-8fa0-c549b419e27e",
+      "name": "Danish cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 465.33,
+        "caloriesMax": 485.33,
+        "protein": 5.33,
+        "carbs": 58.0,
+        "fat": 24.92,
+        "fiber": 1.37,
+        "sugar": 21.73,
+        "sodium": 201.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "danish cookies"
+      ]
+    },
+    {
+      "id": "8c53ddda-f3e5-421a-90cf-279dca4ce587",
+      "name": "Short bread cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 433.09,
+        "caloriesMax": 453.09,
+        "protein": 6.03,
+        "carbs": 64.82,
+        "fat": 17.98,
+        "fiber": 1.57,
+        "sugar": 23.31,
+        "sodium": 145.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "short bread cookies"
+      ]
+    },
+    {
+      "id": "97e78682-5bc8-4300-9cdf-cb694105dbde",
+      "name": "Coffee biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 406.57,
+        "caloriesMax": 426.57,
+        "protein": 6.9,
+        "carbs": 46.55,
+        "fat": 23.0,
+        "fiber": 1.59,
+        "sugar": 21.69,
+        "sodium": 112.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coffee biscuit"
+      ]
+    },
+    {
+      "id": "b9278f7b-1b14-4e4c-a80f-59e4bc20784d",
+      "name": "Melting moments",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 427.91,
+        "caloriesMax": 447.91,
+        "protein": 5.71,
+        "carbs": 55.84,
+        "fat": 21.78,
+        "fiber": 1.88,
+        "sugar": 25.0,
+        "sodium": 119.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "melting moments"
+      ]
+    },
+    {
+      "id": "ea9a1488-f05c-4273-8ec6-283574ab035f",
+      "name": "Ginger biscuit (Adarak ke biscuit)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 407.91,
+        "caloriesMax": 427.91,
+        "protein": 5.98,
+        "carbs": 58.44,
+        "fat": 18.31,
+        "fiber": 1.49,
+        "sugar": 27.06,
+        "sodium": 79.68
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ginger biscuit (adarak ke biscuit)"
+      ]
+    },
+    {
+      "id": "e0688e0a-cbb0-49dd-ab95-f52e392762a5",
+      "name": "Soyabean muthias",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 829.33,
+        "caloriesMax": 849.33,
+        "protein": 2.46,
+        "carbs": 3.7,
+        "fat": 90.45,
+        "fiber": 1.47,
+        "sugar": 0.17,
+        "sodium": 78.25
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soyabean muthias"
+      ]
+    },
+    {
+      "id": "0812e10d-2a75-4963-bfbe-e831886437ed",
+      "name": "Soyabean tikki",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 688.17,
+        "caloriesMax": 708.17,
+        "protein": 3.53,
+        "carbs": 4.39,
+        "fat": 74.02,
+        "fiber": 2.2,
+        "sugar": 0.35,
+        "sodium": 88.72
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soyabean tikki"
+      ]
+    },
+    {
+      "id": "90bbf063-bc62-4fae-9784-536f615e0da5",
+      "name": "Soyabean namak paras",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 828.46,
+        "caloriesMax": 848.46,
+        "protein": 2.65,
+        "carbs": 4.65,
+        "fat": 89.83,
+        "fiber": 1.41,
+        "sugar": 0.22,
+        "sodium": 72.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soyabean namak paras"
+      ]
+    },
+    {
+      "id": "dfe7a1b9-c140-4558-be7b-f409a5532665",
+      "name": "Peanut burfi (Moongfali ki burfi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 540.99,
+        "caloriesMax": 560.99,
+        "protein": 9.31,
+        "carbs": 48.14,
+        "fat": 36.84,
+        "fiber": 4.09,
+        "sugar": 43.08,
+        "sodium": 6.78
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut burfi (moongfali ki burfi)"
+      ]
+    },
+    {
+      "id": "d2189249-f7b7-4c2e-95dd-da891b410e84",
+      "name": "Spinach peanut namak paras (Palak moongfali namak paras)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 730.16,
+        "caloriesMax": 750.16,
+        "protein": 1.65,
+        "carbs": 6.62,
+        "fat": 78.51,
+        "fiber": 0.81,
+        "sugar": 0.28,
+        "sodium": 73.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach peanut namak paras (palak moongfali namak paras)"
+      ]
+    },
+    {
+      "id": "54f63676-2c0f-4e9e-aae1-1f06b078f18c",
+      "name": "Gram flour and semolina chilla/cheela/savory pancake (Besan suji chilla/cheela)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 748.89,
+        "caloriesMax": 768.89,
+        "protein": 2.08,
+        "carbs": 7.63,
+        "fat": 80.04,
+        "fiber": 1.39,
+        "sugar": 0.25,
+        "sodium": 74.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gram flour and semolina chilla/cheela/savory pancake (besan suji chilla/cheela)"
+      ]
+    },
+    {
+      "id": "3c6d3e7c-8b71-495c-a7de-c1c1d5bdf69a",
+      "name": "Rice moong dal cheela (Chawal aur moong dal ka cheela)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 788.26,
+        "caloriesMax": 808.26,
+        "protein": 2.74,
+        "carbs": 11.13,
+        "fat": 82.44,
+        "fiber": 1.18,
+        "sugar": 0.15,
+        "sodium": 142.82
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice moong dal cheela (chawal aur moong dal ka cheela)"
+      ]
+    },
+    {
+      "id": "40316162-19c6-4b63-b0d5-97885cc91cb9",
+      "name": "Split bengal gram sweet rice (Channa dal sweet rice)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 180.21,
+        "caloriesMax": 200.21,
+        "protein": 4.15,
+        "carbs": 41.07,
+        "fat": 0.64,
+        "fiber": 2.23,
+        "sugar": 19.41,
+        "sodium": 8.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "split bengal gram sweet rice (channa dal sweet rice)"
+      ]
+    },
+    {
+      "id": "b06d34aa-66f9-4bc0-bcf1-252a82bec126",
+      "name": "Sweet poori (Meethi poori)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 772.75,
+        "caloriesMax": 792.75,
+        "protein": 2.12,
+        "carbs": 14.26,
+        "fat": 79.63,
+        "fiber": 1.54,
+        "sugar": 7.15,
+        "sodium": 2.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet poori (meethi poori)"
+      ]
+    },
+    {
+      "id": "6d390193-2b1b-4cb8-a2f9-125c424701a1",
+      "name": "Wheat flour and moong dal burfi (Atta aur moong dal ki burfi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 431.08,
+        "caloriesMax": 451.08,
+        "protein": 9.84,
+        "carbs": 60.0,
+        "fat": 18.41,
+        "fiber": 6.02,
+        "sugar": 31.12,
+        "sodium": 5.25
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wheat flour and moong dal burfi (atta aur moong dal ki burfi)"
+      ]
+    },
+    {
+      "id": "d5ba4d41-d67d-4140-85ab-4193b839c475",
+      "name": "Spinach burfi (Palak burfi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111.17,
+        "caloriesMax": 131.17000000000002,
+        "protein": 2.71,
+        "carbs": 12.76,
+        "fat": 6.81,
+        "fiber": 1.17,
+        "sugar": 12.12,
+        "sodium": 27.77
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
