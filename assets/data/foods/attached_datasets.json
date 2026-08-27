@@ -15478,3 +15478,1035 @@
       "isVegetarian": true,
       "mealTypes": [
         "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92.83,
+        "caloriesMax": 112.83,
+        "protein": 6.1,
+        "carbs": 3.76,
+        "fat": 7.02,
+        "fiber": 1.53,
+        "sugar": 1.95,
+        "sodium": 218.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "indian style egg bhujia (anda bhujia (indian style))"
+      ]
+    },
+    {
+      "id": "099624f0-0e20-4bd9-a266-0047bb08c0cc",
+      "name": "French omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 201.04,
+        "caloriesMax": 221.04,
+        "protein": 10.03,
+        "carbs": 0.41,
+        "fat": 18.86,
+        "fiber": 0.38,
+        "sugar": 0.1,
+        "sodium": 381.85
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "french omelette/omlet"
+      ]
+    },
+    {
+      "id": "6c25c09d-f8c9-4c75-9f03-46a40a7d6a67",
+      "name": "Puffy omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 178.15,
+        "caloriesMax": 198.15,
+        "protein": 8.82,
+        "carbs": 0.08,
+        "fat": 16.84,
+        "fiber": 0,
+        "sugar": 0.08,
+        "sodium": 340.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "puffy omelette/omlet"
+      ]
+    },
+    {
+      "id": "489b6c72-3087-4e84-866c-a706c7b6ff20",
+      "name": "Orange omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 184.66,
+        "caloriesMax": 204.66,
+        "protein": 8.93,
+        "carbs": 1.68,
+        "fat": 16.84,
+        "fiber": 0,
+        "sugar": 1.68,
+        "sodium": 340.92
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange omelette/omlet"
+      ]
+    },
+    {
+      "id": "0cddb47f-8e17-45ef-b7a1-214eadfb100c",
+      "name": "Cheese and mushroom omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 195.63,
+        "caloriesMax": 215.63,
+        "protein": 9.69,
+        "carbs": 1.68,
+        "fat": 17.82,
+        "fiber": 0.93,
+        "sugar": 1.07,
+        "sodium": 400.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese and mushroom omelette/omlet"
+      ]
+    },
+    {
+      "id": "2a1b2a56-2534-4dff-82c8-b515a335d37b",
+      "name": "Spanish omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 147.45,
+        "caloriesMax": 167.45,
+        "protein": 8.25,
+        "carbs": 5.1,
+        "fat": 11.44,
+        "fiber": 2.54,
+        "sugar": 1.03,
+        "sodium": 233.87
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spanish omelette/omlet"
+      ]
+    },
+    {
+      "id": "9b4761d9-e51f-4ce0-98e5-8ab2230478ac",
+      "name": "Mixed stock",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 15.190000000000001,
+        "caloriesMax": 35.19,
+        "protein": 2.06,
+        "carbs": 0.33,
+        "fat": 1.71,
+        "fiber": 0.15,
+        "sugar": 0.2,
+        "sodium": 9.51
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed stock"
+      ]
+    },
+    {
+      "id": "4ffbee6b-f068-412d-bfb1-0dea3e9daee9",
+      "name": "Meat stock",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 14.48,
+        "caloriesMax": 34.480000000000004,
+        "protein": 2.1,
+        "carbs": 0,
+        "fat": 1.78,
+        "fiber": 0,
+        "sugar": 0.0,
+        "sodium": 8.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "meat stock"
+      ]
+    },
+    {
+      "id": "13f9898c-9e8d-4591-9f0c-e10b64a5eeeb",
+      "name": "White stock",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 0,
+        "caloriesMax": 16.990000000000002,
+        "protein": 0.07,
+        "carbs": 0.4,
+        "fat": 0.56,
+        "fiber": 0.17,
+        "sugar": 0.24,
+        "sodium": 1.56
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "white stock"
+      ]
+    },
+    {
+      "id": "94f6c02f-974a-41dd-8da7-6b39914d9c41",
+      "name": "Meat consomme (with mutton)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 19.76,
+        "caloriesMax": 39.760000000000005,
+        "protein": 14.86,
+        "carbs": 0.51,
+        "fat": 13.68,
+        "fiber": 0.71,
+        "sugar": 0.24,
+        "sodium": 12665.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "meat consomme (with mutton)"
+      ]
+    },
+    {
+      "id": "d0793d4d-e15f-4b83-8199-b5072e3b262f",
+      "name": "Consomme au julienne",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 17.76,
+        "caloriesMax": 37.760000000000005,
+        "protein": 12.49,
+        "carbs": 1.49,
+        "fat": 10.66,
+        "fiber": 1.38,
+        "sugar": 0.83,
+        "sodium": 10208.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "consomme au julienne"
+      ]
+    },
+    {
+      "id": "3b2b9729-5ebb-4e32-bae3-16a5e5ace22b",
+      "name": "Consomme au vermicelli",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 19.94,
+        "caloriesMax": 39.94,
+        "protein": 15.23,
+        "carbs": 1.3,
+        "fat": 12.98,
+        "fiber": 0.81,
+        "sugar": 0.27,
+        "sodium": 12524.61
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "consomme au vermicelli"
+      ]
+    },
+    {
+      "id": "8920b46c-4e18-461b-8edf-1cd08801bd46",
+      "name": "Green pea soup (Matar ka soup)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 29.810000000000002,
+        "caloriesMax": 49.81,
+        "protein": 11.06,
+        "carbs": 3.63,
+        "fat": 12.9,
+        "fiber": 2.49,
+        "sugar": 0.87,
+        "sodium": 10958.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green pea soup (matar ka soup)"
+      ]
+    },
+    {
+      "id": "a53523a2-7719-400f-b430-24a21114711f",
+      "name": "Spinach soup (Palak ka soup)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 22.590000000000003,
+        "caloriesMax": 42.59,
+        "protein": 10.54,
+        "carbs": 3.03,
+        "fat": 14.26,
+        "fiber": 1.98,
+        "sugar": 0.29,
+        "sodium": 12088.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach soup (palak ka soup)"
+      ]
+    },
+    {
+      "id": "6b9142a3-f01d-4c82-8c03-fa14748df55d",
+      "name": "Mixed vegetable soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 25.71,
+        "caloriesMax": 45.71,
+        "protein": 8.22,
+        "carbs": 2.95,
+        "fat": 11.66,
+        "fiber": 1.64,
+        "sugar": 1.64,
+        "sodium": 9202.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed vegetable soup"
+      ]
+    },
+    {
+      "id": "572880da-71e7-4a82-8ba8-efe829968f58",
+      "name": "Cheese soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 31.130000000000003,
+        "caloriesMax": 51.13,
+        "protein": 12.39,
+        "carbs": 1.87,
+        "fat": 17.07,
+        "fiber": 1.8,
+        "sugar": 0.84,
+        "sodium": 13695.35
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese soup"
+      ]
+    },
+    {
+      "id": "e9dcde20-b9c0-4701-adf6-434c68ec5cd8",
+      "name": "Mulligatawny soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 44.42,
+        "caloriesMax": 64.42,
+        "protein": 11.26,
+        "carbs": 8.24,
+        "fat": 13.28,
+        "fiber": 2.6,
+        "sugar": 1.26,
+        "sodium": 11602.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mulligatawny soup"
+      ]
+    },
+    {
+      "id": "209fc955-3e73-4c3f-9485-dbce0c90c955",
+      "name": "Cream of carrot soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 49.77,
+        "caloriesMax": 69.77000000000001,
+        "protein": 8.27,
+        "carbs": 5.69,
+        "fat": 12.35,
+        "fiber": 1.98,
+        "sugar": 1.77,
+        "sodium": 8694.79
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cream of carrot soup"
+      ]
+    },
+    {
+      "id": "ebfc7cc9-8639-4390-b984-abfc33b322a5",
+      "name": "Cream of broccoli soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 46.14,
+        "caloriesMax": 66.14,
+        "protein": 8.97,
+        "carbs": 3.72,
+        "fat": 12.75,
+        "fiber": 1.89,
+        "sugar": 1.59,
+        "sodium": 8792.43
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cream of broccoli soup"
+      ]
+    },
+    {
+      "id": "9252db84-8242-48f4-8ddf-d0b26d3f1aef",
+      "name": "Cream of potato soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 50.2,
+        "caloriesMax": 70.2,
+        "protein": 8.1,
+        "carbs": 6.14,
+        "fat": 12.05,
+        "fiber": 1.51,
+        "sugar": 1.24,
+        "sodium": 8503.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cream of potato soup"
+      ]
+    },
+    {
+      "id": "9fffc311-f25a-42ab-906e-d48f91928004",
+      "name": "Almond soup (Badam ka soup)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 68.65,
+        "caloriesMax": 88.65,
+        "protein": 10.13,
+        "carbs": 3.68,
+        "fat": 13.8,
+        "fiber": 0.91,
+        "sugar": 1.94,
+        "sodium": 8376.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "almond soup (badam ka soup)"
+      ]
+    },
+    {
+      "id": "701cb3d1-4801-4f8e-b662-7ddc8b0122d5",
+      "name": "Cold cucumber cream soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 1.8800000000000008,
+        "caloriesMax": 21.880000000000003,
+        "protein": 0.34,
+        "carbs": 1.76,
+        "fat": 0.34,
+        "fiber": 0.73,
+        "sugar": 0.51,
+        "sodium": 207.89
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cold cucumber cream soup"
+      ]
+    },
+    {
+      "id": "c349fcb7-f279-44a0-a3ab-3ce72608a3af",
+      "name": "Cold tomato soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 6.899999999999999,
+        "caloriesMax": 26.9,
+        "protein": 0.11,
+        "carbs": 0.59,
+        "fat": 1.56,
+        "fiber": 0.16,
+        "sugar": 0.22,
+        "sodium": 287.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cold tomato soup"
+      ]
+    },
+    {
+      "id": "0093dda3-c026-4a8e-89a8-b04d21aacd23",
+      "name": "Chicken stew",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117.55,
+        "caloriesMax": 137.55,
+        "protein": 7.19,
+        "carbs": 4.44,
+        "fat": 8.91,
+        "fiber": 1.82,
+        "sugar": 1.43,
+        "sodium": 79.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken stew"
+      ]
+    },
+    {
+      "id": "6e3634ba-78d6-484f-8102-eda29a719a5e",
+      "name": "Veg paneer stew",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 135.55,
+        "caloriesMax": 155.55,
+        "protein": 6.98,
+        "carbs": 10.22,
+        "fat": 8.41,
+        "fiber": 3.08,
+        "sugar": 4.85,
+        "sodium": 73.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg paneer stew"
+      ]
+    },
+    {
+      "id": "40472306-b9e9-4fbe-921c-e366ed9075da",
+      "name": "Onion-green chilli parantha/paratha (Pyaaz aur hari mirch ka parantha/paratha)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 181.27,
+        "caloriesMax": 201.27,
+        "protein": 4.37,
+        "carbs": 26.37,
+        "fat": 7.27,
+        "fiber": 5.16,
+        "sugar": 2.71,
+        "sodium": 241.19
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion-green chilli parantha/paratha (pyaaz aur hari mirch ka parantha/paratha)"
+      ]
+    },
+    {
+      "id": "1adb329c-e6e1-4359-9174-8bbeb6205425",
+      "name": "Methi parantha/paratha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 138.36,
+        "caloriesMax": 158.36,
+        "protein": 4.27,
+        "carbs": 22.19,
+        "fat": 4.34,
+        "fiber": 5.09,
+        "sugar": 2.44,
+        "sodium": 48.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi parantha/paratha"
+      ]
+    },
+    {
+      "id": "7a58c965-d977-4703-b50e-05e7f8bd3794",
+      "name": "Bathua poori",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 588.79,
+        "caloriesMax": 608.79,
+        "protein": 2.35,
+        "carbs": 13.85,
+        "fat": 59.14,
+        "fiber": 1.87,
+        "sugar": 0.41,
+        "sodium": 49.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bathua poori"
+      ]
+    },
+    {
+      "id": "318d7759-34c5-47f3-b644-daa4188774d1",
+      "name": "Gram flour poori (Besan poori)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 687.66,
+        "caloriesMax": 707.66,
+        "protein": 2.59,
+        "carbs": 10.93,
+        "fat": 71.51,
+        "fiber": 1.94,
+        "sugar": 0.35,
+        "sodium": 58.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gram flour poori (besan poori)"
+      ]
+    },
+    {
+      "id": "a45603d5-ed44-4a51-b35f-65588dc6d3f1",
+      "name": "Beetroot poori (Chukandar ki poori)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 517.66,
+        "caloriesMax": 537.66,
+        "protein": 1.91,
+        "carbs": 12.29,
+        "fat": 52.18,
+        "fiber": 1.4,
+        "sugar": 0.54,
+        "sodium": 46.48
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beetroot poori (chukandar ki poori)"
+      ]
+    },
+    {
+      "id": "121db289-1057-4893-8320-827b4a02af3d",
+      "name": "Peas poori (Matar ki poori)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 582.83,
+        "caloriesMax": 602.83,
+        "protein": 3.04,
+        "carbs": 14.92,
+        "fat": 57.69,
+        "fiber": 2.25,
