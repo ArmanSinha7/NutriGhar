@@ -14446,3 +14446,1035 @@
           "weightMaxG": 150
         }
       ],
+      "aliases": [
+        "spinach burfi (palak burfi)"
+      ]
+    },
+    {
+      "id": "46ff281c-462d-447b-bbf1-4c660db7002f",
+      "name": "Sweet split chickpea roti (Sweet channa dal roti/Puranpoli)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 356.59,
+        "caloriesMax": 376.59,
+        "protein": 9.51,
+        "carbs": 62.66,
+        "fat": 7.93,
+        "fiber": 8.16,
+        "sugar": 24.73,
+        "sodium": 12.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet split chickpea roti (sweet channa dal roti/puranpoli)"
+      ]
+    },
+    {
+      "id": "13d0720f-9367-4f46-bb94-fe76de4d71d1",
+      "name": "Sprouted moong daliya",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101.56,
+        "caloriesMax": 121.56,
+        "protein": 2.81,
+        "carbs": 14.77,
+        "fat": 4.71,
+        "fiber": 3.12,
+        "sugar": 1.67,
+        "sodium": 196.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sprouted moong daliya"
+      ]
+    },
+    {
+      "id": "398e64bc-3df0-406f-9504-8b6ea665d66a",
+      "name": "Sprouted moong poha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 182.6,
+        "caloriesMax": 202.6,
+        "protein": 5.59,
+        "carbs": 26.6,
+        "fat": 6.89,
+        "fiber": 3.13,
+        "sugar": 1.93,
+        "sodium": 220.82
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sprouted moong poha"
+      ]
+    },
+    {
+      "id": "04a585e6-fad1-46f9-a30b-d1738fcc910d",
+      "name": "Pearl millet ladoo (Bajra ladoo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 309.66,
+        "caloriesMax": 329.66,
+        "protein": 9.61,
+        "carbs": 50.98,
+        "fat": 8.06,
+        "fiber": 6.0,
+        "sugar": 27.44,
+        "sodium": 12.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pearl millet ladoo (bajra ladoo)"
+      ]
+    },
+    {
+      "id": "578d13f0-46ba-46e4-ac73-915adf77dfe0",
+      "name": "Paushtik ladoo",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 475.87,
+        "caloriesMax": 495.87,
+        "protein": 7.65,
+        "carbs": 60.34,
+        "fat": 24.98,
+        "fiber": 4.57,
+        "sugar": 38.12,
+        "sodium": 6.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paushtik ladoo"
+      ]
+    },
+    {
+      "id": "0a99eedd-399f-4478-a4c5-5e66831c6820",
+      "name": "Paushtik roti",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 139.26,
+        "caloriesMax": 159.26,
+        "protein": 7.17,
+        "carbs": 26.59,
+        "fat": 1.51,
+        "fiber": 5.74,
+        "sugar": 2.03,
+        "sodium": 170.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paushtik roti"
+      ]
+    },
+    {
+      "id": "6a62566b-ce51-4b7a-ad34-bad639d25ede",
+      "name": "Semolina carrot vada (Suji gajar vada)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 689.53,
+        "caloriesMax": 709.53,
+        "protein": 1.56,
+        "carbs": 6.52,
+        "fat": 74.07,
+        "fiber": 1.07,
+        "sugar": 1.21,
+        "sodium": 73.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina carrot vada (suji gajar vada)"
+      ]
+    },
+    {
+      "id": "078f4ff7-d6f2-4b14-8522-082ac2d47f31",
+      "name": "Dhokla",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 206.49,
+        "caloriesMax": 226.49,
+        "protein": 13.45,
+        "carbs": 30.68,
+        "fat": 5.28,
+        "fiber": 4.95,
+        "sugar": 4.78,
+        "sodium": 376.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhokla"
+      ]
+    },
+    {
+      "id": "57eded1e-2256-411f-9f9f-5fe928253829",
+      "name": "Kashmiri tea (Kehwa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 14.899999999999999,
+        "caloriesMax": 34.9,
+        "protein": 0.17,
+        "carbs": 5.23,
+        "fat": 0.51,
+        "fiber": 0.16,
+        "sugar": 5.14,
+        "sodium": 0.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri tea (kehwa)"
+      ]
+    },
+    {
+      "id": "c622142b-db91-4512-a84a-bafc83383c80",
+      "name": "Steeped hot coffee",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 5.91,
+        "caloriesMax": 25.91,
+        "protein": 0.39,
+        "carbs": 3.01,
+        "fat": 0.33,
+        "fiber": 0,
+        "sugar": 2.96,
+        "sodium": 2.82
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "steeped hot coffee"
+      ]
+    },
+    {
+      "id": "60904799-1c06-4e16-a5df-070fa15c5cb6",
+      "name": "Hot chocolate",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 80.01,
+        "caloriesMax": 100.01,
+        "protein": 3.43,
+        "carbs": 9.02,
+        "fat": 4.61,
+        "fiber": 0,
+        "sugar": 8.86,
+        "sodium": 36.04
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot chocolate"
+      ]
+    },
+    {
+      "id": "834db2d1-4a71-4564-aaf2-bf63df6cac7d",
+      "name": "Cold coffee (with cream)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 72.76,
+        "caloriesMax": 92.76,
+        "protein": 1.93,
+        "carbs": 11.98,
+        "fat": 3.29,
+        "fiber": 0,
+        "sugar": 11.91,
+        "sodium": 15.35
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cold coffee (with cream)"
+      ]
+    },
+    {
+      "id": "1cf66e05-7f3e-4e70-8588-4fd2b8491ed9",
+      "name": "Banana milkshake with ice cream (Kele ka milkshake ice cream ke saath)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 66.45,
+        "caloriesMax": 86.45,
+        "protein": 2.01,
+        "carbs": 11.15,
+        "fat": 2.77,
+        "fiber": 0.27,
+        "sugar": 9.94,
+        "sodium": 16.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana milkshake with ice cream (kele ka milkshake ice cream ke saath)"
+      ]
+    },
+    {
+      "id": "da0a8ddd-0bfa-4477-a192-571e985362e7",
+      "name": "Flavoured milkshake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 56.78,
+        "caloriesMax": 76.78,
+        "protein": 2.06,
+        "carbs": 8.65,
+        "fat": 2.83,
+        "fiber": 0,
+        "sugar": 8.61,
+        "sodium": 16.34
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "flavoured milkshake"
+      ]
+    },
+    {
+      "id": "58bbc027-67a0-45e0-8ffc-517266a7767f",
+      "name": "Jal jeera",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 20.24,
+        "caloriesMax": 40.239999999999995,
+        "protein": 0.44,
+        "carbs": 6.7,
+        "fat": 0.26,
+        "fiber": 0.95,
+        "sugar": 5.71,
+        "sodium": 215.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jal jeera"
+      ]
+    },
+    {
+      "id": "913921e8-a590-42ad-9ec6-29d0640cb0e2",
+      "name": "Gingo",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 38.02,
+        "caloriesMax": 58.02,
+        "protein": 0.14,
+        "carbs": 12.42,
+        "fat": 0.06,
+        "fiber": 0.17,
+        "sugar": 12.08,
+        "sodium": 21.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gingo"
+      ]
+    },
+    {
+      "id": "5f21c84e-ec5b-44e2-a6fc-e057c464e0ba",
+      "name": "Mintade",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 30.32,
+        "caloriesMax": 50.32,
+        "protein": 0.03,
+        "carbs": 10.59,
+        "fat": 0.02,
+        "fiber": 0.03,
+        "sugar": 10.47,
+        "sodium": 26.69
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mintade"
+      ]
+    },
+    {
+      "id": "5f35f977-1ea7-48a8-a15c-712ebee62317",
+      "name": "Canjee",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 0,
+        "caloriesMax": 16.61,
+        "protein": 0.24,
+        "carbs": 0.44,
+        "fat": 0.42,
+        "fiber": 0.36,
+        "sugar": 0.21,
+        "sodium": 43.03
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "canjee"
+      ]
+    },
+    {
+      "id": "86095c0e-6ced-42a3-8468-a827b62b3907",
+      "name": "Cauliflower canjee (Phoolgobhi ki canjee)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 0,
+        "caloriesMax": 16.9,
+        "protein": 0.39,
+        "carbs": 0.35,
+        "fat": 0.42,
+        "fiber": 0.49,
+        "sugar": 0.09,
+        "sodium": 41.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cauliflower canjee (phoolgobhi ki canjee)"
+      ]
+    },
+    {
+      "id": "f61fdb79-feea-4f7e-9663-61c6111018a4",
+      "name": "Potato canjee (Aloo canjee)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 6.260000000000002,
+        "caloriesMax": 26.26,
+        "protein": 0.44,
+        "carbs": 2.69,
+        "fat": 0.39,
+        "fiber": 0.43,
+        "sugar": 0.1,
+        "sodium": 35.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato canjee (aloo canjee)"
+      ]
+    },
+    {
+      "id": "f2467953-9e70-4dc4-9070-86752e3c4bb2",
+      "name": "Vermicelli porridge (Semiya/Seviyan porridge)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 68.4,
+        "caloriesMax": 88.4,
+        "protein": 2.5,
+        "carbs": 10.56,
+        "fat": 2.98,
+        "fiber": 0.48,
+        "sugar": 7.04,
+        "sodium": 65.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vermicelli porridge (semiya/seviyan porridge)"
+      ]
+    },
+    {
+      "id": "0ecfdaa8-0faf-43a6-8705-123c80e92835",
+      "name": "Semolina upma (Suji/Rava upma)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 137.89,
+        "caloriesMax": 157.89,
+        "protein": 3.3,
+        "carbs": 16.31,
+        "fat": 7.49,
+        "fiber": 3.24,
+        "sugar": 1.31,
+        "sodium": 101.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina upma (suji/rava upma)"
+      ]
+    },
+    {
+      "id": "414d8046-4212-4524-ab45-011c087179ad",
+      "name": "Vermicelli upma (Semiya/Seviyan upma)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 139.11,
+        "caloriesMax": 159.11,
+        "protein": 3.11,
+        "carbs": 16.88,
+        "fat": 7.45,
+        "fiber": 3.21,
+        "sugar": 1.4,
+        "sodium": 101.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vermicelli upma (semiya/seviyan upma)"
+      ]
+    },
+    {
+      "id": "fac4eaf2-bad9-4d59-925a-d141583fc140",
+      "name": "Rice upma",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 141.27,
+        "caloriesMax": 161.27,
+        "protein": 2.63,
+        "carbs": 17.96,
+        "fat": 7.46,
+        "fiber": 2.12,
+        "sugar": 1.13,
+        "sodium": 101.75
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice upma"
+      ]
+    },
+    {
+      "id": "33792ebf-d17d-4494-86e9-df17f3ae8b6a",
+      "name": "Bread upma",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119.50999999999999,
+        "caloriesMax": 139.51,
+        "protein": 2.8,
+        "carbs": 12.6,
+        "fat": 7.75,
+        "fiber": 1.96,
+        "sugar": 1.56,
+        "sodium": 176.44
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bread upma"
+      ]
+    },
+    {
+      "id": "9ace4faa-9926-4e16-a29b-6bcf4a8a8e01",
+      "name": "Vegetable upma",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 136.47,
+        "caloriesMax": 156.47,
+        "protein": 4.73,
+        "carbs": 16.46,
+        "fat": 6.63,
+        "fiber": 4.19,
+        "sugar": 1.39,
+        "sodium": 347.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable upma"
+      ]
+    },
+    {
+      "id": "60ceba80-08cb-4820-9922-4dde964ff451",
+      "name": "Poha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 284.53,
+        "caloriesMax": 304.53,
+        "protein": 6.09,
+        "carbs": 35.05,
+        "fat": 14.14,
+        "fiber": 3.72,
+        "sugar": 0.87,
+        "sodium": 377.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poha"
+      ]
+    },
+    {
+      "id": "6046a18a-0ab1-4d27-b9f3-2ed2e06973d8",
+      "name": "Vegetable poha",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 170.52,
+        "caloriesMax": 190.52,
+        "protein": 4.89,
+        "carbs": 21.52,
+        "fat": 8.07,
+        "fiber": 3.76,
+        "sugar": 1.4,
+        "sodium": 418.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable poha"
+      ]
+    },
+    {
+      "id": "cc65f154-c60f-4df2-9172-f670223d7805",
+      "name": "Moong dal stuffed cheela/chilla (Moong dal ka cheela/chilla)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 144.89,
+        "caloriesMax": 164.89,
+        "protein": 6.97,
+        "carbs": 19.42,
+        "fat": 5.11,
+        "fiber": 4.25,
+        "sugar": 1.11,
+        "sodium": 267.23
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal stuffed cheela/chilla (moong dal ka cheela/chilla)"
+      ]
+    },
+    {
+      "id": "fec0a175-82c7-42d9-aa03-5336016183f4",
+      "name": "Paneer stuffed cheela/chilla",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 195.19,
+        "caloriesMax": 215.19,
+        "protein": 11.44,
+        "carbs": 19.16,
+        "fat": 8.89,
+        "fiber": 4.03,
+        "sugar": 3.81,
+        "sodium": 289.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer stuffed cheela/chilla"
+      ]
+    },
+    {
+      "id": "5e30b26d-3c9f-4399-81a0-6833aeac9eee",
+      "name": "Indian style egg bhujia (Anda bhujia (Indian style))",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
