@@ -5078,3 +5078,638 @@
           "weightMaxG": 200
         }
       ],
+      "aliases": [
+        "dum aloo (gujarati style)"
+      ]
+    },
+    {
+      "id": "853747b2-655c-4cfc-9ddc-ce5e403e75b1",
+      "name": "Dum Aloo (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 140,
+        "protein": 9.287126845554425,
+        "carbs": 10.053784284604278,
+        "fat": 5.472799721200452,
+        "fiber": 1.25848835102394
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (rajasthani)"
+      ]
+    },
+    {
+      "id": "7e9035e7-ed97-4111-8c9a-ebe221b01129",
+      "name": "Dum Aloo (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 166,
+        "protein": 4.65174112580981,
+        "carbs": 7.461424441619027,
+        "fat": 10.155773506700598,
+        "fiber": 2.380062666075093
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (home-style)"
+      ]
+    },
+    {
+      "id": "2b280ae1-4a7a-4102-8963-81262fdb6a9e",
+      "name": "Dum Aloo (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 149,
+        "protein": 7.061546383794821,
+        "carbs": 7.147253384049966,
+        "fat": 13.107438125998241,
+        "fiber": 1.1600785024888531
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (dhaba style)"
+      ]
+    },
+    {
+      "id": "6cfe668a-e328-4ce4-954c-0d9164fec5f1",
+      "name": "Dum Aloo (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 171,
+        "protein": 7.26842802908594,
+        "carbs": 8.42675521117421,
+        "fat": 11.535215987570918,
+        "fiber": 3.0838294181290493
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (restaurant style)"
+      ]
+    },
+    {
+      "id": "d257690f-a6c0-49ee-8142-0d4a3e5ebddb",
+      "name": "Jeera Aloo",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 171,
+        "protein": 3.410578703017069,
+        "carbs": 8.32775986183438,
+        "fat": 11.686359373957865,
+        "fiber": 4.702180492008663
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "jeera aloo",
+        "JeeraAloo"
+      ]
+    },
+    {
+      "id": "3fcdb67f-faf8-4a00-b064-31d150ec6a56",
+      "name": "Jeera Aloo (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 199,
+        "protein": 2.781581806874898,
+        "carbs": 7.307218170619199,
+        "fat": 9.430902928256579,
+        "fiber": 2.3911414388618657
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (punjabi)"
+      ]
+    },
+    {
+      "id": "a4515179-e129-41a0-bb86-61f3c39ea64d",
+      "name": "Jeera Aloo (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 197,
+        "protein": 6.733449760511225,
+        "carbs": 9.371926365831584,
+        "fat": 4.557633722723033,
+        "fiber": 4.5895949607073945
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (south indian style)"
+      ]
+    },
+    {
+      "id": "363e581d-7a91-4852-b781-a528971052d0",
+      "name": "Jeera Aloo (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 143,
+        "protein": 3.372289175882895,
+        "carbs": 12.473995302130731,
+        "fat": 11.589229114134962,
+        "fiber": 2.8853900712152383
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (bengali style)"
+      ]
+    },
+    {
+      "id": "5452b34a-54dd-41bd-a8dd-f18da614b270",
+      "name": "Jeera Aloo (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 188,
+        "protein": 7.2737947735703115,
+        "carbs": 6.792674079493766,
+        "fat": 11.905078370508704,
+        "fiber": 3.1939167543336175
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "c989e008-4648-4d5c-bebf-76c548825070",
+      "name": "Jeera Aloo (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 150,
+        "protein": 11.804460481183515,
+        "carbs": 8.260145152628809,
+        "fat": 5.76007762084275,
+        "fiber": 4.152691639266816
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (gujarati style)"
+      ]
+    },
+    {
+      "id": "41190b6a-4da9-4b0a-8033-95fcb147cd57",
+      "name": "Jeera Aloo (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 143,
+        "protein": 4.296124301154837,
+        "carbs": 13.115872319588712,
+        "fat": 9.168456348911793,
+        "fiber": 4.304738508304255
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (rajasthani)"
+      ]
+    },
+    {
+      "id": "db1edf94-e970-461d-b74c-2bc206a86db8",
+      "name": "Jeera Aloo (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 196,
+        "protein": 9.35846676876686,
+        "carbs": 14.183495178247412,
+        "fat": 9.926250944349384,
+        "fiber": 4.121601640894015
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (home-style)"
+      ]
+    },
+    {
+      "id": "1ab9a060-eae3-48d5-a3d8-7736adb2ed7f",
+      "name": "Jeera Aloo (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129,
+        "caloriesMax": 191,
+        "protein": 2.495291354471278,
+        "carbs": 8.937429030438826,
+        "fat": 11.159200861059835,
+        "fiber": 3.186272535110462
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (dhaba style)"
+      ]
+    },
+    {
+      "id": "7407f2e7-26d8-4b2c-b08b-d2e875a948e8",
+      "name": "Jeera Aloo (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 176,
+        "protein": 5.724055441972438,
+        "carbs": 6.01583572244366,
+        "fat": 10.523144330805433,
+        "fiber": 4.171591384372691
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera aloo (restaurant style)"
+      ]
+    },
+    {
+      "id": "4f12538e-0347-4218-8fe3-eb13748a0a4b",
+      "name": "Aloo Palak",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 177,
+        "protein": 4.447484433781399,
+        "carbs": 5.072431474894422,
+        "fat": 7.848650985377859,
+        "fiber": 3.1530564215834804
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "aloo palak",
+        "AlooPalak"
+      ]
+    },
+    {
+      "id": "840a16ce-dd72-4ab2-9626-61765b24fb8b",
+      "name": "Aloo Palak (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 187,
+        "protein": 10.77129426288791,
+        "carbs": 11.823337057002611,
+        "fat": 8.717837077095185,
+        "fiber": 1.3492630299274264
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (punjabi)"
+      ]
+    },
+    {
+      "id": "f31f57da-a796-455d-a667-34c9e5335a13",
+      "name": "Aloo Palak (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 197,
+        "protein": 4.335297714646739,
+        "carbs": 9.20950001945128,
+        "fat": 14.03298059981476,
+        "fiber": 3.716787802403841
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (south indian style)"
+      ]
+    },
+    {
+      "id": "49abbc9b-a8b9-42dd-97bc-2cb9378b0cef",
+      "name": "Aloo Palak (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 180,
+        "protein": 11.763117883328048,
+        "carbs": 5.401801269531752,
+        "fat": 14.303570934980012,
+        "fiber": 3.2362004788538155
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (bengali style)"
+      ]
+    },
+    {
+      "id": "d1f43eef-b273-40d6-a426-f0ec9f4c802d",
+      "name": "Aloo Palak (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 174,
+        "protein": 6.704456557821594,
+        "carbs": 11.87660933781954,
+        "fat": 4.962250396170321,
+        "fiber": 1.6065125751732432
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "18fd033c-fd27-480d-abab-3ef51bc131d0",
+      "name": "Aloo Palak (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 165,
+        "protein": 4.0914380507564365,
+        "carbs": 14.105280293805224,
+        "fat": 6.195818593295215,
+        "fiber": 3.7880776540236796
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (gujarati style)"
+      ]
+    },
+    {
+      "id": "6aa0f893-b79b-426c-a2d8-929f5fcf4e8c",
+      "name": "Aloo Palak (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 173,
+        "protein": 5.751782344184155,
+        "carbs": 7.604650164700823,
+        "fat": 10.184324164784059,
+        "fiber": 4.0420824446998775
+      },
