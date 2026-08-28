@@ -4443,3 +4443,638 @@
     {
       "id": "c9ab8967-e937-4764-bb58-4b17234d2291",
       "name": "Aloo Gobi (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 6.610229714261011,
+        "carbs": 14.48501556414417,
+        "fat": 4.855810360156063,
+        "fiber": 2.8427445518021965
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (gujarati style)"
+      ]
+    },
+    {
+      "id": "a212fe26-56ef-4370-8c70-4ef4f2076ce3",
+      "name": "Aloo Gobi (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 165,
+        "protein": 10.300150024569726,
+        "carbs": 6.1216681421229255,
+        "fat": 13.221336004038866,
+        "fiber": 2.3088199626286596
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (rajasthani)"
+      ]
+    },
+    {
+      "id": "9dbfd640-70f5-491d-9ab7-1e9932e1d0d9",
+      "name": "Aloo Gobi (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 176,
+        "protein": 9.210051558464112,
+        "carbs": 7.860260390744541,
+        "fat": 5.567736222782814,
+        "fiber": 4.516304487437171
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (home-style)"
+      ]
+    },
+    {
+      "id": "eb97bf39-1400-4e96-a498-1da48b055032",
+      "name": "Aloo Gobi (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 195,
+        "protein": 4.739440202871114,
+        "carbs": 14.849776347704916,
+        "fat": 13.032942139993107,
+        "fiber": 4.195380547971551
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (dhaba style)"
+      ]
+    },
+    {
+      "id": "285dda42-1a53-4702-b92f-84459354c8f5",
+      "name": "Aloo Gobi (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 175,
+        "protein": 7.148246176094919,
+        "carbs": 6.570914858929223,
+        "fat": 13.065458087946704,
+        "fiber": 1.8970926097441017
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo gobi (restaurant style)"
+      ]
+    },
+    {
+      "id": "10aaca05-be9e-42e6-a097-6829d03c2f14",
+      "name": "Aloo Matar",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 135,
+        "protein": 10.28274432906136,
+        "carbs": 14.956611723570415,
+        "fat": 5.048733887852091,
+        "fiber": 3.9009099354702945
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "aloo matar",
+        "AlooMatar"
+      ]
+    },
+    {
+      "id": "e733f28c-c039-40fc-96bd-7255bb4f0277",
+      "name": "Aloo Matar (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 181,
+        "protein": 9.14849851605195,
+        "carbs": 6.6974844018478805,
+        "fat": 12.722591750938328,
+        "fiber": 2.1323110991780827
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (punjabi)"
+      ]
+    },
+    {
+      "id": "ce7df0c2-fc81-40d6-9c4c-8bfb9e1b55b9",
+      "name": "Aloo Matar (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 127,
+        "caloriesMax": 197,
+        "protein": 10.04384462799411,
+        "carbs": 10.348147107064957,
+        "fat": 12.333482600302228,
+        "fiber": 2.03076652585986
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (south indian style)"
+      ]
+    },
+    {
+      "id": "ce1a5ade-85be-494e-a7eb-5e46fd9e263f",
+      "name": "Aloo Matar (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 184,
+        "protein": 9.418864477503018,
+        "carbs": 13.543197751836622,
+        "fat": 12.20749524379171,
+        "fiber": 3.0975745803974872
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (bengali style)"
+      ]
+    },
+    {
+      "id": "e33d43db-7a13-47ae-9316-e37ba160b9b5",
+      "name": "Aloo Matar (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 164,
+        "protein": 6.518277576865534,
+        "carbs": 10.89707610771563,
+        "fat": 6.262783118069433,
+        "fiber": 4.529893011338377
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "0758623a-1f6a-450b-96a2-e0021ece59cd",
+      "name": "Aloo Matar (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 140,
+        "protein": 8.213830990947837,
+        "carbs": 11.913556070383098,
+        "fat": 7.485665569237133,
+        "fiber": 4.96113115224219
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (gujarati style)"
+      ]
+    },
+    {
+      "id": "45ab042c-b083-42ce-81bf-abaa53e9a610",
+      "name": "Aloo Matar (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 173,
+        "protein": 5.975952588979677,
+        "carbs": 14.715790778503662,
+        "fat": 14.176126880846882,
+        "fiber": 2.696503937797503
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (rajasthani)"
+      ]
+    },
+    {
+      "id": "d329e646-4ce8-41ee-a74c-046b64095666",
+      "name": "Aloo Matar (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 180,
+        "protein": 9.25392766247803,
+        "carbs": 12.200815012164915,
+        "fat": 12.112034170462417,
+        "fiber": 3.285629400909743
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (home-style)"
+      ]
+    },
+    {
+      "id": "d9cc1104-c4b4-4bc5-853a-139a9e05e378",
+      "name": "Aloo Matar (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 196,
+        "protein": 4.896488992304657,
+        "carbs": 8.162615703831655,
+        "fat": 10.119554238442873,
+        "fiber": 4.33306708363699
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (dhaba style)"
+      ]
+    },
+    {
+      "id": "4c8e6d9f-daa8-4d14-a87f-906bdb7a65cf",
+      "name": "Aloo Matar (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 194,
+        "protein": 10.587702391776517,
+        "carbs": 5.3707310768341205,
+        "fat": 8.880271819005827,
+        "fiber": 2.8995755221338966
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo matar (restaurant style)"
+      ]
+    },
+    {
+      "id": "f3bf18c2-bddd-4b79-b6d1-14401520fd22",
+      "name": "Dum Aloo",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 83,
+        "caloriesMax": 142,
+        "protein": 7.4467479302690744,
+        "carbs": 14.756708900636006,
+        "fat": 7.995827778948267,
+        "fiber": 2.1199432003717686
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "dum aloo",
+        "DumAloo"
+      ]
+    },
+    {
+      "id": "73fad456-5840-4498-9ec2-30d9c4e68a41",
+      "name": "Dum Aloo (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 151,
+        "protein": 5.393997376421419,
+        "carbs": 7.977231818030468,
+        "fat": 7.057748451633108,
+        "fiber": 2.263585142765307
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (punjabi)"
+      ]
+    },
+    {
+      "id": "994668ad-365f-47b2-8419-f4f165125fd0",
+      "name": "Dum Aloo (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 191,
+        "protein": 7.745107841310713,
+        "carbs": 5.495704856826013,
+        "fat": 5.734566514644124,
+        "fiber": 1.903913290383417
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (south indian style)"
+      ]
+    },
+    {
+      "id": "24e7876b-0857-4214-9e03-2e52ff9ba6ee",
+      "name": "Dum Aloo (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 171,
+        "protein": 2.0760427409439868,
+        "carbs": 7.014067625720267,
+        "fat": 5.458095398347467,
+        "fiber": 3.1258671338074486
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (bengali style)"
+      ]
+    },
+    {
+      "id": "eb7e2632-0490-4636-9230-35a1272c21d4",
+      "name": "Dum Aloo (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92,
+        "caloriesMax": 145,
+        "protein": 10.207658982619876,
+        "carbs": 11.150108008787981,
+        "fat": 7.4910792919845335,
+        "fiber": 4.960081956276785
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dum aloo (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "92858062-7d36-42d9-8a54-4dd6fbf52d8c",
+      "name": "Dum Aloo (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 191,
+        "protein": 2.9423320075341177,
+        "carbs": 14.129958432047182,
+        "fat": 12.222055172063664,
+        "fiber": 2.072979092428559
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
