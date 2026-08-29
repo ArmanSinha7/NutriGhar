@@ -17542,3 +17542,1035 @@
       ],
       "aliases": [
         "sour lentils (khatti dal)"
+      ]
+    },
+    {
+      "id": "8b01d75c-c247-42cb-955b-0b6f42544f87",
+      "name": "Urad special dehusked",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 59.43000000000001,
+        "caloriesMax": 79.43,
+        "protein": 3.14,
+        "carbs": 8.86,
+        "fat": 2.17,
+        "fiber": 2.5,
+        "sugar": 1.32,
+        "sodium": 109.56
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "urad special dehusked"
+      ]
+    },
+    {
+      "id": "8081215d-7c1d-4d4c-b9c9-0f4aad216859",
+      "name": "Arhar with spinach (Arhar dal aur palak)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 42.84,
+        "caloriesMax": 62.84,
+        "protein": 2.05,
+        "carbs": 4.77,
+        "fat": 2.76,
+        "fiber": 1.3,
+        "sugar": 0.23,
+        "sodium": 109.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arhar with spinach (arhar dal aur palak)"
+      ]
+    },
+    {
+      "id": "ce9b80ee-03b2-4d64-982e-950aa6e92b96",
+      "name": "Moong dal with vadi",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 14.079999999999998,
+        "caloriesMax": 34.08,
+        "protein": 0.4,
+        "carbs": 1.0,
+        "fat": 2.05,
+        "fiber": 0.39,
+        "sugar": 0.45,
+        "sodium": 112.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal with vadi"
+      ]
+    },
+    {
+      "id": "b580a894-c64a-486d-a3cd-a6340c827874",
+      "name": "Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 16.74,
+        "caloriesMax": 36.739999999999995,
+        "protein": 1.13,
+        "carbs": 3.37,
+        "fat": 0.88,
+        "fiber": 1.6,
+        "sugar": 0.83,
+        "sodium": 104.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasam with tamarind (puli rasam/ chintapandu rasam/ charu/saaru)"
+      ]
+    },
+    {
+      "id": "4fde79d1-e970-4a81-9627-cc58ac6e9ab4",
+      "name": "Rasam with lemon (Nimmakaya rasam/Nimmakaya charu/Elumichai rasam/Nimbe hannina saaru)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 14.41,
+        "caloriesMax": 34.41,
+        "protein": 1.11,
+        "carbs": 2.85,
+        "fat": 0.87,
+        "fiber": 1.54,
+        "sugar": 0.44,
+        "sodium": 102.77
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasam with lemon (nimmakaya rasam/nimmakaya charu/elumichai rasam/nimbe hannina saaru)"
+      ]
+    },
+    {
+      "id": "16eaecbf-6d03-41d1-8f1c-5ac1a02b20d5",
+      "name": "Green gram whole with baghar (Sabut moong dal with tadka)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 53.43,
+        "caloriesMax": 73.43,
+        "protein": 3.23,
+        "carbs": 6.8,
+        "fat": 2.48,
+        "fiber": 3.02,
+        "sugar": 0.15,
+        "sodium": 181.69
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green gram whole with baghar (sabut moong dal with tadka)"
+      ]
+    },
+    {
+      "id": "c6c7c4fa-f319-4491-8e95-15b0bd66173d",
+      "name": "Urad sabut special",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 69.39,
+        "caloriesMax": 89.39,
+        "protein": 2.33,
+        "carbs": 5.03,
+        "fat": 5.46,
+        "fiber": 2.15,
+        "sugar": 0.86,
+        "sodium": 60.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "urad sabut special"
+      ]
+    },
+    {
+      "id": "65298eb9-2068-4bae-9f18-8f5730402223",
+      "name": "Kabuli channa curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 58.56999999999999,
+        "caloriesMax": 78.57,
+        "protein": 2.92,
+        "carbs": 7.63,
+        "fat": 3.06,
+        "fiber": 1.12,
+        "sugar": 1.24,
+        "sodium": 122.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kabuli channa curry"
+      ]
+    },
+    {
+      "id": "8e869b29-fa26-48b1-8c9a-1bc884d914ea",
+      "name": "Besan gatte curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 179.38,
+        "caloriesMax": 199.38,
+        "protein": 7.75,
+        "carbs": 16.26,
+        "fat": 10.72,
+        "fiber": 3.25,
+        "sugar": 4.5,
+        "sodium": 356.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "besan gatte curry"
+      ]
+    },
+    {
+      "id": "7b1be41b-2ae5-4fec-b03d-8ff314547a62",
+      "name": "Dry masala chops",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125.07,
+        "caloriesMax": 145.07,
+        "protein": 9.08,
+        "carbs": 3.3,
+        "fat": 9.54,
+        "fiber": 0.86,
+        "sugar": 2.27,
+        "sodium": 83.47
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dry masala chops"
+      ]
+    },
+    {
+      "id": "afbab6f6-6be5-4c18-a029-64c09d10a9c2",
+      "name": "Mutton korma",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105.64,
+        "caloriesMax": 125.64,
+        "protein": 7.09,
+        "carbs": 2.53,
+        "fat": 8.54,
+        "fiber": 0.78,
+        "sugar": 1.64,
+        "sodium": 56.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton korma"
+      ]
+    },
+    {
+      "id": "926aa256-9334-4587-a583-81d8693a0d82",
+      "name": "Shahi keema kofta curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 408.13,
+        "caloriesMax": 428.13,
+        "protein": 4.14,
+        "carbs": 1.73,
+        "fat": 43.83,
+        "fiber": 0.91,
+        "sugar": 0.78,
+        "sodium": 104.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shahi keema kofta curry"
+      ]
+    },
+    {
+      "id": "5ff123e3-c171-4f92-b818-d45463de1a55",
+      "name": "Minced meat ball curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99.79,
+        "caloriesMax": 119.79,
+        "protein": 6.82,
+        "carbs": 2.86,
+        "fat": 7.85,
+        "fiber": 1.49,
+        "sugar": 1.27,
+        "sodium": 170.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "minced meat ball curry"
+      ]
+    },
+    {
+      "id": "07ba5cff-769b-4fd3-bf9e-0cdd075b6269",
+      "name": "Boti kebab",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122.86000000000001,
+        "caloriesMax": 142.86,
+        "protein": 9.22,
+        "carbs": 3.06,
+        "fat": 9.27,
+        "fiber": 0.76,
+        "sugar": 2.09,
+        "sodium": 78.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boti kebab"
+      ]
+    },
+    {
+      "id": "bae031ef-a8bf-4545-acad-a5796472b6b8",
+      "name": "Mutton seekh kebab",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123.94,
+        "caloriesMax": 143.94,
+        "protein": 11.25,
+        "carbs": 3.11,
+        "fat": 8.43,
+        "fiber": 1.88,
+        "sugar": 1.4,
+        "sodium": 102.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton seekh kebab"
+      ]
+    },
+    {
+      "id": "43608438-1dd1-4d93-a450-47b7acd7336e",
+      "name": "Indian lamb and egg curry (Nargisi kofta)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 325.75,
+        "caloriesMax": 345.75,
+        "protein": 3.84,
+        "carbs": 2.07,
+        "fat": 34.7,
+        "fiber": 0.6,
+        "sugar": 0.75,
+        "sodium": 57.44
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "indian lamb and egg curry (nargisi kofta)"
+      ]
+    },
+    {
+      "id": "b3befea1-c171-45d0-9275-78c81ca49013",
+      "name": "Soya chunks sweet and sour (Nutrinugget sweet and sour)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 490.94,
+        "caloriesMax": 510.94,
+        "protein": 2.85,
+        "carbs": 3.27,
+        "fat": 55.99,
+        "fiber": 0.86,
+        "sugar": 1.1,
+        "sodium": 2257.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soya chunks sweet and sour (nutrinugget sweet and sour)"
+      ]
+    },
+    {
+      "id": "015c55b9-91ca-45ae-9260-b6aa17c50466",
+      "name": "Soya chunks korma (Nutrinugget korma)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121.43,
+        "caloriesMax": 141.43,
+        "protein": 3.86,
+        "carbs": 7.67,
+        "fat": 9.5,
+        "fiber": 2.57,
+        "sugar": 4.66,
+        "sodium": 148.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soya chunks korma (nutrinugget korma)"
+      ]
+    },
+    {
+      "id": "d830235d-970d-4194-bfa8-5da810483794",
+      "name": "Mushroom matar",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 60.769999999999996,
+        "caloriesMax": 80.77,
+        "protein": 2.79,
+        "carbs": 5.33,
+        "fat": 4.11,
+        "fiber": 3.13,
+        "sugar": 1.39,
+        "sodium": 61.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom matar"
+      ]
+    },
+    {
+      "id": "8ed25ee8-c9be-4f65-9709-3945dbf56531",
+      "name": "Soya chunks and peas (Nutrinugget matar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 72.62,
+        "caloriesMax": 92.62,
+        "protein": 3.03,
+        "carbs": 5.82,
+        "fat": 5.11,
+        "fiber": 2.86,
+        "sugar": 1.64,
+        "sodium": 70.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soya chunks and peas (nutrinugget matar)"
+      ]
+    },
+    {
+      "id": "1760027d-77fa-46b1-8a63-42f815a46cf5",
+      "name": "Vegetable yakhni",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 396.06,
+        "caloriesMax": 416.06,
+        "protein": 1.18,
+        "carbs": 1.94,
+        "fat": 43.8,
+        "fiber": 0.61,
+        "sugar": 1.44,
+        "sodium": 38.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable yakhni"
+      ]
+    },
+    {
+      "id": "a02207ed-9588-432c-b71c-1cbd0c1369bc",
+      "name": "Spinach mushroom (Palak mushroom)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 37.63,
+        "caloriesMax": 57.63,
+        "protein": 1.94,
+        "carbs": 2.95,
+        "fat": 2.96,
+        "fiber": 2.27,
+        "sugar": 1.0,
+        "sodium": 70.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach mushroom (palak mushroom)"
+      ]
+    },
+    {
+      "id": "ff4a6a92-ed24-4eab-af96-6b7d743222f7",
+      "name": "Vegetarian nargisi kofta curry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 322.15,
+        "caloriesMax": 342.15,
+        "protein": 2.29,
+        "carbs": 6.58,
+        "fat": 32.94,
+        "fiber": 0.86,
+        "sugar": 1.65,
+        "sodium": 73.56
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetarian nargisi kofta curry"
+      ]
+    },
+    {
+      "id": "75a47517-c84e-4956-a815-17c1e701482e",
+      "name": "Roast chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 189.9,
+        "caloriesMax": 209.9,
+        "protein": 20.49,
+        "carbs": 0.1,
+        "fat": 13.06,
+        "fiber": 0.03,
+        "sugar": 0.05,
+        "sodium": 71.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roast chicken"
+      ]
+    },
+    {
+      "id": "a55da17e-c400-40bf-8ebd-8796b6b616f2",
+      "name": "Shahi chicken masala",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 153.7,
+        "caloriesMax": 173.7,
+        "protein": 9.82,
+        "carbs": 4.07,
+        "fat": 12.02,
+        "fiber": 0.96,
+        "sugar": 2.86,
+        "sodium": 142.56
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shahi chicken masala"
+      ]
+    },
+    {
+      "id": "03e1889c-f9a7-49e2-939e-171ccb12a753",
+      "name": "Tomato chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101.68,
+        "caloriesMax": 121.68,
+        "protein": 10.57,
+        "carbs": 2.13,
+        "fat": 6.71,
+        "fiber": 1.42,
+        "sugar": 0.93,
+        "sodium": 104.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato chicken"
+      ]
+    },
+    {
+      "id": "da7fa8cc-d6d7-4094-9b63-6bba25f6dfb0",
+      "name": "Creamy chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 142.87,
+        "caloriesMax": 162.87,
+        "protein": 13.52,
+        "carbs": 3.13,
+        "fat": 9.57,
+        "fiber": 0.69,
+        "sugar": 2.11,
+        "sodium": 97.08
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "creamy chicken"
+      ]
+    },
+    {
+      "id": "79a4e82b-a109-416d-9b42-e1b36fbe46a0",
+      "name": "Broccoli chicken ala king",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109.56,
+        "caloriesMax": 129.56,
+        "protein": 7.97,
+        "carbs": 5.34,
+        "fat": 7.57,
+        "fiber": 1.92,
+        "sugar": 2.49,
+        "sodium": 104.01
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "broccoli chicken ala king"
+      ]
+    },
+    {
+      "id": "72d28c7f-7dd4-443b-af75-09fc60a31d90",
+      "name": "Ginger chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119.16999999999999,
+        "caloriesMax": 139.17,
+        "protein": 8.24,
+        "carbs": 5.6,
+        "fat": 8.24,
+        "fiber": 1.21,
+        "sugar": 1.95,
+        "sodium": 365.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ginger chicken"
+      ]
+    },
+    {
+      "id": "a397dcb6-c244-40aa-99b6-7cd23b85e8af",
+      "name": "Chicken sweet and sour",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 435.09,
+        "caloriesMax": 455.09,
+        "protein": 6.92,
+        "carbs": 2.67,
+        "fat": 47.59,
+        "fiber": 0.58,
+        "sugar": 0.89,
+        "sodium": 1809.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken sweet and sour"
+      ]
+    },
+    {
+      "id": "9499c633-032b-4a56-a652-4b63988538aa",
+      "name": "Chicken korma",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
