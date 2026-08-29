@@ -19606,3 +19606,1035 @@
         "fiber": 3.26,
         "sugar": 1.47,
         "sodium": 86.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cauliflower, pea and potato bhujia (phoolgobhi, matar aur aloo bhujia)"
+      ]
+    },
+    {
+      "id": "200cca17-7741-4044-9078-553a3864f385",
+      "name": "Vegetable jalfrezi",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 58.480000000000004,
+        "caloriesMax": 78.48,
+        "protein": 1.4,
+        "carbs": 5.43,
+        "fat": 4.38,
+        "fiber": 2.97,
+        "sugar": 1.79,
+        "sodium": 79.46
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable jalfrezi"
+      ]
+    },
+    {
+      "id": "9a41c060-f91c-45e0-9312-51b8c2f32206",
+      "name": "Vegetables stir fry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 20.78,
+        "caloriesMax": 40.78,
+        "protein": 1.04,
+        "carbs": 3.19,
+        "fat": 1.47,
+        "fiber": 1.37,
+        "sugar": 0.86,
+        "sodium": 55.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetables stir fry"
+      ]
+    },
+    {
+      "id": "c086103e-114e-4e27-b5ba-f7981d86ae11",
+      "name": "Broccoli delight",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 30.700000000000003,
+        "caloriesMax": 50.7,
+        "protein": 2.49,
+        "carbs": 2.34,
+        "fat": 2.48,
+        "fiber": 2.83,
+        "sugar": 1.08,
+        "sodium": 59.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "broccoli delight"
+      ]
+    },
+    {
+      "id": "345ef2a2-2550-44cd-9b0a-e0736701988c",
+      "name": "Dhansak (vegetarian)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 72.8,
+        "caloriesMax": 92.8,
+        "protein": 3.32,
+        "carbs": 7.28,
+        "fat": 4.18,
+        "fiber": 4.17,
+        "sugar": 0.91,
+        "sodium": 34.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhansak (vegetarian)"
+      ]
+    },
+    {
+      "id": "1235e18b-24e0-4323-b8f1-d41b90db67f4",
+      "name": "Cauliflower basket",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 80.95,
+        "caloriesMax": 100.95,
+        "protein": 5.21,
+        "carbs": 3.97,
+        "fat": 5.88,
+        "fiber": 2.4,
+        "sugar": 1.47,
+        "sodium": 194.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cauliflower basket"
+      ]
+    },
+    {
+      "id": "fa9dd7d3-e2e5-4313-ad7e-a447ba181ffd",
+      "name": "Stuffed bottle gourd (Stuffed ghiya/lauki)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 83.19,
+        "caloriesMax": 103.19,
+        "protein": 5.84,
+        "carbs": 4.36,
+        "fat": 5.8,
+        "fiber": 1.18,
+        "sugar": 1.52,
+        "sodium": 106.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed bottle gourd (stuffed ghiya/lauki)"
+      ]
+    },
+    {
+      "id": "f9daf735-1a95-4959-836b-a73acabacd93",
+      "name": "Ducheese potato",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130.54,
+        "caloriesMax": 150.54,
+        "protein": 3.6,
+        "carbs": 10.94,
+        "fat": 9.01,
+        "fiber": 1.29,
+        "sugar": 0.29,
+        "sodium": 103.85
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ducheese potato"
+      ]
+    },
+    {
+      "id": "4918b3c3-e35c-4891-bcc4-867c5ed7d8fd",
+      "name": "Roast potatoes",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 77.32,
+        "caloriesMax": 97.32,
+        "protein": 1.53,
+        "carbs": 14.52,
+        "fat": 2.35,
+        "fiber": 1.71,
+        "sugar": 0.33,
+        "sodium": 90.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roast potatoes"
+      ]
+    },
+    {
+      "id": "1cd95a71-5120-4e1a-91b6-90a23002c32e",
+      "name": "Stuffed baked potatoes",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90.2,
+        "caloriesMax": 110.2,
+        "protein": 3.82,
+        "carbs": 11.03,
+        "fat": 4.39,
+        "fiber": 1.31,
+        "sugar": 0.4,
+        "sodium": 92.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed baked potatoes"
+      ]
+    },
+    {
+      "id": "c8afbaeb-7e10-4703-9ebf-1d42890258d1",
+      "name": "Potato nests",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101.62,
+        "caloriesMax": 121.62,
+        "protein": 5.71,
+        "carbs": 11.05,
+        "fat": 4.77,
+        "fiber": 2.49,
+        "sugar": 1.41,
+        "sodium": 182.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato nests"
+      ]
+    },
+    {
+      "id": "472f5264-1f1e-4d2c-a41b-f11537ddb352",
+      "name": "Parsley potato",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109.51,
+        "caloriesMax": 129.51,
+        "protein": 1.49,
+        "carbs": 13.81,
+        "fat": 6.28,
+        "fiber": 1.59,
+        "sugar": 0.34,
+        "sodium": 4.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "parsley potato"
+      ]
+    },
+    {
+      "id": "fccf0a4c-ec0f-46e0-b131-7885f5060196",
+      "name": "Creamed spinach and mushroom",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 409.62,
+        "caloriesMax": 429.62,
+        "protein": 2.28,
+        "carbs": 3.17,
+        "fat": 44.14,
+        "fiber": 1.02,
+        "sugar": 1.17,
+        "sodium": 90.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "creamed spinach and mushroom"
+      ]
+    },
+    {
+      "id": "eda62d34-6b07-40c9-805d-abfa2517dabf",
+      "name": "Fricassee of Mushroom",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96.66,
+        "caloriesMax": 116.66,
+        "protein": 3.65,
+        "carbs": 8.13,
+        "fat": 6.63,
+        "fiber": 1.23,
+        "sugar": 2.51,
+        "sodium": 118.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fricassee of mushroom"
+      ]
+    },
+    {
+      "id": "1b37eb0a-1814-4bd8-a2e3-13c7113c1fd1",
+      "name": "Cauliflower au gratin",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 135.9,
+        "caloriesMax": 155.9,
+        "protein": 4.45,
+        "carbs": 9.13,
+        "fat": 10.2,
+        "fiber": 1.44,
+        "sugar": 3.01,
+        "sodium": 164.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cauliflower au gratin"
+      ]
+    },
+    {
+      "id": "7ed9f348-2f7d-43e5-bce4-ba3ef6efbc52",
+      "name": "Vegetable and cheese pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116.88,
+        "caloriesMax": 136.88,
+        "protein": 4.03,
+        "carbs": 8.76,
+        "fat": 8.28,
+        "fiber": 1.91,
+        "sugar": 2.69,
+        "sodium": 117.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable and cheese pie"
+      ]
+    },
+    {
+      "id": "4e58a091-86c0-4830-9424-aa3cca4a4e45",
+      "name": "Spinach souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140.18,
+        "caloriesMax": 160.18,
+        "protein": 7.36,
+        "carbs": 6.27,
+        "fat": 10.52,
+        "fiber": 1.44,
+        "sugar": 0.89,
+        "sodium": 244.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach souffle"
+      ]
+    },
+    {
+      "id": "b39f6e33-2603-4389-a81b-37aca1b0e515",
+      "name": "Beetroot and egg salad (Chukandar aur ande ka salad)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 74.92,
+        "caloriesMax": 94.92,
+        "protein": 3.36,
+        "carbs": 3.4,
+        "fat": 6.45,
+        "fiber": 0.55,
+        "sugar": 1.97,
+        "sodium": 110.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beetroot and egg salad (chukandar aur ande ka salad)"
+      ]
+    },
+    {
+      "id": "2991729f-1cc8-4dd0-b951-bd58d3f2834d",
+      "name": "Sour cream potato salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111.9,
+        "caloriesMax": 131.9,
+        "protein": 2.89,
+        "carbs": 9.05,
+        "fat": 8.13,
+        "fiber": 1.21,
+        "sugar": 0.84,
+        "sodium": 102.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sour cream potato salad"
+      ]
+    },
+    {
+      "id": "aedc644f-2c10-4186-b4de-fae6681468f2",
+      "name": "Tossed green salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 39.88,
+        "caloriesMax": 59.88,
+        "protein": 1.33,
+        "carbs": 3.82,
+        "fat": 3.24,
+        "fiber": 1.33,
+        "sugar": 1.9,
+        "sodium": 65.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tossed green salad"
+      ]
+    },
+    {
+      "id": "8d395e99-d06d-4318-9410-42ea9ecc2192",
+      "name": "Spring basket salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 150.46,
+        "caloriesMax": 170.46,
+        "protein": 3.36,
+        "carbs": 11.61,
+        "fat": 11.3,
+        "fiber": 3.09,
+        "sugar": 1.46,
+        "sodium": 26.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spring basket salad"
+      ]
+    },
+    {
+      "id": "1c6a01e9-f957-4c35-b37e-8877015f2cde",
+      "name": "Cucumber and yogurt salad (Kheere aur dahi ka salad)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 26.130000000000003,
+        "caloriesMax": 46.13,
+        "protein": 2.09,
+        "carbs": 4.72,
+        "fat": 0.93,
+        "fiber": 1.66,
+        "sugar": 2.28,
+        "sodium": 141.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cucumber and yogurt salad (kheere aur dahi ka salad)"
+      ]
+    },
+    {
+      "id": "67e4b914-4320-413d-a77d-7b0753b542cd",
+      "name": "Chicken and tomato towers",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90.55,
+        "caloriesMax": 110.55,
+        "protein": 6.9,
+        "carbs": 2.36,
+        "fat": 6.99,
+        "fiber": 1.14,
+        "sugar": 1.21,
+        "sodium": 76.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken and tomato towers"
+      ]
+    },
+    {
+      "id": "431ead69-23b7-47b0-8103-2898e97cae65",
+      "name": "Jellied sunshine fruit salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 38.86,
+        "caloriesMax": 58.86,
+        "protein": 5.85,
+        "carbs": 4.21,
+        "fat": 0.85,
+        "fiber": 1.8,
+        "sugar": 2.86,
+        "sodium": 74.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jellied sunshine fruit salad"
+      ]
+    },
+    {
+      "id": "2e7858d3-021c-4437-b964-d30eaf529a3d",
+      "name": "Tomato aspic",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 40.37,
+        "caloriesMax": 60.37,
+        "protein": 6.87,
+        "carbs": 5.02,
+        "fat": 0.26,
+        "fiber": 1.58,
+        "sugar": 3.21,
+        "sodium": 98.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato aspic"
+      ]
+    },
+    {
+      "id": "7f88e853-4728-458f-b19d-18e784fccaa2",
+      "name": "Frozen frosty fruit salad (Phalon ka salaad)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93.51,
+        "caloriesMax": 113.51,
+        "protein": 1.68,
+        "carbs": 15.61,
+        "fat": 4.17,
+        "fiber": 0.26,
+        "sugar": 14.38,
+        "sodium": 13.23
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "frozen frosty fruit salad (phalon ka salaad)"
+      ]
+    },
+    {
+      "id": "8362ca3a-039b-4c1e-a8f2-5fa6cf5358ab",
+      "name": "French dressing",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 723.77,
+        "caloriesMax": 743.77,
+        "protein": 0.32,
+        "carbs": 3.68,
+        "fat": 79.65,
+        "fiber": 0.22,
+        "sugar": 3.01,
+        "sodium": 261.13
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "french dressing"
+      ]
+    },
+    {
+      "id": "633359e2-fe37-4935-bc91-c1501ecfd880",
+      "name": "Mayonnaise without eggs",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 319.05,
+        "caloriesMax": 339.05,
+        "protein": 2.13,
+        "carbs": 3.98,
+        "fat": 33.84,
+        "fiber": 0.04,
+        "sugar": 3.68,
+        "sodium": 193.58
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mayonnaise without eggs"
+      ]
+    },
+    {
+      "id": "1e92a569-e5fb-48ed-bf70-ccc3fedc05d3",
+      "name": "Curd dressing",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 68.8,
+        "caloriesMax": 88.8,
+        "protein": 5.59,
+        "carbs": 8.03,
+        "fat": 2.9,
+        "fiber": 0.22,
+        "sugar": 7.57,
+        "sodium": 204.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd dressing"
+      ]
+    },
+    {
+      "id": "214be5d6-939a-4ddf-a306-3cb52943c40a",
+      "name": "Carrot raita (Gajar ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 54.78,
+        "caloriesMax": 74.78,
+        "protein": 4.14,
+        "carbs": 7.19,
+        "fat": 2.19,
+        "fiber": 1.69,
+        "sugar": 5.99,
+        "sodium": 274.46
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot raita (gajar ka raita)"
+      ]
+    },
+    {
+      "id": "d8af3518-fbbc-47e4-8b3a-8e4ed2def87f",
+      "name": "Pumpkin raita (Kaddu ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 45.6,
+        "caloriesMax": 65.6,
+        "protein": 3.74,
+        "carbs": 6.02,
+        "fat": 1.88,
+        "fiber": 1.04,
+        "sugar": 5.48,
+        "sodium": 129.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pumpkin raita (kaddu ka raita)"
+      ]
+    },
