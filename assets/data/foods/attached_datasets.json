@@ -18574,3 +18574,1035 @@
         "lunch",
         "dinner",
         "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 137.96,
+        "caloriesMax": 157.96,
+        "protein": 9.83,
+        "carbs": 5.43,
+        "fat": 9.67,
+        "fiber": 1.82,
+        "sugar": 3.32,
+        "sodium": 119.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken korma"
+      ]
+    },
+    {
+      "id": "6c326a23-a872-4fc5-8dab-17bc42e26ca1",
+      "name": "Bengal fish curry (Bengali machli curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99.43,
+        "caloriesMax": 119.43,
+        "protein": 7.26,
+        "carbs": 4.42,
+        "fat": 7.03,
+        "fiber": 1.93,
+        "sugar": 2.39,
+        "sodium": 76.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bengal fish curry (bengali machli curry)"
+      ]
+    },
+    {
+      "id": "e1ba05bb-a357-460d-a82f-91ca17637f35",
+      "name": "Fish finger",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 532.9,
+        "caloriesMax": 552.9,
+        "protein": 5.66,
+        "carbs": 4.47,
+        "fat": 55.82,
+        "fiber": 0.34,
+        "sugar": 0.17,
+        "sodium": 103.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish finger"
+      ]
+    },
+    {
+      "id": "c15c54f9-4c8a-4b14-8921-f6c38d15f533",
+      "name": "Fish in coconut milk (Nariyal ke doodh ke saath machli)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 76.21,
+        "caloriesMax": 96.21,
+        "protein": 8.66,
+        "carbs": 2.73,
+        "fat": 4.43,
+        "fiber": 1.52,
+        "sugar": 1.55,
+        "sodium": 73.93
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish in coconut milk (nariyal ke doodh ke saath machli)"
+      ]
+    },
+    {
+      "id": "aafc0a56-8610-43b2-b4ef-3443917993ec",
+      "name": "Prawn curry (with coconut) (Jhinga curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99.55,
+        "caloriesMax": 119.55,
+        "protein": 8.54,
+        "carbs": 3.1,
+        "fat": 6.93,
+        "fiber": 1.56,
+        "sugar": 2.03,
+        "sodium": 375.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "prawn curry (with coconut) (jhinga curry)"
+      ]
+    },
+    {
+      "id": "6d6ecec0-2028-4cba-854f-689f09f4c49a",
+      "name": "Baked stuffed fish",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111.96,
+        "caloriesMax": 131.95999999999998,
+        "protein": 16.14,
+        "carbs": 2.12,
+        "fat": 5.43,
+        "fiber": 0.38,
+        "sugar": 0.35,
+        "sodium": 74.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baked stuffed fish"
+      ]
+    },
+    {
+      "id": "623ed405-6958-4c62-998c-649a97f1562d",
+      "name": "Fish pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110.9,
+        "caloriesMax": 130.9,
+        "protein": 9.25,
+        "carbs": 7.74,
+        "fat": 5.77,
+        "fiber": 0.76,
+        "sugar": 1.13,
+        "sodium": 101.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish pie"
+      ]
+    },
+    {
+      "id": "553e579c-f3f9-4701-805c-bc9846af32b6",
+      "name": "Crispy baked fish",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128.4,
+        "caloriesMax": 148.4,
+        "protein": 10.95,
+        "carbs": 9.59,
+        "fat": 6.41,
+        "fiber": 1.21,
+        "sugar": 1.53,
+        "sodium": 192.42
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "crispy baked fish"
+      ]
+    },
+    {
+      "id": "5b218153-d104-4725-b60e-1784c56506aa",
+      "name": "Fish souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129.71,
+        "caloriesMax": 149.71,
+        "protein": 10.51,
+        "carbs": 5.14,
+        "fat": 8.55,
+        "fiber": 0.19,
+        "sugar": 2.09,
+        "sodium": 92.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish souffle"
+      ]
+    },
+    {
+      "id": "62e96b69-7d99-4629-8c47-ba67df65566c",
+      "name": "Potato curry (Aloo ki sabzi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 79.56,
+        "caloriesMax": 99.56,
+        "protein": 1.52,
+        "carbs": 10.42,
+        "fat": 4.47,
+        "fiber": 2.42,
+        "sugar": 1.58,
+        "sodium": 78.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato curry (aloo ki sabzi)"
+      ]
+    },
+    {
+      "id": "57125a64-2b8d-4f44-8633-c97c7b15963d",
+      "name": "Egg curry (Anda curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107.52,
+        "caloriesMax": 127.52,
+        "protein": 5.38,
+        "carbs": 4.03,
+        "fat": 8.81,
+        "fiber": 2.09,
+        "sugar": 1.9,
+        "sodium": 142.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg curry (anda curry)"
+      ]
+    },
+    {
+      "id": "4e8b79cb-9aaa-4749-9a8a-eae0027f5cff",
+      "name": "Vegetable curry with coconut",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 73.07,
+        "caloriesMax": 93.07,
+        "protein": 2.77,
+        "carbs": 7.19,
+        "fat": 4.66,
+        "fiber": 3.35,
+        "sugar": 1.41,
+        "sodium": 43.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable curry with coconut"
+      ]
+    },
+    {
+      "id": "e8f2d5ee-22d1-4c15-a7ab-b4c8d36bd658",
+      "name": "Curd with potatoes (Dahi aloo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 49.9,
+        "caloriesMax": 69.9,
+        "protein": 1.56,
+        "carbs": 7.15,
+        "fat": 2.72,
+        "fiber": 1.19,
+        "sugar": 1.82,
+        "sodium": 51.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd with potatoes (dahi aloo)"
+      ]
+    },
+    {
+      "id": "3c4a2b7a-3b20-480a-b6d0-444de52fcdc8",
+      "name": "Potato kofta curry (Aloo kofta curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 445.4,
+        "caloriesMax": 465.4,
+        "protein": 0.56,
+        "carbs": 2.78,
+        "fat": 49.08,
+        "fiber": 0.56,
+        "sugar": 0.63,
+        "sodium": 30.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato kofta curry (aloo kofta curry)"
+      ]
+    },
+    {
+      "id": "7f0ebfa5-d612-4b2e-bb55-925ae00139a1",
+      "name": "Yam kofta curry (Zimikand/Suran kofta curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 312.88,
+        "caloriesMax": 332.88,
+        "protein": 0.71,
+        "carbs": 3.75,
+        "fat": 33.84,
+        "fiber": 1.04,
+        "sugar": 0.63,
+        "sodium": 42.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "yam kofta curry (zimikand/suran kofta curry)"
+      ]
+    },
+    {
+      "id": "95c618fe-c39b-4024-b5fb-973524e4312f",
+      "name": "Jackfruit kofta curry (Kathal ka kofta curry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 311.08,
+        "caloriesMax": 331.08,
+        "protein": 0.8,
+        "carbs": 3.17,
+        "fat": 33.83,
+        "fiber": 0.96,
+        "sugar": 2.4,
+        "sodium": 40.04
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jackfruit kofta curry (kathal ka kofta curry)"
+      ]
+    },
+    {
+      "id": "a33a898a-8e45-4e6e-85b6-99d69c35887e",
+      "name": "Spinach and potato (Palak aloo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 47.17,
+        "caloriesMax": 67.17,
+        "protein": 1.63,
+        "carbs": 5.91,
+        "fat": 2.82,
+        "fiber": 2.04,
+        "sugar": 0.93,
+        "sodium": 62.46
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach and potato (palak aloo)"
+      ]
+    },
+    {
+      "id": "34d77e01-ed05-456b-8210-83b94fa0e3ed",
+      "name": "Mooli bhujia",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 81.2,
+        "caloriesMax": 101.2,
+        "protein": 1.69,
+        "carbs": 4.74,
+        "fat": 7.25,
+        "fiber": 2.36,
+        "sugar": 1.07,
+        "sodium": 89.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mooli bhujia"
+      ]
+    },
+    {
+      "id": "f3b3ff09-aeaf-4c0c-bede-4e133141f462",
+      "name": "Bathua bhujia",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 80.9,
+        "caloriesMax": 100.9,
+        "protein": 2.26,
+        "carbs": 3.63,
+        "fat": 7.29,
+        "fiber": 3.8,
+        "sugar": 1.08,
+        "sodium": 81.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bathua bhujia"
+      ]
+    },
+    {
+      "id": "80de4238-e722-44fd-a9de-500b22f95c23",
+      "name": "Cabbage rolls (dry) ((Pattagobhi rolls) (dry))",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 132.48,
+        "caloriesMax": 152.48,
+        "protein": 8.21,
+        "carbs": 6.09,
+        "fat": 9.36,
+        "fiber": 1.84,
+        "sugar": 1.26,
+        "sodium": 118.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cabbage rolls (dry) ((pattagobhi rolls) (dry))"
+      ]
+    },
+    {
+      "id": "8d08472b-05af-4424-a459-f66c2a9b647c",
+      "name": "Cabbage rolls (curry) ((Pattagobhi rolls)(curry))",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114.63,
+        "caloriesMax": 134.63,
+        "protein": 5.76,
+        "carbs": 7.03,
+        "fat": 8.17,
+        "fiber": 2.35,
+        "sugar": 3.81,
+        "sodium": 123.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cabbage rolls (curry) ((pattagobhi rolls)(curry))"
+      ]
+    },
+    {
+      "id": "d21dadd4-147c-4621-8a5d-21eb2afa7a1b",
+      "name": "Dry arbi (Sookhi arbi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124.94999999999999,
+        "caloriesMax": 144.95,
+        "protein": 2.12,
+        "carbs": 11.11,
+        "fat": 8.97,
+        "fiber": 2.47,
+        "sugar": 1.55,
+        "sodium": 81.25
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dry arbi (sookhi arbi)"
+      ]
+    },
+    {
+      "id": "8fd014a9-9463-4aa1-bff2-6f25d6fc0312",
+      "name": "Masala arbi",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 175.38,
+        "caloriesMax": 195.38,
+        "protein": 3.01,
+        "carbs": 16.16,
+        "fat": 11.9,
+        "fiber": 3.1,
+        "sugar": 0.81,
+        "sodium": 261.31
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala arbi"
+      ]
+    },
+    {
+      "id": "89ab26db-c33a-45bd-8d27-227170ed8b2e",
+      "name": "Peas brinjal bhartha (Matar baingan bhartha)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 74.55,
+        "caloriesMax": 94.55,
+        "protein": 2.05,
+        "carbs": 5.02,
+        "fat": 6.05,
+        "fiber": 3.63,
+        "sugar": 1.57,
+        "sodium": 63.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peas brinjal bhartha (matar baingan bhartha)"
+      ]
+    },
+    {
+      "id": "e093c218-d702-4ab2-bf6e-52fcd027e712",
+      "name": "Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100.81,
+        "caloriesMax": 120.81,
+        "protein": 1.83,
+        "carbs": 4.5,
+        "fat": 9.27,
+        "fiber": 3.57,
+        "sugar": 1.42,
+        "sodium": 92.78
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "okra/lady's fingers fry (bhindi sabzi/sabji/subji)"
+      ]
+    },
+    {
+      "id": "b9438ff9-6d7f-4691-92be-b881b4a6a15b",
+      "name": "Crispy okra/Crispy lady's fingers (Karare bhindi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 647.76,
+        "caloriesMax": 667.76,
+        "protein": 1.91,
+        "carbs": 4.35,
+        "fat": 70.4,
+        "fiber": 1.75,
+        "sugar": 0.26,
+        "sodium": 40.42
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "crispy okra/crispy lady's fingers (karare bhindi)"
+      ]
+    },
+    {
+      "id": "59d3393a-f307-4eab-8e5b-04b9e0ebacca",
+      "name": "Beans foogath",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95.06,
+        "caloriesMax": 115.06,
+        "protein": 2.03,
+        "carbs": 3.26,
+        "fat": 9.22,
+        "fiber": 4.15,
+        "sugar": 1.7,
+        "sodium": 81.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beans foogath"
+      ]
+    },
+    {
+      "id": "d32af9c8-18d1-445c-a0db-d69acb3e1b66",
+      "name": "Stuffed bittergourd (wet) (Bharwa karele)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 152.36,
+        "caloriesMax": 172.36,
+        "protein": 1.36,
+        "carbs": 4.68,
+        "fat": 15.24,
+        "fiber": 2.86,
+        "sugar": 1.95,
+        "sodium": 360.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stuffed bittergourd (wet) (bharwa karele)"
+      ]
+    },
+    {
+      "id": "2806089d-0869-4574-a51b-7389e49469a6",
+      "name": "Jackfruit/Kathal (dry)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 478.97,
+        "caloriesMax": 498.97,
+        "protein": 0.93,
+        "carbs": 4.56,
+        "fat": 51.78,
+        "fiber": 1.33,
+        "sugar": 3.55,
+        "sodium": 33.68
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jackfruit/kathal (dry)"
+      ]
+    },
+    {
+      "id": "e0d51200-79ef-4031-af05-07e3b720c5fe",
+      "name": "Yam fried (Zimikand/Suran fried)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 481.76,
+        "caloriesMax": 501.76,
+        "protein": 0.79,
+        "carbs": 5.47,
+        "fat": 51.79,
+        "fiber": 1.44,
+        "sugar": 0.8,
+        "sodium": 37.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "yam fried (zimikand/suran fried)"
+      ]
+    },
+    {
+      "id": "ff73937d-3675-469f-98dc-4ad5c3f31d55",
+      "name": "Cauliflower, pea and potato bhujia (Phoolgobhi, matar aur aloo bhujia)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 85.67,
+        "caloriesMax": 105.67,
+        "protein": 2.75,
+        "carbs": 8.23,
+        "fat": 5.54,
+        "fiber": 3.26,
+        "sugar": 1.47,
+        "sodium": 86.29
