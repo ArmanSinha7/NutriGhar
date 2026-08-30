@@ -20638,3 +20638,1035 @@
         "pumpkin raita (kaddu ka raita)"
       ]
     },
+    {
+      "id": "6196b5af-86fd-4670-b5b2-cfcd701be9ac",
+      "name": "Mint and peanut raita (Pudinay aur moongfali ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102.05,
+        "caloriesMax": 122.05,
+        "protein": 7.05,
+        "carbs": 7.31,
+        "fat": 6.19,
+        "fiber": 1.79,
+        "sugar": 6.17,
+        "sodium": 223.01
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mint and peanut raita (pudinay aur moongfali ka raita)"
+      ]
+    },
+    {
+      "id": "87c7d01b-d73d-4469-b063-abaed92fc788",
+      "name": "Spinach raita (Palak ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 42.75,
+        "caloriesMax": 62.75,
+        "protein": 3.95,
+        "carbs": 5.06,
+        "fat": 1.86,
+        "fiber": 1.39,
+        "sugar": 3.97,
+        "sodium": 126.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach raita (palak ka raita)"
+      ]
+    },
+    {
+      "id": "8cdcaaff-b2de-4d42-9d0a-b0db8df758de",
+      "name": "Bathua raita",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 44.4,
+        "caloriesMax": 64.4,
+        "protein": 4.13,
+        "carbs": 5.31,
+        "fat": 1.76,
+        "fiber": 2.19,
+        "sugar": 4.11,
+        "sodium": 110.92
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bathua raita"
+      ]
+    },
+    {
+      "id": "66e0dab0-2746-49e6-b304-d07290057c44",
+      "name": "Pineapple raita (Ananas ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 57.739999999999995,
+        "caloriesMax": 77.74,
+        "protein": 3.9,
+        "carbs": 8.62,
+        "fat": 2.02,
+        "fiber": 1.39,
+        "sugar": 8.12,
+        "sodium": 135.48
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple raita (ananas ka raita)"
+      ]
+    },
+    {
+      "id": "c4ed828e-79fb-47d2-8a4e-544894dc354e",
+      "name": "Banana raita (Kele ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 79.03,
+        "caloriesMax": 99.03,
+        "protein": 4.13,
+        "carbs": 13.51,
+        "fat": 2.07,
+        "fiber": 1.0,
+        "sugar": 10.11,
+        "sodium": 135.43
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana raita (kele ka raita)"
+      ]
+    },
+    {
+      "id": "5b63b9a4-9b73-412e-b150-026cb7684c57",
+      "name": "Mango raita (Aam ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 57.370000000000005,
+        "caloriesMax": 77.37,
+        "protein": 3.9,
+        "carbs": 8.23,
+        "fat": 2.14,
+        "fiber": 0.89,
+        "sugar": 7.87,
+        "sodium": 135.46
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango raita (aam ka raita)"
+      ]
+    },
+    {
+      "id": "98544c3a-3ca9-4377-b5a1-5dda177ddfa5",
+      "name": "Guava raita (Amarood ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 54.36,
+        "caloriesMax": 74.36,
+        "protein": 4.19,
+        "carbs": 7.27,
+        "fat": 2.07,
+        "fiber": 3.0,
+        "sugar": 6.71,
+        "sodium": 135.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "guava raita (amarood ka raita)"
+      ]
+    },
+    {
+      "id": "9a4ce51b-3a32-4fdc-aa44-e9e1107d4c44",
+      "name": "Grapes raita (Angoor ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 62.59,
+        "caloriesMax": 82.59,
+        "protein": 3.98,
+        "carbs": 9.66,
+        "fat": 2.07,
+        "fiber": 0.71,
+        "sugar": 8.51,
+        "sodium": 135.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "grapes raita (angoor ka raita)"
+      ]
+    },
+    {
+      "id": "660a4ca4-3edf-41b9-9dae-7ac9b23b2274",
+      "name": "Bottle gourd kheer (Ghiya/Lauki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 74.07,
+        "caloriesMax": 94.07,
+        "protein": 2.7,
+        "carbs": 10.0,
+        "fat": 3.86,
+        "fiber": 0.55,
+        "sugar": 9.63,
+        "sodium": 19.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bottle gourd kheer (ghiya/lauki kheer)"
+      ]
+    },
+    {
+      "id": "7ca98d4f-197d-4ea4-903c-079e51f4bbe7",
+      "name": "Pumpkin kheer (Kaddu ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 76.35,
+        "caloriesMax": 96.35,
+        "protein": 2.76,
+        "carbs": 10.44,
+        "fat": 3.86,
+        "fiber": 0.63,
+        "sugar": 10.12,
+        "sodium": 20.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pumpkin kheer (kaddu ki kheer)"
+      ]
+    },
+    {
+      "id": "3b187735-bdbe-41fd-8073-3442c855de11",
+      "name": "Apple kheer (Seb ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 71.3,
+        "caloriesMax": 91.3,
+        "protein": 2.14,
+        "carbs": 11.34,
+        "fat": 3.18,
+        "fiber": 0.51,
+        "sugar": 10.71,
+        "sodium": 15.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple kheer (seb ki kheer)"
+      ]
+    },
+    {
+      "id": "48b31a00-a8da-48b9-9249-0c5e2797a0a1",
+      "name": "Caramel custard (baked)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 112.7,
+        "caloriesMax": 132.7,
+        "protein": 5.11,
+        "carbs": 14.95,
+        "fat": 5.01,
+        "fiber": 0,
+        "sugar": 14.92,
+        "sodium": 44.78
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "caramel custard (baked)"
+      ]
+    },
+    {
+      "id": "de6bd226-da5b-4b0e-8145-f86be4617167",
+      "name": "Vanilla ice cream without egg",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 218.67,
+        "caloriesMax": 238.67,
+        "protein": 2.69,
+        "carbs": 14.21,
+        "fat": 18.15,
+        "fiber": 0,
+        "sugar": 13.45,
+        "sodium": 23.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vanilla ice cream without egg"
+      ]
+    },
+    {
+      "id": "f3604950-c582-4fbb-82f6-524826fc80b2",
+      "name": "Vanilla ice cream with egg",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 204.85,
+        "caloriesMax": 224.85,
+        "protein": 4.16,
+        "carbs": 11.71,
+        "fat": 17.02,
+        "fiber": 0,
+        "sugar": 11.69,
+        "sodium": 37.72
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vanilla ice cream with egg"
+      ]
+    },
+    {
+      "id": "87205250-6306-4602-88a7-15fe067114dd",
+      "name": "Strawberry ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 205.61,
+        "caloriesMax": 225.61,
+        "protein": 4.15,
+        "carbs": 12.26,
+        "fat": 16.96,
+        "fiber": 0,
+        "sugar": 11.6,
+        "sodium": 37.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "strawberry ice cream"
+      ]
+    },
+    {
+      "id": "38dc821c-eeb1-45cc-906d-b72cb0565488",
+      "name": "Chocochip ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 231.45,
+        "caloriesMax": 251.45,
+        "protein": 4.23,
+        "carbs": 16.75,
+        "fat": 17.93,
+        "fiber": 0,
+        "sugar": 16.08,
+        "sodium": 34.84
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocochip ice cream"
+      ]
+    },
+    {
+      "id": "96ef964a-366c-4446-a217-9a7837e19fba",
+      "name": "Choconut ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 263.96,
+        "caloriesMax": 283.96,
+        "protein": 5.04,
+        "carbs": 23.13,
+        "fat": 18.49,
+        "fiber": 0.51,
+        "sugar": 21.02,
+        "sodium": 29.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "choconut ice cream"
+      ]
+    },
+    {
+      "id": "09b1c94e-f79a-4e3f-99d2-b7111420d3a1",
+      "name": "Pear chocholate sunday",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 173.49,
+        "caloriesMax": 193.49,
+        "protein": 2.08,
+        "carbs": 15.02,
+        "fat": 13.11,
+        "fiber": 0.07,
+        "sugar": 14.41,
+        "sodium": 16.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pear chocholate sunday"
+      ]
+    },
+    {
+      "id": "9c9b9bdc-8051-444b-a512-96982c32d481",
+      "name": "Chocolate sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 253.2,
+        "caloriesMax": 273.2,
+        "protein": 1.91,
+        "carbs": 43.21,
+        "fat": 10.39,
+        "fiber": 0,
+        "sugar": 42.06,
+        "sodium": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate sauce"
+      ]
+    },
+    {
+      "id": "a4451a01-b184-452b-8188-76ec59b99fc7",
+      "name": "Coffee ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140.62,
+        "caloriesMax": 160.62,
+        "protein": 3.15,
+        "carbs": 14.09,
+        "fat": 9.43,
+        "fiber": 0,
+        "sugar": 13.35,
+        "sodium": 42.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coffee ice cream"
+      ]
+    },
+    {
+      "id": "1d109018-2613-4fb4-b126-648f103803ff",
+      "name": "Coffee pear alaska",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 193.99,
+        "caloriesMax": 213.99,
+        "protein": 2.88,
+        "carbs": 19.36,
+        "fat": 13.22,
+        "fiber": 0.15,
+        "sugar": 16.88,
+        "sodium": 51.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coffee pear alaska"
+      ]
+    },
+    {
+      "id": "d2e709d2-be13-433d-9244-91774238fecc",
+      "name": "Crunchy butterscotch",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 267.32,
+        "caloriesMax": 287.32,
+        "protein": 3.11,
+        "carbs": 19.92,
+        "fat": 20.99,
+        "fiber": 0.47,
+        "sugar": 17.73,
+        "sodium": 22.24
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "crunchy butterscotch"
+      ]
+    },
+    {
+      "id": "cc5d2ae2-f5be-4d8d-882d-3ad870d69e80",
+      "name": "Peach melba ice cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 190.85,
+        "caloriesMax": 210.85,
+        "protein": 2.06,
+        "carbs": 16.31,
+        "fat": 14.51,
+        "fiber": 0.06,
+        "sugar": 13.35,
+        "sodium": 17.92
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peach melba ice cream"
+      ]
+    },
+    {
+      "id": "5d5c9cb1-afc8-47cf-926e-1b1be4b3fa0f",
+      "name": "Vanilla ice cream with apples in hot cherry sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 186.32,
+        "caloriesMax": 206.32,
+        "protein": 1.73,
+        "carbs": 22.75,
+        "fat": 11.45,
+        "fiber": 0.26,
+        "sugar": 14.19,
+        "sodium": 31.54
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vanilla ice cream with apples in hot cherry sauce"
+      ]
+    },
+    {
+      "id": "1d2c27cf-3a23-4dbb-9627-54f8a054805d",
+      "name": "Grape and orange whip",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 47.39,
+        "caloriesMax": 67.39,
+        "protein": 1.41,
+        "carbs": 6.72,
+        "fat": 2.62,
+        "fiber": 0.97,
+        "sugar": 5.66,
+        "sodium": 14.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "grape and orange whip"
+      ]
+    },
+    {
+      "id": "740ffcea-efa2-406a-8a68-3fafaa04aa0e",
+      "name": "Honey banana cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115.49,
+        "caloriesMax": 135.49,
+        "protein": 2.78,
+        "carbs": 13.64,
+        "fat": 6.68,
+        "fiber": 0.7,
+        "sugar": 10.51,
+        "sodium": 15.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "honey banana cream"
+      ]
+    },
+    {
+      "id": "45d7847c-9765-4b31-bc92-eca4e79c710c",
+      "name": "Raspberry bavarian cream",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140.1,
+        "caloriesMax": 160.1,
+        "protein": 3.34,
+        "carbs": 17.82,
+        "fat": 7.88,
+        "fiber": 2.19,
+        "sugar": 15.3,
+        "sodium": 24.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raspberry bavarian cream"
+      ]
+    },
+    {
+      "id": "5da338fa-2d97-4750-b591-c14de54e90f1",
+      "name": "Fruit delight",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97.09,
+        "caloriesMax": 117.09,
+        "protein": 2.09,
+        "carbs": 9.11,
+        "fat": 7.09,
+        "fiber": 0.09,
+        "sugar": 9.03,
+        "sodium": 17.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit delight"
+      ]
+    },
+    {
+      "id": "66fbb104-5ee0-45bd-af1a-5e169392b77c",
+      "name": "Creamy chocolate mousse",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 220.52,
+        "caloriesMax": 240.52,
+        "protein": 6.85,
+        "carbs": 9.53,
+        "fat": 18.16,
+        "fiber": 0,
+        "sugar": 8.99,
+        "sodium": 48.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "creamy chocolate mousse"
+      ]
+    },
+    {
+      "id": "80593206-0b80-4837-82cb-a4283c286409",
+      "name": "Cold lemon souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 159.87,
+        "caloriesMax": 179.87,
+        "protein": 5.89,
+        "carbs": 15.62,
+        "fat": 9.78,
+        "fiber": 0,
+        "sugar": 13.88,
+        "sodium": 46.35
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cold lemon souffle"
+      ]
+    },
+    {
+      "id": "003e8373-c21c-4fcb-b23b-055790a4b22f",
+      "name": "Cold orange souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
