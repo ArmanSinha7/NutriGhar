@@ -22702,3 +22702,1035 @@
         "sodium": 91.45
       },
       "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer cutlet"
+      ]
+    },
+    {
+      "id": "a9a9032d-b236-4dee-a4ae-cb64c08522ae",
+      "name": "Sago cutlet/vadas (Sabudana cutlet/vadas)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 548.76,
+        "caloriesMax": 568.76,
+        "protein": 0.56,
+        "carbs": 11.23,
+        "fat": 56.97,
+        "fiber": 0.54,
+        "sugar": 0.1,
+        "sodium": 48.17
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sago cutlet/vadas (sabudana cutlet/vadas)"
+      ]
+    },
+    {
+      "id": "baace47c-71f6-4222-8f95-f7c0afca380a",
+      "name": "Poshtik cutlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 486.45,
+        "caloriesMax": 506.45,
+        "protein": 2.0,
+        "carbs": 7.39,
+        "fat": 50.94,
+        "fiber": 1.35,
+        "sugar": 0.32,
+        "sodium": 57.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poshtik cutlet"
+      ]
+    },
+    {
+      "id": "302c8ef4-4fe4-4e79-aedf-9e223d046154",
+      "name": "Egg cutlet (Anda cutlet)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 565.02,
+        "caloriesMax": 585.02,
+        "protein": 2.45,
+        "carbs": 5.77,
+        "fat": 60.25,
+        "fiber": 0.58,
+        "sugar": 0.2,
+        "sodium": 79.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg cutlet (anda cutlet)"
+      ]
+    },
+    {
+      "id": "9e50f196-8794-411d-9942-562983e54be1",
+      "name": "Minced meat cutlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 521.86,
+        "caloriesMax": 541.86,
+        "protein": 5.1,
+        "carbs": 5.61,
+        "fat": 54.47,
+        "fiber": 0.4,
+        "sugar": 0.31,
+        "sodium": 95.81
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "minced meat cutlet"
+      ]
+    },
+    {
+      "id": "913fb64e-82e7-4a59-9fd1-ca23f8be61d6",
+      "name": "Vegetable samosa",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 433.11,
+        "caloriesMax": 453.11,
+        "protein": 2.21,
+        "carbs": 13.22,
+        "fat": 42.22,
+        "fiber": 1.52,
+        "sugar": 0.74,
+        "sodium": 107.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable samosa"
+      ]
+    },
+    {
+      "id": "c5ee831c-aacc-4f45-a437-2fb3fec25d89",
+      "name": "Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 735.5,
+        "caloriesMax": 755.5,
+        "protein": 4.39,
+        "carbs": 9.7,
+        "fat": 76.32,
+        "fiber": 2.27,
+        "sugar": 0.16,
+        "sodium": 65.87
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "plain urad dal vada (uzunne vada/minapa garelu/ulundu vadai/medu vada)"
+      ]
+    },
+    {
+      "id": "0ca75a0c-de82-48b8-81cb-4af3f9cad704",
+      "name": "Masala urad dal vada",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 693.78,
+        "caloriesMax": 713.78,
+        "protein": 4.32,
+        "carbs": 9.93,
+        "fat": 71.62,
+        "fiber": 2.71,
+        "sugar": 0.7,
+        "sodium": 61.49
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala urad dal vada"
+      ]
+    },
+    {
+      "id": "fed7ff3b-f151-4624-8939-2b29f263348d",
+      "name": "Khaman (dhokla)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 44.73,
+        "caloriesMax": 64.72999999999999,
+        "protein": 1.92,
+        "carbs": 5.36,
+        "fat": 2.8,
+        "fiber": 1.49,
+        "sugar": 1.36,
+        "sodium": 124.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khaman (dhokla)"
+      ]
+    },
+    {
+      "id": "2a5a75c9-34d1-41ba-86fe-fcf42e28d304",
+      "name": "Instant dhokla",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 197.11,
+        "caloriesMax": 217.11,
+        "protein": 7.66,
+        "carbs": 24.11,
+        "fat": 9.37,
+        "fiber": 3.57,
+        "sugar": 6.86,
+        "sodium": 763.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "instant dhokla"
+      ]
+    },
+    {
+      "id": "6c88fb06-aa4a-462f-b328-fe7548622926",
+      "name": "Tomato ginger chutney (Tamatar adarak ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 34.66,
+        "caloriesMax": 54.66,
+        "protein": 1.05,
+        "carbs": 9.11,
+        "fat": 0.32,
+        "fiber": 2.14,
+        "sugar": 6.31,
+        "sodium": 209.42
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato ginger chutney (tamatar adarak ki chutney)"
+      ]
+    },
+    {
+      "id": "e9abb3f1-d09a-4fe6-bc98-8008b1f76faf",
+      "name": "Mint tomato chutney (Pudinay aur tamatar ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 33.65,
+        "caloriesMax": 53.65,
+        "protein": 1.53,
+        "carbs": 8.22,
+        "fat": 0.36,
+        "fiber": 2.63,
+        "sugar": 5.48,
+        "sodium": 183.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mint tomato chutney (pudinay aur tamatar ki chutney)"
+      ]
+    },
+    {
+      "id": "46543f19-3098-4c35-b3df-6d545690e7d4",
+      "name": "Coriander chutney (Hare dhaniye ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 32.86,
+        "caloriesMax": 52.86,
+        "protein": 1.38,
+        "carbs": 8.16,
+        "fat": 0.37,
+        "fiber": 2.47,
+        "sugar": 5.5,
+        "sodium": 186.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coriander chutney (hare dhaniye ki chutney)"
+      ]
+    },
+    {
+      "id": "6f331845-b630-4d6e-a5e7-3c55dca97e25",
+      "name": "Gooseberry chutney (Amla chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 33.02,
+        "caloriesMax": 53.02,
+        "protein": 1.44,
+        "carbs": 8.83,
+        "fat": 0.62,
+        "fiber": 4.58,
+        "sugar": 0.06,
+        "sodium": 215.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gooseberry chutney (amla chutney)"
+      ]
+    },
+    {
+      "id": "fcf7d715-f873-45e6-8d43-fb4d658ae7ff",
+      "name": "Walnut chutney (Akhrot ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 360.43,
+        "caloriesMax": 380.43,
+        "protein": 9.44,
+        "carbs": 8.91,
+        "fat": 33.46,
+        "fiber": 3.04,
+        "sugar": 4.4,
+        "sodium": 160.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "walnut chutney (akhrot ki chutney)"
+      ]
+    },
+    {
+      "id": "0379d831-63b1-4562-8d21-378097d082a2",
+      "name": "Saunth/Sonth chutney with ginger",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 74.22,
+        "caloriesMax": 94.22,
+        "protein": 0.28,
+        "carbs": 20.62,
+        "fat": 0.11,
+        "fiber": 0.31,
+        "sugar": 19.04,
+        "sodium": 222.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saunth/sonth chutney with ginger"
+      ]
+    },
+    {
+      "id": "7ff47965-4011-4d70-864a-a7c13948bc4c",
+      "name": "Gun powder chutney",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 302.34,
+        "caloriesMax": 322.34,
+        "protein": 21.55,
+        "carbs": 47.65,
+        "fat": 2.67,
+        "fiber": 13.95,
+        "sugar": 1.16,
+        "sodium": 195.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gun powder chutney"
+      ]
+    },
+    {
+      "id": "4d79f2d2-0862-48c6-b4a7-0faff77bb011",
+      "name": "Dessicated coconut chutney (Sookhe kase nariyal ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 336.36,
+        "caloriesMax": 356.36,
+        "protein": 12.88,
+        "carbs": 36.72,
+        "fat": 15.88,
+        "fiber": 13.16,
+        "sugar": 10.41,
+        "sodium": 321.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dessicated coconut chutney (sookhe kase nariyal ki chutney)"
+      ]
+    },
+    {
+      "id": "00084bcb-272b-47bc-87d8-633b00dc1540",
+      "name": "Curd mint dip",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 66.13,
+        "caloriesMax": 86.13,
+        "protein": 4.82,
+        "carbs": 9.11,
+        "fat": 2.44,
+        "fiber": 0.77,
+        "sugar": 7.83,
+        "sodium": 222.77
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd mint dip"
+      ]
+    },
+    {
+      "id": "b38fcfad-285f-4d5a-a21c-e930ab52bfec",
+      "name": "Curd vegetable dip",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 46.21,
+        "caloriesMax": 66.21000000000001,
+        "protein": 3.88,
+        "carbs": 6.04,
+        "fat": 1.94,
+        "fiber": 0.63,
+        "sugar": 5.42,
+        "sodium": 132.48
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd vegetable dip"
+      ]
+    },
+    {
+      "id": "6e757adb-1c06-4ab3-8cc1-ec9fdda2287b",
+      "name": "Mayonnaise vegetable dip",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 231.27,
+        "caloriesMax": 251.27,
+        "protein": 3.01,
+        "carbs": 4.8,
+        "fat": 23.44,
+        "fiber": 0.41,
+        "sugar": 4.39,
+        "sodium": 119.58
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mayonnaise vegetable dip"
+      ]
+    },
+    {
+      "id": "4a487176-2f5f-41e5-990b-4b3ccf7e7291",
+      "name": "Tomato and cucumber sandwich (Tamatar aur kheere ka sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140.68,
+        "caloriesMax": 160.68,
+        "protein": 4.03,
+        "carbs": 20.51,
+        "fat": 6.31,
+        "fiber": 2.1,
+        "sugar": 1.79,
+        "sodium": 222.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato and cucumber sandwich (tamatar aur kheere ka sandwich)"
+      ]
+    },
+    {
+      "id": "e001a9cd-2c70-4bb2-ac2f-1508408c4ec3",
+      "name": "Tomato sandwich (grilled)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 179.92,
+        "caloriesMax": 199.92,
+        "protein": 6.26,
+        "carbs": 21.29,
+        "fat": 9.39,
+        "fiber": 1.91,
+        "sugar": 2.58,
+        "sodium": 420.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato sandwich (grilled)"
+      ]
+    },
+    {
+      "id": "535395d5-2a9b-41f9-b395-cb5e9977d136",
+      "name": "French sandwich (toasted)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 176.75,
+        "caloriesMax": 196.75,
+        "protein": 6.82,
+        "carbs": 14.82,
+        "fat": 11.51,
+        "fiber": 1.37,
+        "sugar": 1.82,
+        "sodium": 274.68
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "french sandwich (toasted)"
+      ]
+    },
+    {
+      "id": "43af08b9-1b83-4934-8a96-dc39d0209537",
+      "name": "Peanut butter cucumber sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 233.33,
+        "caloriesMax": 253.33,
+        "protein": 9.04,
+        "carbs": 29.76,
+        "fat": 10.56,
+        "fiber": 3.35,
+        "sugar": 2.91,
+        "sodium": 460.09
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut butter cucumber sandwich"
+      ]
+    },
+    {
+      "id": "8049a368-a647-4824-9580-a4dcb872218d",
+      "name": "Mint and peanut sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 263.59,
+        "caloriesMax": 283.59,
+        "protein": 7.18,
+        "carbs": 31.83,
+        "fat": 13.88,
+        "fiber": 3.67,
+        "sugar": 2.78,
+        "sodium": 453.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mint and peanut sandwich"
+      ]
+    },
+    {
+      "id": "ba0e049b-e217-4b14-b115-6c72574ed625",
+      "name": "Spicy chutney sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 239.58,
+        "caloriesMax": 259.58000000000004,
+        "protein": 8.74,
+        "carbs": 34.03,
+        "fat": 9.58,
+        "fiber": 3.73,
+        "sugar": 3.96,
+        "sodium": 315.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spicy chutney sandwich"
+      ]
+    },
+    {
+      "id": "92d56370-26db-498a-b3e9-ae2de448fd73",
+      "name": "Chicken walnut sandwich (Chicken aur akhrot ke sandwich)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 275.78,
+        "caloriesMax": 295.78,
+        "protein": 12.58,
+        "carbs": 22.62,
+        "fat": 16.77,
+        "fiber": 1.53,
+        "sugar": 1.77,
+        "sodium": 287.39
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken walnut sandwich (chicken aur akhrot ke sandwich)"
+      ]
+    },
+    {
+      "id": "20debef4-f2cd-47fb-8265-057b5bd7ad5f",
+      "name": "Rolled sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 283.07,
+        "caloriesMax": 303.07,
+        "protein": 6.45,
+        "carbs": 34.69,
+        "fat": 15.29,
+        "fiber": 2.07,
+        "sugar": 2.7,
+        "sodium": 321.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rolled sandwich"
+      ]
+    },
+    {
+      "id": "7df47c8a-ed9a-4c79-9fe1-237bc5ee1c7c",
+      "name": "Ribbon sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 229.26,
+        "caloriesMax": 249.26,
+        "protein": 6.26,
+        "carbs": 24.76,
+        "fat": 13.37,
+        "fiber": 2.92,
+        "sugar": 4.66,
+        "sodium": 382.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ribbon sandwich"
+      ]
+    },
+    {
+      "id": "93622381-b622-4a7d-b5f0-c4787de33f67",
+      "name": "Checker board sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 338.37,
+        "caloriesMax": 358.37,
+        "protein": 7.37,
+        "carbs": 25.94,
+        "fat": 24.65,
+        "fiber": 2.22,
+        "sugar": 2.9,
+        "sodium": 358.25
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "checker board sandwich"
+      ]
+    },
+    {
+      "id": "b616e2da-5dd0-4b2b-8dee-46e11d26e1a1",
