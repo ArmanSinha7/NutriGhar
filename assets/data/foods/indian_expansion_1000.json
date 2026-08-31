@@ -6348,3 +6348,638 @@
       ],
       "confidenceLevel": "MEDIUM",
       "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 179,
+        "protein": 3.355363106559462,
+        "carbs": 8.892159813341,
+        "fat": 7.720852698439289,
+        "fiber": 3.1363274715660685
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (home-style)"
+      ]
+    },
+    {
+      "id": "a4c68940-531b-49c5-8b22-e80b9e16f5a2",
+      "name": "Baingan Bharta (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 194,
+        "protein": 8.52202100739325,
+        "carbs": 6.323721580006955,
+        "fat": 9.046312182324133,
+        "fiber": 3.739467936686443
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (dhaba style)"
+      ]
+    },
+    {
+      "id": "69a4b966-e017-4483-9e93-f35bf433ed84",
+      "name": "Baingan Bharta (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 148,
+        "protein": 7.724699650981469,
+        "carbs": 9.442463146031697,
+        "fat": 13.885571501192892,
+        "fiber": 3.983358991129415
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (restaurant style)"
+      ]
+    },
+    {
+      "id": "32d8c1a2-7db5-4d2e-b18f-5124329e7a54",
+      "name": "Mix Veg Curry",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 132,
+        "protein": 3.237555301974128,
+        "carbs": 8.164046993686036,
+        "fat": 6.146853231543162,
+        "fiber": 4.050566777184022
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "mix veg curry",
+        "MixVegCurry"
+      ]
+    },
+    {
+      "id": "a921d679-a7da-470b-a5d2-480f7187687d",
+      "name": "Mix Veg Curry (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 153,
+        "protein": 10.08843967104417,
+        "carbs": 10.588761065946937,
+        "fat": 9.61909571788559,
+        "fiber": 3.641357120906149
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (punjabi)"
+      ]
+    },
+    {
+      "id": "db0fc2ac-385f-411d-9ce5-44e19a887e94",
+      "name": "Mix Veg Curry (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 183,
+        "protein": 4.016445617761197,
+        "carbs": 12.523233275392307,
+        "fat": 10.159368061636531,
+        "fiber": 2.7949446694876907
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (south indian style)"
+      ]
+    },
+    {
+      "id": "800d930c-968b-461e-83a6-5e7c0c5756ba",
+      "name": "Mix Veg Curry (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 173,
+        "protein": 4.859356996115939,
+        "carbs": 6.959003653679093,
+        "fat": 14.148766160382763,
+        "fiber": 4.059440693254125
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (bengali style)"
+      ]
+    },
+    {
+      "id": "3b153176-ffb7-4d29-aa8f-03d51611dfb0",
+      "name": "Mix Veg Curry (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 140,
+        "protein": 11.75015920422377,
+        "carbs": 8.592237728550355,
+        "fat": 10.28503103876647,
+        "fiber": 3.186084259181861
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "450e8fe8-8b4e-4358-9c06-c91d27cc1cbb",
+      "name": "Mix Veg Curry (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107,
+        "caloriesMax": 143,
+        "protein": 8.016471513325735,
+        "carbs": 14.509889654372424,
+        "fat": 6.648487322574435,
+        "fiber": 4.9187568777925605
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "a5bb568c-0c3f-4a26-9a1c-370c50839733",
+      "name": "Mix Veg Curry (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 195,
+        "protein": 2.0321268958002174,
+        "carbs": 8.700256152784249,
+        "fat": 4.63730074487725,
+        "fiber": 3.0554188454532336
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "8f0f6634-8e6b-403e-a438-fa6f93f737ff",
+      "name": "Mix Veg Curry (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 190,
+        "protein": 10.986374504514464,
+        "carbs": 6.075152237807502,
+        "fat": 8.771557451610686,
+        "fiber": 2.0584251029633105
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (home-style)"
+      ]
+    },
+    {
+      "id": "c253d968-5726-4230-ba9d-1737870e4397",
+      "name": "Mix Veg Curry (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 198,
+        "protein": 2.3287802547150074,
+        "carbs": 8.980182687448114,
+        "fat": 8.905729440713284,
+        "fiber": 4.427073352853858
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "8f9613b4-80b9-4bcf-9bb5-8312a337a952",
+      "name": "Mix Veg Curry (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 190,
+        "protein": 10.521173477889198,
+        "carbs": 10.322952855897991,
+        "fat": 11.585480707824772,
+        "fiber": 3.4059123361184045
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mix veg curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "7f433980-952a-44f1-a715-3cb83e33241f",
+      "name": "Veg Kolhapuri",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 155,
+        "protein": 7.152883763645487,
+        "carbs": 8.102595977754598,
+        "fat": 5.529989502029511,
+        "fiber": 4.257228027276286
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri",
+        "VegKolhapuri"
+      ]
+    },
+    {
+      "id": "dec0ee4c-228d-473b-8bbf-ed004c2aec4d",
+      "name": "Veg Kolhapuri (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 154,
+        "protein": 7.055495394524047,
+        "carbs": 9.214311215216878,
+        "fat": 13.264529655084333,
+        "fiber": 2.5889825040355783
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (punjabi)"
+      ]
+    },
+    {
+      "id": "2b95cc11-2f74-4a78-8b20-548e9683182a",
+      "name": "Veg Kolhapuri (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122,
+        "caloriesMax": 182,
+        "protein": 2.1767217007376907,
+        "carbs": 12.774019779946109,
+        "fat": 7.032308978155088,
+        "fiber": 4.036482915016389
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (south indian style)"
+      ]
+    },
+    {
+      "id": "c5063a4f-b771-4395-9d03-068e62295661",
+      "name": "Veg Kolhapuri (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 145,
+        "protein": 7.449720640547385,
+        "carbs": 7.481088041313307,
+        "fat": 8.083645019711591,
+        "fiber": 3.091330442352209
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (bengali style)"
+      ]
+    },
+    {
+      "id": "fc9cb523-12f3-461e-b614-b46d1e6e3a47",
+      "name": "Veg Kolhapuri (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 189,
+        "protein": 8.068855026056955,
+        "carbs": 8.221263262466483,
+        "fat": 14.924158555162157,
+        "fiber": 4.9981676116992535
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "bdbd9b90-375c-4d94-8621-e757d0507237",
+      "name": "Veg Kolhapuri (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 176,
+        "protein": 3.0288502744214645,
+        "carbs": 14.386189428788247,
+        "fat": 4.3184364741565915,
+        "fiber": 1.8365283780145565
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (gujarati style)"
+      ]
+    },
+    {
+      "id": "a5bb8d16-ce86-4bb7-bc48-f33cd94f7439",
+      "name": "Veg Kolhapuri (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 171,
+        "protein": 2.6759103040808823,
+        "carbs": 11.393713883342256,
+        "fat": 9.731694483207821,
+        "fiber": 3.864138289349965
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (rajasthani)"
+      ]
+    },
+    {
+      "id": "0172035c-ee95-479b-99cd-c081cd4b99f7",
+      "name": "Veg Kolhapuri (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 154,
+        "protein": 9.552349823930461,
+        "carbs": 10.740938126551404,
+        "fat": 8.792691692996781,
+        "fiber": 4.206041632685054
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (home-style)"
+      ]
+    },
+    {
+      "id": "62b8c2ec-5fb0-48a1-98e2-d67aab144753",
+      "name": "Veg Kolhapuri (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
