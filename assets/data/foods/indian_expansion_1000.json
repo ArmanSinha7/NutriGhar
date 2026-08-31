@@ -5713,3 +5713,638 @@
         "fat": 10.184324164784059,
         "fiber": 4.0420824446998775
       },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (rajasthani)"
+      ]
+    },
+    {
+      "id": "69623eb8-f736-4a46-92cd-0c0d000a5c81",
+      "name": "Aloo Palak (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 148,
+        "protein": 2.267104264218083,
+        "carbs": 8.220719824783336,
+        "fat": 4.733972965579423,
+        "fiber": 2.9587121676977137
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (home-style)"
+      ]
+    },
+    {
+      "id": "35991134-d237-4a37-a071-90cac1e0d345",
+      "name": "Aloo Palak (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 145,
+        "protein": 5.75559883381931,
+        "carbs": 5.4835588463466545,
+        "fat": 13.430122781138587,
+        "fiber": 3.0178878449883055
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (dhaba style)"
+      ]
+    },
+    {
+      "id": "7180f176-3641-4df3-ad7c-1acb590b102d",
+      "name": "Aloo Palak (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 180,
+        "protein": 8.185173721274493,
+        "carbs": 5.795774872661744,
+        "fat": 13.958162392066729,
+        "fiber": 2.740292895434125
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "aloo palak (restaurant style)"
+      ]
+    },
+    {
+      "id": "9a852532-7729-4fe7-aae8-3cb8d107446e",
+      "name": "Bhindi Masala",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 156,
+        "protein": 3.7427826370049306,
+        "carbs": 11.326607486176412,
+        "fat": 7.211226194317422,
+        "fiber": 4.5780189549403065
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "bhindi masala",
+        "BhindiMasala"
+      ]
+    },
+    {
+      "id": "6e71ad9f-3cdd-4608-8142-905a7fac7f34",
+      "name": "Bhindi Masala (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 185,
+        "protein": 11.8717489551796,
+        "carbs": 7.109973945044448,
+        "fat": 12.15283703569982,
+        "fiber": 3.8230116790343343
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (punjabi)"
+      ]
+    },
+    {
+      "id": "09f7a649-d29d-41f9-8e58-3ebb65aa2b61",
+      "name": "Bhindi Masala (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 167,
+        "protein": 8.78710899900194,
+        "carbs": 8.689833201015023,
+        "fat": 10.386820505991613,
+        "fiber": 3.3051648329271024
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (south indian style)"
+      ]
+    },
+    {
+      "id": "e5b471af-74ee-4996-a43d-e601c29ed6a7",
+      "name": "Bhindi Masala (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122,
+        "caloriesMax": 147,
+        "protein": 9.411301905452415,
+        "carbs": 12.922707601458761,
+        "fat": 14.608081828137289,
+        "fiber": 1.6701364482773888
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (bengali style)"
+      ]
+    },
+    {
+      "id": "0b04c966-3b26-4508-90a8-0833ee4629c3",
+      "name": "Bhindi Masala (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 184,
+        "protein": 6.785717572859508,
+        "carbs": 10.413171693942045,
+        "fat": 14.391230092105305,
+        "fiber": 4.70777402072456
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "d5c4f598-17d5-4208-a691-2b9a0d565b5f",
+      "name": "Bhindi Masala (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 179,
+        "protein": 4.0772192416650075,
+        "carbs": 11.599255092303537,
+        "fat": 14.538316314972857,
+        "fiber": 4.363171757661691
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (gujarati style)"
+      ]
+    },
+    {
+      "id": "e2cd33bd-a2fc-4f5a-b225-b2978a46d95d",
+      "name": "Bhindi Masala (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 157,
+        "protein": 6.534832108405818,
+        "carbs": 7.897835477540487,
+        "fat": 12.138810004315214,
+        "fiber": 2.7319139598722604
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (rajasthani)"
+      ]
+    },
+    {
+      "id": "f3140020-c28c-4257-840e-5252ef0b879f",
+      "name": "Bhindi Masala (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 184,
+        "protein": 5.476072677179741,
+        "carbs": 10.690228986905876,
+        "fat": 10.27139436783198,
+        "fiber": 3.120295764642796
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (home-style)"
+      ]
+    },
+    {
+      "id": "5fa52324-7f7f-4995-8201-b1363e5f3ea3",
+      "name": "Bhindi Masala (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 149,
+        "protein": 6.000742549770967,
+        "carbs": 11.427234507544224,
+        "fat": 12.690401724781085,
+        "fiber": 2.2466455046541416
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (dhaba style)"
+      ]
+    },
+    {
+      "id": "c959a39e-f06d-4270-a419-e5505211bdce",
+      "name": "Bhindi Masala (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 187,
+        "protein": 8.107312053449633,
+        "carbs": 12.052404576866767,
+        "fat": 5.97991286409079,
+        "fiber": 2.8139560784589377
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bhindi masala (restaurant style)"
+      ]
+    },
+    {
+      "id": "c298decf-5919-43dd-8b87-0c0839014624",
+      "name": "Baingan Bharta",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 88,
+        "caloriesMax": 150,
+        "protein": 10.426333356310927,
+        "carbs": 14.50836321640055,
+        "fat": 7.042092661743553,
+        "fiber": 3.046630133668161
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "baingan bharta",
+        "BainganBharta"
+      ]
+    },
+    {
+      "id": "36908b8e-81d2-420e-871b-ce33f2958b38",
+      "name": "Baingan Bharta (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 197,
+        "protein": 2.0408129321677575,
+        "carbs": 14.360964586886114,
+        "fat": 7.913030717711484,
+        "fiber": 1.385822768885991
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (punjabi)"
+      ]
+    },
+    {
+      "id": "d02c1061-8ac5-4fa8-9d34-2ed791f9725f",
+      "name": "Baingan Bharta (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122,
+        "caloriesMax": 169,
+        "protein": 9.848677492314962,
+        "carbs": 13.001063027375444,
+        "fat": 8.16879353807488,
+        "fiber": 4.631215639821699
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (south indian style)"
+      ]
+    },
+    {
+      "id": "c8aa6bb8-42d9-4aa0-bc9c-f40fa6e05dab",
+      "name": "Baingan Bharta (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 166,
+        "protein": 11.87423425338583,
+        "carbs": 5.007204035874987,
+        "fat": 11.809511777164214,
+        "fiber": 4.707222897084286
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (bengali style)"
+      ]
+    },
+    {
+      "id": "6f415534-7fb0-4149-abfd-1f1e1dce9292",
+      "name": "Baingan Bharta (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 165,
+        "protein": 3.308956854384217,
+        "carbs": 6.282722192803138,
+        "fat": 7.061750997939145,
+        "fiber": 1.9253625987309895
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "587782a2-3152-422c-a248-89e06a2e35ba",
+      "name": "Baingan Bharta (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 197,
+        "protein": 8.219696112094589,
+        "carbs": 13.193196604166864,
+        "fat": 4.983236569309325,
+        "fiber": 2.3116484106508493
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (gujarati style)"
+      ]
+    },
+    {
+      "id": "cd512762-bae8-400c-82d8-5fefa1067c5c",
+      "name": "Baingan Bharta (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 150,
+        "protein": 6.410848134863544,
+        "carbs": 10.675082072762134,
+        "fat": 10.942687261132653,
+        "fiber": 2.0373360528512143
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "baingan bharta (rajasthani)"
+      ]
+    },
+    {
+      "id": "49e94f5c-3f27-4aaf-aa85-fde5de31d5ba",
+      "name": "Baingan Bharta (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
