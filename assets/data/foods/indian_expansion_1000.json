@@ -6983,3 +6983,638 @@
       "name": "Veg Kolhapuri (Dhaba style)",
       "category": "veg",
       "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 181,
+        "protein": 8.03942765697811,
+        "carbs": 7.288618391318402,
+        "fat": 6.405990139465633,
+        "fiber": 4.2032398876072765
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (dhaba style)"
+      ]
+    },
+    {
+      "id": "1e2f7abf-ef21-48af-97a5-b7e051476e9c",
+      "name": "Veg Kolhapuri (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 151,
+        "protein": 9.790080410597026,
+        "carbs": 9.909431064124039,
+        "fat": 10.567915073968992,
+        "fiber": 1.8038002069390728
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg kolhapuri (restaurant style)"
+      ]
+    },
+    {
+      "id": "51bbc988-360b-4434-ba55-c3980f696273",
+      "name": "Navratan Korma",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 139,
+        "protein": 6.972768964330897,
+        "carbs": 10.815479453757135,
+        "fat": 6.09113692176575,
+        "fiber": 2.6618957052536594
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "navratan korma",
+        "NavratanKorma"
+      ]
+    },
+    {
+      "id": "104fc66d-5bda-4c8b-b3f0-f3d07228c1f5",
+      "name": "Navratan Korma (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107,
+        "caloriesMax": 141,
+        "protein": 8.529557044943058,
+        "carbs": 8.38109852515774,
+        "fat": 7.880680985131464,
+        "fiber": 4.73117450977362
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (punjabi)"
+      ]
+    },
+    {
+      "id": "6c43b762-16e6-40db-a500-d91f179dd53b",
+      "name": "Navratan Korma (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 160,
+        "protein": 2.1627427213959853,
+        "carbs": 9.969675899726163,
+        "fat": 6.351414734225257,
+        "fiber": 3.8768665501685287
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (south indian style)"
+      ]
+    },
+    {
+      "id": "53a9bfd0-84f5-460f-86d1-3a8a8f447c20",
+      "name": "Navratan Korma (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 155,
+        "protein": 3.800943084757365,
+        "carbs": 12.460244683703586,
+        "fat": 10.509605935003666,
+        "fiber": 3.1502150765820223
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (bengali style)"
+      ]
+    },
+    {
+      "id": "4e3279a3-03eb-4933-ae1c-89f2983c5cd5",
+      "name": "Navratan Korma (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 179,
+        "protein": 8.62896082953224,
+        "carbs": 5.197299262819212,
+        "fat": 12.53564244432668,
+        "fiber": 4.0884267782990085
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "eb586559-3372-4dfa-8734-302d330b0b3e",
+      "name": "Navratan Korma (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 197,
+        "protein": 7.929860720842708,
+        "carbs": 10.474442216831488,
+        "fat": 13.336561959684008,
+        "fiber": 2.5933158453608516
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (gujarati style)"
+      ]
+    },
+    {
+      "id": "c48cd3ca-eab2-44fa-baac-e6b5df4558b5",
+      "name": "Navratan Korma (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 194,
+        "protein": 2.438777185875696,
+        "carbs": 14.200947217248348,
+        "fat": 12.626178347106023,
+        "fiber": 3.3507591995266743
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (rajasthani)"
+      ]
+    },
+    {
+      "id": "23d661c8-db91-4738-94fe-ff57cfe93113",
+      "name": "Navratan Korma (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 160,
+        "protein": 3.7552620841651203,
+        "carbs": 13.469054667390166,
+        "fat": 12.137494625554071,
+        "fiber": 1.4987867825751091
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (home-style)"
+      ]
+    },
+    {
+      "id": "90db8f18-8195-447a-9c37-713c50bb087c",
+      "name": "Navratan Korma (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 153,
+        "protein": 11.512723981009795,
+        "carbs": 7.736662149301225,
+        "fat": 7.091268425613913,
+        "fiber": 4.8915769121108355
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (dhaba style)"
+      ]
+    },
+    {
+      "id": "97a8f2ec-f85f-4245-9b08-269d940a1128",
+      "name": "Navratan Korma (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 189,
+        "protein": 3.7688436427372736,
+        "carbs": 7.165678368465431,
+        "fat": 5.402993244246231,
+        "fiber": 1.8259699965586154
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "navratan korma (restaurant style)"
+      ]
+    },
+    {
+      "id": "7b2b12ce-2404-462b-af7e-449d89491978",
+      "name": "Malai Kofta",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 133,
+        "protein": 7.060877446402966,
+        "carbs": 11.18117247092188,
+        "fat": 10.1382000430709,
+        "fiber": 3.3996200111118022
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "malai kofta",
+        "MalaiKofta"
+      ]
+    },
+    {
+      "id": "cc19e4a4-760d-4e0b-9514-16018ccc2208",
+      "name": "Malai Kofta (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 178,
+        "protein": 2.1487001046273195,
+        "carbs": 10.818560593821939,
+        "fat": 13.925812652654722,
+        "fiber": 1.4649189151212885
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (punjabi)"
+      ]
+    },
+    {
+      "id": "5509dde2-1db2-4c5e-a216-cf4994611660",
+      "name": "Malai Kofta (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 150,
+        "protein": 9.13942063890822,
+        "carbs": 6.54561579458325,
+        "fat": 11.618137491655679,
+        "fiber": 4.453246963913175
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (south indian style)"
+      ]
+    },
+    {
+      "id": "b67b8acf-1ff8-4cb3-ad18-f69ed7c2bf3f",
+      "name": "Malai Kofta (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 155,
+        "protein": 5.279441200645219,
+        "carbs": 10.03889288508976,
+        "fat": 14.226851186111757,
+        "fiber": 3.610940070091177
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (bengali style)"
+      ]
+    },
+    {
+      "id": "af64e09a-8ff1-4dc2-bf0b-a370571f31fd",
+      "name": "Malai Kofta (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 159,
+        "protein": 4.248808216007781,
+        "carbs": 7.175997746282967,
+        "fat": 5.865473701536347,
+        "fiber": 3.7662701799323464
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "bc3d8781-c109-4bec-8e76-fbb921ca6d51",
+      "name": "Malai Kofta (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107,
+        "caloriesMax": 160,
+        "protein": 9.409603605398413,
+        "carbs": 5.303133275883224,
+        "fat": 11.257349621349247,
+        "fiber": 1.3526904320547617
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (gujarati style)"
+      ]
+    },
+    {
+      "id": "2820e17e-58ea-4b65-bfaf-62ff092dbc6d",
+      "name": "Malai Kofta (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 157,
+        "protein": 5.961064996928021,
+        "carbs": 11.43448163126708,
+        "fat": 4.8719668059007475,
+        "fiber": 4.053548287648608
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (rajasthani)"
+      ]
+    },
+    {
+      "id": "de2d5998-12e6-4057-a83b-c27894484472",
+      "name": "Malai Kofta (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 192,
+        "protein": 10.827987180512077,
+        "carbs": 10.3991620367325,
+        "fat": 5.496368107329009,
+        "fiber": 2.0394525104094727
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (home-style)"
+      ]
+    },
+    {
+      "id": "3060bbf7-ca05-42ff-b860-3bc30aa1d707",
+      "name": "Malai Kofta (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 143,
+        "protein": 4.330597235657067,
+        "carbs": 10.124668669993198,
+        "fat": 14.23991370236,
+        "fiber": 2.1007547129983415
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (dhaba style)"
