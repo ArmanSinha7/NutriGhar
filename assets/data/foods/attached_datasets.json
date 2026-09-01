@@ -24766,3 +24766,1035 @@
       ],
       "confidenceLevel": "MEDIUM",
       "per100g": {
+        "caloriesMin": 417.17,
+        "caloriesMax": 437.17,
+        "protein": 5.1,
+        "carbs": 59.26,
+        "fat": 19.34,
+        "fiber": 0.9,
+        "sugar": 34.72,
+        "sodium": 126.84
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate cream shells"
+      ]
+    },
+    {
+      "id": "efb30248-cf17-475c-bf5a-f969da6ee650",
+      "name": "Jelly biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 394.61,
+        "caloriesMax": 414.61,
+        "protein": 4.23,
+        "carbs": 55.24,
+        "fat": 19.33,
+        "fiber": 2.02,
+        "sugar": 29.76,
+        "sodium": 110.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jelly biscuit"
+      ]
+    },
+    {
+      "id": "b1e4aa17-4489-4094-b99e-2b4d1e6ae7d7",
+      "name": "Cherry and walnut cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 412.6,
+        "caloriesMax": 432.6,
+        "protein": 5.63,
+        "carbs": 59.35,
+        "fat": 18.75,
+        "fiber": 1.3,
+        "sugar": 30.37,
+        "sodium": 114.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cherry and walnut cookies"
+      ]
+    },
+    {
+      "id": "1aeb8dae-f927-4d4a-8160-e9a6e0870095",
+      "name": "Cheese straws",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 372.0,
+        "caloriesMax": 392.0,
+        "protein": 9.83,
+        "carbs": 30.61,
+        "fat": 24.28,
+        "fiber": 1.29,
+        "sugar": 1.79,
+        "sodium": 587.42
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese straws"
+      ]
+    },
+    {
+      "id": "94dffb29-54b3-4f7a-95d5-9cca2376d996",
+      "name": "Butterfly biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 331.45,
+        "caloriesMax": 351.45,
+        "protein": 9.98,
+        "carbs": 25.33,
+        "fat": 22.11,
+        "fiber": 1.02,
+        "sugar": 2.44,
+        "sodium": 572.05
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "butterfly biscuit"
+      ]
+    },
+    {
+      "id": "fd23de26-36b6-4fe5-a68d-9b6af97a0a19",
+      "name": "Flan pastry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 435.8,
+        "caloriesMax": 455.8,
+        "protein": 6.72,
+        "carbs": 47.84,
+        "fat": 25.04,
+        "fiber": 1.58,
+        "sugar": 6.22,
+        "sodium": 193.23
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "flan pastry"
+      ]
+    },
+    {
+      "id": "6ce28a71-d8b6-417a-a389-280909c2692e",
+      "name": "Fruit flan",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 251.35000000000002,
+        "caloriesMax": 271.35,
+        "protein": 3.3,
+        "carbs": 34.71,
+        "fat": 12.48,
+        "fiber": 0.71,
+        "sugar": 9.52,
+        "sodium": 110.04
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit flan"
+      ]
+    },
+    {
+      "id": "067cdce3-47aa-4220-a331-e5c56f096786",
+      "name": "Orange cream flan",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 270.28,
+        "caloriesMax": 290.28,
+        "protein": 4.73,
+        "carbs": 36.16,
+        "fat": 13.59,
+        "fiber": 0.63,
+        "sugar": 25.27,
+        "sodium": 82.41
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange cream flan"
+      ]
+    },
+    {
+      "id": "057ead30-9f9d-4b14-9280-312b4f54493d",
+      "name": "Fruit puree tart",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 276.5,
+        "caloriesMax": 296.5,
+        "protein": 3.35,
+        "carbs": 30.42,
+        "fat": 16.83,
+        "fiber": 1.31,
+        "sugar": 9.79,
+        "sodium": 49.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit puree tart"
+      ]
+    },
+    {
+      "id": "810dd51f-102e-4f1c-909a-f4bc0190ad7d",
+      "name": "Apple banana pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 233.99,
+        "caloriesMax": 253.99,
+        "protein": 3.13,
+        "carbs": 32.12,
+        "fat": 11.39,
+        "fiber": 1.89,
+        "sugar": 12.96,
+        "sodium": 384.43
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple banana pie"
+      ]
+    },
+    {
+      "id": "0102596b-347a-419b-9756-ae6e0dc3fe45",
+      "name": "Lemon chiffon pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 249.31,
+        "caloriesMax": 269.31,
+        "protein": 4.88,
+        "carbs": 27.63,
+        "fat": 14.52,
+        "fiber": 0.66,
+        "sugar": 11.39,
+        "sodium": 94.95
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon chiffon pie"
+      ]
+    },
+    {
+      "id": "134e7b35-13bd-47d0-8c08-0ccb9e966e22",
+      "name": "Orange chiffon pie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 197.57,
+        "caloriesMax": 217.57,
+        "protein": 3.89,
+        "carbs": 23.14,
+        "fat": 11.16,
+        "fiber": 0.7,
+        "sugar": 10.46,
+        "sodium": 73.23
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange chiffon pie"
+      ]
+    },
+    {
+      "id": "3c3985e3-8bb8-4769-897a-faafa9c265ab",
+      "name": "Cream buns",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 205.74,
+        "caloriesMax": 225.74,
+        "protein": 4.45,
+        "carbs": 14.16,
+        "fat": 15.81,
+        "fiber": 0.31,
+        "sugar": 5.95,
+        "sodium": 45.49
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cream buns"
+      ]
+    },
+    {
+      "id": "e9caf1d4-a70f-4f20-94bc-2d6489396113",
+      "name": "Savoury puffs",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 180.79,
+        "caloriesMax": 200.79,
+        "protein": 9.51,
+        "carbs": 10.8,
+        "fat": 15.24,
+        "fiber": 0.33,
+        "sugar": 4.51,
+        "sodium": 2274.24
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "savoury puffs"
+      ]
+    },
+    {
+      "id": "372916f3-4eeb-4998-815e-330e07ddd513",
+      "name": "Choux swans",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 206.34,
+        "caloriesMax": 226.34,
+        "protein": 4.35,
+        "carbs": 14.92,
+        "fat": 15.6,
+        "fiber": 0.35,
+        "sugar": 6.13,
+        "sodium": 145.08
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "choux swans"
+      ]
+    },
+    {
+      "id": "c67148c5-b2ba-4954-8322-aeae218a7468",
+      "name": "Potato aigrettes",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 520.03,
+        "caloriesMax": 540.03,
+        "protein": 2.35,
+        "carbs": 8.01,
+        "fat": 54.24,
+        "fiber": 0.45,
+        "sugar": 0.73,
+        "sodium": 112.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato aigrettes"
+      ]
+    },
+    {
+      "id": "51e924d8-c6f3-49d0-a25c-a5fbb5f1b2bc",
+      "name": "Cream horns",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 398.23,
+        "caloriesMax": 418.23,
+        "protein": 3.42,
+        "carbs": 23.12,
+        "fat": 33.55,
+        "fiber": 0.6,
+        "sugar": 7.12,
+        "sodium": 57.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cream horns"
+      ]
+    },
+    {
+      "id": "3cd68323-59fe-48a3-91d4-85966babb708",
+      "name": "Savoury cheese horns",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 285.15,
+        "caloriesMax": 305.15,
+        "protein": 5.66,
+        "carbs": 21.38,
+        "fat": 20.71,
+        "fiber": 0.73,
+        "sugar": 2.74,
+        "sodium": 212.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "savoury cheese horns"
+      ]
+    },
+    {
+      "id": "1375c0c8-2a62-447f-85fe-c4c8359f38f0",
+      "name": "Paneer patties",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 328.58,
+        "caloriesMax": 348.58,
+        "protein": 7.6,
+        "carbs": 22.79,
+        "fat": 23.96,
+        "fiber": 1.18,
+        "sugar": 4.04,
+        "sodium": 158.44
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer patties"
+      ]
+    },
+    {
+      "id": "bb059013-ce53-4905-b207-dde518152354",
+      "name": "Vegetable patties",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 251.92000000000002,
+        "caloriesMax": 271.92,
+        "protein": 4.01,
+        "carbs": 20.98,
+        "fat": 17.74,
+        "fiber": 2.62,
+        "sugar": 1.49,
+        "sodium": 139.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable patties"
+      ]
+    },
+    {
+      "id": "99ec72b0-3922-43ad-b4f7-f2d25d9aff33",
+      "name": "Pearl millet infant food (Bajra shishu aahaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 352.44,
+        "caloriesMax": 372.44,
+        "protein": 11.98,
+        "carbs": 62.1,
+        "fat": 6.62,
+        "fiber": 7.84,
+        "sugar": 26.06,
+        "sodium": 12.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pearl millet infant food (bajra shishu aahaar)"
+      ]
+    },
+    {
+      "id": "ed8cb460-38b6-40f9-9704-f4b6bdb5f95a",
+      "name": "Sajina",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 335.26,
+        "caloriesMax": 355.26,
+        "protein": 10.81,
+        "carbs": 66.87,
+        "fat": 3.03,
+        "fiber": 7.62,
+        "sugar": 25.89,
+        "sodium": 11.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sajina"
+      ]
+    },
+    {
+      "id": "28e7d3ab-fab2-4ec3-acf8-727ac7c551b5",
+      "name": "Cereal mix",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110.81,
+        "caloriesMax": 130.81,
+        "protein": 3.32,
+        "carbs": 21.84,
+        "fat": 2.02,
+        "fiber": 2.03,
+        "sugar": 10.68,
+        "sodium": 9.29
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cereal mix"
+      ]
+    },
+    {
+      "id": "4d78625f-aa87-4e3b-9ccb-e0f880143236",
+      "name": "Pulse mix",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 73.29,
+        "caloriesMax": 93.29,
+        "protein": 3.16,
+        "carbs": 16.0,
+        "fat": 0.54,
+        "fiber": 2.25,
+        "sugar": 6.59,
+        "sodium": 3.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pulse mix"
+      ]
+    },
+    {
+      "id": "6228a180-4a02-47ad-9849-4020ea5c479b",
+      "name": "Shishu ahar",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 83.37,
+        "caloriesMax": 103.37,
+        "protein": 2.61,
+        "carbs": 17.42,
+        "fat": 1.43,
+        "fiber": 1.02,
+        "sugar": 6.61,
+        "sodium": 2.68
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shishu ahar"
+      ]
+    },
+    {
+      "id": "6e8cd469-d27a-46b2-9c15-a9675f08542c",
+      "name": "Cereal pulse mix with amylase rice flour",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 141.57,
+        "caloriesMax": 161.57,
+        "protein": 4.27,
+        "carbs": 27.8,
+        "fat": 2.74,
+        "fiber": 3.47,
+        "sugar": 8.84,
+        "sodium": 1.03
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cereal pulse mix with amylase rice flour"
+      ]
+    },
+    {
+      "id": "09045fcb-a17b-417b-b0c5-74755d79249e",
+      "name": "Banana groundnut paste/puree",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 203.19,
+        "caloriesMax": 223.19,
+        "protein": 4.27,
+        "carbs": 36.15,
+        "fat": 5.45,
+        "fiber": 1.7,
+        "sugar": 31.67,
+        "sodium": 16.85
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana groundnut paste/puree"
+      ]
+    },
+    {
+      "id": "8698716b-6595-409e-b079-96b337c2e4a1",
+      "name": "Rice dal porridge (Chawal dal ki khichdi/khichri)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 373.33,
+        "caloriesMax": 393.33,
+        "protein": 10.8,
+        "carbs": 65.04,
+        "fat": 8.33,
+        "fiber": 4.51,
+        "sugar": 26.54,
+        "sodium": 12.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice dal porridge (chawal dal ki khichdi/khichri)"
+      ]
+    },
+    {
+      "id": "18397d1e-099d-4809-b1ae-11a42004a5bd",
+      "name": "Lentils and semolina porridge (Dal suji porridge/daliya)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107.29,
+        "caloriesMax": 127.29,
+        "protein": 3.26,
+        "carbs": 23.19,
+        "fat": 1.06,
+        "fiber": 1.44,
+        "sugar": 13.84,
+        "sodium": 9.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lentils and semolina porridge (dal suji porridge/daliya)"
+      ]
+    },
+    {
+      "id": "30b49e2a-3010-42d3-8a34-7c9ec40bcab4",
+      "name": "Spinach khichri (Palak khichri/khichdi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92.18,
+        "caloriesMax": 112.18,
+        "protein": 3.43,
+        "carbs": 17.35,
+        "fat": 1.91,
+        "fiber": 1.56,
+        "sugar": 0.21,
+        "sodium": 69.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach khichri (palak khichri/khichdi)"
+      ]
+    },
+    {
+      "id": "9edd29a5-eb46-4411-ab67-28261f083501",
+      "name": "Vegetable mix",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 164.21,
+        "caloriesMax": 184.21,
+        "protein": 4.7,
+        "carbs": 36.02,
+        "fat": 0.94,
+        "fiber": 1.93,
+        "sugar": 27.36,
+        "sodium": 34.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
