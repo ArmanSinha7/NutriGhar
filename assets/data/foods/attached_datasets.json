@@ -27862,3 +27862,1035 @@
       "per100g": {
         "caloriesMin": 208.4,
         "caloriesMax": 228.4,
+        "protein": 2.51,
+        "carbs": 44.69,
+        "fat": 3.93,
+        "fiber": 1.06,
+        "sugar": 31.62,
+        "sodium": 51.49
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pumpkin cookies"
+      ]
+    },
+    {
+      "id": "e0f8163b-9104-4821-a7d4-8f28aac66653",
+      "name": "Greenpea cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 149.42,
+        "caloriesMax": 169.42,
+        "protein": 6.53,
+        "carbs": 23.07,
+        "fat": 4.24,
+        "fiber": 5.32,
+        "sugar": 14.45,
+        "sodium": 229.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "greenpea cookies"
+      ]
+    },
+    {
+      "id": "3d0ff832-ee4e-45de-bb85-17c041f0d6ab",
+      "name": "Sunflower cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 510.62,
+        "caloriesMax": 530.62,
+        "protein": 9.49,
+        "carbs": 40.06,
+        "fat": 36.28,
+        "fiber": 3.95,
+        "sugar": 24.28,
+        "sodium": 181.68
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sunflower cookies"
+      ]
+    },
+    {
+      "id": "f8551dd2-9ddb-4c1d-a556-26660a3df89d",
+      "name": "Cardamom cookies (Elaichi cookies)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 390.49,
+        "caloriesMax": 410.49,
+        "protein": 5.1,
+        "carbs": 53.99,
+        "fat": 19.12,
+        "fiber": 2.79,
+        "sugar": 38.99,
+        "sodium": 98.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cardamom cookies (elaichi cookies)"
+      ]
+    },
+    {
+      "id": "cb95aaeb-a6a2-48e5-b99d-8a210dad683d",
+      "name": "Hazelnut cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 483.32,
+        "caloriesMax": 503.32,
+        "protein": 6.25,
+        "carbs": 39.44,
+        "fat": 34.97,
+        "fiber": 2.45,
+        "sugar": 22.01,
+        "sodium": 81.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hazelnut cookies"
+      ]
+    },
+    {
+      "id": "f83ff8f5-c86b-4bfb-b6d9-3b61fc5ea4e9",
+      "name": "Milk cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 449.43,
+        "caloriesMax": 469.43,
+        "protein": 10.49,
+        "carbs": 48.43,
+        "fat": 24.96,
+        "fiber": 0.99,
+        "sugar": 22.06,
+        "sodium": 156.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "milk cookies"
+      ]
+    },
+    {
+      "id": "1fd24afb-7a6e-44b7-9f6a-c204d969233e",
+      "name": "Cranberry cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 262.48,
+        "caloriesMax": 282.48,
+        "protein": 3.92,
+        "carbs": 36.39,
+        "fat": 12.66,
+        "fiber": 1.13,
+        "sugar": 19.96,
+        "sodium": 58.25
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cranberry cookies"
+      ]
+    },
+    {
+      "id": "8e554a7e-c891-46fa-8c11-1ec47d98babb",
+      "name": "Olive biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 428.29,
+        "caloriesMax": 448.29,
+        "protein": 3.2,
+        "carbs": 55.01,
+        "fat": 23.75,
+        "fiber": 0.82,
+        "sugar": 32.27,
+        "sodium": 120.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "olive biscuit"
+      ]
+    },
+    {
+      "id": "438cc348-4960-403f-8a4d-a9afdf968267",
+      "name": "Tutti fruitti biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 410.78,
+        "caloriesMax": 430.78,
+        "protein": 5.21,
+        "carbs": 53.12,
+        "fat": 17.9,
+        "fiber": 5.43,
+        "sugar": 15.75,
+        "sodium": 93.11
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tutti fruitti biscuit"
+      ]
+    },
+    {
+      "id": "a17c9ecf-dc02-4d38-a3ff-99eed2122af3",
+      "name": "Peach blueberry preserves",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 167.38,
+        "caloriesMax": 187.38,
+        "protein": 0.53,
+        "carbs": 45.76,
+        "fat": 0.2,
+        "fiber": 1.14,
+        "sugar": 45.33,
+        "sodium": 2.81
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peach blueberry preserves"
+      ]
+    },
+    {
+      "id": "1720ec8c-df12-434b-afcc-00d409603a94",
+      "name": "Pear preserves (Naashpati ka murabba)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91.24,
+        "caloriesMax": 111.24,
+        "protein": 0.25,
+        "carbs": 25.67,
+        "fat": 0.19,
+        "fiber": 3.06,
+        "sugar": 25.19,
+        "sodium": 2.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pear preserves (naashpati ka murabba)"
+      ]
+    },
+    {
+      "id": "dcb2a78a-4c28-4dfb-a30b-12423a09a414",
+      "name": "Starfruit preserves",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118.93,
+        "caloriesMax": 138.93,
+        "protein": 0.24,
+        "carbs": 33.62,
+        "fat": 0.12,
+        "fiber": 0.78,
+        "sugar": 33.47,
+        "sodium": 2.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "starfruit preserves"
+      ]
+    },
+    {
+      "id": "bdf8847d-474d-499d-b33f-a275222337f6",
+      "name": "Gooseberry pickle (Amla ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 268.58,
+        "caloriesMax": 288.58,
+        "protein": 1.55,
+        "carbs": 7.61,
+        "fat": 27.61,
+        "fiber": 3.7,
+        "sugar": 0.36,
+        "sodium": 86.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gooseberry pickle (amla ka achaar)"
+      ]
+    },
+    {
+      "id": "2ab2df94-e5c9-44ee-a9f7-e75a51bbd9a2",
+      "name": "Lotus stem pickle (Kamal kakdi ka achar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92.69,
+        "caloriesMax": 112.69,
+        "protein": 1.44,
+        "carbs": 20.07,
+        "fat": 1.6,
+        "fiber": 8.58,
+        "sugar": 2.53,
+        "sodium": 181.83
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lotus stem pickle (kamal kakdi ka achar)"
+      ]
+    },
+    {
+      "id": "1a45aa70-763a-4969-b17d-0da434ea900a",
+      "name": "Date pickle (Khajoor ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 172.29,
+        "caloriesMax": 192.29,
+        "protein": 1.68,
+        "carbs": 34.66,
+        "fat": 4.21,
+        "fiber": 5.2,
+        "sugar": 30.47,
+        "sodium": 138.86
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "date pickle (khajoor ka achaar)"
+      ]
+    },
+    {
+      "id": "a5b50e5d-018c-4bc3-99db-8d47406aaab5",
+      "name": "Garlic pickle (Lahasun ka achar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 403.62,
+        "caloriesMax": 423.62,
+        "protein": 3.72,
+        "carbs": 9.75,
+        "fat": 39.88,
+        "fiber": 5.13,
+        "sugar": 2.32,
+        "sodium": 269.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "garlic pickle (lahasun ka achar)"
+      ]
+    },
+    {
+      "id": "7bf300b1-ed7a-47e1-8a7f-ccddaae6df97",
+      "name": "Fermented bamboo shoot pickle (Mesu pickle)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 49.83,
+        "caloriesMax": 69.83,
+        "protein": 1.58,
+        "carbs": 1.73,
+        "fat": 5.59,
+        "fiber": 2.24,
+        "sugar": 0.29,
+        "sodium": 161.31
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fermented bamboo shoot pickle (mesu pickle)"
+      ]
+    },
+    {
+      "id": "3aa4a555-a936-4f8d-8f44-da4717546c09",
+      "name": "Sweet peach pickle (Aadoo ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 134.64,
+        "caloriesMax": 154.64,
+        "protein": 0.46,
+        "carbs": 37.01,
+        "fat": 0.2,
+        "fiber": 1.32,
+        "sugar": 36.46,
+        "sodium": 33.04
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet peach pickle (aadoo ka achaar)"
+      ]
+    },
+    {
+      "id": "9c21e919-83b0-49a5-aa80-40a3d4f05b55",
+      "name": "Pickled mustard greens",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 3.119999999999999,
+        "caloriesMax": 23.119999999999997,
+        "protein": 1.51,
+        "carbs": 1.05,
+        "fat": 0.22,
+        "fiber": 1.7,
+        "sugar": 0.02,
+        "sodium": 242.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pickled mustard greens"
+      ]
+    },
+    {
+      "id": "8b57538c-aba0-43e3-8c74-8c051efdaa75",
+      "name": "Small onion pickle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 6.859999999999999,
+        "caloriesMax": 26.86,
+        "protein": 1.65,
+        "carbs": 2.76,
+        "fat": 0.64,
+        "fiber": 1.09,
+        "sugar": 2.99,
+        "sodium": 249.48
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "small onion pickle"
+      ]
+    },
+    {
+      "id": "b0ef6a4a-d3f3-41aa-b10e-9e5d69985380",
+      "name": "Green tomato pickle (Haray tamatar ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 183.26,
+        "caloriesMax": 203.26,
+        "protein": 1.23,
+        "carbs": 2.87,
+        "fat": 19.67,
+        "fiber": 1.74,
+        "sugar": 0.77,
+        "sodium": 159.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green tomato pickle (haray tamatar ka achaar)"
+      ]
+    },
+    {
+      "id": "fc2077f4-b612-467c-9a57-c941c57c7255",
+      "name": "Pickled cabbage",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 3.6899999999999995,
+        "caloriesMax": 23.689999999999998,
+        "protein": 0.39,
+        "carbs": 2.56,
+        "fat": 0.14,
+        "fiber": 0.61,
+        "sugar": 2.08,
+        "sodium": 121.39
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pickled cabbage"
+      ]
+    },
+    {
+      "id": "2a9d481c-50dc-4c39-94f5-e2e3cd6403b0",
+      "name": "Coconut pickle (Nariyal ka aachar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 507.26,
+        "caloriesMax": 527.26,
+        "protein": 3.02,
+        "carbs": 11.53,
+        "fat": 51.71,
+        "fiber": 6.35,
+        "sugar": 8.98,
+        "sodium": 176.54
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut pickle (nariyal ka aachar)"
+      ]
+    },
+    {
+      "id": "e4227738-1604-4d4a-a158-0db7a149f8c0",
+      "name": "Potato pickle (Aloo ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 359.14,
+        "caloriesMax": 379.14,
+        "protein": 2.07,
+        "carbs": 7.87,
+        "fat": 36.46,
+        "fiber": 2.21,
+        "sugar": 0.82,
+        "sodium": 213.73
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato pickle (aloo ka achaar)"
+      ]
+    },
+    {
+      "id": "062a463f-e7d1-4668-9dcd-f97c98b21700",
+      "name": "Mango murabba candy",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 283.35,
+        "caloriesMax": 303.35,
+        "protein": 0.27,
+        "carbs": 77.32,
+        "fat": 0.05,
+        "fiber": 0.95,
+        "sugar": 74.73,
+        "sodium": 13.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango murabba candy"
+      ]
+    },
+    {
+      "id": "e1aabe95-0fcb-4c4c-b0ce-92af8f290b25",
+      "name": "Afghani chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 141.51,
+        "caloriesMax": 161.51,
+        "protein": 15.66,
+        "carbs": 1.95,
+        "fat": 9.07,
+        "fiber": 0.31,
+        "sugar": 0.83,
+        "sodium": 87.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "afghani chicken"
+      ]
+    },
+    {
+      "id": "c22c475c-b186-4d8d-973f-2c7863a71094",
+      "name": "Fish orly",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 553.7,
+        "caloriesMax": 573.7,
+        "protein": 5.87,
+        "carbs": 4.27,
+        "fat": 58.18,
+        "fiber": 0.33,
+        "sugar": 0.24,
+        "sodium": 136.37
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish orly"
+      ]
+    },
+    {
+      "id": "8fe7ae2c-987f-42ad-8a67-6ae0e97b00e6",
+      "name": "Hariyali Fish Tikka",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140.24,
+        "caloriesMax": 160.24,
+        "protein": 14.01,
+        "carbs": 2.21,
+        "fat": 9.41,
+        "fiber": 0.99,
+        "sugar": 0.83,
+        "sodium": 100.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hariyali fish tikka"
+      ]
+    },
+    {
+      "id": "e29d7f85-c92e-433f-a18d-1fbb4d5d10c3",
+      "name": "Chicken manchurian",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 132.34,
+        "caloriesMax": 152.34,
+        "protein": 9.53,
+        "carbs": 6.06,
+        "fat": 11.96,
+        "fiber": 0.41,
+        "sugar": 0.9,
+        "sodium": 2414.77
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken manchurian"
+      ]
+    },
+    {
+      "id": "e918ff56-150d-4a10-b2d0-c5221c5c3afc",
+      "name": "Handi chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 156.02,
+        "caloriesMax": 176.02,
+        "protein": 12.32,
+        "carbs": 1.49,
+        "fat": 12.46,
+        "fiber": 0.67,
+        "sugar": 0.75,
+        "sodium": 75.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "handi chicken"
+      ]
+    },
+    {
+      "id": "f4373dda-982b-4b90-9f36-31c6643d5317",
+      "name": "Lemon chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 159.79,
+        "caloriesMax": 179.79,
+        "protein": 20.2,
+        "carbs": 0.55,
+        "fat": 9.66,
+        "fiber": 0.16,
+        "sugar": 0.16,
+        "sodium": 79.93
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
