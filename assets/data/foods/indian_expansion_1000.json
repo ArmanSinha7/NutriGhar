@@ -7618,3 +7618,638 @@
       ],
       "aliases": [
         "malai kofta (dhaba style)"
+      ]
+    },
+    {
+      "id": "a19be872-4b9e-4285-828f-f4031cd26f2f",
+      "name": "Malai Kofta (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 162,
+        "protein": 11.217290806420623,
+        "carbs": 8.443535967898605,
+        "fat": 14.440627631567535,
+        "fiber": 2.170748470801662
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "malai kofta (restaurant style)"
+      ]
+    },
+    {
+      "id": "94d2d99d-3699-4dfe-a63b-8cfcef9bf328",
+      "name": "Lauki Kofta",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 139,
+        "protein": 4.664039773587623,
+        "carbs": 10.008078755746514,
+        "fat": 10.52091321026907,
+        "fiber": 3.7555511592990474
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "lauki kofta",
+        "LaukiKofta"
+      ]
+    },
+    {
+      "id": "edf8d3eb-b2ce-4868-ab52-7d0d103ade23",
+      "name": "Lauki Kofta (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 189,
+        "protein": 2.0319468478600813,
+        "carbs": 6.382687874855465,
+        "fat": 8.02010923745399,
+        "fiber": 1.419284682375669
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (punjabi)"
+      ]
+    },
+    {
+      "id": "d8829e07-9a88-4829-8911-4aab79360e7d",
+      "name": "Lauki Kofta (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 122,
+        "caloriesMax": 153,
+        "protein": 3.3401088030808417,
+        "carbs": 10.195980867754223,
+        "fat": 8.229406233967765,
+        "fiber": 3.7893988070871125
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (south indian style)"
+      ]
+    },
+    {
+      "id": "9b49770b-b7ae-4d09-988a-0fb3a650592a",
+      "name": "Lauki Kofta (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 187,
+        "protein": 8.452235771798943,
+        "carbs": 5.477379131979243,
+        "fat": 6.419066069776415,
+        "fiber": 2.4844051897397526
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (bengali style)"
+      ]
+    },
+    {
+      "id": "d335964f-7cfe-42db-8bd5-810e0232a6ce",
+      "name": "Lauki Kofta (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 146,
+        "protein": 10.627850754691377,
+        "carbs": 13.199887223462849,
+        "fat": 14.769735487279508,
+        "fiber": 1.9197279019570637
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "8dd770b3-ed93-4b08-9635-067ae6bd9026",
+      "name": "Lauki Kofta (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 189,
+        "protein": 5.077708513627786,
+        "carbs": 5.326905289252142,
+        "fat": 7.7235764432322895,
+        "fiber": 4.816164955755882
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (gujarati style)"
+      ]
+    },
+    {
+      "id": "bc043ae5-7f6d-4cf0-b9e3-233173e99705",
+      "name": "Lauki Kofta (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 166,
+        "protein": 7.133243197762604,
+        "carbs": 5.36549150561464,
+        "fat": 6.17753874917556,
+        "fiber": 4.457057672146769
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (rajasthani)"
+      ]
+    },
+    {
+      "id": "02390bdd-11c8-4307-b0a1-55dc47ab2ff8",
+      "name": "Lauki Kofta (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 200,
+        "protein": 8.25907257917035,
+        "carbs": 13.048367492240585,
+        "fat": 12.9519722714892,
+        "fiber": 1.6374027310144248
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (home-style)"
+      ]
+    },
+    {
+      "id": "6eb7f776-7382-4e4a-9bd7-ad8691ccbb3b",
+      "name": "Lauki Kofta (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 190,
+        "protein": 11.153897615830273,
+        "carbs": 5.977083627195184,
+        "fat": 12.634704325822366,
+        "fiber": 2.0671562784474693
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (dhaba style)"
+      ]
+    },
+    {
+      "id": "9a5ba71f-3f60-44e0-9eb6-51d7d3c074ab",
+      "name": "Lauki Kofta (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 147,
+        "protein": 9.749348237163812,
+        "carbs": 12.503859836076867,
+        "fat": 14.485307485828177,
+        "fiber": 3.916973702272822
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lauki kofta (restaurant style)"
+      ]
+    },
+    {
+      "id": "b7ae718e-5aae-452c-bd2c-d602f972a6f0",
+      "name": "Rajma Masala",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 179,
+        "protein": 2.3593023872036127,
+        "carbs": 8.746308800354596,
+        "fat": 4.664263076582873,
+        "fiber": 2.637359762429237
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "rajma masala",
+        "RajmaMasala"
+      ]
+    },
+    {
+      "id": "9ddb98ba-31ad-4904-ba21-e5bc90a5a4a9",
+      "name": "Rajma Masala (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92,
+        "caloriesMax": 197,
+        "protein": 6.984007794630793,
+        "carbs": 6.34276435666023,
+        "fat": 5.987579984108401,
+        "fiber": 2.201882870020525
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (punjabi)"
+      ]
+    },
+    {
+      "id": "b3c715d3-8816-4bf4-bd3a-e34b1d3d6825",
+      "name": "Rajma Masala (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 143,
+        "protein": 4.5560121008366,
+        "carbs": 12.120476881273637,
+        "fat": 10.842516174505148,
+        "fiber": 4.631664311553074
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (south indian style)"
+      ]
+    },
+    {
+      "id": "a0d8408f-726e-4d0a-947d-3206279a2c89",
+      "name": "Rajma Masala (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 190,
+        "protein": 10.516287860493922,
+        "carbs": 7.193407298652534,
+        "fat": 9.855892305301591,
+        "fiber": 3.8403013116270373
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (bengali style)"
+      ]
+    },
+    {
+      "id": "2d560515-ed0d-4bc8-b89c-785ba04866fa",
+      "name": "Rajma Masala (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 181,
+        "protein": 11.586301387163234,
+        "carbs": 14.486746364573765,
+        "fat": 11.21304389389115,
+        "fiber": 4.09402238659373
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "2992e6a1-2d6c-4a5f-84f1-0e381000a366",
+      "name": "Rajma Masala (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 144,
+        "protein": 6.224184117045551,
+        "carbs": 6.215504299210121,
+        "fat": 14.991226586554024,
+        "fiber": 4.62086582789634
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (gujarati style)"
+      ]
+    },
+    {
+      "id": "25cab556-9445-4325-90ce-c893a085e4f2",
+      "name": "Rajma Masala (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 182,
+        "protein": 10.5844692710289,
+        "carbs": 11.742167482574608,
+        "fat": 4.303426223281868,
+        "fiber": 4.552049682074669
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (rajasthani)"
+      ]
+    },
+    {
+      "id": "59d3a69c-e3bb-448e-aa67-976983f0cfc2",
+      "name": "Rajma Masala (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 191,
+        "protein": 11.588964340536112,
+        "carbs": 8.193595218975826,
+        "fat": 12.27673672803122,
+        "fiber": 1.1538817988307604
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (home-style)"
+      ]
+    },
+    {
+      "id": "107f9d28-d630-4a5b-b508-2bab3b9dec9a",
+      "name": "Rajma Masala (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 147,
+        "protein": 11.510266584836481,
+        "carbs": 13.992419977558534,
+        "fat": 7.653228537374294,
+        "fiber": 1.6867299128851907
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (dhaba style)"
+      ]
+    },
+    {
+      "id": "2c4dc19a-c85c-4db6-acde-599e64d893f8",
+      "name": "Rajma Masala (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 191,
+        "protein": 5.863714166693079,
+        "carbs": 14.608234271026754,
+        "fat": 5.83486864458715,
+        "fiber": 3.4889313790753733
+      },
+      "portions": [
+        {
