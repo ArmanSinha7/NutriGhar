@@ -26830,3 +26830,1035 @@
       "id": "f9b5925c-dbfc-4ac7-a37e-f485aa65f6e6",
       "name": "Cucumber sharbat (Kheere ka sharbat)",
       "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 17.28,
+        "caloriesMax": 37.28,
+        "protein": 0.26,
+        "carbs": 6.64,
+        "fat": 0.06,
+        "fiber": 0.78,
+        "sugar": 5.46,
+        "sodium": 2.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cucumber sharbat (kheere ka sharbat)"
+      ]
+    },
+    {
+      "id": "d31cf349-433d-4d3a-be20-1615440893e2",
+      "name": "Apple oats chia seed smoothie",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 75.64,
+        "caloriesMax": 95.64,
+        "protein": 3.49,
+        "carbs": 13.07,
+        "fat": 2.48,
+        "fiber": 1.44,
+        "sugar": 5.76,
+        "sodium": 32.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple oats chia seed smoothie"
+      ]
+    },
+    {
+      "id": "200384c2-f6f3-40f0-9fad-182fa4bc0469",
+      "name": "Nannari sharbat",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 78.79,
+        "caloriesMax": 98.79,
+        "protein": 0.01,
+        "carbs": 23.62,
+        "fat": 0.01,
+        "fiber": 0,
+        "sugar": 23.58,
+        "sodium": 1.16
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nannari sharbat"
+      ]
+    },
+    {
+      "id": "5856d2a4-942e-4f32-be7b-6480ef6fdba1",
+      "name": "Semolina milk drink (Thari kanji)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 34.16,
+        "caloriesMax": 54.16,
+        "protein": 0.98,
+        "carbs": 6.93,
+        "fat": 1.36,
+        "fiber": 0.72,
+        "sugar": 3.88,
+        "sodium": 11.95
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina milk drink (thari kanji)"
+      ]
+    },
+    {
+      "id": "45725543-9a3d-4fde-9304-aec314420497",
+      "name": "Saffron milk (Kesariya doodh)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92.18,
+        "caloriesMax": 112.18,
+        "protein": 3.17,
+        "carbs": 12.64,
+        "fat": 4.57,
+        "fiber": 0.14,
+        "sugar": 12.5,
+        "sodium": 23.69
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saffron milk (kesariya doodh)"
+      ]
+    },
+    {
+      "id": "76fd67d2-b3b4-4669-9579-bc5d3c9c3eb6",
+      "name": "Black rice kheer (Chak-hao kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 137.94,
+        "caloriesMax": 157.94,
+        "protein": 4.37,
+        "carbs": 22.93,
+        "fat": 4.91,
+        "fiber": 0.76,
+        "sugar": 12.57,
+        "sodium": 25.77
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "black rice kheer (chak-hao kheer)"
+      ]
+    },
+    {
+      "id": "220e92e9-dbaa-437f-8255-503311d7069f",
+      "name": "Coconut kheer (Nariyal ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 152.61,
+        "caloriesMax": 172.61,
+        "protein": 3.4,
+        "carbs": 14.42,
+        "fat": 10.55,
+        "fiber": 1.53,
+        "sugar": 13.73,
+        "sodium": 45.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut kheer (nariyal ki kheer)"
+      ]
+    },
+    {
+      "id": "6dd975a4-1665-4e56-a5e6-e2b7b1b6f7b1",
+      "name": "Apple sago payasam (Seb aur sabudana ki kheer)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126.5,
+        "caloriesMax": 146.5,
+        "protein": 3.13,
+        "carbs": 14.4,
+        "fat": 7.66,
+        "fiber": 0.38,
+        "sugar": 10.63,
+        "sodium": 39.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple sago payasam (seb aur sabudana ki kheer)"
+      ]
+    },
+    {
+      "id": "f900683e-b751-4835-948c-4560c91bd32d",
+      "name": "Kesari bath",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 234.57,
+        "caloriesMax": 254.57,
+        "protein": 2.4,
+        "carbs": 31.38,
+        "fat": 12.59,
+        "fiber": 1.65,
+        "sugar": 20.16,
+        "sodium": 1.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kesari bath"
+      ]
+    },
+    {
+      "id": "5cb57954-5e9c-4e5d-8d28-fbb8cd32d96a",
+      "name": "Putharekulu",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 308.3,
+        "caloriesMax": 328.3,
+        "protein": 3.66,
+        "carbs": 59.61,
+        "fat": 7.55,
+        "fiber": 1.75,
+        "sugar": 23.86,
+        "sodium": 2.67
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "putharekulu"
+      ]
+    },
+    {
+      "id": "491d89ed-95ea-4e4f-abf8-a6742930bf6d",
+      "name": "Mango malpua",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 324.64,
+        "caloriesMax": 344.64,
+        "protein": 1.65,
+        "carbs": 12.84,
+        "fat": 30.67,
+        "fiber": 2.08,
+        "sugar": 4.96,
+        "sodium": 1.89
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango malpua"
+      ]
+    },
+    {
+      "id": "04232b26-a945-4b3e-b2dd-5add7ad2f856",
+      "name": "Mango vanilla custard",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 137.63,
+        "caloriesMax": 157.63,
+        "protein": 3.43,
+        "carbs": 18.41,
+        "fat": 7.04,
+        "fiber": 0.99,
+        "sugar": 14.62,
+        "sodium": 30.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango vanilla custard"
+      ]
+    },
+    {
+      "id": "e26ce16b-ec44-4361-b1d6-83f65361d537",
+      "name": "Kiwi granola pudding",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 270.99,
+        "caloriesMax": 290.99,
+        "protein": 5.6,
+        "carbs": 32.33,
+        "fat": 15.36,
+        "fiber": 3.71,
+        "sugar": 15.08,
+        "sodium": 59.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kiwi granola pudding"
+      ]
+    },
+    {
+      "id": "cd2406b5-c47b-4360-8534-759d184be014",
+      "name": "Oats burfi",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 415.19,
+        "caloriesMax": 435.19,
+        "protein": 8.89,
+        "carbs": 62.47,
+        "fat": 17.27,
+        "fiber": 4.96,
+        "sugar": 32.93,
+        "sodium": 8.15
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "oats burfi"
+      ]
+    },
+    {
+      "id": "a3f78ab6-e1aa-4b8a-8759-4ad4a9db1163",
+      "name": "Lotus seed halwa (Kamal gattay ka halwa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 360.55,
+        "caloriesMax": 380.55,
+        "protein": 7.79,
+        "carbs": 39.56,
+        "fat": 20.69,
+        "fiber": 0.42,
+        "sugar": 9.8,
+        "sodium": 3.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lotus seed halwa (kamal gattay ka halwa)"
+      ]
+    },
+    {
+      "id": "6a43a4a4-b8ac-4180-a554-91f58a097cbd",
+      "name": "Amaranth ladoo (Rajgira ladoo)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 444.15,
+        "caloriesMax": 464.15,
+        "protein": 10.12,
+        "carbs": 51.33,
+        "fat": 22.7,
+        "fiber": 5.11,
+        "sugar": 19.92,
+        "sodium": 7.51
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amaranth ladoo (rajgira ladoo)"
+      ]
+    },
+    {
+      "id": "479a8035-3104-422b-8f9c-f993d81a1fbb",
+      "name": "Chhena poda",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 334.57,
+        "caloriesMax": 354.57,
+        "protein": 13.68,
+        "carbs": 33.64,
+        "fat": 17.94,
+        "fiber": 1.4,
+        "sugar": 30.65,
+        "sodium": 13.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chhena poda"
+      ]
+    },
+    {
+      "id": "3ec06265-285b-418c-9e7c-a573fc38ed3a",
+      "name": "Sweet couscous dessert",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 186.2,
+        "caloriesMax": 206.2,
+        "protein": 3.81,
+        "carbs": 29.69,
+        "fat": 7.69,
+        "fiber": 2.18,
+        "sugar": 15.89,
+        "sodium": 4.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet couscous dessert"
+      ]
+    },
+    {
+      "id": "0f5be8b5-e18a-4c80-9694-0201af968675",
+      "name": "Sweetened yogurt (Shrikhand)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97.18,
+        "caloriesMax": 117.18,
+        "protein": 5.27,
+        "carbs": 16.02,
+        "fat": 2.89,
+        "fiber": 0.08,
+        "sugar": 15.81,
+        "sodium": 73.61
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweetened yogurt (shrikhand)"
+      ]
+    },
+    {
+      "id": "4cc6d8a6-a174-48f4-92fa-83e6396a74e1",
+      "name": "Thickened sweetened milk (Rabri)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92.79,
+        "caloriesMax": 112.79,
+        "protein": 3.52,
+        "carbs": 10.55,
+        "fat": 5.35,
+        "fiber": 0.19,
+        "sugar": 10.09,
+        "sodium": 23.92
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thickened sweetened milk (rabri)"
+      ]
+    },
+    {
+      "id": "886d2ec0-ea31-4ff6-8467-4511df97d3e5",
+      "name": "Gram flour halwa (Besan halwa)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 266.79,
+        "caloriesMax": 286.79,
+        "protein": 5.88,
+        "carbs": 25.78,
+        "fat": 17.3,
+        "fiber": 1.82,
+        "sugar": 15.83,
+        "sodium": 15.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gram flour halwa (besan halwa)"
+      ]
+    },
+    {
+      "id": "89bda071-58d2-43bf-bf9d-258e84a24b29",
+      "name": "Prawn sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 159.65,
+        "caloriesMax": 179.65,
+        "protein": 10.36,
+        "carbs": 11.89,
+        "fat": 9.27,
+        "fiber": 1.55,
+        "sugar": 1.21,
+        "sodium": 213.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "prawn sandwich"
+      ]
+    },
+    {
+      "id": "30c8d966-ff4d-4760-9d92-c7743c272b8a",
+      "name": "Watercress sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 219.42,
+        "caloriesMax": 239.42,
+        "protein": 5.17,
+        "carbs": 28.03,
+        "fat": 11.47,
+        "fiber": 2.26,
+        "sugar": 1.81,
+        "sodium": 407.44
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "watercress sandwich"
+      ]
+    },
+    {
+      "id": "141e59e6-8b8f-4ac0-bedd-4236f018099f",
+      "name": "Fish sandwich",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 140.2,
+        "caloriesMax": 160.2,
+        "protein": 4.72,
+        "carbs": 10.09,
+        "fat": 10.37,
+        "fiber": 1.23,
+        "sugar": 1.04,
+        "sodium": 161.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish sandwich"
+      ]
+    },
+    {
+      "id": "97c88907-2f95-4ff0-a27a-8be84915a8d6",
+      "name": "Kidney bean sandwich with cottage cheese",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 166.64,
+        "caloriesMax": 186.64,
+        "protein": 9.85,
+        "carbs": 18.86,
+        "fat": 6.84,
+        "fiber": 3.66,
+        "sugar": 3.69,
+        "sodium": 97.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kidney bean sandwich with cottage cheese"
+      ]
+    },
+    {
+      "id": "f097b029-140a-4244-b843-863d485be6bd",
+      "name": "Finger millet biscuit (Ragi biscuit)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 448.56,
+        "caloriesMax": 468.56,
+        "protein": 4.03,
+        "carbs": 52.69,
+        "fat": 25.79,
+        "fiber": 5.97,
+        "sugar": 16.9,
+        "sodium": 98.24
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "finger millet biscuit (ragi biscuit)"
+      ]
+    },
+    {
+      "id": "358c5b73-2b23-4a4d-9b0b-80c10a5e0d52",
+      "name": "Buttermilk biscuit",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 312.54,
+        "caloriesMax": 332.54,
+        "protein": 5.76,
+        "carbs": 34.93,
+        "fat": 17.5,
+        "fiber": 1.18,
+        "sugar": 3.44,
+        "sodium": 323.74
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "buttermilk biscuit"
+      ]
+    },
+    {
+      "id": "d3d944e6-f8a6-4c60-be18-8df814a12470",
+      "name": "Lemon cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 384.48,
+        "caloriesMax": 404.48,
+        "protein": 5.63,
+        "carbs": 42.19,
+        "fat": 23.02,
+        "fiber": 0.78,
+        "sugar": 23.47,
+        "sodium": 84.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon cookies"
+      ]
+    },
+    {
+      "id": "bd34a8d3-49c2-4806-8413-516a4293d2ea",
+      "name": "Sweet potato biscuit (Shakarkand ke biscuit)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 286.4,
+        "caloriesMax": 306.4,
+        "protein": 5.14,
+        "carbs": 38.13,
+        "fat": 13.31,
+        "fiber": 2.27,
+        "sugar": 2.53,
+        "sodium": 339.58
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet potato biscuit (shakarkand ke biscuit)"
+      ]
+    },
+    {
+      "id": "f0aaad1c-1a84-40b5-9b00-6ba692b65911",
+      "name": "Raspberry shortbread cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 431.12,
+        "caloriesMax": 451.12,
+        "protein": 3.0,
+        "carbs": 61.25,
+        "fat": 21.25,
+        "fiber": 0.75,
+        "sugar": 40.86,
+        "sodium": 6.06
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raspberry shortbread cookies"
+      ]
+    },
+    {
+      "id": "26144af7-1efc-4780-9c55-091af69ce288",
+      "name": "Pumpkin cookies",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 208.4,
+        "caloriesMax": 228.4,
