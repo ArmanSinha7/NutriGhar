@@ -28894,3 +28894,1035 @@
           "name": "1 serving",
           "weightMinG": 100,
           "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon chicken"
+      ]
+    },
+    {
+      "id": "aa77faf5-fbb9-4f7c-91b0-80ccd30cfed3",
+      "name": "Lemon butter fish",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 150.25,
+        "caloriesMax": 170.25,
+        "protein": 16.38,
+        "carbs": 0.75,
+        "fat": 10.26,
+        "fiber": 0.36,
+        "sugar": 0.23,
+        "sodium": 187.72
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon butter fish"
+      ]
+    },
+    {
+      "id": "7f774fc0-b489-4b66-a253-54f7b117143a",
+      "name": "Baked eggs in tomato sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 70.05,
+        "caloriesMax": 90.05,
+        "protein": 4.92,
+        "carbs": 3.78,
+        "fat": 5.22,
+        "fiber": 0.01,
+        "sugar": 2.03,
+        "sodium": 188.21
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baked eggs in tomato sauce"
+      ]
+    },
+    {
+      "id": "91bc273a-054f-43b6-ac63-ecf9aeafdb6c",
+      "name": "Egg in a pepper",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118.78,
+        "caloriesMax": 138.78,
+        "protein": 12.64,
+        "carbs": 0.17,
+        "fat": 8.68,
+        "fiber": 0.17,
+        "sugar": 0.05,
+        "sodium": 183.89
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg in a pepper"
+      ]
+    },
+    {
+      "id": "094912c3-0d40-4a63-8f31-dda60e3fc6db",
+      "name": "Spinach mushroom scrambled egg (Palak mushroom bhurji)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 148.85,
+        "caloriesMax": 168.85,
+        "protein": 13.28,
+        "carbs": 0.59,
+        "fat": 11.51,
+        "fiber": 0.39,
+        "sugar": 0.1,
+        "sodium": 227.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach mushroom scrambled egg (palak mushroom bhurji)"
+      ]
+    },
+    {
+      "id": "68b86523-1af6-462c-bc17-3ba82eab8151",
+      "name": "Corn omelette/omlet",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 156.93,
+        "caloriesMax": 176.93,
+        "protein": 11.37,
+        "carbs": 1.57,
+        "fat": 12.89,
+        "fiber": 0.02,
+        "sugar": 0.41,
+        "sodium": 166.42
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "corn omelette/omlet"
+      ]
+    },
+    {
+      "id": "84904c96-40ea-4177-bf0c-3e32c1a986cd",
+      "name": "Cajun chicken",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 174.94,
+        "caloriesMax": 194.94,
+        "protein": 12.69,
+        "carbs": 1.94,
+        "fat": 13.99,
+        "fiber": 0.89,
+        "sugar": 1.1,
+        "sodium": 1740.13
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cajun chicken"
+      ]
+    },
+    {
+      "id": "3a8e663f-f663-4a94-a4ba-e91494e626f0",
+      "name": "Paaner do pyaza",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117.7,
+        "caloriesMax": 137.7,
+        "protein": 4.22,
+        "carbs": 3.41,
+        "fat": 10.87,
+        "fiber": 0.84,
+        "sugar": 2.2,
+        "sodium": 160.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paaner do pyaza"
+      ]
+    },
+    {
+      "id": "aec7e93f-68d0-4895-b955-3830de6d3c97",
+      "name": "Cabbage manchurian (Pattagobhi manchurian)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 214.26,
+        "caloriesMax": 234.26,
+        "protein": 0.64,
+        "carbs": 4.85,
+        "fat": 22.48,
+        "fiber": 0.37,
+        "sugar": 0.33,
+        "sodium": 75.02
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cabbage manchurian (pattagobhi manchurian)"
+      ]
+    },
+    {
+      "id": "708c5f2c-3a0d-4f81-9807-1197393f890f",
+      "name": "Gobi 65",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 268.29,
+        "caloriesMax": 288.29,
+        "protein": 0.56,
+        "carbs": 3.59,
+        "fat": 29.11,
+        "fiber": 0.57,
+        "sugar": 0.29,
+        "sodium": 69.22
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gobi 65"
+      ]
+    },
+    {
+      "id": "cf905aba-ff3c-4d90-bb6f-439cf926c9ca",
+      "name": "Paneer lababdar",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95.48,
+        "caloriesMax": 115.48,
+        "protein": 3.98,
+        "carbs": 3.37,
+        "fat": 8.46,
+        "fiber": 1.16,
+        "sugar": 1.96,
+        "sodium": 142.45
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer lababdar"
+      ]
+    },
+    {
+      "id": "14f3c161-0a32-47db-964a-c01a6687c793",
+      "name": "Roasted cauliflower steak",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 68.68,
+        "caloriesMax": 88.68,
+        "protein": 2.05,
+        "carbs": 2.02,
+        "fat": 6.7,
+        "fiber": 3.53,
+        "sugar": 0.44,
+        "sodium": 120.19
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roasted cauliflower steak"
+      ]
+    },
+    {
+      "id": "893d2f6f-552d-425c-a169-d7baf84fdeeb",
+      "name": "Sauteed radishes with green beans",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 84.32,
+        "caloriesMax": 104.32,
+        "protein": 2.41,
+        "carbs": 6.04,
+        "fat": 6.61,
+        "fiber": 3.52,
+        "sugar": 1.78,
+        "sodium": 65.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sauteed radishes with green beans"
+      ]
+    },
+    {
+      "id": "1d226293-2a96-424c-b2ff-4f69bd5e4dbb",
+      "name": "Garlic chutney/Poondu chutney (Lahasun ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 245.51,
+        "caloriesMax": 265.51,
+        "protein": 3.34,
+        "carbs": 20.44,
+        "fat": 17.55,
+        "fiber": 5.15,
+        "sugar": 13.36,
+        "sodium": 177.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "garlic chutney/poondu chutney (lahasun ki chutney)"
+      ]
+    },
+    {
+      "id": "e356dd98-d3a6-4199-bf63-275568d38e04",
+      "name": "Schezwan chutney",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 195.19,
+        "caloriesMax": 215.19,
+        "protein": 3.33,
+        "carbs": 10.79,
+        "fat": 17.72,
+        "fiber": 5.72,
+        "sugar": 5.66,
+        "sodium": 486.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "schezwan chutney"
+      ]
+    },
+    {
+      "id": "bf6e8c44-31c4-43dc-b481-cdde7da10529",
+      "name": "Onion chutney (Pyaaz ki chutney/Vengaya chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 133.94,
+        "caloriesMax": 153.94,
+        "protein": 2.97,
+        "carbs": 13.52,
+        "fat": 8.38,
+        "fiber": 4.6,
+        "sugar": 6.8,
+        "sodium": 256.89
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion chutney (pyaaz ki chutney/vengaya chutney)"
+      ]
+    },
+    {
+      "id": "3ff051e8-b18f-48bc-941a-063ecaf34d4e",
+      "name": "Dates chutney (Khajoor ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93.57,
+        "caloriesMax": 113.57,
+        "protein": 1.07,
+        "carbs": 21.69,
+        "fat": 1.12,
+        "fiber": 3.41,
+        "sugar": 18.68,
+        "sodium": 76.77
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dates chutney (khajoor ki chutney)"
+      ]
+    },
+    {
+      "id": "de217e4f-861a-44cd-ad98-a3ce7bd5f6c4",
+      "name": "Chicken salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 328.19,
+        "caloriesMax": 348.19,
+        "protein": 15.33,
+        "carbs": 1.3,
+        "fat": 30.26,
+        "fiber": 2.0,
+        "sugar": 0.96,
+        "sodium": 50.62
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken salad"
+      ]
+    },
+    {
+      "id": "65b6e29a-57c7-4202-87fd-c678a1e39697",
+      "name": "Macaroni salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 252.19,
+        "caloriesMax": 272.19,
+        "protein": 5.02,
+        "carbs": 21.63,
+        "fat": 17.78,
+        "fiber": 0.56,
+        "sugar": 3.73,
+        "sodium": 163.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "macaroni salad"
+      ]
+    },
+    {
+      "id": "4e7c599f-fcae-477a-928d-628949add03f",
+      "name": "Cabbage raita (Pattagobhi raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 74.84,
+        "caloriesMax": 94.84,
+        "protein": 3.24,
+        "carbs": 5.25,
+        "fat": 5.76,
+        "fiber": 0.93,
+        "sugar": 4.21,
+        "sodium": 125.31
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cabbage raita (pattagobhi raita)"
+      ]
+    },
+    {
+      "id": "d089dec0-f341-4b58-ba74-efbb377551a6",
+      "name": "Pomegranate raita (Anaar ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 62.64,
+        "caloriesMax": 82.64,
+        "protein": 4.05,
+        "carbs": 7.15,
+        "fat": 3.24,
+        "fiber": 0.6,
+        "sugar": 7.01,
+        "sodium": 195.18
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pomegranate raita (anaar ka raita)"
+      ]
+    },
+    {
+      "id": "1ab9f79e-6295-4015-a2f0-e507856436ec",
+      "name": "Onion raita (Pyaaz ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 61.56,
+        "caloriesMax": 81.56,
+        "protein": 4.86,
+        "carbs": 7.86,
+        "fat": 2.43,
+        "fiber": 0.65,
+        "sugar": 7.07,
+        "sodium": 189.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion raita (pyaaz ka raita)"
+      ]
+    },
+    {
+      "id": "67a7db5a-a51a-4ace-8cd6-cadefad94b71",
+      "name": "Green chilli raita (Hari mirch ka raita)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 67.13,
+        "caloriesMax": 87.13,
+        "protein": 5.58,
+        "carbs": 7.66,
+        "fat": 2.92,
+        "fiber": 0.26,
+        "sugar": 7.49,
+        "sodium": 161.31
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green chilli raita (hari mirch ka raita)"
+      ]
+    },
+    {
+      "id": "117e5b7b-4cd4-4a19-9a5f-c853039a88cd",
+      "name": "Kale salad",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 167.71,
+        "caloriesMax": 187.71,
+        "protein": 4.86,
+        "carbs": 5.01,
+        "fat": 15.33,
+        "fiber": 1.36,
+        "sugar": 3.31,
+        "sodium": 292.04
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kale salad"
+      ]
+    },
+    {
+      "id": "c187606f-f6bf-4fc0-8cf8-74ac6acdd1dd",
+      "name": "Spinach and paneer souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 176.19,
+        "caloriesMax": 196.19,
+        "protein": 7.56,
+        "carbs": 9.64,
+        "fat": 13.49,
+        "fiber": 1.07,
+        "sugar": 2.81,
+        "sodium": 434.68
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach and paneer souffle"
+      ]
+    },
+    {
+      "id": "20d1d430-1c3b-4a27-a1c3-2085f4b512a7",
+      "name": "Masala souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113.51,
+        "caloriesMax": 133.51,
+        "protein": 6.38,
+        "carbs": 8.02,
+        "fat": 7.37,
+        "fiber": 1.24,
+        "sugar": 1.84,
+        "sodium": 131.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala souffle"
+      ]
+    },
+    {
+      "id": "e5691dc4-1f27-4851-9806-10c36dbc87ce",
+      "name": "Chicken and cheese souffle",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 172.35,
+        "caloriesMax": 192.35,
+        "protein": 9.07,
+        "carbs": 3.47,
+        "fat": 14.74,
+        "fiber": 0.26,
+        "sugar": 2.46,
+        "sodium": 120.93
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken and cheese souffle"
+      ]
+    },
+    {
+      "id": "53f2e65d-adb2-4ea8-ab6a-d57554e4cdd1",
+      "name": "Tamarind chutney (Chintapandu pachadi/Puli chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99.15,
+        "caloriesMax": 119.15,
+        "protein": 0.88,
+        "carbs": 25.07,
+        "fat": 0.48,
+        "fiber": 1.65,
+        "sugar": 22.85,
+        "sodium": 75.61
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tamarind chutney (chintapandu pachadi/puli chutney)"
+      ]
+    },
+    {
+      "id": "30d68556-b7c1-451d-851d-be207ea7b4f9",
+      "name": "Pav bhaji masala",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 220.47,
+        "caloriesMax": 240.47,
+        "protein": 9.13,
+        "carbs": 29.15,
+        "fat": 10.96,
+        "fiber": 24.3,
+        "sugar": 1.48,
+        "sodium": 1814.66
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pav bhaji masala"
+      ]
+    },
+    {
+      "id": "79296ecd-88f5-4139-96b3-279c952d6a3b",
+      "name": "Green chutney",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 69.42,
+        "caloriesMax": 89.42,
+        "protein": 5.42,
+        "carbs": 10.01,
+        "fat": 1.6,
+        "fiber": 5.84,
+        "sugar": 0.92,
+        "sodium": 262.81
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green chutney"
+      ]
+    },
+    {
+      "id": "752593f0-f740-455c-bc2f-35dc0bab122b",
+      "name": "Sago khitchdi/khichri (Sabudana khitchdi/khichri)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 177.16,
+        "caloriesMax": 197.16,
+        "protein": 2.72,
+        "carbs": 22.41,
+        "fat": 10.1,
+        "fiber": 1.82,
+        "sugar": 1.03,
+        "sodium": 100.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sago khitchdi/khichri (sabudana khitchdi/khichri)"
+      ]
+    },
+    {
+      "id": "ad3215a6-d1fa-4aab-a6ac-87a8bf471f66",
+      "name": "Gram flour chilla/cheela (Besan chilla/cheela)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
