@@ -8253,3 +8253,638 @@
       },
       "portions": [
         {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "rajma masala (restaurant style)"
+      ]
+    },
+    {
+      "id": "2d6841cd-f81e-4369-86d3-15bf39d5cf55",
+      "name": "Chole",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 168,
+        "protein": 4.532661186438196,
+        "carbs": 9.642442916753875,
+        "fat": 9.697319355853736,
+        "fiber": 3.993595669319062
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "chole",
+        "Chole"
+      ]
+    },
+    {
+      "id": "b51456c0-371f-418e-85bb-f4cf119e185d",
+      "name": "Chole (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 185,
+        "protein": 8.358529104492359,
+        "carbs": 13.656273050857092,
+        "fat": 12.020644076297097,
+        "fiber": 4.5372226799616
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (punjabi)"
+      ]
+    },
+    {
+      "id": "d46102ba-7ec3-48b6-8d50-2b4b3f3d7793",
+      "name": "Chole (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 173,
+        "protein": 8.543674855556963,
+        "carbs": 5.310306955130456,
+        "fat": 8.226857923086886,
+        "fiber": 4.10736881866668
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (south indian style)"
+      ]
+    },
+    {
+      "id": "79b61a96-9ee9-4898-9b33-78bea97d4215",
+      "name": "Chole (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 187,
+        "protein": 7.900525073473034,
+        "carbs": 9.730239494073045,
+        "fat": 8.110778276504453,
+        "fiber": 2.9601837399731514
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (bengali style)"
+      ]
+    },
+    {
+      "id": "547848cf-4052-4f69-88ef-61c8de2d65e8",
+      "name": "Chole (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 191,
+        "protein": 11.956487259168766,
+        "carbs": 13.611878485723759,
+        "fat": 5.094482940445587,
+        "fiber": 1.960343381940647
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "38ff675e-3cea-4eb0-8103-ecefe64f6c2a",
+      "name": "Chole (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 189,
+        "protein": 5.756789417900811,
+        "carbs": 7.993149352244665,
+        "fat": 14.273938633081405,
+        "fiber": 4.55010607641191
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (gujarati style)"
+      ]
+    },
+    {
+      "id": "cd2f7428-b9d5-495e-9040-cb77428e7486",
+      "name": "Chole (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 142,
+        "protein": 6.715000580047729,
+        "carbs": 12.087219607359145,
+        "fat": 14.023038218433324,
+        "fiber": 3.6096176118654912
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (rajasthani)"
+      ]
+    },
+    {
+      "id": "77adb08d-6db2-4bc5-9cf1-40d2950452d9",
+      "name": "Chole (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 178,
+        "protein": 2.463181857969693,
+        "carbs": 14.345160724745442,
+        "fat": 11.009920110079491,
+        "fiber": 1.0346603296401033
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (home-style)"
+      ]
+    },
+    {
+      "id": "1610eca3-f457-44b6-a1f3-886c2db8c243",
+      "name": "Chole (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 171,
+        "protein": 11.197841942783985,
+        "carbs": 13.798047683560963,
+        "fat": 11.228015819432514,
+        "fiber": 1.4070842454753127
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (dhaba style)"
+      ]
+    },
+    {
+      "id": "870fd072-64a4-4433-a771-a436f8b736ea",
+      "name": "Chole (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 153,
+        "protein": 10.551476172337978,
+        "carbs": 7.688717666794156,
+        "fat": 6.204506841229417,
+        "fiber": 3.222293735159038
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chole (restaurant style)"
+      ]
+    },
+    {
+      "id": "c115f7c2-032d-4e6e-95bb-bc78ce13eff3",
+      "name": "Pindi Chole",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 135,
+        "protein": 3.190555587931944,
+        "carbs": 13.977371234774246,
+        "fat": 3.2561018643761166,
+        "fiber": 3.7426643693645483
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "pindi chole",
+        "PindiChole"
+      ]
+    },
+    {
+      "id": "23471de4-8991-4e1e-8dc1-7471a47659e9",
+      "name": "Pindi Chole (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 194,
+        "protein": 9.861982146294705,
+        "carbs": 7.180497875617111,
+        "fat": 13.487587073440794,
+        "fiber": 1.369545783514015
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (punjabi)"
+      ]
+    },
+    {
+      "id": "60fcb6ca-5db3-4e35-a455-076a7daf109d",
+      "name": "Pindi Chole (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 165,
+        "protein": 5.049039956097167,
+        "carbs": 13.792403009906563,
+        "fat": 13.24733987714596,
+        "fiber": 2.916535468133281
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (south indian style)"
+      ]
+    },
+    {
+      "id": "6ecead49-877e-4c49-9b7c-ddd95c67c1eb",
+      "name": "Pindi Chole (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 154,
+        "protein": 7.937874040255218,
+        "carbs": 11.08776732302297,
+        "fat": 11.444942170411965,
+        "fiber": 1.9447808970843257
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (bengali style)"
+      ]
+    },
+    {
+      "id": "2aed1b90-eef4-4197-b1cb-7e2d5a4821e0",
+      "name": "Pindi Chole (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 148,
+        "protein": 4.418171405964519,
+        "carbs": 7.4034330147925935,
+        "fat": 7.740425029610519,
+        "fiber": 3.7059349615466837
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "e4c5ff56-131e-4c47-9aca-bba21ec1f0d4",
+      "name": "Pindi Chole (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 184,
+        "protein": 3.0107946356567776,
+        "carbs": 11.768948829882868,
+        "fat": 7.606013736853619,
+        "fiber": 4.274908538220945
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (gujarati style)"
+      ]
+    },
+    {
+      "id": "9a26546a-bffa-4085-86f6-2a3edaa0582c",
+      "name": "Pindi Chole (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 199,
+        "protein": 10.708846836427066,
+        "carbs": 13.311953257086977,
+        "fat": 4.975454399606592,
+        "fiber": 3.7259092822181064
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (rajasthani)"
+      ]
+    },
+    {
+      "id": "c4556ab5-2cc5-4694-add4-349443c2f626",
+      "name": "Pindi Chole (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 174,
+        "protein": 7.424087039075682,
+        "carbs": 11.143296102639848,
+        "fat": 4.3990895133470245,
+        "fiber": 2.4233537808283603
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (home-style)"
+      ]
+    },
+    {
+      "id": "593d60de-9819-4904-b198-00ef40fcd1fe",
+      "name": "Pindi Chole (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 170,
+        "protein": 4.28378379092133,
+        "carbs": 11.632367948800436,
+        "fat": 9.598988877293024,
+        "fiber": 1.3709444132110713
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (dhaba style)"
+      ]
+    },
+    {
+      "id": "fe0a4045-83e2-4ca7-a3a6-f5aa64103e88",
+      "name": "Pindi Chole (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92,
+        "caloriesMax": 180,
+        "protein": 11.801619163113758,
+        "carbs": 5.220054917059343,
+        "fat": 13.162263066690851,
+        "fiber": 4.803886619535509
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pindi chole (restaurant style)"
+      ]
+    },
+    {
+      "id": "e76b1ee6-66f6-42f7-a0bc-10a523f1f4e1",
+      "name": "Kala Chana Curry",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 83,
+        "caloriesMax": 136,
