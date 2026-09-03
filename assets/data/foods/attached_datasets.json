@@ -29926,3 +29926,1035 @@
       "category": "imported_csv_1",
       "subCategory": null,
       "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125.93,
+        "caloriesMax": 145.93,
+        "protein": 7.8,
+        "carbs": 21.03,
+        "fat": 2.85,
+        "fiber": 4.25,
+        "sugar": 1.87,
+        "sodium": 135.57
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gram flour chilla/cheela (besan chilla/cheela)"
+      ]
+    },
+    {
+      "id": "253bf109-e2d1-4655-81ae-7f0c4d615ebc",
+      "name": "Vegetable namkeen jave",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102.23,
+        "caloriesMax": 122.23,
+        "protein": 2.93,
+        "carbs": 18.98,
+        "fat": 2.51,
+        "fiber": 2.86,
+        "sugar": 1.04,
+        "sodium": 32.13
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable namkeen jave"
+      ]
+    },
+    {
+      "id": "2e0282a9-62c0-416b-aea6-17b322b70a66",
+      "name": "Khakhra",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 168.5,
+        "caloriesMax": 188.5,
+        "protein": 4.78,
+        "carbs": 27.66,
+        "fat": 5.32,
+        "fiber": 5.43,
+        "sugar": 0.88,
+        "sodium": 184.16
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khakhra"
+      ]
+    },
+    {
+      "id": "bb823d25-9701-4472-acd8-c4a69e9d4093",
+      "name": "Moong bean dosa (Pesarattu)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 275.96,
+        "caloriesMax": 295.96,
+        "protein": 12.32,
+        "carbs": 31.91,
+        "fat": 11.67,
+        "fiber": 6.04,
+        "sugar": 2.9,
+        "sodium": 61.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong bean dosa (pesarattu)"
+      ]
+    },
+    {
+      "id": "8301a572-cd83-4ae0-98d1-29f29de28174",
+      "name": "Methi thepla",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 336.16,
+        "caloriesMax": 356.16,
+        "protein": 8.98,
+        "carbs": 41.34,
+        "fat": 15.95,
+        "fiber": 7.56,
+        "sugar": 2.98,
+        "sodium": 543.27
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi thepla"
+      ]
+    },
+    {
+      "id": "e8ae3f7d-d4cc-4f3c-b00f-25946307ff06",
+      "name": "Rice puttu (Ari puttu)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 71.98,
+        "caloriesMax": 91.98,
+        "protein": 1.26,
+        "carbs": 11.82,
+        "fat": 3.13,
+        "fiber": 0.76,
+        "sugar": 0.33,
+        "sodium": 48.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice puttu (ari puttu)"
+      ]
+    },
+    {
+      "id": "3b78b9a1-83b3-4013-86be-7c289a57535b",
+      "name": "Buckwheat pancake (Khura)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 253.3,
+        "caloriesMax": 273.3,
+        "protein": 2.91,
+        "carbs": 27.28,
+        "fat": 16.43,
+        "fiber": 0.56,
+        "sugar": 0.64,
+        "sodium": 69.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "buckwheat pancake (khura)"
+      ]
+    },
+    {
+      "id": "975c59f9-4bbb-4a85-b5ad-4bac5fa41d46",
+      "name": "Quinoa khichdi/khichri",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 54.010000000000005,
+        "caloriesMax": 74.01,
+        "protein": 3.18,
+        "carbs": 8.83,
+        "fat": 1.59,
+        "fiber": 2.58,
+        "sugar": 0.69,
+        "sodium": 69.64
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "quinoa khichdi/khichri"
+      ]
+    },
+    {
+      "id": "6296c623-14f0-4b98-86aa-d94665d53677",
+      "name": "Khakhra chaat",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 348.66,
+        "caloriesMax": 368.66,
+        "protein": 4.52,
+        "carbs": 16.64,
+        "fat": 30.65,
+        "fiber": 3.04,
+        "sugar": 3.26,
+        "sodium": 102.78
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khakhra chaat"
+      ]
+    },
+    {
+      "id": "1124d315-9081-4256-9293-58e784859242",
+      "name": "Banana appam",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 459.81,
+        "caloriesMax": 479.81,
+        "protein": 1.17,
+        "carbs": 20.06,
+        "fat": 42.53,
+        "fiber": 0.67,
+        "sugar": 9.95,
+        "sodium": 20.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana appam"
+      ]
+    },
+    {
+      "id": "b9686d6c-86e0-4b98-9927-dcc238acd6d0",
+      "name": "Veg manchurian",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 575.64,
+        "caloriesMax": 595.64,
+        "protein": 0.89,
+        "carbs": 6.82,
+        "fat": 61.65,
+        "fiber": 1.16,
+        "sugar": 0.76,
+        "sodium": 65.31
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg manchurian"
+      ]
+    },
+    {
+      "id": "a92f3e8c-1564-43e9-835c-daa8aaaf40d7",
+      "name": "Pav bhaji",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 86.53,
+        "caloriesMax": 106.53,
+        "protein": 2.66,
+        "carbs": 11.99,
+        "fat": 4.32,
+        "fiber": 1.98,
+        "sugar": 2.06,
+        "sodium": 163.89
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pav bhaji"
+      ]
+    },
+    {
+      "id": "9c3f7122-351b-4ef8-acba-42d5957f5e3b",
+      "name": "Rice murukku",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 583.99,
+        "caloriesMax": 603.99,
+        "protein": 5.41,
+        "carbs": 33.29,
+        "fat": 48.22,
+        "fiber": 2.18,
+        "sugar": 0.17,
+        "sodium": 63.31
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice murukku"
+      ]
+    },
+    {
+      "id": "d2acedb6-bc4b-4bbd-aa00-f642e81f254f",
+      "name": "Bhel puri",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 499.89,
+        "caloriesMax": 519.89,
+        "protein": 3.52,
+        "carbs": 16.47,
+        "fat": 47.91,
+        "fiber": 2.24,
+        "sugar": 3.41,
+        "sodium": 93.98
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhel puri"
+      ]
+    },
+    {
+      "id": "d2782cc4-b821-487e-a2aa-e2818abd899d",
+      "name": "Semolina dhokla (Suji/Rava dhokla)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 184.91,
+        "caloriesMax": 204.91,
+        "protein": 5.44,
+        "carbs": 30.86,
+        "fat": 5.2,
+        "fiber": 5.12,
+        "sugar": 1.85,
+        "sodium": 443.39
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina dhokla (suji/rava dhokla)"
+      ]
+    },
+    {
+      "id": "d82f43d2-f842-4093-b2c0-49a681169dca",
+      "name": "Spicy corn chaat",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 469.8,
+        "caloriesMax": 489.8,
+        "protein": 4.61,
+        "carbs": 11.45,
+        "fat": 46.55,
+        "fiber": 2.17,
+        "sugar": 0.95,
+        "sodium": 86.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spicy corn chaat"
+      ]
+    },
+    {
+      "id": "1c8679cf-6f1b-4d1c-99c4-73ab4d7840ce",
+      "name": "Jackfruit fritters (Ponsa mulik/Kathal ka pakora)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 587.79,
+        "caloriesMax": 607.79,
+        "protein": 2.34,
+        "carbs": 24.0,
+        "fat": 54.41,
+        "fiber": 1.5,
+        "sugar": 11.48,
+        "sodium": 46.39
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jackfruit fritters (ponsa mulik/kathal ka pakora)"
+      ]
+    },
+    {
+      "id": "42ff1151-5627-4757-b43a-cfee68b4ef84",
+      "name": "Banana chips (Kele ke chips)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 655.67,
+        "caloriesMax": 675.67,
+        "protein": 0.37,
+        "carbs": 7.32,
+        "fat": 70.46,
+        "fiber": 0.65,
+        "sugar": 4.37,
+        "sodium": 86.87
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana chips (kele ke chips)"
+      ]
+    },
+    {
+      "id": "cb9d7438-277f-4d4f-9716-326f65d07793",
+      "name": "Wheat cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 304.63,
+        "caloriesMax": 324.63,
+        "protein": 4.79,
+        "carbs": 41.13,
+        "fat": 14.95,
+        "fiber": 2.76,
+        "sugar": 25.79,
+        "sodium": 82.96
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wheat cake"
+      ]
+    },
+    {
+      "id": "0968b1fe-584f-4b6f-b0c1-ff1fa7d0faa6",
+      "name": "Mango cheesecake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 142.46,
+        "caloriesMax": 162.46,
+        "protein": 2.39,
+        "carbs": 20.06,
+        "fat": 7.3,
+        "fiber": 1.14,
+        "sugar": 15.36,
+        "sodium": 107.12
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango cheesecake"
+      ]
+    },
+    {
+      "id": "da411770-3e1e-4e56-915c-3fb82083d8f4",
+      "name": "Carrot cake (Gajar ka cake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 245.59,
+        "caloriesMax": 265.59000000000003,
+        "protein": 5.6,
+        "carbs": 35.98,
+        "fat": 10.27,
+        "fiber": 2.93,
+        "sugar": 23.96,
+        "sodium": 158.74
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot cake (gajar ka cake)"
+      ]
+    },
+    {
+      "id": "ffbb56da-39b9-413b-aa11-5abfe08fb8d8",
+      "name": "Semolina cake (Suji/Rava cake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 364.14,
+        "caloriesMax": 384.14,
+        "protein": 6.58,
+        "carbs": 31.32,
+        "fat": 25.18,
+        "fiber": 5.37,
+        "sugar": 18.86,
+        "sodium": 91.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina cake (suji/rava cake)"
+      ]
+    },
+    {
+      "id": "95ecc5dd-d073-4fff-95d9-c60fdd828cdb",
+      "name": "Finger millet cake (Ragi cake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 269.46,
+        "caloriesMax": 289.46,
+        "protein": 3.96,
+        "carbs": 38.93,
+        "fat": 12.27,
+        "fiber": 2.35,
+        "sugar": 24.76,
+        "sodium": 98.26
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "finger millet cake (ragi cake)"
+      ]
+    },
+    {
+      "id": "58ead930-dbd8-4dfc-9aab-e670f8b244e5",
+      "name": "Honey cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 323.59,
+        "caloriesMax": 343.59,
+        "protein": 3.08,
+        "carbs": 49.04,
+        "fat": 14.7,
+        "fiber": 0.51,
+        "sugar": 33.43,
+        "sodium": 72.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "honey cake"
+      ]
+    },
+    {
+      "id": "466a57dd-2706-4091-98b9-8f359e6382e5",
+      "name": "Almond cardamom cake (Badam elaichi cake)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 346.35,
+        "caloriesMax": 366.35,
+        "protein": 7.18,
+        "carbs": 34.53,
+        "fat": 21.36,
+        "fiber": 2.35,
+        "sugar": 18.06,
+        "sodium": 155.37
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "almond cardamom cake (badam elaichi cake)"
+      ]
+    },
+    {
+      "id": "3f31353f-efaa-4b41-ae94-bc74f604a51f",
+      "name": "Tutti frutti cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 337.72,
+        "caloriesMax": 357.72,
+        "protein": 4.49,
+        "carbs": 52.94,
+        "fat": 12.68,
+        "fiber": 0.85,
+        "sugar": 28.08,
+        "sodium": 106.36
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tutti frutti cake"
+      ]
+    },
+    {
+      "id": "d898f479-9b86-4871-938d-42c270332b9a",
+      "name": "Ham and Bean soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 86.04,
+        "caloriesMax": 106.04,
+        "protein": 10.61,
+        "carbs": 4.18,
+        "fat": 4.15,
+        "fiber": 0.54,
+        "sugar": 1.43,
+        "sodium": 378.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ham and bean soup"
+      ]
+    },
+    {
+      "id": "f18f026e-6b04-4951-8d2d-2aca61ae1826",
+      "name": "Whey soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 58.91,
+        "caloriesMax": 78.91,
+        "protein": 3.45,
+        "carbs": 6.26,
+        "fat": 3.34,
+        "fiber": 0.84,
+        "sugar": 5.87,
+        "sodium": 87.08
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "whey soup"
+      ]
+    },
+    {
+      "id": "8946f121-8d7f-4985-b966-2ce87127d5cc",
+      "name": "Bottle gourd soup (Ghiya/Lauki soup)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 13.05,
+        "caloriesMax": 33.05,
+        "protein": 0.45,
+        "carbs": 1.16,
+        "fat": 1.79,
+        "fiber": 0.96,
+        "sugar": 0.39,
+        "sodium": 53.81
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bottle gourd soup (ghiya/lauki soup)"
+      ]
+    },
+    {
+      "id": "d4c3b011-40d7-4d94-8d43-69b8d0106b20",
+      "name": "Baked potato soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 137.05,
+        "caloriesMax": 157.05,
+        "protein": 5.73,
+        "carbs": 5.85,
+        "fat": 11.21,
+        "fiber": 0.3,
+        "sugar": 3.44,
+        "sodium": 268.69
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baked potato soup"
+      ]
+    },
+    {
+      "id": "fb060d6f-5b9b-47a8-99ac-2829dcabd664",
+      "name": "Pumpkin soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 30.049999999999997,
+        "caloriesMax": 50.05,
+        "protein": 0.47,
+        "carbs": 2.08,
