@@ -8888,3 +8888,638 @@
       "per100g": {
         "caloriesMin": 83,
         "caloriesMax": 136,
+        "protein": 3.793096353860105,
+        "carbs": 13.64977635697617,
+        "fat": 5.808726309352474,
+        "fiber": 4.837113161896113
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "kala chana curry",
+        "KalaChanaCurry"
+      ]
+    },
+    {
+      "id": "f249af51-6a09-4013-b138-bda42a5644de",
+      "name": "Kala Chana Curry (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 148,
+        "protein": 7.405851133606818,
+        "carbs": 11.87958914295185,
+        "fat": 8.893824506662156,
+        "fiber": 1.7021773730884546
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (punjabi)"
+      ]
+    },
+    {
+      "id": "03a8bc02-0c8d-42d7-9c29-4dbd2122d817",
+      "name": "Kala Chana Curry (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 107,
+        "caloriesMax": 151,
+        "protein": 3.5708114599642418,
+        "carbs": 10.165984329385886,
+        "fat": 11.43037801362718,
+        "fiber": 4.476978334854056
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (south indian style)"
+      ]
+    },
+    {
+      "id": "8fa3d229-87cb-4dfc-9a28-7ba88046b655",
+      "name": "Kala Chana Curry (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 181,
+        "protein": 5.163380782647639,
+        "carbs": 14.383032392953506,
+        "fat": 7.080761944457249,
+        "fiber": 4.626910019531506
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (bengali style)"
+      ]
+    },
+    {
+      "id": "93990611-9a9a-4684-a55f-e2bb9867d61e",
+      "name": "Kala Chana Curry (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 200,
+        "protein": 5.226528600545872,
+        "carbs": 8.810075948006714,
+        "fat": 11.86358680331626,
+        "fiber": 4.093354173450356
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "89873c26-cc1e-4805-94e7-d76db9bedb0d",
+      "name": "Kala Chana Curry (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 174,
+        "protein": 5.860872916733072,
+        "carbs": 7.682389264474875,
+        "fat": 5.163514913680941,
+        "fiber": 1.0649104645692269
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "2ce15a70-64a5-4670-ad92-ff404af70a9d",
+      "name": "Kala Chana Curry (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 143,
+        "protein": 4.516487276245096,
+        "carbs": 5.460205450184534,
+        "fat": 10.927805799116335,
+        "fiber": 1.273076669652108
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "019aa034-5960-4b8b-9bef-c3ec3f9aaa6d",
+      "name": "Kala Chana Curry (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 186,
+        "protein": 5.828093245205567,
+        "carbs": 9.617202179457458,
+        "fat": 4.877987723750515,
+        "fiber": 1.0363976255254528
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (home-style)"
+      ]
+    },
+    {
+      "id": "b7915953-a40d-41c0-9531-a3466a322328",
+      "name": "Kala Chana Curry (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 151,
+        "protein": 2.751647117369293,
+        "carbs": 12.14410624618386,
+        "fat": 14.192314449043241,
+        "fiber": 1.797304302311621
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "bf3afc40-2497-49a8-8fbd-f2d6d7136162",
+      "name": "Kala Chana Curry (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 197,
+        "protein": 3.778396163074971,
+        "carbs": 10.190666510160487,
+        "fat": 11.634719171962615,
+        "fiber": 2.5982144690381457
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kala chana curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "619dfa1e-ffd1-4b50-a44e-7a751048f28f",
+      "name": "Lobia Curry",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 161,
+        "protein": 5.232666444937962,
+        "carbs": 8.55563389669713,
+        "fat": 3.4630678921303923,
+        "fiber": 2.344842799928277
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "lobia curry",
+        "LobiaCurry"
+      ]
+    },
+    {
+      "id": "f5a3440b-b98d-447c-a824-aad593078f73",
+      "name": "Lobia Curry (Punjabi)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 161,
+        "protein": 5.139503017748067,
+        "carbs": 14.628791018882502,
+        "fat": 8.19886843404235,
+        "fiber": 4.774011462302039
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (punjabi)"
+      ]
+    },
+    {
+      "id": "cc83eab1-d0b0-4695-91f2-7445d1c4acc0",
+      "name": "Lobia Curry (South Indian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 159,
+        "protein": 7.035891522969696,
+        "carbs": 10.653813090579314,
+        "fat": 6.10143129905822,
+        "fiber": 1.012803462463387
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (south indian style)"
+      ]
+    },
+    {
+      "id": "75b0ff7f-f57e-4f64-8ae1-e1e5a5c18337",
+      "name": "Lobia Curry (Bengali style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 181,
+        "protein": 6.5769186331181535,
+        "carbs": 14.09290160334584,
+        "fat": 14.904680083936897,
+        "fiber": 2.7467669143490387
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (bengali style)"
+      ]
+    },
+    {
+      "id": "eeafb387-5ad5-482c-b5cc-19e9c07f2b31",
+      "name": "Lobia Curry (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 149,
+        "protein": 4.3886283105980155,
+        "carbs": 11.63133390731403,
+        "fat": 4.7109997307013325,
+        "fiber": 3.0633446015526937
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "b480d4d5-fc18-469b-a437-c5c13eb1d6b1",
+      "name": "Lobia Curry (Gujarati style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 141,
+        "protein": 4.253480015708197,
+        "carbs": 11.608680692873584,
+        "fat": 14.76925800072566,
+        "fiber": 3.578326007525791
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "92376e4e-5dbd-4d77-94de-1f27bb7ae5a9",
+      "name": "Lobia Curry (Rajasthani)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 159,
+        "protein": 11.535446997172695,
+        "carbs": 7.6715688104962085,
+        "fat": 4.872427318912684,
+        "fiber": 1.6522519698021534
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "57436465-165c-4bb3-a506-27a03f42b261",
+      "name": "Lobia Curry (Home-style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 163,
+        "protein": 10.789439988722817,
+        "carbs": 9.429855374807108,
+        "fat": 11.33655590616831,
+        "fiber": 3.788963959584547
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (home-style)"
+      ]
+    },
+    {
+      "id": "77a4083f-d3da-41fe-97a1-9a31030d98a2",
+      "name": "Lobia Curry (Dhaba style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 169,
+        "protein": 3.929250267019571,
+        "carbs": 8.29195469440258,
+        "fat": 5.6767871148657365,
+        "fiber": 4.182892495494178
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "e0d8ad8a-05d8-486d-98df-b42dc6235a4a",
+      "name": "Lobia Curry (Restaurant style)",
+      "category": "veg",
+      "subCategory": "legumes",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 179,
+        "protein": 4.54845211276545,
+        "carbs": 12.710670802054082,
+        "fat": 13.48536544009975,
+        "fiber": 2.635636777188559
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "lobia curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "228f59e3-9ef8-408f-894d-86fe26028dbc",
+      "name": "Soya Chaap Curry",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 143,
+        "protein": 4.965895122773643,
+        "carbs": 5.410383318067039,
+        "fat": 8.22051343100402,
+        "fiber": 3.1355858054857317
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "soya chaap curry",
+        "SoyaChaapCurry"
+      ]
+    },
+    {
