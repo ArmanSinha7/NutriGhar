@@ -9523,3 +9523,638 @@
       ]
     },
     {
+      "id": "0c997232-fb0f-4188-8b10-a1c0dff56364",
+      "name": "Soya Chaap Curry (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 164,
+        "protein": 10.939504180398416,
+        "carbs": 6.692528814105749,
+        "fat": 13.791032156002395,
+        "fiber": 1.4125550829913145
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (punjabi)"
+      ]
+    },
+    {
+      "id": "ea19da1a-0797-467b-bdf9-b60fe707a7de",
+      "name": "Soya Chaap Curry (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 145,
+        "protein": 10.209231552282763,
+        "carbs": 10.592474581384135,
+        "fat": 10.07946620028458,
+        "fiber": 3.3325095185609706
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (south indian style)"
+      ]
+    },
+    {
+      "id": "54ec0770-9f3e-4805-9ab8-b247a0c6e421",
+      "name": "Soya Chaap Curry (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 193,
+        "protein": 11.5509366083321,
+        "carbs": 10.852550368766575,
+        "fat": 6.090081899366007,
+        "fiber": 1.5385093320718952
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (bengali style)"
+      ]
+    },
+    {
+      "id": "7f5d29df-4a8f-4276-8892-ffe69ace5540",
+      "name": "Soya Chaap Curry (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 170,
+        "protein": 7.838754247665847,
+        "carbs": 8.863524852742694,
+        "fat": 5.122451480791179,
+        "fiber": 4.5626899640019705
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "b7f700fc-9a06-4cc3-a695-eeb5015d715c",
+      "name": "Soya Chaap Curry (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 176,
+        "protein": 11.781829715809454,
+        "carbs": 10.46571370723802,
+        "fat": 11.076788347501385,
+        "fiber": 3.09134441484988
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "a2f758c7-b88e-4c4e-8226-080e10e06bc1",
+      "name": "Soya Chaap Curry (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 160,
+        "protein": 11.57200118868791,
+        "carbs": 8.092022290917557,
+        "fat": 13.332708492627185,
+        "fiber": 3.865167526769771
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "d8905c83-84d4-4af4-a300-8aeefee797fe",
+      "name": "Soya Chaap Curry (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 141,
+        "protein": 3.469954007519574,
+        "carbs": 12.849613233859369,
+        "fat": 5.12191655999035,
+        "fiber": 4.472855751941518
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (home-style)"
+      ]
+    },
+    {
+      "id": "573d6639-47f9-4c65-82ca-9c0a7426537f",
+      "name": "Soya Chaap Curry (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 149,
+        "protein": 5.207649851149117,
+        "carbs": 9.54280684315639,
+        "fat": 7.020384220272609,
+        "fiber": 4.9323052712512085
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "743a9c47-fa74-4777-a42c-a72e7ada6341",
+      "name": "Soya Chaap Curry (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 172,
+        "protein": 11.82655578344368,
+        "carbs": 11.410425353983968,
+        "fat": 8.789831640571045,
+        "fiber": 4.034165248701
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chaap curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "9b3e1146-1d89-4268-aa56-d1f38010d51f",
+      "name": "Soya Chunk Curry",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 107,
+        "caloriesMax": 174,
+        "protein": 5.037217622735499,
+        "carbs": 14.369658633438641,
+        "fat": 3.358129313260128,
+        "fiber": 1.439093690001875
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "soya chunk curry",
+        "SoyaChunkCurry"
+      ]
+    },
+    {
+      "id": "0e5fb9a6-5c7f-4317-a85a-fad329db8101",
+      "name": "Soya Chunk Curry (Punjabi)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 182,
+        "protein": 11.465803464236128,
+        "carbs": 6.42875402245684,
+        "fat": 6.101032323248001,
+        "fiber": 4.691742648925142
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (punjabi)"
+      ]
+    },
+    {
+      "id": "d05becba-d5fb-4733-be11-561e90c31fc4",
+      "name": "Soya Chunk Curry (South Indian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 156,
+        "protein": 4.66566158605746,
+        "carbs": 10.697538650092993,
+        "fat": 7.12482672012141,
+        "fiber": 2.3839589456616217
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (south indian style)"
+      ]
+    },
+    {
+      "id": "daebfaea-12e9-46de-86ab-583d5f941401",
+      "name": "Soya Chunk Curry (Bengali style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 150,
+        "protein": 7.7083297692492305,
+        "carbs": 11.318695752255739,
+        "fat": 8.483006970307365,
+        "fiber": 1.1116747168381318
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (bengali style)"
+      ]
+    },
+    {
+      "id": "f6b780dc-4b09-4fa7-b89e-074916f96a95",
+      "name": "Soya Chunk Curry (Maharashtrian style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 173,
+        "protein": 6.986009085638513,
+        "carbs": 9.469585991874986,
+        "fat": 10.929319959008335,
+        "fiber": 3.7222327217866167
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "5b487e65-89e0-4cc5-b477-173b2423cfe7",
+      "name": "Soya Chunk Curry (Gujarati style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 188,
+        "protein": 3.5893097817547086,
+        "carbs": 12.951492909543756,
+        "fat": 5.633595924829857,
+        "fiber": 1.5996583698243394
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "2b2b60cd-546d-4c8b-83e0-8b608a99deec",
+      "name": "Soya Chunk Curry (Rajasthani)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 157,
+        "protein": 4.693573122970254,
+        "carbs": 9.59073600436347,
+        "fat": 5.864054030557237,
+        "fiber": 1.684267818769945
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "ac64a669-0de3-4aac-94a3-cd67e5ad702c",
+      "name": "Soya Chunk Curry (Home-style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 178,
+        "protein": 5.038483692353115,
+        "carbs": 12.673160108343449,
+        "fat": 5.273017783219149,
+        "fiber": 2.916175438555991
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (home-style)"
+      ]
+    },
+    {
+      "id": "c1c4fb0e-adb2-4c8e-865a-67973f3d3371",
+      "name": "Soya Chunk Curry (Dhaba style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 180,
+        "protein": 4.477984879492131,
+        "carbs": 13.230565985325441,
+        "fat": 10.681243321140252,
+        "fiber": 3.277926300017746
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "4ae4c024-d48f-449c-971b-328dd25fc85c",
+      "name": "Soya Chunk Curry (Restaurant style)",
+      "category": "veg",
+      "subCategory": "vegetables",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 166,
+        "protein": 3.583505614069426,
+        "carbs": 6.866280404401021,
+        "fat": 11.561312585706654,
+        "fiber": 2.65618768951947
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "soya chunk curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "8611bb0d-b939-414b-b3db-b994131a8c81",
+      "name": "Chicken Curry",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 89,
+        "caloriesMax": 165,
+        "protein": 17.687511825179236,
+        "carbs": 9.084572218766656,
+        "fat": 4.929727527061564,
+        "fiber": 3.939172458924075
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "chicken curry",
+        "ChickenCurry"
+      ]
+    },
+    {
+      "id": "9417ec2d-0f8c-48d4-97fe-f565e08bec55",
+      "name": "Chicken Curry (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 175,
+        "protein": 17.430656964013377,
+        "carbs": 12.027984292899072,
+        "fat": 4.538331818639607,
+        "fiber": 2.5016341542096625
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
