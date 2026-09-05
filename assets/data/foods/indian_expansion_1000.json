@@ -10158,3 +10158,638 @@
           "name": "1 bowl",
           "weightMinG": 150,
           "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (punjabi)"
+      ]
+    },
+    {
+      "id": "16108a15-f188-4893-98aa-7528fe80c1df",
+      "name": "Chicken Curry (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 144,
+        "protein": 12.010761536220073,
+        "carbs": 9.784476909891296,
+        "fat": 12.923640320952655,
+        "fiber": 1.8980115073916788
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (south indian style)"
+      ]
+    },
+    {
+      "id": "02989565-27fc-4de4-94e9-dda07da71571",
+      "name": "Chicken Curry (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 153,
+        "protein": 15.864726655680034,
+        "carbs": 8.353034516239749,
+        "fat": 6.986559198644855,
+        "fiber": 4.046406634123338
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (bengali style)"
+      ]
+    },
+    {
+      "id": "e650fc19-3b66-425b-8ddd-ed6c1ac2eee4",
+      "name": "Chicken Curry (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 191,
+        "protein": 10.006885989073854,
+        "carbs": 5.087260383858857,
+        "fat": 12.591076471401877,
+        "fiber": 2.1597357251769935
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "677c5611-8fb6-4810-969d-8c6a09daa03a",
+      "name": "Chicken Curry (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 147,
+        "protein": 14.224552350722618,
+        "carbs": 10.132828270325827,
+        "fat": 11.309148962692227,
+        "fiber": 2.7448906845399135
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "425e2435-4e72-4ea9-8fc8-b0f5917eceb6",
+      "name": "Chicken Curry (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 171,
+        "protein": 17.798600479221797,
+        "carbs": 5.5076083843121655,
+        "fat": 6.036463118281819,
+        "fiber": 4.836590390423045
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "cf0fd397-363e-4737-be07-e64926d7f4a6",
+      "name": "Chicken Curry (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 197,
+        "protein": 17.04330186575949,
+        "carbs": 6.0001324167596195,
+        "fat": 11.290176642150325,
+        "fiber": 4.086286266334081
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (home-style)"
+      ]
+    },
+    {
+      "id": "fc031c27-3b67-43bd-94d3-a6b8bdeeb69b",
+      "name": "Chicken Curry (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 127,
+        "caloriesMax": 171,
+        "protein": 13.33403012247918,
+        "carbs": 11.911174288996163,
+        "fat": 14.568995708707346,
+        "fiber": 1.3921316318541739
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "13fe11a0-ad15-45f8-90bb-932cb3f0bc10",
+      "name": "Chicken Curry (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 198,
+        "protein": 11.147069547033238,
+        "carbs": 6.0202100092356625,
+        "fat": 11.032001889347395,
+        "fiber": 1.83931533273709
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "a4d959d7-3003-4683-83d0-4d0dda15b885",
+      "name": "Butter Chicken",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110,
+        "caloriesMax": 147,
+        "protein": 16.487842151389078,
+        "carbs": 13.58196255814552,
+        "fat": 3.4408215545119964,
+        "fiber": 1.137381835485411
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "butter chicken",
+        "ButterChicken"
+      ]
+    },
+    {
+      "id": "5f50a49e-564d-403f-97dd-7dd1586497af",
+      "name": "Butter Chicken (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 195,
+        "protein": 15.34377055904605,
+        "carbs": 9.60549020935622,
+        "fat": 5.233934043401226,
+        "fiber": 1.2395171706780443
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (punjabi)"
+      ]
+    },
+    {
+      "id": "27ddc713-923f-437c-b4c4-4ba8ad824e4e",
+      "name": "Butter Chicken (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 170,
+        "protein": 13.684497833739341,
+        "carbs": 9.663343827987976,
+        "fat": 8.40241018926524,
+        "fiber": 4.013490415329188
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (south indian style)"
+      ]
+    },
+    {
+      "id": "358dfc6d-9d05-45ef-9f2f-aa36ce9997f0",
+      "name": "Butter Chicken (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 179,
+        "protein": 17.733590277737846,
+        "carbs": 6.986304426959188,
+        "fat": 5.219854595838408,
+        "fiber": 3.8297904989310116
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (bengali style)"
+      ]
+    },
+    {
+      "id": "6b2d4811-839a-4aaa-9b5b-9183f0ec53f5",
+      "name": "Butter Chicken (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 178,
+        "protein": 17.13374828565732,
+        "carbs": 9.617665979380376,
+        "fat": 6.6451704705912835,
+        "fiber": 1.7844482424120316
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "92192e6a-c6aa-40fb-8421-c0e4155169fe",
+      "name": "Butter Chicken (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 173,
+        "protein": 15.225551527943981,
+        "carbs": 5.487336756842019,
+        "fat": 5.265755988942164,
+        "fiber": 2.9519519121939184
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (gujarati style)"
+      ]
+    },
+    {
+      "id": "33b3026b-2af8-416c-8f6d-519d0745cb94",
+      "name": "Butter Chicken (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 177,
+        "protein": 13.856527503952549,
+        "carbs": 5.277562393413172,
+        "fat": 12.419553787646779,
+        "fiber": 2.200921807563296
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (rajasthani)"
+      ]
+    },
+    {
+      "id": "3e62a76b-bed4-4290-a4b5-e16efe66c61b",
+      "name": "Butter Chicken (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 198,
+        "protein": 10.754162096071227,
+        "carbs": 5.644948351520547,
+        "fat": 9.624163055843692,
+        "fiber": 4.737908982872502
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (home-style)"
+      ]
+    },
+    {
+      "id": "a71f4405-e8a1-414b-bf26-b6a4736fc2c3",
+      "name": "Butter Chicken (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 146,
+        "protein": 16.449799898148417,
+        "carbs": 8.688035860531574,
+        "fat": 14.040114327262005,
+        "fiber": 2.0432268767951722
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (dhaba style)"
+      ]
+    },
+    {
+      "id": "2d34fc2c-29a8-4726-8ab0-3201ae7bbfdf",
+      "name": "Butter Chicken (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 187,
+        "protein": 14.689111861837912,
+        "carbs": 5.591003330085719,
+        "fat": 13.474999168198073,
+        "fiber": 2.7637640039992233
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "butter chicken (restaurant style)"
+      ]
+    },
+    {
+      "id": "090335b7-d948-42e0-a509-bd17ee18b134",
+      "name": "Chicken Tikka Masala",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 112,
+        "caloriesMax": 163,
+        "protein": 12.761473764673553,
+        "carbs": 5.905079278751398,
+        "fat": 9.766260502089008,
+        "fiber": 4.248851699153478
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala",
+        "ChickenTikkaMasala"
+      ]
+    },
+    {
+      "id": "0828765d-ed7d-49b0-a23d-5ae59437e1c5",
+      "name": "Chicken Tikka Masala (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 197,
+        "protein": 17.25380931165062,
+        "carbs": 13.226767600941589,
+        "fat": 12.158504537706344,
+        "fiber": 4.858966814978823
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (punjabi)"
+      ]
+    },
+    {
+      "id": "ddfc0b09-0202-4f48-b4a0-f060805920ed",
+      "name": "Chicken Tikka Masala (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 170,
+        "protein": 12.100653584617486,
+        "carbs": 5.9777208786389,
+        "fat": 12.540153542890632,
