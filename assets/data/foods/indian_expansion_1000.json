@@ -10793,3 +10793,638 @@
         "protein": 12.100653584617486,
         "carbs": 5.9777208786389,
         "fat": 12.540153542890632,
+        "fiber": 2.619793003806822
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (south indian style)"
+      ]
+    },
+    {
+      "id": "9387c4c1-20cf-4165-91c0-ff795994a561",
+      "name": "Chicken Tikka Masala (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 196,
+        "protein": 11.367261347158047,
+        "carbs": 10.8958752438523,
+        "fat": 12.467775644158749,
+        "fiber": 4.3414505662683265
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (bengali style)"
+      ]
+    },
+    {
+      "id": "0b12daec-d9bc-4002-8aa6-31710dee3a53",
+      "name": "Chicken Tikka Masala (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 162,
+        "protein": 16.410275768756684,
+        "carbs": 10.35098445784664,
+        "fat": 9.539477613738551,
+        "fiber": 4.304959691105784
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "71aadbc5-8f27-41e1-870e-c80c51b82d10",
+      "name": "Chicken Tikka Masala (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 127,
+        "caloriesMax": 157,
+        "protein": 10.073569039716814,
+        "carbs": 9.20011447332394,
+        "fat": 12.46207097683141,
+        "fiber": 1.1661156020775802
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (gujarati style)"
+      ]
+    },
+    {
+      "id": "ec6a268a-06dc-452e-bc7f-4ce0c4945710",
+      "name": "Chicken Tikka Masala (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 193,
+        "protein": 15.421445073162957,
+        "carbs": 14.454864216131728,
+        "fat": 13.431547625080624,
+        "fiber": 1.915000054062272
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (rajasthani)"
+      ]
+    },
+    {
+      "id": "03be96af-1029-4233-a2de-82f5dd01750a",
+      "name": "Chicken Tikka Masala (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 160,
+        "protein": 10.339285033690985,
+        "carbs": 7.686708738314138,
+        "fat": 13.081071512792667,
+        "fiber": 3.499579304430662
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (home-style)"
+      ]
+    },
+    {
+      "id": "28e2823c-2040-485e-8998-1e0d1907882a",
+      "name": "Chicken Tikka Masala (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 166,
+        "protein": 15.17548305726146,
+        "carbs": 7.123350849626596,
+        "fat": 8.795865114341606,
+        "fiber": 1.2855528348989642
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (dhaba style)"
+      ]
+    },
+    {
+      "id": "5e2f917f-4330-42e6-80fa-9d024dbc0a39",
+      "name": "Chicken Tikka Masala (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 172,
+        "protein": 12.225860743360165,
+        "carbs": 8.40927443366645,
+        "fat": 13.445539314417802,
+        "fiber": 3.1050587282308566
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken tikka masala (restaurant style)"
+      ]
+    },
+    {
+      "id": "db6a962d-eb36-490e-9283-0476d70f6023",
+      "name": "Kadai Chicken",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 151,
+        "protein": 14.14977766644748,
+        "carbs": 10.866427732760293,
+        "fat": 8.593945558949176,
+        "fiber": 2.0234438542221977
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "kadai chicken",
+        "KadaiChicken"
+      ]
+    },
+    {
+      "id": "d1b8cebb-16e4-4f6d-a71a-ac26ff0d3548",
+      "name": "Kadai Chicken (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 167,
+        "protein": 15.97943696279323,
+        "carbs": 14.888691005779066,
+        "fat": 10.919358248270475,
+        "fiber": 2.108156949132035
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (punjabi)"
+      ]
+    },
+    {
+      "id": "39981b51-68bf-429a-9949-802c92b86175",
+      "name": "Kadai Chicken (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 99,
+        "caloriesMax": 184,
+        "protein": 12.880595020544877,
+        "carbs": 7.671419454008209,
+        "fat": 12.866896867474804,
+        "fiber": 4.229888604765025
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (south indian style)"
+      ]
+    },
+    {
+      "id": "197efecb-ba6d-4ea5-a6ea-1bdd8f078ba2",
+      "name": "Kadai Chicken (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 172,
+        "protein": 17.06704701764062,
+        "carbs": 12.750094104040087,
+        "fat": 6.285569938989265,
+        "fiber": 1.6963787358620275
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (bengali style)"
+      ]
+    },
+    {
+      "id": "9d85fb19-69e3-4549-adfa-ec2abfd7d677",
+      "name": "Kadai Chicken (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 153,
+        "protein": 15.667382551453557,
+        "carbs": 7.728703357933893,
+        "fat": 14.32186533034334,
+        "fiber": 1.3971639855785631
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "c27e79c9-4e29-4f35-8784-a806989e788d",
+      "name": "Kadai Chicken (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 150,
+        "protein": 17.96509281098796,
+        "carbs": 10.052291937578484,
+        "fat": 8.173158341024537,
+        "fiber": 1.2529035247945424
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (gujarati style)"
+      ]
+    },
+    {
+      "id": "0a68c8b5-6511-4980-935e-eb59b0c0478d",
+      "name": "Kadai Chicken (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 144,
+        "protein": 10.565757954862072,
+        "carbs": 13.814301581830229,
+        "fat": 8.32105767690415,
+        "fiber": 1.3223710593207287
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (rajasthani)"
+      ]
+    },
+    {
+      "id": "27cc859a-fbd9-4a5e-95a7-2c88d5f27fa6",
+      "name": "Kadai Chicken (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 158,
+        "protein": 14.83828385549356,
+        "carbs": 7.804525564902837,
+        "fat": 9.2096964398412,
+        "fiber": 2.0862705483445154
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (home-style)"
+      ]
+    },
+    {
+      "id": "d95c4215-21e5-44df-b6e3-b066d5423dc7",
+      "name": "Kadai Chicken (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 190,
+        "protein": 13.270099769259406,
+        "carbs": 14.436861028435871,
+        "fat": 12.565192964411887,
+        "fiber": 4.687460989812438
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (dhaba style)"
+      ]
+    },
+    {
+      "id": "68fae059-54e2-46b3-bea2-2f64bce03a3c",
+      "name": "Kadai Chicken (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 141,
+        "protein": 17.667750362594663,
+        "carbs": 7.853134777733679,
+        "fat": 4.3047635153968145,
+        "fiber": 2.5341921400803304
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "kadai chicken (restaurant style)"
+      ]
+    },
+    {
+      "id": "d58d4a79-054f-4a4e-8f48-551341ffe552",
+      "name": "Chicken Korma",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80,
+        "caloriesMax": 136,
+        "protein": 13.517336947392081,
+        "carbs": 13.155723190619229,
+        "fat": 4.21653277194192,
+        "fiber": 1.027084946268784
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "chicken korma",
+        "ChickenKorma"
+      ]
+    },
+    {
+      "id": "267d5102-41a0-47a2-841e-4e406832f4c7",
+      "name": "Chicken Korma (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 184,
+        "protein": 17.2380289203406,
+        "carbs": 5.291641688842489,
+        "fat": 6.423212304420808,
+        "fiber": 1.90226580679251
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (punjabi)"
+      ]
+    },
+    {
+      "id": "d89a2dd5-9664-4a0c-a457-548b8fc86848",
+      "name": "Chicken Korma (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129,
+        "caloriesMax": 141,
+        "protein": 11.567066225786803,
+        "carbs": 8.23136115333778,
+        "fat": 9.60888044037671,
+        "fiber": 3.894626278906524
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (south indian style)"
+      ]
+    },
+    {
+      "id": "ad824f2c-9b30-436b-923c-763c6b524421",
+      "name": "Chicken Korma (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
