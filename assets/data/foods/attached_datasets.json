@@ -31990,3 +31990,1035 @@
           "weightMaxG": 150
         }
       ],
+      "aliases": [
+        "classic italian pasta"
+      ]
+    },
+    {
+      "id": "6f67ed57-bf72-4949-8e6a-6a9a2eb5de61",
+      "name": "Pasta spinach sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 75.46,
+        "caloriesMax": 95.46,
+        "protein": 1.76,
+        "carbs": 1.76,
+        "fat": 7.9,
+        "fiber": 0.86,
+        "sugar": 1.04,
+        "sodium": 115.79
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pasta spinach sauce"
+      ]
+    },
+    {
+      "id": "451a9697-c81a-4839-aa44-73ea0fb48f71",
+      "name": "Pasta cheese sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 139.26,
+        "caloriesMax": 159.26,
+        "protein": 4.33,
+        "carbs": 9.0,
+        "fat": 10.84,
+        "fiber": 0.14,
+        "sugar": 4.22,
+        "sodium": 255.95
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pasta cheese sauce"
+      ]
+    },
+    {
+      "id": "64311b00-b009-4c5b-b827-2f98f83464fb",
+      "name": "Mayonnaise",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 764.86,
+        "caloriesMax": 784.86,
+        "protein": 1.86,
+        "carbs": 1.65,
+        "fat": 84.52,
+        "fiber": 0.11,
+        "sugar": 1.44,
+        "sodium": 272.89
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mayonnaise"
+      ]
+    },
+    {
+      "id": "da7f4082-1d75-41fa-9ff9-8397e4bdd98f",
+      "name": "Low calorie quick mayonnaise",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 232.89,
+        "caloriesMax": 252.89,
+        "protein": 1.41,
+        "carbs": 4.71,
+        "fat": 24.35,
+        "fiber": 0.06,
+        "sugar": 0.83,
+        "sodium": 165.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "low calorie quick mayonnaise"
+      ]
+    },
+    {
+      "id": "0ed956e2-717d-40a3-9b46-57f809a53b45",
+      "name": "Thousand island dressing",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 397.87,
+        "caloriesMax": 417.87,
+        "protein": 1.37,
+        "carbs": 4.49,
+        "fat": 42.87,
+        "fiber": 0.46,
+        "sugar": 3.1,
+        "sodium": 946.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thousand island dressing"
+      ]
+    },
+    {
+      "id": "9847cd10-9d55-4651-9c32-0dced561e55e",
+      "name": "Curd dip",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 69.95,
+        "caloriesMax": 89.95,
+        "protein": 5.04,
+        "carbs": 7.95,
+        "fat": 3.36,
+        "fiber": 0.1,
+        "sugar": 7.12,
+        "sodium": 301.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd dip"
+      ]
+    },
+    {
+      "id": "eaf6e8bc-b8fa-4d70-9d30-526da6059775",
+      "name": "Short crust pastry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 412.1,
+        "caloriesMax": 432.1,
+        "protein": 6.11,
+        "carbs": 44.72,
+        "fat": 23.98,
+        "fiber": 1.58,
+        "sugar": 3.18,
+        "sodium": 97.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "short crust pastry"
+      ]
+    },
+    {
+      "id": "327f700e-b804-4dda-91c6-626c689f68e8",
+      "name": "Choux pastry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 212.37,
+        "caloriesMax": 232.37,
+        "protein": 5.55,
+        "carbs": 16.2,
+        "fat": 14.96,
+        "fiber": 0.56,
+        "sugar": 1.5,
+        "sodium": 132.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "choux pastry"
+      ]
+    },
+    {
+      "id": "3a230d60-b4fb-42da-bec0-af209e5a5a9c",
+      "name": "Flaky pastry",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 433.94,
+        "caloriesMax": 453.94,
+        "protein": 4.69,
+        "carbs": 33.61,
+        "fat": 31.99,
+        "fiber": 1.25,
+        "sugar": 0.81,
+        "sodium": 178.52
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "flaky pastry"
+      ]
+    },
+    {
+      "id": "432960f3-4ec5-43c6-9012-b46c80cf0db1",
+      "name": "Sponge cake",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 243.77,
+        "caloriesMax": 263.77,
+        "protein": 9.18,
+        "carbs": 44.63,
+        "fat": 4.74,
+        "fiber": 0.69,
+        "sugar": 26.33,
+        "sodium": 64.61
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sponge cake"
+      ]
+    },
+    {
+      "id": "04ddef9f-70e4-4b64-b659-cf1bcc3bb1eb",
+      "name": "Glace icing",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 313.51,
+        "caloriesMax": 333.51,
+        "protein": 0.01,
+        "carbs": 86.31,
+        "fat": 0.01,
+        "fiber": 0,
+        "sugar": 85.35,
+        "sodium": 9.88
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "glace icing"
+      ]
+    },
+    {
+      "id": "11219fad-390b-4058-877f-83e433b5f595",
+      "name": "Royal icing",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 322.58,
+        "caloriesMax": 342.58,
+        "protein": 1.74,
+        "carbs": 86.53,
+        "fat": 0.02,
+        "fiber": 0,
+        "sugar": 85.57,
+        "sodium": 36.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "royal icing"
+      ]
+    },
+    {
+      "id": "7d7f092b-aad5-4f7b-8d94-54d137e0ef06",
+      "name": "American frosting",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 247.57,
+        "caloriesMax": 267.57,
+        "protein": 1.05,
+        "carbs": 67.48,
+        "fat": 0.01,
+        "fiber": 0,
+        "sugar": 67.46,
+        "sodium": 19.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "american frosting"
+      ]
+    },
+    {
+      "id": "383d6eab-e0a3-4d09-9827-f75a196b6c97",
+      "name": "Gum icing",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 213.07,
+        "caloriesMax": 233.07,
+        "protein": 5.94,
+        "carbs": 53.19,
+        "fat": 0,
+        "fiber": 0,
+        "sugar": 52.63,
+        "sodium": 29.32
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gum icing"
+      ]
+    },
+    {
+      "id": "b5392d72-3424-4217-819f-ccf2976519a4",
+      "name": "Channa murmura premix",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 329.09,
+        "caloriesMax": 349.09,
+        "protein": 10.59,
+        "carbs": 72.59,
+        "fat": 3.28,
+        "fiber": 8.21,
+        "sugar": 1.52,
+        "sodium": 206.28
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "channa murmura premix"
+      ]
+    },
+    {
+      "id": "310ef630-abf9-47af-924a-8772ca2656a5",
+      "name": "Cracked wheat and green gram dal premix (Dalia moong dal premix)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 352.16,
+        "caloriesMax": 372.16,
+        "protein": 15.89,
+        "carbs": 64.75,
+        "fat": 5.11,
+        "fiber": 11.66,
+        "sugar": 0.63,
+        "sodium": 3.25
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cracked wheat and green gram dal premix (dalia moong dal premix)"
+      ]
+    },
+    {
+      "id": "f46faa1d-2fe9-44c1-ac89-e7a8fbdc020b",
+      "name": "Rice flakes and roasted channa",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 323.4,
+        "caloriesMax": 343.4,
+        "protein": 10.57,
+        "carbs": 71.94,
+        "fat": 2.94,
+        "fiber": 8.84,
+        "sugar": 1.31,
+        "sodium": 205.51
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice flakes and roasted channa"
+      ]
+    },
+    {
+      "id": "69b0d29e-621e-4fba-9bb6-680135f35292",
+      "name": "Spinach soup in milk",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 46.72,
+        "caloriesMax": 66.72,
+        "protein": 2.89,
+        "carbs": 3.98,
+        "fat": 3.2,
+        "fiber": 0.79,
+        "sugar": 3.34,
+        "sodium": 31.16
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach soup in milk"
+      ]
+    },
+    {
+      "id": "53e3c7f3-b878-4953-8f51-9c71c95e0e78",
+      "name": "Vegetable soup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 45.21,
+        "caloriesMax": 65.21000000000001,
+        "protein": 2.22,
+        "carbs": 7.6,
+        "fat": 1.55,
+        "fiber": 3.01,
+        "sugar": 1.61,
+        "sodium": 170.68
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable soup"
+      ]
+    },
+    {
+      "id": "d00f9404-b341-4477-8cec-4cf12e16b8c8",
+      "name": "Mashed banana with milk",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 85.43,
+        "caloriesMax": 105.43,
+        "protein": 2.51,
+        "carbs": 14.62,
+        "fat": 2.99,
+        "fiber": 0.71,
+        "sugar": 11.35,
+        "sodium": 16.99
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mashed banana with milk"
+      ]
+    },
+    {
+      "id": "36fc779b-e85e-46ce-9e43-91bf55042fb7",
+      "name": "Poha with curd (Poha aur dahi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 163.32,
+        "caloriesMax": 183.32,
+        "protein": 6.01,
+        "carbs": 26.72,
+        "fat": 4.65,
+        "fiber": 1.09,
+        "sugar": 5.46,
+        "sodium": 325.07
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poha with curd (poha aur dahi)"
+      ]
+    },
+    {
+      "id": "b276cf53-9fb8-4d82-a5ba-90158f4931ae",
+      "name": "Potato with curd",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 63.18000000000001,
+        "caloriesMax": 83.18,
+        "protein": 3.19,
+        "carbs": 12.01,
+        "fat": 1.33,
+        "fiber": 1.02,
+        "sugar": 3.3,
+        "sodium": 190.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "potato with curd"
+      ]
+    },
+    {
+      "id": "eaaf14f3-9a07-4acf-99a1-764a7b8d2787",
+      "name": "Sweet wheat porridge (Sweet dalia)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130.66,
+        "caloriesMax": 150.66,
+        "protein": 5.11,
+        "carbs": 23.77,
+        "fat": 2.79,
+        "fiber": 2.37,
+        "sugar": 12.23,
+        "sodium": 24.63
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet wheat porridge (sweet dalia)"
+      ]
+    },
+    {
+      "id": "fc4a2565-8914-49e4-b545-ee899f1aea54",
+      "name": "Vegetable khichdi/khichri",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 133.17,
+        "caloriesMax": 153.17,
+        "protein": 5.61,
+        "carbs": 19.57,
+        "fat": 4.53,
+        "fiber": 2.45,
+        "sugar": 3.71,
+        "sodium": 193.55
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable khichdi/khichri"
+      ]
+    },
+    {
+      "id": "52a30038-7b11-4739-9953-8bcb0be3b270",
+      "name": "Moong dal mixture",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 148.84,
+        "caloriesMax": 168.84,
+        "protein": 4.62,
+        "carbs": 33.93,
+        "fat": 1.0,
+        "fiber": 1.9,
+        "sugar": 24.68,
+        "sodium": 29.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal mixture"
+      ]
+    },
+    {
+      "id": "138abde4-10b5-4de7-b68b-5f2425f37a9f",
+      "name": "Cracked wheat khichri/khichdi (Dalia khichri/khichdi)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 157.45,
+        "caloriesMax": 177.45,
+        "protein": 7.56,
+        "carbs": 22.35,
+        "fat": 5.52,
+        "fiber": 3.74,
+        "sugar": 3.79,
+        "sodium": 224.95
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cracked wheat khichri/khichdi (dalia khichri/khichdi)"
+      ]
+    },
+    {
+      "id": "d95fe58d-8013-4b8d-bbae-a083a4e696d4",
+      "name": "Stewed apple",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 81.93,
+        "caloriesMax": 101.93,
+        "protein": 0.17,
+        "carbs": 22.49,
+        "fat": 0.37,
+        "fiber": 1.48,
+        "sugar": 20.45,
+        "sodium": 1.53
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "stewed apple"
+      ]
+    },
+    {
+      "id": "3cb7a367-6ef3-4fdf-a118-d68d05c8a6a1",
+      "name": "Lemon squash (Nimbu ka squash)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 174.56,
+        "caloriesMax": 194.56,
+        "protein": 0.15,
+        "carbs": 48.88,
+        "fat": 0.06,
+        "fiber": 0,
+        "sugar": 48.88,
+        "sodium": 15.01
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon squash (nimbu ka squash)"
+      ]
+    },
+    {
+      "id": "e3124be7-6541-4a87-bcdc-95ef89d2135a",
+      "name": "Orange squash (Santre ka squash)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 183.26,
+        "caloriesMax": 203.26,
+        "protein": 0.22,
+        "carbs": 50.88,
+        "fat": 0.04,
+        "fiber": 0.4,
+        "sugar": 50.56,
+        "sodium": 14.85
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "orange squash (santre ka squash)"
+      ]
+    },
+    {
+      "id": "c669f211-f1c6-47bb-a650-731979890d0f",
+      "name": "Lichi squash",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 188.33,
+        "caloriesMax": 208.33,
+        "protein": 0.3,
+        "carbs": 51.96,
+        "fat": 0.08,
+        "fiber": 0.41,
+        "sugar": 51.31,
+        "sodium": 14.56
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lichi squash"
+      ]
+    },
+    {
+      "id": "d0684a01-1386-4e06-9b9b-f8e84d78e5bd",
+      "name": "Mango squash (Aam ka squash)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
