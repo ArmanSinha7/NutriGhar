@@ -12063,3 +12063,638 @@
     {
       "id": "88c4beb4-a980-41cb-80b2-385dc85c88c5",
       "name": "Mutton Curry (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 157,
+        "protein": 15.183532535410375,
+        "carbs": 10.674073526133506,
+        "fat": 5.827628977552759,
+        "fiber": 2.589549235436353
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "3986ca8c-0163-4420-9f5a-0e153559a7e0",
+      "name": "Mutton Curry (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 191,
+        "protein": 14.564115095602775,
+        "carbs": 10.81306822759702,
+        "fat": 5.787511139484314,
+        "fiber": 2.4734174915795237
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "737ca6da-c900-40c1-b984-f8e37591e53c",
+      "name": "Mutton Curry (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 188,
+        "protein": 13.745112572447653,
+        "carbs": 8.892028150420366,
+        "fat": 12.881551405877984,
+        "fiber": 4.500869666099387
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "8341b92c-cd59-41dc-9c7a-239e1b0c5329",
+      "name": "Mutton Curry (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 164,
+        "protein": 11.67783458426203,
+        "carbs": 7.329393994408967,
+        "fat": 4.286027360424978,
+        "fiber": 4.133452656922678
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (home-style)"
+      ]
+    },
+    {
+      "id": "a5b61ab2-6625-47e2-afc6-59eef25443b5",
+      "name": "Mutton Curry (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 173,
+        "protein": 13.883238273796225,
+        "carbs": 6.092820586840131,
+        "fat": 4.276542532073016,
+        "fiber": 3.538870169819894
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "08224568-2f8a-4458-bd7b-69d538bab7bf",
+      "name": "Mutton Curry (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 179,
+        "protein": 13.49485903456603,
+        "carbs": 6.527221700235262,
+        "fat": 11.030946213410463,
+        "fiber": 4.372883283483944
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "2f27f9ef-adc1-4efc-8f58-f9d71e385e6c",
+      "name": "Mutton Rogan Josh",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 107,
+        "caloriesMax": 173,
+        "protein": 17.077530633879036,
+        "carbs": 7.43854269279614,
+        "fat": 10.184022749350898,
+        "fiber": 4.565123769640543
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh",
+        "MuttonRoganJosh"
+      ]
+    },
+    {
+      "id": "7cae7459-1710-4d6e-839a-f33d286c39b4",
+      "name": "Mutton Rogan Josh (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 195,
+        "protein": 10.156963597888875,
+        "carbs": 7.9245903743233495,
+        "fat": 6.34053795461055,
+        "fiber": 3.693230930819672
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (punjabi)"
+      ]
+    },
+    {
+      "id": "e211265d-a702-42de-9f9f-663b9da9eb31",
+      "name": "Mutton Rogan Josh (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 92,
+        "caloriesMax": 183,
+        "protein": 13.91621813861093,
+        "carbs": 12.875385995841988,
+        "fat": 13.398718015745775,
+        "fiber": 1.7590168672410145
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (south indian style)"
+      ]
+    },
+    {
+      "id": "f6cc7913-651e-4c98-a22d-606138852c4d",
+      "name": "Mutton Rogan Josh (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 189,
+        "protein": 10.90675434764918,
+        "carbs": 12.676279957561565,
+        "fat": 6.627253754601298,
+        "fiber": 3.8174497969513967
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (bengali style)"
+      ]
+    },
+    {
+      "id": "c1279a3c-af7b-4919-a2e7-3f16a27c0532",
+      "name": "Mutton Rogan Josh (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 90,
+        "caloriesMax": 149,
+        "protein": 13.269395310927901,
+        "carbs": 13.57804900297066,
+        "fat": 12.187827487557177,
+        "fiber": 1.9015298953675672
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "3de48236-569a-459a-9086-c8e3ce9887b0",
+      "name": "Mutton Rogan Josh (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 182,
+        "protein": 17.26765756732066,
+        "carbs": 11.600386592984922,
+        "fat": 13.572774017388078,
+        "fiber": 1.0961471614095029
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (gujarati style)"
+      ]
+    },
+    {
+      "id": "7df48162-8b80-45cd-9377-a5d1fa567eed",
+      "name": "Mutton Rogan Josh (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 200,
+        "protein": 11.326244588986249,
+        "carbs": 12.698826043857425,
+        "fat": 4.014099624918979,
+        "fiber": 1.5452958384180597
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (rajasthani)"
+      ]
+    },
+    {
+      "id": "0109616f-65e0-4481-a3de-6af2de5abb3c",
+      "name": "Mutton Rogan Josh (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 106,
+        "caloriesMax": 196,
+        "protein": 13.574178261206036,
+        "carbs": 7.4220738814003155,
+        "fat": 10.855317004379106,
+        "fiber": 4.8862270800486165
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (home-style)"
+      ]
+    },
+    {
+      "id": "325fc275-45de-4303-b00e-4a8233e73643",
+      "name": "Mutton Rogan Josh (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 199,
+        "protein": 11.800148330475523,
+        "carbs": 9.444883644449064,
+        "fat": 8.980294714922398,
+        "fiber": 2.8280755611588515
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (dhaba style)"
+      ]
+    },
+    {
+      "id": "023e0963-cf68-4be1-a5e4-3b3d464c8871",
+      "name": "Mutton Rogan Josh (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 198,
+        "protein": 15.206780089746065,
+        "carbs": 9.65248187245706,
+        "fat": 10.17038819678238,
+        "fiber": 1.609922122701526
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton rogan josh (restaurant style)"
+      ]
+    },
+    {
+      "id": "e1a36b39-84b5-4b10-9996-fdaa224be50b",
+      "name": "Mutton Korma",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 163,
+        "protein": 13.77695081459898,
+        "carbs": 5.376469456359514,
+        "fat": 3.7343646423621717,
+        "fiber": 3.1731547908691184
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "mutton korma",
+        "MuttonKorma"
+      ]
+    },
+    {
+      "id": "d53231a5-e431-44ce-ad43-587bc7c17b2d",
+      "name": "Mutton Korma (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 197,
+        "protein": 14.991521649150886,
+        "carbs": 7.996508203920784,
+        "fat": 10.426924634207804,
+        "fiber": 3.4067367325082465
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton korma (punjabi)"
+      ]
+    },
+    {
+      "id": "16bbe89a-6a22-4c76-bfcf-72181ffdcfb6",
+      "name": "Mutton Korma (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 172,
+        "protein": 16.65897981186178,
+        "carbs": 5.330675958689773,
+        "fat": 12.426634452452824,
+        "fiber": 3.7353362969463193
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton korma (south indian style)"
+      ]
+    },
+    {
+      "id": "5a4805bf-8a7d-4e95-8f8f-2e0053c1c4b6",
+      "name": "Mutton Korma (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 153,
+        "protein": 13.163574868094582,
+        "carbs": 5.35224788106553,
+        "fat": 7.315261771714579,
+        "fiber": 4.911627029335777
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton korma (bengali style)"
+      ]
+    },
+    {
+      "id": "efb56013-af85-4a97-a04b-6f625a3b5e16",
+      "name": "Mutton Korma (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 165,
+        "protein": 12.427187702648055,
+        "carbs": 7.652670378895187,
+        "fat": 12.356848030127551,
+        "fiber": 3.7953624314415713
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
