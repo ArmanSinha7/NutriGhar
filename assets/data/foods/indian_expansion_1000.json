@@ -11428,3 +11428,638 @@
         "lunch",
         "dinner"
       ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 199,
+        "protein": 10.837644448055462,
+        "carbs": 12.105504222629236,
+        "fat": 12.382087467666297,
+        "fiber": 4.608150919467648
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (bengali style)"
+      ]
+    },
+    {
+      "id": "2dcdd0ad-ac39-4fb5-b46b-f5f301f6472d",
+      "name": "Chicken Korma (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 145,
+        "protein": 15.66680290258898,
+        "carbs": 10.350825959903878,
+        "fat": 9.824170346025578,
+        "fiber": 3.4472741760465144
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "bc955133-d06c-476e-a595-051130d43fde",
+      "name": "Chicken Korma (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 179,
+        "protein": 12.48129231097478,
+        "carbs": 12.628363706855929,
+        "fat": 9.438673242404372,
+        "fiber": 3.1511604004411735
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (gujarati style)"
+      ]
+    },
+    {
+      "id": "0534ec73-e830-4c18-8c52-a296690f2aaf",
+      "name": "Chicken Korma (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 181,
+        "protein": 17.995188107234803,
+        "carbs": 5.669941908150258,
+        "fat": 10.371264280064912,
+        "fiber": 4.896638907590408
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (rajasthani)"
+      ]
+    },
+    {
+      "id": "235a0738-f2e1-4a66-9741-318ee16ac65e",
+      "name": "Chicken Korma (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 111,
+        "caloriesMax": 159,
+        "protein": 16.09103533828402,
+        "carbs": 14.693861107815117,
+        "fat": 12.843619363396547,
+        "fiber": 3.4997739305009476
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (home-style)"
+      ]
+    },
+    {
+      "id": "95010ba3-938a-484d-a5b9-abd6d14385a2",
+      "name": "Chicken Korma (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 117,
+        "caloriesMax": 181,
+        "protein": 13.449136200797309,
+        "carbs": 5.3058469229735135,
+        "fat": 9.15310958978029,
+        "fiber": 1.6971663890081699
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (dhaba style)"
+      ]
+    },
+    {
+      "id": "a55b63d1-4004-464b-a5b4-afaf3327c6ed",
+      "name": "Chicken Korma (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 120,
+        "caloriesMax": 161,
+        "protein": 10.335807450653522,
+        "carbs": 7.192433044100966,
+        "fat": 6.200478904984047,
+        "fiber": 4.057993123638326
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken korma (restaurant style)"
+      ]
+    },
+    {
+      "id": "cb262f68-43bb-451d-803a-e5bfff949512",
+      "name": "Saag Chicken",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 141,
+        "protein": 11.476280934084151,
+        "carbs": 9.68451802447904,
+        "fat": 7.443427590290016,
+        "fiber": 2.232882217788949
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "saag chicken",
+        "SaagChicken"
+      ]
+    },
+    {
+      "id": "256abaa3-b9d6-4750-8098-416fbbc4a7bf",
+      "name": "Saag Chicken (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 162,
+        "protein": 15.198959241166971,
+        "carbs": 7.980939125985866,
+        "fat": 13.767573518622259,
+        "fiber": 1.6796824187814203
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (punjabi)"
+      ]
+    },
+    {
+      "id": "c80284c2-a0dc-47b4-9c5a-6428f8254261",
+      "name": "Saag Chicken (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 140,
+        "protein": 11.243290495022418,
+        "carbs": 5.443707367515653,
+        "fat": 12.134259118111562,
+        "fiber": 3.760726664980254
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (south indian style)"
+      ]
+    },
+    {
+      "id": "a69157aa-633c-4561-b567-ac585095b64a",
+      "name": "Saag Chicken (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 192,
+        "protein": 11.855298806324237,
+        "carbs": 13.219136696984007,
+        "fat": 12.83140703160798,
+        "fiber": 3.7582796313553355
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (bengali style)"
+      ]
+    },
+    {
+      "id": "7e975b15-245b-4ef2-b0ce-79c4990e0fc5",
+      "name": "Saag Chicken (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 148,
+        "protein": 10.457887087619145,
+        "carbs": 10.544094829786735,
+        "fat": 10.093720358607364,
+        "fiber": 2.1802979666666307
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "bddaba33-1063-47de-a3f4-4604334f5ee4",
+      "name": "Saag Chicken (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 141,
+        "protein": 10.126835197782608,
+        "carbs": 10.968921301366114,
+        "fat": 10.65349468314059,
+        "fiber": 2.858661341578074
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (gujarati style)"
+      ]
+    },
+    {
+      "id": "63f71af0-46a0-48b9-a85f-3d6d70df0a5b",
+      "name": "Saag Chicken (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 176,
+        "protein": 16.798377584268824,
+        "carbs": 6.196329314852155,
+        "fat": 11.74602537736327,
+        "fiber": 1.5776792826359856
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (rajasthani)"
+      ]
+    },
+    {
+      "id": "ce33eb19-db4e-4ad1-b33e-1984fe6c2fda",
+      "name": "Saag Chicken (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 126,
+        "caloriesMax": 167,
+        "protein": 10.856940506790771,
+        "carbs": 6.91870633405276,
+        "fat": 13.545350102792183,
+        "fiber": 3.727049717544801
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (home-style)"
+      ]
+    },
+    {
+      "id": "acb9dc66-52f6-4abc-8213-b6d7280814a9",
+      "name": "Saag Chicken (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 173,
+        "protein": 17.77317960066882,
+        "carbs": 9.137261924465637,
+        "fat": 4.880484469652065,
+        "fiber": 1.8191341363661295
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (dhaba style)"
+      ]
+    },
+    {
+      "id": "4737d68e-9ac7-4056-b5d9-7bc729e11a60",
+      "name": "Saag Chicken (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "chicken",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 188,
+        "protein": 13.27027618683481,
+        "carbs": 8.605282893795938,
+        "fat": 9.984969674201214,
+        "fiber": 2.556283350103681
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "saag chicken (restaurant style)"
+      ]
+    },
+    {
+      "id": "fded855d-a225-4dc2-9665-d7ee1b3d9403",
+      "name": "Mutton Curry",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 174,
+        "protein": 14.892527459872554,
+        "carbs": 6.9430977486951315,
+        "fat": 9.443950884516148,
+        "fiber": 3.079565560378776
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "mutton curry",
+        "MuttonCurry"
+      ]
+    },
+    {
+      "id": "dc7f57da-283a-4893-8ca5-557a4e74ceb9",
+      "name": "Mutton Curry (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 195,
+        "protein": 12.67359129031178,
+        "carbs": 7.639243137388174,
+        "fat": 8.976329079283474,
+        "fiber": 1.0870415781983307
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (punjabi)"
+      ]
+    },
+    {
+      "id": "8a8dca05-cd18-456a-8f5f-0cfbb82a3632",
+      "name": "Mutton Curry (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 181,
+        "protein": 14.746885826757289,
+        "carbs": 12.061072814434006,
+        "fat": 9.409065246809465,
+        "fiber": 3.9736929371214416
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (south indian style)"
+      ]
+    },
+    {
+      "id": "18853305-4a7d-4f6b-92c7-b88ae9ab8fe3",
+      "name": "Mutton Curry (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "mutton",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 185,
+        "protein": 10.064295032833382,
+        "carbs": 12.688039168457296,
+        "fat": 12.863306030897908,
+        "fiber": 1.5396367796986596
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton curry (bengali style)"
+      ]
+    },
+    {
+      "id": "88c4beb4-a980-41cb-80b2-385dc85c88c5",
+      "name": "Mutton Curry (Maharashtrian style)",
