@@ -34054,3 +34054,1035 @@
         "carbs": 6.17,
         "fat": 11.98,
         "fiber": 2.12,
+        "sugar": 3.51,
+        "sodium": 31.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion tomato baghar (pyaaz tamatar ka tadka)"
+      ]
+    },
+    {
+      "id": "48fe08fb-6dff-4a87-a699-8f169ab728c2",
+      "name": "Mustard seeds baghar (Mustard seed tadka)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 542.59,
+        "caloriesMax": 562.59,
+        "protein": 4.73,
+        "carbs": 10.45,
+        "fat": 54.3,
+        "fiber": 9.74,
+        "sugar": 1.14,
+        "sodium": 8.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mustard seeds baghar (mustard seed tadka)"
+      ]
+    },
+    {
+      "id": "93af8ef4-5dd3-4f8c-ad91-46edf194e563",
+      "name": "Hot cherry sauce",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 242.74,
+        "caloriesMax": 262.74,
+        "protein": 0.13,
+        "carbs": 67.95,
+        "fat": 0.07,
+        "fiber": 0,
+        "sugar": 17.65,
+        "sodium": 105.81
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hot cherry sauce"
+      ]
+    },
+    {
+      "id": "03c2df77-66dc-401f-9dbb-a41fa2abf92f",
+      "name": "Apple jelly (Seb ki jelly)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 142.13,
+        "caloriesMax": 162.13,
+        "protein": 0.1,
+        "carbs": 39.37,
+        "fat": 0.21,
+        "fiber": 0.86,
+        "sugar": 38.18,
+        "sodium": 2.14
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple jelly (seb ki jelly)"
+      ]
+    },
+    {
+      "id": "7dc7d7af-f30a-40fb-8ae2-acbb85d86c2b",
+      "name": "Marmalade (Murabba)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 133.76,
+        "caloriesMax": 153.76,
+        "protein": 0.23,
+        "carbs": 37.64,
+        "fat": 0.04,
+        "fiber": 0.43,
+        "sugar": 37.29,
+        "sodium": 2.16
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "marmalade (murabba)"
+      ]
+    },
+    {
+      "id": "634294a2-71c9-485e-913a-44c596905040",
+      "name": "Plum squash (Aloo bukhara squash)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 201.17,
+        "caloriesMax": 221.17,
+        "protein": 0.16,
+        "carbs": 55.51,
+        "fat": 0.1,
+        "fiber": 0.52,
+        "sugar": 55.02,
+        "sodium": 12.71
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "plum squash (aloo bukhara squash)"
+      ]
+    },
+    {
+      "id": "e9da8c75-7020-4d79-89f3-7a92bdf9dfde",
+      "name": "Lemon green chilli pickle (Nimboo aur hari mirch ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 4.07,
+        "caloriesMax": 24.07,
+        "protein": 0.85,
+        "carbs": 2.14,
+        "fat": 0.24,
+        "fiber": 1.07,
+        "sugar": 1.0,
+        "sodium": 7559.38
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon green chilli pickle (nimboo aur hari mirch ka achaar)"
+      ]
+    },
+    {
+      "id": "4aeeb20e-ebf8-4371-8057-4b2bf25491ed",
+      "name": "Brinjal pickle (Baingan ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129.01,
+        "caloriesMax": 149.01,
+        "protein": 2.24,
+        "carbs": 4.23,
+        "fat": 12.98,
+        "fiber": 4.62,
+        "sugar": 1.07,
+        "sodium": 3507.59
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "brinjal pickle (baingan ka achaar)"
+      ]
+    },
+    {
+      "id": "a7de9f4f-b318-402e-9962-5a84337ffa3c",
+      "name": "Sweet and sour tomato pickle (Khatta meetha tamatar ka achaar)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 50.88,
+        "caloriesMax": 70.88,
+        "protein": 1.26,
+        "carbs": 6.55,
+        "fat": 3.24,
+        "fiber": 2.2,
+        "sugar": 4.31,
+        "sodium": 1281.94
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet and sour tomato pickle (khatta meetha tamatar ka achaar)"
+      ]
+    },
+    {
+      "id": "ebe34623-fd05-474d-80c0-28e785194a71",
+      "name": "Jhatpat achar with carrot (Jhatpat achaar gajar ke saath)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 81.21,
+        "caloriesMax": 101.21,
+        "protein": 1.98,
+        "carbs": 6.32,
+        "fat": 6.55,
+        "fiber": 5.08,
+        "sugar": 3.04,
+        "sodium": 2067.33
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jhatpat achar with carrot (jhatpat achaar gajar ke saath)"
+      ]
+    },
+    {
+      "id": "37835c9f-3703-4f7c-8e83-61768bba5779",
+      "name": "Tomato chutney (Tamatar ki chutney)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 166.07,
+        "caloriesMax": 186.07,
+        "protein": 0.97,
+        "carbs": 31.85,
+        "fat": 6.01,
+        "fiber": 1.49,
+        "sugar": 30.02,
+        "sodium": 823.65
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato chutney (tamatar ki chutney)"
+      ]
+    },
+    {
+      "id": "c8fb74f8-0bb7-47e5-b760-872cc80ef3e2",
+      "name": "Tomato ketchup",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 23.07,
+        "caloriesMax": 43.07,
+        "protein": 0.91,
+        "carbs": 6.48,
+        "fat": 0.3,
+        "fiber": 1.9,
+        "sugar": 4.68,
+        "sodium": 177.97
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato ketchup"
+      ]
+    },
+    {
+      "id": "9e7d0abd-f435-4024-871f-d1039150a1da",
+      "name": "Bengal 5 Spice Blend (Panch Phoran)",
+      "category": "imported_csv_1",
+      "subCategory": null,
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 279.79,
+        "caloriesMax": 299.79,
+        "protein": 18.26,
+        "carbs": 20.0,
+        "fat": 22.16,
+        "fiber": 18.4,
+        "sugar": 1.4,
+        "sodium": 51.43
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bengal 5 spice blend (panch phoran)"
+      ]
+    },
+    {
+      "id": "06b514d6-eb2b-4cd4-9a12-da425b38fdca",
+      "name": "Kal dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 4.5,
+        "carbs": 30.0,
+        "fat": 4.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kal dosa",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f8ae598b-131b-4f71-adb5-77ca006ba4fd",
+      "name": "Podi dosa",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 7.0,
+        "carbs": 30.0,
+        "fat": 8.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "podi dosa",
+        "south indian"
+      ]
+    },
+    {
+      "id": "8c3fca76-e106-411a-bbc5-a7ff9026fee0",
+      "name": "Onion uttapam",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 5.0,
+        "carbs": 29.0,
+        "fat": 5.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion uttapam",
+        "south indian"
+      ]
+    },
+    {
+      "id": "c83c6382-1554-4609-aa42-9f8b7db1ac0d",
+      "name": "Tomato uttapam",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 5.0,
+        "carbs": 28.0,
+        "fat": 4.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato uttapam",
+        "south indian"
+      ]
+    },
+    {
+      "id": "9e972701-15e4-4ea6-a4ba-d2289f4e801f",
+      "name": "Vegetable uttapam",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.5,
+        "carbs": 28.0,
+        "fat": 5.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable uttapam",
+        "south indian"
+      ]
+    },
+    {
+      "id": "fdd69d72-d472-4c6f-94a5-f9894e0cc7dc",
+      "name": "Cheese dosa",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 9.0,
+        "carbs": 28.0,
+        "fat": 11.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese dosa",
+        "south indian"
+      ]
+    },
+    {
+      "id": "b7e76247-aa34-41af-b1ae-9e310a59da4c",
+      "name": "Paneer dosa",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 10.0,
+        "carbs": 27.0,
+        "fat": 9.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer dosa",
+        "south indian"
+      ]
+    },
+    {
+      "id": "7217895c-958e-4050-9584-85d31c79304f",
+      "name": "Spring dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 6.0,
+        "carbs": 32.0,
+        "fat": 7.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spring dosa",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "b1bb6d8c-7ff5-4a45-b9c9-dd613b8d2c30",
+      "name": "Jini dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 8.0,
+        "carbs": 32.0,
+        "fat": 10.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jini dosa",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "a5e930e8-57c8-4992-9ecf-bdc6746401c8",
+      "name": "Open butter masala dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 6.0,
+        "carbs": 28.0,
+        "fat": 12.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "open butter masala dosa",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "0cf53ef8-2a84-46f8-a63c-ee772ef484e4",
+      "name": "Rava onion dosa",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 5.0,
+        "carbs": 32.0,
+        "fat": 7.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rava onion dosa",
+        "south indian"
+      ]
+    },
+    {
+      "id": "70b99686-36d7-4fdd-9bfb-88c9a715f827",
+      "name": "Ghee podi idli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 7.0,
+        "carbs": 27.0,
+        "fat": 10.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ghee podi idli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "a1f723af-8371-4acc-8a6b-cad375a3c282",
+      "name": "Kushboo idli",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 5.0,
+        "carbs": 30.0,
+        "fat": 1.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kushboo idli",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "9c9fd969-50da-4a2d-a7cf-a1f0f23ff965",
+      "name": "Mallige idli",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 5.0,
+        "carbs": 29.0,
+        "fat": 1.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mallige idli",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "a2139b4c-b9dd-40b2-99bd-3b007a12aea3",
+      "name": "Ramasseri idli",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 4.5,
+        "carbs": 29.0,
+        "fat": 1.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ramasseri idli",
+        "kerala"
+      ]
+    },
+    {
+      "id": "33c157d4-9084-48ca-98e0-c968f8c7551a",
+      "name": "Vegetable rava idli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 5.0,
+        "carbs": 27.0,
+        "fat": 3.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable rava idli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "ccfd6359-9a6a-4d16-acfb-30eee67b97bf",
+      "name": "Oats idli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 5.5,
+        "carbs": 25.0,
+        "fat": 2.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "oats idli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "9881236b-e64d-4258-a247-de66e78fcaef",
+      "name": "Moong dal idli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 7.0,
+        "carbs": 24.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal idli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "276fc57a-78de-43f3-bb9a-eb2106ed689a",
+      "name": "Quinoa idli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
