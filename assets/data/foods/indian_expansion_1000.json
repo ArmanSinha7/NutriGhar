@@ -13333,3 +13333,638 @@
         "fat": 9.673029415632016,
         "fiber": 3.1456774874432996
       },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "fish curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "9c195636-5206-4a42-879f-fa0d0c3cd954",
+      "name": "Fish Curry (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 177,
+        "protein": 14.179909431178723,
+        "carbs": 14.05726163114965,
+        "fat": 9.733899467693234,
+        "fiber": 1.3986645073467185
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "fish curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "9a2a7e01-5c5f-4d80-99ff-901621873b89",
+      "name": "Fish Curry (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 98,
+        "caloriesMax": 167,
+        "protein": 16.974332857985367,
+        "carbs": 10.566263235561175,
+        "fat": 8.529036149704353,
+        "fiber": 1.9397649950883684
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "fish curry (home-style)"
+      ]
+    },
+    {
+      "id": "b988cc19-67f5-4bc2-beac-2739c93c1d0a",
+      "name": "Fish Curry (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 141,
+        "protein": 15.238463936983363,
+        "carbs": 12.66040629000291,
+        "fat": 5.390983502821802,
+        "fiber": 3.9616502312024804
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "fish curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "a0f9f861-9325-438d-b4dc-738a56784e17",
+      "name": "Fish Curry (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 140,
+        "protein": 10.428980973935623,
+        "carbs": 14.755869682304109,
+        "fat": 6.108991942325274,
+        "fiber": 2.6494529483427587
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "fish curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "53535ec9-5242-4c26-9431-72beac8a4de2",
+      "name": "Goan Fish Curry",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 88,
+        "caloriesMax": 164,
+        "protein": 15.149358187612059,
+        "carbs": 5.481185702357805,
+        "fat": 6.152827529202619,
+        "fiber": 1.7813622822151873
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "goan fish curry",
+        "GoanFishCurry"
+      ]
+    },
+    {
+      "id": "c30e3e3b-a66e-4c25-8f20-2ad4c37816c5",
+      "name": "Goan Fish Curry (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 119,
+        "caloriesMax": 157,
+        "protein": 11.875650957460817,
+        "carbs": 12.671210060673936,
+        "fat": 6.067057165084423,
+        "fiber": 1.939036741693973
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (punjabi)"
+      ]
+    },
+    {
+      "id": "cad95e3d-778c-4a2d-900d-b5ed51ef0271",
+      "name": "Goan Fish Curry (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 103,
+        "caloriesMax": 177,
+        "protein": 13.975331962949907,
+        "carbs": 5.594850921316993,
+        "fat": 14.818301931620857,
+        "fiber": 1.8153783630241764
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (south indian style)"
+      ]
+    },
+    {
+      "id": "5443dbba-4c23-4f5f-a85b-96cc2a75cc77",
+      "name": "Goan Fish Curry (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 155,
+        "protein": 10.918127216798151,
+        "carbs": 12.539482806973552,
+        "fat": 9.727263582274086,
+        "fiber": 1.891686697315746
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (bengali style)"
+      ]
+    },
+    {
+      "id": "a32b5940-f281-4496-b614-aa2a69a50311",
+      "name": "Goan Fish Curry (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 187,
+        "protein": 11.145144198010158,
+        "carbs": 14.406113873976983,
+        "fat": 11.059772318983876,
+        "fiber": 4.891854520523732
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "cab9326c-997e-4030-85ac-12400e2b31e2",
+      "name": "Goan Fish Curry (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 123,
+        "caloriesMax": 196,
+        "protein": 12.093948073281982,
+        "carbs": 6.207316209756223,
+        "fat": 10.083035084117821,
+        "fiber": 1.7774254768986064
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "64aa5004-86a8-44ba-8436-5594ba5e7b1d",
+      "name": "Goan Fish Curry (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 125,
+        "caloriesMax": 146,
+        "protein": 17.859050118407286,
+        "carbs": 8.59797026227851,
+        "fat": 6.087845929290803,
+        "fiber": 1.0353422120001694
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "34e9f370-5674-432d-8230-d2ac50f6b0e7",
+      "name": "Goan Fish Curry (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 121,
+        "caloriesMax": 144,
+        "protein": 17.300127356850055,
+        "carbs": 9.91828843989494,
+        "fat": 6.5046679283641655,
+        "fiber": 1.7116092629727926
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (home-style)"
+      ]
+    },
+    {
+      "id": "c886164b-7100-45f8-ae24-aa4cb0e2768a",
+      "name": "Goan Fish Curry (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 95,
+        "caloriesMax": 155,
+        "protein": 14.042243494332507,
+        "carbs": 12.48261943784524,
+        "fat": 5.2661630274809585,
+        "fiber": 2.8170512631191604
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "b8714fc1-d941-4042-888e-7966aa5dc7dc",
+      "name": "Goan Fish Curry (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 157,
+        "protein": 14.068930207882868,
+        "carbs": 11.557352903454829,
+        "fat": 10.872036709649368,
+        "fiber": 4.731509870747001
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "goan fish curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "e383bbe1-bf49-4aea-bc62-d3a0343733c4",
+      "name": "Prawn Curry",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 114,
+        "caloriesMax": 131,
+        "protein": 15.16182123667263,
+        "carbs": 7.557994314445904,
+        "fat": 5.638268416674723,
+        "fiber": 4.111916737319671
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "prawn curry",
+        "PrawnCurry"
+      ]
+    },
+    {
+      "id": "9fe5d685-8d5e-4155-a350-16a26fc09772",
+      "name": "Prawn Curry (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 93,
+        "caloriesMax": 166,
+        "protein": 17.56542085326476,
+        "carbs": 13.771986619387654,
+        "fat": 12.573436633713275,
+        "fiber": 2.549093418106685
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (punjabi)"
+      ]
+    },
+    {
+      "id": "e894ec87-2251-408e-b1a1-046586db35d6",
+      "name": "Prawn Curry (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 109,
+        "caloriesMax": 190,
+        "protein": 14.052916198540114,
+        "carbs": 10.808152854256107,
+        "fat": 14.283472298232136,
+        "fiber": 4.6338963574497445
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (south indian style)"
+      ]
+    },
+    {
+      "id": "63d7ae57-1a18-42d8-8c6c-2f0f1583678e",
+      "name": "Prawn Curry (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 113,
+        "caloriesMax": 166,
+        "protein": 12.170179907753996,
+        "carbs": 8.35873917609468,
+        "fat": 13.792509420457542,
+        "fiber": 1.3286567252612609
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (bengali style)"
+      ]
+    },
+    {
+      "id": "fa265902-5e13-49ee-ba8a-87e7efbcc6f8",
+      "name": "Prawn Curry (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 141,
+        "protein": 15.648000122889762,
+        "carbs": 7.671139072619492,
+        "fat": 12.096847059815248,
+        "fiber": 3.719673138418492
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "fa2872b2-e236-4a77-b63a-05262b9ae63a",
+      "name": "Prawn Curry (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 141,
+        "protein": 16.362599873651106,
+        "carbs": 5.636941725137285,
+        "fat": 7.3568905837163525,
+        "fiber": 3.994452457165069
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "fb7d0773-342b-4073-be6d-51f398a57a30",
+      "name": "Prawn Curry (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
