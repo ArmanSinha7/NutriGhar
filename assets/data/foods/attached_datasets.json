@@ -35086,3 +35086,1035 @@
       "per100g": {
         "caloriesMin": 145.0,
         "caloriesMax": 165.0,
+        "protein": 6.0,
+        "carbs": 26.0,
+        "fat": 3.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "quinoa idli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "96937d69-22d7-4168-af5b-014430a68d21",
+      "name": "Kanchipuram dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 6.0,
+        "carbs": 29.0,
+        "fat": 6.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kanchipuram dosa",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "25ed16b1-7a41-4546-ad4a-11bcba63eac4",
+      "name": "Punugulu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra/Telangana",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 7.0,
+        "carbs": 38.0,
+        "fat": 12.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "punugulu",
+        "andhra/telangana"
+      ]
+    },
+    {
+      "id": "1f3a09c3-1cb0-45d6-a72f-cea49693db1e",
+      "name": "Gunta pongadalu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 6.0,
+        "carbs": 28.0,
+        "fat": 5.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gunta pongadalu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "a5536803-8116-42af-833c-60e32b01122e",
+      "name": "Dibba rotti",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 6.0,
+        "carbs": 34.0,
+        "fat": 6.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dibba rotti",
+        "andhra"
+      ]
+    },
+    {
+      "id": "15d816c9-a6f7-4a2d-bcef-bdb3c52e9a74",
+      "name": "Minapa garelu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 11.0,
+        "carbs": 31.0,
+        "fat": 16.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "minapa garelu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "77692aaa-83dd-4d1a-8112-b419ae7da106",
+      "name": "Perugu garelu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 7.0,
+        "carbs": 18.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "perugu garelu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "792fc328-4d63-46dd-a2b7-6d9f43c315ec",
+      "name": "Sarva pindi",
+      "category": "imported_csv_2",
+      "subCategory": "Telangana",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 7.0,
+        "carbs": 38.0,
+        "fat": 7.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sarva pindi",
+        "telangana"
+      ]
+    },
+    {
+      "id": "8383ffa6-62c0-4c35-9bc7-bd10746d71ea",
+      "name": "Sakinalu",
+      "category": "imported_csv_2",
+      "subCategory": "Telangana",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 7.0,
+        "carbs": 65.0,
+        "fat": 22.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sakinalu",
+        "telangana"
+      ]
+    },
+    {
+      "id": "93592b3d-c26f-49db-a02c-8e0877fa7147",
+      "name": "Garijalu",
+      "category": "imported_csv_2",
+      "subCategory": "Telangana",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 380.0,
+        "caloriesMax": 400.0,
+        "protein": 6.0,
+        "carbs": 61.0,
+        "fat": 14.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "garijalu",
+        "telangana"
+      ]
+    },
+    {
+      "id": "a847e0f6-07f4-4072-b7e0-1dc9184f5479",
+      "name": "Chegodilu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra/Telangana",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 460.0,
+        "caloriesMax": 480.0,
+        "protein": 7.0,
+        "carbs": 61.0,
+        "fat": 21.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chegodilu",
+        "andhra/telangana"
+      ]
+    },
+    {
+      "id": "88049315-2e93-4703-8641-894739a27a4d",
+      "name": "Boorelu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 7.0,
+        "carbs": 54.0,
+        "fat": 10.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boorelu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "4b5a39f6-a789-4f63-844f-795a8354e5cc",
+      "name": "Ariselu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra/Telangana",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 390.0,
+        "caloriesMax": 410.0,
+        "protein": 5.0,
+        "carbs": 68.0,
+        "fat": 12.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ariselu",
+        "andhra/telangana"
+      ]
+    },
+    {
+      "id": "55776635-f767-43ce-a3ee-9c88e4a2933e",
+      "name": "Nuvvula laddu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra/Telangana",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 12.0,
+        "carbs": 45.0,
+        "fat": 29.0,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nuvvula laddu",
+        "andhra/telangana"
+      ]
+    },
+    {
+      "id": "4c8ff120-3b88-4ce2-a7fb-6b0af068b9f9",
+      "name": "Karam dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 5.0,
+        "carbs": 29.0,
+        "fat": 6.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karam dosa",
+        "andhra"
+      ]
+    },
+    {
+      "id": "d56a53d0-64cf-4c27-ab63-3d36e41afa6f",
+      "name": "Upma pesarattu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 8.0,
+        "carbs": 31.0,
+        "fat": 6.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "upma pesarattu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "10aff256-116c-4a14-a6c3-ade0f7ec950e",
+      "name": "Ragi sangati with pappu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 4.5,
+        "carbs": 20.0,
+        "fat": 1.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi sangati with pappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "19419cca-6124-4d3a-8187-572d473254e4",
+      "name": "Palakura pappu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 6.0,
+        "carbs": 14.0,
+        "fat": 3.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palakura pappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "c4e670b2-6a45-4fbc-951a-8517e2ceb938",
+      "name": "Thotakura pappu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.0,
+        "carbs": 15.0,
+        "fat": 3.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thotakura pappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "a89eca8b-a9d0-40f2-853b-691916465b50",
+      "name": "Muddapappu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 7.0,
+        "carbs": 17.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "muddapappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "c6e622a8-c264-4bac-bd2c-950db2a328e4",
+      "name": "Vankaya pulusu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 2.5,
+        "carbs": 12.0,
+        "fat": 4.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vankaya pulusu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "cd2f9add-b0a0-4516-ae55-3917461a4705",
+      "name": "Dondakaya curry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 3.0,
+        "carbs": 12.0,
+        "fat": 5.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dondakaya curry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "b19beacf-ce5a-477c-a6af-4724e174d182",
+      "name": "Chamagadda pulusu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.0,
+        "carbs": 19.0,
+        "fat": 3.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chamagadda pulusu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "2a60aac9-e0c4-44ee-8c26-507c2bea9f5c",
+      "name": "Mukkala pulusu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.0,
+        "carbs": 11.0,
+        "fat": 3.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mukkala pulusu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "0a702ac4-7002-4442-a422-95100363f35c",
+      "name": "Kodi pulusu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 15.0,
+        "carbs": 6.0,
+        "fat": 10.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kodi pulusu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "c68920d4-c7a5-4976-b562-859ed605d6b1",
+      "name": "Natu kodi fry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 275.0,
+        "caloriesMax": 295.0,
+        "protein": 22.0,
+        "carbs": 5.0,
+        "fat": 20.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "natu kodi fry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "3b6064b6-fa20-438f-bdef-b11a9b8d9fbd",
+      "name": "Chepala vepudu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 21.0,
+        "carbs": 6.0,
+        "fat": 16.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chepala vepudu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "f2f5674e-df75-4cf0-a0a7-38baf743f8af",
+      "name": "Royyala pulusu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 17.0,
+        "carbs": 6.0,
+        "fat": 7.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "royyala pulusu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "685864ff-5402-465a-b8c7-ccbbdbd350f7",
+      "name": "Ragi java",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 2.0,
+        "carbs": 11.0,
+        "fat": 1.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi java",
+        "andhra"
+      ]
+    },
+    {
+      "id": "4e8cebf8-8245-490f-bc46-9333567b2e89",
+      "name": "Kallappam",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 3.5,
+        "carbs": 32.0,
+        "fat": 2.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kallappam",
+        "kerala"
+      ]
+    },
+    {
+      "id": "0be1bb41-036a-4e62-9c3b-c1adcf69f41b",
+      "name": "Vattayappam",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 4.0,
+        "carbs": 38.0,
+        "fat": 2.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vattayappam",
+        "kerala"
+      ]
+    },
+    {
+      "id": "20b926d5-994f-4849-a004-ff4cf37150d8",
+      "name": "Kinnathappam",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 4.0,
+        "carbs": 42.0,
+        "fat": 5.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
