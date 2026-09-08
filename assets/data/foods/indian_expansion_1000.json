@@ -13968,3 +13968,638 @@
       ],
       "confidenceLevel": "MEDIUM",
       "per100g": {
+        "caloriesMin": 127,
+        "caloriesMax": 163,
+        "protein": 16.01641132726599,
+        "carbs": 5.562051642303224,
+        "fat": 8.68765383101384,
+        "fiber": 4.274717560622243
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "58c9a4a7-ef95-4fc6-8cc4-c88fece3e18e",
+      "name": "Prawn Curry (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 105,
+        "caloriesMax": 173,
+        "protein": 16.24240692288954,
+        "carbs": 10.588449288610295,
+        "fat": 12.171352862189028,
+        "fiber": 3.2552737017599265
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (home-style)"
+      ]
+    },
+    {
+      "id": "592a7884-2610-4e47-9e68-ff726c39aad1",
+      "name": "Prawn Curry (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 184,
+        "protein": 14.878092111754334,
+        "carbs": 8.492297916924795,
+        "fat": 10.557481273887527,
+        "fiber": 4.899806088509427
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "19c5a66f-e16e-4390-9cf1-51af8fd176d2",
+      "name": "Prawn Curry (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "seafood",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 91,
+        "caloriesMax": 188,
+        "protein": 11.740662318143093,
+        "carbs": 13.379828890615213,
+        "fat": 7.07779945342123,
+        "fiber": 4.555410661705995
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "prawn curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "20300871-41e5-4d8f-ab71-a2ba15df08a5",
+      "name": "Egg Curry",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 166,
+        "protein": 10.384343883386869,
+        "carbs": 14.242065926317984,
+        "fat": 8.068468710380337,
+        "fiber": 2.36036355452467
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "egg curry",
+        "EggCurry"
+      ]
+    },
+    {
+      "id": "f5c02239-b679-4c05-90f7-a69a707627b2",
+      "name": "Egg Curry (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 102,
+        "caloriesMax": 176,
+        "protein": 13.472903552243372,
+        "carbs": 7.180572102278741,
+        "fat": 11.59436873255415,
+        "fiber": 2.674921084830946
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (punjabi)"
+      ]
+    },
+    {
+      "id": "d1bb16ec-338f-4a39-a861-eb3116d50575",
+      "name": "Egg Curry (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129,
+        "caloriesMax": 149,
+        "protein": 13.905283480066608,
+        "carbs": 13.015159327062044,
+        "fat": 9.714524942414265,
+        "fiber": 2.59398282425858
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (south indian style)"
+      ]
+    },
+    {
+      "id": "d39fc676-35a1-496d-b6c7-afb6fb6be8f1",
+      "name": "Egg Curry (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 128,
+        "caloriesMax": 155,
+        "protein": 10.096924443176482,
+        "carbs": 10.693230780177917,
+        "fat": 11.363162486319702,
+        "fiber": 2.7496750435725033
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (bengali style)"
+      ]
+    },
+    {
+      "id": "1bffba09-29d0-4113-9e3e-72e78d3c74a8",
+      "name": "Egg Curry (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 146,
+        "protein": 15.43563571235498,
+        "carbs": 10.640086746209763,
+        "fat": 7.910196167063965,
+        "fiber": 1.4804021184451632
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "1c6c139b-d072-43af-83d5-964383f826ef",
+      "name": "Egg Curry (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 161,
+        "protein": 12.061178992631607,
+        "carbs": 14.49234231678904,
+        "fat": 8.549942899526688,
+        "fiber": 2.8425509959141864
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (gujarati style)"
+      ]
+    },
+    {
+      "id": "22cdf715-be11-490a-b3d8-b590f4c28fd3",
+      "name": "Egg Curry (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 153,
+        "protein": 12.804376905868413,
+        "carbs": 5.925871971040109,
+        "fat": 10.41397435280669,
+        "fiber": 1.550674194399471
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (rajasthani)"
+      ]
+    },
+    {
+      "id": "77d41928-4aa9-4ce0-b348-205c4196727c",
+      "name": "Egg Curry (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 124,
+        "caloriesMax": 163,
+        "protein": 17.671761836933882,
+        "carbs": 12.54027652250022,
+        "fat": 4.025672711717242,
+        "fiber": 3.853500409578763
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (home-style)"
+      ]
+    },
+    {
+      "id": "0fe8920a-9e4e-4ab7-8bbc-8544905830e0",
+      "name": "Egg Curry (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 104,
+        "caloriesMax": 192,
+        "protein": 10.876240044359122,
+        "carbs": 9.19669122797842,
+        "fat": 13.82388112468377,
+        "fiber": 1.6606694881441335
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (dhaba style)"
+      ]
+    },
+    {
+      "id": "3477334b-7fb1-49be-90b7-c89244e8d08c",
+      "name": "Egg Curry (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 147,
+        "protein": 15.828982469755855,
+        "carbs": 5.871473548573612,
+        "fat": 7.885860801468974,
+        "fiber": 3.9372771741493233
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg curry (restaurant style)"
+      ]
+    },
+    {
+      "id": "8fe9c6dd-4d14-4fc7-a0b8-46764f59c6e2",
+      "name": "Egg Bhurji",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 108,
+        "caloriesMax": 180,
+        "protein": 15.477233229861769,
+        "carbs": 13.184195968386883,
+        "fat": 9.076328485844423,
+        "fiber": 1.2139481468595128
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 katori",
+          "weightMinG": 100,
+          "weightMaxG": 120
+        }
+      ],
+      "aliases": [
+        "egg bhurji",
+        "EggBhurji"
+      ]
+    },
+    {
+      "id": "cee0a40e-eabb-4e19-9317-a5c5154ebeab",
+      "name": "Egg Bhurji (Punjabi)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 118,
+        "caloriesMax": 156,
+        "protein": 12.21862168295535,
+        "carbs": 8.443838985601115,
+        "fat": 4.9010661379536895,
+        "fiber": 2.8639494919489654
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (punjabi)"
+      ]
+    },
+    {
+      "id": "b86018a4-7106-4c48-82a0-6f2bcc52fc8d",
+      "name": "Egg Bhurji (South Indian style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 116,
+        "caloriesMax": 162,
+        "protein": 17.41814030676216,
+        "carbs": 6.290694407555749,
+        "fat": 14.703124040466555,
+        "fiber": 2.138563066916876
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (south indian style)"
+      ]
+    },
+    {
+      "id": "5d51585e-7cef-48d1-b47d-be979fa6ebef",
+      "name": "Egg Bhurji (Bengali style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 129,
+        "caloriesMax": 188,
+        "protein": 17.59765482601155,
+        "carbs": 10.631342052661525,
+        "fat": 7.859798463044709,
+        "fiber": 3.8777671318973135
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (bengali style)"
+      ]
+    },
+    {
+      "id": "306664f5-a569-4506-b513-df7c9b45dce5",
+      "name": "Egg Bhurji (Maharashtrian style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 94,
+        "caloriesMax": 170,
+        "protein": 11.429951998097302,
+        "carbs": 9.096816063781407,
+        "fat": 14.159453056635446,
+        "fiber": 1.7758572100724264
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (maharashtrian style)"
+      ]
+    },
+    {
+      "id": "433a311f-0087-421a-a7e9-8d6965032e69",
+      "name": "Egg Bhurji (Gujarati style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 147,
+        "protein": 11.72511511378794,
+        "carbs": 7.706152132515958,
+        "fat": 10.761650552236501,
+        "fiber": 4.6157062920459095
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (gujarati style)"
+      ]
+    },
+    {
+      "id": "ca91ff91-4989-4ba7-81df-e4172a505ecb",
+      "name": "Egg Bhurji (Rajasthani)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 97,
+        "caloriesMax": 180,
+        "protein": 12.944738480140732,
+        "carbs": 8.544024230903808,
+        "fat": 14.520095493175587,
+        "fiber": 4.297018483871762
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (rajasthani)"
+      ]
+    },
+    {
+      "id": "ecddb7e5-6486-4ccb-9e59-68297ab85a78",
+      "name": "Egg Bhurji (Home-style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
