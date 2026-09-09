@@ -14603,3 +14603,638 @@
       "name": "Egg Bhurji (Home-style)",
       "category": "nonVeg",
       "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 115,
+        "caloriesMax": 162,
+        "protein": 14.192149258003472,
+        "carbs": 9.008161794218498,
+        "fat": 5.322863415817475,
+        "fiber": 4.771553753054368
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (home-style)"
+      ]
+    },
+    {
+      "id": "4df3ee32-3d59-4e05-b3ef-0aabddcbd260",
+      "name": "Egg Bhurji (Dhaba style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 96,
+        "caloriesMax": 193,
+        "protein": 10.951456942029834,
+        "carbs": 13.324328175192132,
+        "fat": 4.467782350427106,
+        "fiber": 1.5546126505322615
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (dhaba style)"
+      ]
+    },
+    {
+      "id": "20c996f2-339f-492a-98ed-1bf8e8a1a838",
+      "name": "Egg Bhurji (Restaurant style)",
+      "category": "nonVeg",
+      "subCategory": "egg",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "MEDIUM",
+      "per100g": {
+        "caloriesMin": 101,
+        "caloriesMax": 176,
+        "protein": 14.732826483487813,
+        "carbs": 10.863123127935403,
+        "fat": 9.31258732721567,
+        "fiber": 1.354183640542479
+      },
+      "portions": [
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg bhurji (restaurant style)"
+      ]
+    },
+    {
+      "id": "ce57457f-c271-421a-b73d-6e8f9af3161c",
+      "name": "Pizza Margherita - Regular",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 343,
+        "protein": 5.93623404667207,
+        "carbs": 24.15406609831879,
+        "fat": 17.193523838991915,
+        "fiber": 1.1722925039082512
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pizza margherita",
+        "pizza margherita regular"
+      ]
+    },
+    {
+      "id": "3cb2e985-a3a5-4541-897b-9fe637d31861",
+      "name": "Pizza Margherita - Large",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 209,
+        "caloriesMax": 333,
+        "protein": 12.131307182334858,
+        "carbs": 24.467886619246535,
+        "fat": 16.189056537839587,
+        "fiber": 3.074806326285874
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pizza margherita",
+        "pizza margherita large"
+      ]
+    },
+    {
+      "id": "20e60035-487a-4fd2-b174-9ec588d638b6",
+      "name": "Pizza Margherita - Spicy",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 242,
+        "caloriesMax": 276,
+        "protein": 3.215942756063794,
+        "carbs": 16.261422717059514,
+        "fat": 18.974882644074007,
+        "fiber": 3.917764035552884
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pizza margherita",
+        "pizza margherita spicy"
+      ]
+    },
+    {
+      "id": "5c9ed597-acd3-45cd-a937-473d9b700c79",
+      "name": "Pizza Margherita - Healthy",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155,
+        "caloriesMax": 341,
+        "protein": 4.3714262016418095,
+        "carbs": 28.403858167232816,
+        "fat": 19.707711311285927,
+        "fiber": 3.828851358248334
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pizza margherita",
+        "pizza margherita healthy"
+      ]
+    },
+    {
+      "id": "950cd64a-c8b2-4017-8900-5515bcf66780",
+      "name": "Pizza Margherita - Low Fat",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 203,
+        "caloriesMax": 309,
+        "protein": 9.734813590740032,
+        "carbs": 23.027605667522643,
+        "fat": 8.08410399271966,
+        "fiber": 1.9329973267808822
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pizza margherita",
+        "pizza margherita low fat"
+      ]
+    },
+    {
+      "id": "1b8ef526-53bd-4452-859e-81dd1941b897",
+      "name": "Pepperoni Pizza - Regular",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 186,
+        "caloriesMax": 312,
+        "protein": 12.81584968088317,
+        "carbs": 18.629538829667545,
+        "fat": 7.411908187839715,
+        "fiber": 1.9066720570683808
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pepperoni pizza",
+        "pepperoni pizza regular"
+      ]
+    },
+    {
+      "id": "f24ba281-5b52-4728-8cfa-153a1b7886cc",
+      "name": "Pepperoni Pizza - Large",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195,
+        "caloriesMax": 309,
+        "protein": 10.47852658232767,
+        "carbs": 14.299593747039296,
+        "fat": 15.99856230355456,
+        "fiber": 3.508838746877322
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pepperoni pizza",
+        "pepperoni pizza large"
+      ]
+    },
+    {
+      "id": "6f3bccb2-4ae7-4432-be22-c1ff2e758445",
+      "name": "Pepperoni Pizza - Spicy",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150,
+        "caloriesMax": 271,
+        "protein": 11.47176329384418,
+        "carbs": 29.37930021885579,
+        "fat": 10.083769587456334,
+        "fiber": 3.2985840928464287
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pepperoni pizza",
+        "pepperoni pizza spicy"
+      ]
+    },
+    {
+      "id": "bf277832-8155-4ff1-8828-8fefa73ce6e7",
+      "name": "Pepperoni Pizza - Healthy",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 236,
+        "caloriesMax": 294,
+        "protein": 4.425482641777633,
+        "carbs": 19.419519698260487,
+        "fat": 13.81316323948274,
+        "fiber": 1.1346833169306365
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pepperoni pizza",
+        "pepperoni pizza healthy"
+      ]
+    },
+    {
+      "id": "df09ba00-2ac2-4e93-a1aa-371f7d348a2c",
+      "name": "Pepperoni Pizza - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 157,
+        "caloriesMax": 348,
+        "protein": 10.461998677382205,
+        "carbs": 10.77556873210517,
+        "fat": 11.851638357757611,
+        "fiber": 2.361801855463697
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pepperoni pizza",
+        "pepperoni pizza low fat"
+      ]
+    },
+    {
+      "id": "0b79c195-475e-4952-ae08-1811a4f87cc3",
+      "name": "Pasta Alfredo - Regular",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190,
+        "caloriesMax": 299,
+        "protein": 10.776738875629892,
+        "carbs": 28.276160757997218,
+        "fat": 7.679412980750335,
+        "fiber": 2.6199067943959062
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pasta alfredo",
+        "pasta alfredo regular"
+      ]
+    },
+    {
+      "id": "01d79518-9da1-4e61-9624-db622be73cfe",
+      "name": "Pasta Alfredo - Large",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 191,
+        "caloriesMax": 325,
+        "protein": 11.432996600160457,
+        "carbs": 20.442675802616677,
+        "fat": 14.457970240463647,
+        "fiber": 3.951842896121254
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pasta alfredo",
+        "pasta alfredo large"
+      ]
+    },
+    {
+      "id": "e37bc8ce-2e5c-41b2-91a2-05a52fed0325",
+      "name": "Pasta Alfredo - Spicy",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175,
+        "caloriesMax": 304,
+        "protein": 7.084766765672473,
+        "carbs": 19.539991679382787,
+        "fat": 17.36734275855526,
+        "fiber": 2.694919277354297
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pasta alfredo",
+        "pasta alfredo spicy"
+      ]
+    },
+    {
+      "id": "a1945175-d54a-4855-b9bd-01fee2c7007f",
+      "name": "Pasta Alfredo - Healthy",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 182,
+        "caloriesMax": 347,
+        "protein": 12.713722906160331,
+        "carbs": 20.179110672092477,
+        "fat": 17.065028633624493,
+        "fiber": 2.676161604580784
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pasta alfredo",
+        "pasta alfredo healthy"
+      ]
+    },
+    {
+      "id": "eaf31376-2b52-48b1-b91e-4efcdd6230fc",
+      "name": "Pasta Alfredo - Low Fat",
+      "category": "veg",
+      "subCategory": "italian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190,
+        "caloriesMax": 303,
+        "protein": 2.9416321777421315,
+        "carbs": 23.160266434827584,
+        "fat": 13.210727724274156,
+        "fiber": 2.815184388532776
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pasta alfredo",
+        "pasta alfredo low fat"
+      ]
+    },
+    {
+      "id": "0fb6f670-8d9b-464e-b0da-8e14d42288fe",
+      "name": "Spaghetti Bolognese - Regular",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 202,
+        "caloriesMax": 339,
+        "protein": 14.531208970418097,
+        "carbs": 17.282901813102512,
+        "fat": 6.391249650189881,
+        "fiber": 1.6700409882726195
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spaghetti bolognese",
+        "spaghetti bolognese regular"
+      ]
+    },
+    {
+      "id": "8082aa84-0cc2-49d2-80fb-7d6acc40a982",
+      "name": "Spaghetti Bolognese - Large",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 213,
+        "caloriesMax": 320,
+        "protein": 3.355995895921187,
+        "carbs": 15.848634396515902,
+        "fat": 6.4286699575721915,
+        "fiber": 2.8979859775766315
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spaghetti bolognese",
+        "spaghetti bolognese large"
+      ]
+    },
+    {
+      "id": "1aee6907-d536-4401-aef7-e5c4d1c2ae95",
+      "name": "Spaghetti Bolognese - Spicy",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
