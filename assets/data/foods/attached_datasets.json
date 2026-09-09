@@ -39214,3 +39214,1035 @@
         "protein": 14.0,
         "carbs": 43.0,
         "fat": 29.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kadalai urundai",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "deedfdd6-7279-4883-b34a-dd72bd3dac90",
+      "name": "Ellu urundai",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 12.0,
+        "carbs": 44.0,
+        "fat": 29.0,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ellu urundai",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7c68fb4c-b01f-4d7d-b472-c9cc8b2f3125",
+      "name": "Amti dal",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.0,
+        "carbs": 16.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amti dal",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "52d88c87-56f2-48c5-8c81-e9835e1c8e24",
+      "name": "Varan",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 6.5,
+        "carbs": 15.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "varan",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "c3902fee-fda7-4624-821a-08f295f31039",
+      "name": "Varan bhaat",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 5.0,
+        "carbs": 22.0,
+        "fat": 2.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "varan bhaat",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "eaa95a8d-67b5-45b1-820f-b816f0091dd8",
+      "name": "Masale bhaat",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 4.0,
+        "carbs": 27.0,
+        "fat": 5.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masale bhaat",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "66c3d4f3-82dc-48e7-82d4-213c98c83cc4",
+      "name": "Vangi bhaat",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 4.0,
+        "carbs": 28.0,
+        "fat": 5.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vangi bhaat",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "3d83a5b4-9283-436b-9469-c97b62299496",
+      "name": "Phodnicha bhaat",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 3.5,
+        "carbs": 29.0,
+        "fat": 5.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "phodnicha bhaat",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "fd9cc138-250b-4184-8973-d626ca4929ca",
+      "name": "Tondli bhaat",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 4.0,
+        "carbs": 26.0,
+        "fat": 4.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tondli bhaat",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "f2f20208-6c8a-4079-9e9e-d325dab31699",
+      "name": "Narali bhaat",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 4.0,
+        "carbs": 42.0,
+        "fat": 6.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "narali bhaat",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "b7b8a857-8017-4d8d-82ce-fa53ab5a50fe",
+      "name": "Kanda poha",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.0,
+        "carbs": 23.0,
+        "fat": 3.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kanda poha",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "214126be-69aa-48d7-93c5-d8f77ab0980b",
+      "name": "Dadpe pohe",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 3.5,
+        "carbs": 24.0,
+        "fat": 4.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dadpe pohe",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "31364f9f-df6b-46db-934a-bb28453a514f",
+      "name": "Tarri poha",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 5.0,
+        "carbs": 24.0,
+        "fat": 4.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tarri poha",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "1c30a766-a0bf-4689-83bb-b8fcf33e963b",
+      "name": "Kanda bhaji",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 8.0,
+        "carbs": 29.0,
+        "fat": 18.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kanda bhaji",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "4f8138dc-6e50-450d-bcf1-8a04ffc9b095",
+      "name": "Kothimbir thalipeeth",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 8.0,
+        "carbs": 33.0,
+        "fat": 7.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothimbir thalipeeth",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "0b523811-6127-471f-bd18-99486542673b",
+      "name": "Sabudana thalipeeth",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 4.0,
+        "carbs": 39.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sabudana thalipeeth",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "ad0abc12-aee9-4d7d-a59f-e151a0c36343",
+      "name": "Bhajani thalipeeth",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 8.0,
+        "carbs": 34.0,
+        "fat": 7.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhajani thalipeeth",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "fc17941b-d48d-49d5-97bf-b30b9a91a4b8",
+      "name": "Bharli bhendi",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 4.0,
+        "carbs": 12.0,
+        "fat": 9.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bharli bhendi",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "18bd1411-e4e4-4990-ae87-33466a9d0f1e",
+      "name": "Bharli mirchi",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 5.0,
+        "carbs": 12.0,
+        "fat": 8.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bharli mirchi",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "fa76963d-ce9f-4251-8968-2ea32419b9c8",
+      "name": "Kobi chi bhaji",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 3.0,
+        "carbs": 10.0,
+        "fat": 5.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kobi chi bhaji",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "abbc6586-93ca-43ac-a3be-ae39bee865f6",
+      "name": "Batata bhaji Maharashtrian",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 3.0,
+        "carbs": 18.0,
+        "fat": 5.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "batata bhaji maharashtrian",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "ef228372-1bf3-40c0-ada1-947260567297",
+      "name": "Shev bhaji",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 6.0,
+        "carbs": 17.0,
+        "fat": 12.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shev bhaji",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "41b17035-675d-4871-a36c-29dbe24ac67d",
+      "name": "Patodi rassa",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 8.0,
+        "carbs": 16.0,
+        "fat": 10.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "patodi rassa",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "8d243705-7f1f-43bf-997d-5605ebd89b74",
+      "name": "Kala masala chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 14.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kala masala chicken",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "0c70dec1-a548-402f-8433-d1172ee4599f",
+      "name": "Saoji chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 16.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saoji chicken",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "ae3557fb-5b86-4a03-b89e-98189ef0c83d",
+      "name": "Saoji mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 21.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saoji mutton",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "57b31fe8-041f-4f46-bb5e-0934b7095ee2",
+      "name": "Tambda rassa",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 12.0,
+        "carbs": 4.0,
+        "fat": 10.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tambda rassa",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "4a6e436d-22d5-4428-8d38-848a41885206",
+      "name": "Pandhra rassa",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 12.0,
+        "carbs": 5.0,
+        "fat": 12.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pandhra rassa",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "c8a65045-ddde-4fdf-b05a-c2f891fb8474",
+      "name": "Chicken sukka Malvani",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 20.0,
+        "carbs": 5.0,
+        "fat": 17.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken sukka malvani",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "b0d3868f-608b-4f35-8e65-cc58938ad65d",
+      "name": "Kombdi vade",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 11.0,
+        "carbs": 31.0,
+        "fat": 11.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kombdi vade",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "4c5abafd-f84f-4a7d-b079-b1258e4cd34d",
+      "name": "Ghavan",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 3.0,
+        "carbs": 30.0,
+        "fat": 1.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ghavan",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "9f8e744b-4e12-4f2c-9717-2f6381ee5499",
+      "name": "Amboli",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.0,
+        "carbs": 31.0,
+        "fat": 2.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
