@@ -37150,3 +37150,1035 @@
       ]
     },
     {
+      "id": "e7d0eceb-f112-4610-b872-f4c6e65d6b1d",
+      "name": "Shavige bath",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 4.0,
+        "carbs": 26.0,
+        "fat": 4.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shavige bath",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "36cd616c-78c2-4545-8a68-78fde95ee979",
+      "name": "Mosaranna",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.5,
+        "carbs": 21.0,
+        "fat": 3.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mosaranna",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "ddb6f9c6-c1a9-4f49-9849-5475cb16fa90",
+      "name": "Puliyogare gojju",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 3.0,
+        "carbs": 30.0,
+        "fat": 9.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "puliyogare gojju",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "2d6d8c6d-8d7c-48a0-b20e-07f48bccb44d",
+      "name": "Menthya bath",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.0,
+        "carbs": 27.0,
+        "fat": 4.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "menthya bath",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "99a6c85d-f6aa-4cdc-a380-e8d5ddb8afc8",
+      "name": "Tomato bath",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 3.5,
+        "carbs": 27.0,
+        "fat": 4.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato bath",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "ba16bcd8-cdd3-4a33-bffb-f24c30a7401d",
+      "name": "Palav Karnataka",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.0,
+        "carbs": 27.0,
+        "fat": 4.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palav karnataka",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "e9f033dc-7eac-4cc2-9421-59bf0f130ee5",
+      "name": "Donne chicken biryani",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 11.0,
+        "carbs": 23.0,
+        "fat": 7.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "donne chicken biryani",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "d7abbf2b-0957-46e7-a20b-678ef532b736",
+      "name": "Donne mutton biryani",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 12.0,
+        "carbs": 22.0,
+        "fat": 10.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "donne mutton biryani",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "23459aeb-4c84-4e01-a858-c8de18b2c5f6",
+      "name": "Mandakki oggarane",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 4.0,
+        "carbs": 28.0,
+        "fat": 3.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mandakki oggarane",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "dcac22d7-83dc-4e1c-962c-f49e31084c5f",
+      "name": "Goli baje",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 6.0,
+        "carbs": 42.0,
+        "fat": 14.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "goli baje",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "1c7093db-7c8d-4619-87d6-7d81d54b916d",
+      "name": "Mangalore bajji",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 305.0,
+        "caloriesMax": 325.0,
+        "protein": 6.0,
+        "carbs": 41.0,
+        "fat": 14.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mangalore bajji",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "62ea397d-c6ea-47f2-8c4a-b423da82e70e",
+      "name": "Mosaru bajji",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 3.0,
+        "carbs": 8.0,
+        "fat": 3.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mosaru bajji",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "55dce529-6e74-4dd3-817b-47e8681b5bdb",
+      "name": "Huli tovve",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 6.0,
+        "carbs": 15.0,
+        "fat": 2.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "huli tovve",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "34761700-cd28-42dc-a02f-4b70e97c3f57",
+      "name": "Bassaru",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 4.0,
+        "carbs": 10.0,
+        "fat": 1.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bassaru",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "b40052bd-cd51-421c-a832-350d57967fbe",
+      "name": "Upsaaru",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 3.5,
+        "carbs": 9.0,
+        "fat": 1.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "upsaaru",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "1445a9c7-95f6-4d62-932c-656b30b2ebd4",
+      "name": "Kaalina palya",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 7.0,
+        "carbs": 17.0,
+        "fat": 3.5,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaalina palya",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "36408260-5b7e-4485-9f48-a64b45a742ea",
+      "name": "Huruli saaru",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 5.0,
+        "carbs": 12.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "huruli saaru",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "7938a40a-fed7-4fc6-9490-9019e847f445",
+      "name": "Majjige",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 1.5,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "majjige",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "823afd43-4681-4d58-8a38-b4e2394844e9",
+      "name": "Kayi holige",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 290.0,
+        "caloriesMax": 310.0,
+        "protein": 6.0,
+        "carbs": 52.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kayi holige",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "16ca9ee7-906f-4162-aede-4cbd5336916e",
+      "name": "Sajjige",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 4.0,
+        "carbs": 44.0,
+        "fat": 10.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sajjige",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "1a02f344-9fd4-4188-b93a-e48c81811b4d",
+      "name": "Karadantu",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 460.0,
+        "caloriesMax": 480.0,
+        "protein": 11.0,
+        "carbs": 48.0,
+        "fat": 27.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karadantu",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "ac92e2a5-a2f5-461e-a059-c5687be97551",
+      "name": "Belagavi kunda",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 10.0,
+        "carbs": 48.0,
+        "fat": 15.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "belagavi kunda",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "d0c6be31-28a1-4569-9057-7130ca89ddd4",
+      "name": "Manohara",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 8.0,
+        "carbs": 58.0,
+        "fat": 25.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "manohara",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "6adc62e0-485a-4567-9e73-9abcd63add06",
+      "name": "Udupi sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 3.5,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "udupi sambar",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "ccf5d554-9c74-4812-bc0e-e629715eb1ef",
+      "name": "Udupi tomato rasam",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 1.2,
+        "carbs": 6.0,
+        "fat": 0.7,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "udupi tomato rasam",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "4e4d4094-0419-499e-a29a-ee6efca92726",
+      "name": "Chettinad mushroom",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 5.0,
+        "carbs": 10.0,
+        "fat": 9.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad mushroom",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c38aa50f-b36f-4349-b4be-62f12f667697",
+      "name": "Chettinad paneer",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 11.0,
+        "carbs": 8.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad paneer",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "60f6886b-4549-4de5-b7c4-7b9802b832f2",
+      "name": "Chettinad fish curry",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 16.0,
+        "carbs": 5.0,
+        "fat": 9.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad fish curry",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c853d439-cf58-495c-b7d2-515410d2d089",
+      "name": "Nattu kozhi kuzhambu",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 13.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nattu kozhi kuzhambu",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4c2792ab-a5a3-4eef-beb7-569eb378feb9",
+      "name": "Mutton chukka",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 20.0,
+        "carbs": 4.0,
+        "fat": 22.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton chukka",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c0be0194-fe21-4494-98c2-b99fed5ee4ec",
+      "name": "Chicken chukka",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 20.0,
+        "carbs": 5.0,
+        "fat": 16.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken chukka",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8a9bb76f-67cb-4cd6-b63c-646899d00f0e",
+      "name": "Pallipalayam chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
