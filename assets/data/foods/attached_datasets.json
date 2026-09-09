@@ -38182,3 +38182,1035 @@
         "lunch",
         "dinner",
         "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 21.0,
+        "carbs": 4.0,
+        "fat": 18.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pallipalayam chicken",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2cf27051-45e3-45dd-bb37-c6fc05490f91",
+      "name": "Kongunadu chicken curry",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 14.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kongunadu chicken curry",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d34c2942-c261-4cd6-814b-f26ddcbf2df0",
+      "name": "Kongunadu mutton curry",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 18.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kongunadu mutton curry",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "299ba1c4-64ed-42c8-97b7-3476869bc5ee",
+      "name": "Nandu masala",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 18.0,
+        "carbs": 6.0,
+        "fat": 8.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nandu masala",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ab54332d-c6d1-45b5-84db-7e1ec1c3b262",
+      "name": "Eral thokku",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 20.0,
+        "carbs": 6.0,
+        "fat": 9.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "eral thokku",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8e20587e-eb45-462d-b00c-4fb79d089350",
+      "name": "Vanjaram fry",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 22.0,
+        "carbs": 5.0,
+        "fat": 17.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vanjaram fry",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "35ed319b-9052-46c6-8f2f-5a8a01d8129b",
+      "name": "Karuvattu kuzhambu",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 20.0,
+        "carbs": 6.0,
+        "fat": 9.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karuvattu kuzhambu",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4bdf4b7d-96b4-4263-a127-6dc7f23b8bdc",
+      "name": "Mutta kalakki",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 12.0,
+        "carbs": 3.0,
+        "fat": 15.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutta kalakki",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "117ddbf4-fa5f-49af-91cb-fa0096ea3fed",
+      "name": "Kari dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 13.0,
+        "carbs": 25.0,
+        "fat": 9.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kari dosa",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f0625ccd-3121-4d1b-b728-20e7b89a9067",
+      "name": "Madurai bun parotta",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 7.0,
+        "carbs": 45.0,
+        "fat": 17.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "madurai bun parotta",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2a6c87ed-32fe-4405-947f-b76661bc816f",
+      "name": "Veechu parotta",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 335.0,
+        "caloriesMax": 355.0,
+        "protein": 7.0,
+        "carbs": 46.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veechu parotta",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "1afab2e2-fe39-49d1-9887-939d2bfb7cf2",
+      "name": "Coin parotta",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 7.0,
+        "carbs": 46.0,
+        "fat": 16.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coin parotta",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ee0c5e69-f62f-4e44-8a7e-543f760ea6a9",
+      "name": "Ceylon parotta",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 290.0,
+        "caloriesMax": 310.0,
+        "protein": 12.0,
+        "carbs": 34.0,
+        "fat": 13.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ceylon parotta",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "bc1856b8-8cfb-47eb-9ee4-92eca86daaf6",
+      "name": "Keerai poriyal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 4.0,
+        "carbs": 8.0,
+        "fat": 4.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "keerai poriyal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7bfff436-224c-436a-b5cd-8942e6255254",
+      "name": "Vazhakkai poriyal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 2.5,
+        "carbs": 21.0,
+        "fat": 4.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vazhakkai poriyal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6f34bc82-74e9-4691-9b10-ecf8f490103f",
+      "name": "Vazhaithandu poriyal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.0,
+        "carbs": 8.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vazhaithandu poriyal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f187bbca-a571-4b39-9bc4-0cae4592b64d",
+      "name": "Chow chow kootu",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 4.5,
+        "carbs": 11.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chow chow kootu",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "00973b09-37cb-456a-a835-987f4aa3e278",
+      "name": "Poosanikai kootu",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 4.0,
+        "carbs": 10.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poosanikai kootu",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "abcde2b3-ea1c-464b-962b-e03bf02a3b9f",
+      "name": "Paruppu usili",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 9.0,
+        "carbs": 18.0,
+        "fat": 7.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paruppu usili",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4bb09334-d9c8-4784-8577-b3610767d7af",
+      "name": "Beans paruppu usili",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 7.0,
+        "carbs": 15.0,
+        "fat": 6.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beans paruppu usili",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "274b570b-8ba9-4531-bcd5-b97ca06a9cce",
+      "name": "Vazhaipoo usili",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 7.0,
+        "carbs": 17.0,
+        "fat": 6.0,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vazhaipoo usili",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "cbb73d40-45da-405a-902d-d3b07eea8fed",
+      "name": "Poondu rasam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 30.0,
+        "caloriesMax": 50.0,
+        "protein": 1.5,
+        "carbs": 7.0,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poondu rasam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "845e0edb-2e8d-43f9-a5b9-514d913cd9cd",
+      "name": "Milagu rasam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 1.2,
+        "carbs": 6.0,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "milagu rasam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4a6140b8-5c2f-4914-9d02-988dae07f9b4",
+      "name": "Kollu rasam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 2.5,
+        "carbs": 7.0,
+        "fat": 0.8,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kollu rasam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "033723c0-9962-4934-a2e9-b71baf999c11",
+      "name": "Arachuvitta sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 4.0,
+        "carbs": 10.0,
+        "fat": 2.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arachuvitta sambar",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "597eb3ea-36b7-44a6-80d8-da1f61c946b4",
+      "name": "Kadamba sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 3.5,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kadamba sambar",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "48eb55fa-552b-4fb5-b80f-06e7e58576e0",
+      "name": "Pineapple rasam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 1.0,
+        "carbs": 9.0,
+        "fat": 0.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple rasam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "300854c1-6e1d-4824-a3b5-172c01aaf190",
+      "name": "Thengai sadam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 3.5,
+        "carbs": 28.0,
+        "fat": 7.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thengai sadam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7b65885e-1d30-4768-9972-b56edf56752a",
+      "name": "Ellu sadam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 5.0,
+        "carbs": 28.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ellu sadam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0625a880-dd53-44f3-aaad-8c6934c6e16b",
+      "name": "Kalkandu pongal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 4.0,
+        "carbs": 42.0,
+        "fat": 5.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kalkandu pongal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4567ffa0-f3cd-4dd8-83c2-b337615dc1b0",
+      "name": "Karupatti paniyaram",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 4.0,
+        "carbs": 40.0,
+        "fat": 7.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karupatti paniyaram",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "840248dd-3080-4f89-a64d-146dbe3c1f1a",
+      "name": "Kadalai urundai",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 14.0,
+        "carbs": 43.0,
+        "fat": 29.0,
