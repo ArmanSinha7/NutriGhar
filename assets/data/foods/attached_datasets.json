@@ -40246,3 +40246,1035 @@
           "weightMaxG": 150
         }
       ],
+      "aliases": [
+        "amboli",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "b378739b-674a-436b-9f03-f052fe09cceb",
+      "name": "Khaman",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 6.0,
+        "carbs": 23.0,
+        "fat": 4.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khaman",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "5fc203a1-8d74-42a7-b91e-60792b4b8351",
+      "name": "Nylon khaman",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 6.0,
+        "carbs": 24.0,
+        "fat": 4.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nylon khaman",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "e47e41b9-2c0f-4986-b012-bc793326440e",
+      "name": "Surti locho",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 7.0,
+        "carbs": 25.0,
+        "fat": 5.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "surti locho",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "1beb6683-cd40-4d1c-b220-1efa63584d19",
+      "name": "Sev khamani",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 8.0,
+        "carbs": 25.0,
+        "fat": 9.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sev khamani",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "d98a8345-6d71-4cc8-af92-57eb148660b8",
+      "name": "Dudhi handvo",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 6.0,
+        "carbs": 24.0,
+        "fat": 5.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dudhi handvo",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "67959d66-7b69-4ced-a30e-93b6129d94fe",
+      "name": "Mixed dal handvo",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 8.0,
+        "carbs": 26.0,
+        "fat": 6.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed dal handvo",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "ea2751f0-1ce5-45ef-9faf-e982e63f08fc",
+      "name": "Khichu",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 2.5,
+        "carbs": 24.0,
+        "fat": 1.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khichu",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "39f2c346-fdcf-45a0-8b93-da3b3292c9c5",
+      "name": "Papdi no lot",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 2.5,
+        "carbs": 24.0,
+        "fat": 1.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papdi no lot",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "5febc6f3-dd01-44b2-8ea4-bdc617b4f7e7",
+      "name": "Bajri no rotlo",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 9.0,
+        "carbs": 49.0,
+        "fat": 4.0,
+        "fiber": 8.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bajri no rotlo",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "6de3c270-ff2f-441e-8998-ad8b4326c458",
+      "name": "Rotla with ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 290.0,
+        "caloriesMax": 310.0,
+        "protein": 8.0,
+        "carbs": 45.0,
+        "fat": 10.0,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rotla with ghee",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "77423284-0ef1-432d-be76-8ced003d8f7b",
+      "name": "Methi na gota",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 8.0,
+        "carbs": 29.0,
+        "fat": 18.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi na gota",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "7bf2a228-aa77-45c5-807e-1278f4a6353f",
+      "name": "Dal vada Gujarati",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 290.0,
+        "caloriesMax": 310.0,
+        "protein": 12.0,
+        "carbs": 29.0,
+        "fat": 15.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dal vada gujarati",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "1fff7bde-f32c-4929-b760-9e6cbd9d0bc7",
+      "name": "Chorafali",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 490.0,
+        "caloriesMax": 510.0,
+        "protein": 14.0,
+        "carbs": 54.0,
+        "fat": 25.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chorafali",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "c08f85a7-1a8e-4151-b362-a4f55b527d45",
+      "name": "Mathiya",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 500.0,
+        "caloriesMax": 520.0,
+        "protein": 15.0,
+        "carbs": 52.0,
+        "fat": 27.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mathiya",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "4f072915-75dc-440d-8387-7dbbd9ebaffa",
+      "name": "Bhakarwadi",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat/Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 460.0,
+        "caloriesMax": 480.0,
+        "protein": 9.0,
+        "carbs": 55.0,
+        "fat": 24.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhakarwadi",
+        "gujarat/maharashtra"
+      ]
+    },
+    {
+      "id": "2d15769d-3978-4444-90f1-45a276b0cf72",
+      "name": "Doodhpak",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.0,
+        "carbs": 28.0,
+        "fat": 5.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "doodhpak",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "87729675-7a3c-4be0-92d4-96de1f643c4a",
+      "name": "Kansar",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 6.0,
+        "carbs": 58.0,
+        "fat": 10.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kansar",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "d1ab9c56-96fa-4fb1-8d10-c69dafcaff51",
+      "name": "Lapsi Gujarati",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 5.0,
+        "carbs": 42.0,
+        "fat": 6.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lapsi gujarati",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "2ecee931-5a79-4328-99fe-4cfe9c37a456",
+      "name": "Ghughra",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 410.0,
+        "caloriesMax": 430.0,
+        "protein": 7.0,
+        "carbs": 58.0,
+        "fat": 18.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ghughra",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "b4f9156e-a936-4686-b566-fae7837605f7",
+      "name": "Kopra pak",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 440.0,
+        "caloriesMax": 460.0,
+        "protein": 5.0,
+        "carbs": 55.0,
+        "fat": 24.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kopra pak",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "f9bf80d1-17ed-4849-849f-075daf3b39b1",
+      "name": "Undhiyu surti",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 5.0,
+        "carbs": 19.0,
+        "fat": 5.5,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "undhiyu surti",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "80961c40-0126-4c39-9c72-0e81244b2900",
+      "name": "Turiya patra shaak",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 4.0,
+        "carbs": 14.0,
+        "fat": 4.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "turiya patra shaak",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "263e67c1-1689-4cd0-aad7-9c62f6f33123",
+      "name": "Bhinda nu shaak",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.0,
+        "carbs": 11.0,
+        "fat": 6.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhinda nu shaak",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "7119a253-b738-4fee-af70-65a4651f29e3",
+      "name": "Dudhi chana dal",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 5.0,
+        "carbs": 14.0,
+        "fat": 3.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dudhi chana dal",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "787eaf34-3616-494c-a1fc-772603bfb657",
+      "name": "Valor papdi shaak",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 5.0,
+        "carbs": 15.0,
+        "fat": 4.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "valor papdi shaak",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "3ef8a7e5-75cf-4796-9f0e-c39d84869e22",
+      "name": "Rajasthani raab",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 3.0,
+        "carbs": 12.0,
+        "fat": 2.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rajasthani raab",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "b271f8df-42e7-45c1-863b-b498182bb87a",
+      "name": "Bajra raab",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 3.0,
+        "carbs": 13.0,
+        "fat": 2.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bajra raab",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "45d451e2-9323-4fa9-a04d-fd6b9fbda808",
+      "name": "Rabodi ki sabzi",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 6.0,
+        "carbs": 17.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rabodi ki sabzi",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "04afc9d0-65e3-4ebe-bed4-ec7f23ebd757",
+      "name": "Panchkuta",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 5.0,
+        "carbs": 14.0,
+        "fat": 9.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "panchkuta",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "f1a560bc-81c5-4723-8812-ff97cb723eb9",
+      "name": "Kair dak sabzi",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 4.0,
+        "carbs": 15.0,
+        "fat": 8.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kair dak sabzi",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "7842dfb3-37df-4f88-9e41-3b34ca66f91b",
+      "name": "Govind gatta",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 8.0,
+        "carbs": 17.0,
+        "fat": 14.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "govind gatta",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "45002f5e-8be8-459c-9e82-7d50f743a3b5",
+      "name": "Shahi gatte",
+      "category": "imported_csv_2",
