@@ -42310,3 +42310,1035 @@
         "snack"
       ],
       "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 8.0,
+        "carbs": 23.0,
+        "fat": 5.5,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amritsari chole",
+        "punjab"
+      ]
+    },
+    {
+      "id": "8f7ca3fe-ce30-4345-9a72-8819b6019e18",
+      "name": "Chole kulche",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 7.0,
+        "carbs": 35.0,
+        "fat": 5.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chole kulche",
+        "punjab"
+      ]
+    },
+    {
+      "id": "de1606ac-4de2-4beb-b2f3-699d24baef50",
+      "name": "Amritsari paneer bhurji",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 13.0,
+        "carbs": 7.0,
+        "fat": 18.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amritsari paneer bhurji",
+        "punjab"
+      ]
+    },
+    {
+      "id": "57ae6c51-8248-460f-abc8-13cbc2574a9b",
+      "name": "Tawa paneer",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 12.0,
+        "carbs": 8.0,
+        "fat": 16.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tawa paneer",
+        "punjab"
+      ]
+    },
+    {
+      "id": "48f0eef2-5fad-41de-b1ac-3ce344ba57f3",
+      "name": "Achari paneer",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 12.0,
+        "carbs": 8.0,
+        "fat": 17.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "achari paneer",
+        "punjab"
+      ]
+    },
+    {
+      "id": "6b14cf43-eace-4218-bd73-ecca5ed68c62",
+      "name": "Achari chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 12.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "achari chicken",
+        "punjab"
+      ]
+    },
+    {
+      "id": "ddb6cc67-70a5-4eb3-89d7-b0df4c83b250",
+      "name": "Punjabi chicken curry",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 11.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "punjabi chicken curry",
+        "punjab"
+      ]
+    },
+    {
+      "id": "4bec28a2-1c57-488b-bab5-d4b51edde4ba",
+      "name": "Bhatti chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 24.0,
+        "carbs": 3.0,
+        "fat": 9.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhatti chicken",
+        "punjab"
+      ]
+    },
+    {
+      "id": "612f6b0f-60f7-40a2-afd3-679b03465980",
+      "name": "Tangdi kebab",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 22.0,
+        "carbs": 4.0,
+        "fat": 13.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tangdi kebab",
+        "punjab"
+      ]
+    },
+    {
+      "id": "928162ba-fcac-47f8-b3c4-b2aafed5d720",
+      "name": "Hara bhara kebab",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 7.0,
+        "carbs": 25.0,
+        "fat": 9.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hara bhara kebab",
+        "north indian"
+      ]
+    },
+    {
+      "id": "2b279a35-7c68-4125-85dd-f2b5ed3acdcf",
+      "name": "Dahi ke kebab",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 9.0,
+        "carbs": 22.0,
+        "fat": 14.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dahi ke kebab",
+        "north indian"
+      ]
+    },
+    {
+      "id": "a9e6f457-917c-4949-a5bc-32af93874ba1",
+      "name": "Veg seekh kebab",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 7.0,
+        "carbs": 23.0,
+        "fat": 8.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg seekh kebab",
+        "north indian"
+      ]
+    },
+    {
+      "id": "68308151-e77d-4c38-aa6f-aab2d3847c3a",
+      "name": "Soya seekh kebab",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 15.0,
+        "carbs": 13.0,
+        "fat": 9.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soya seekh kebab",
+        "north indian"
+      ]
+    },
+    {
+      "id": "5bceefbd-3b49-484a-badf-f2ec9bc1fa14",
+      "name": "Paneer seekh kebab",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 13.0,
+        "carbs": 10.0,
+        "fat": 18.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer seekh kebab",
+        "north indian"
+      ]
+    },
+    {
+      "id": "cc55fef5-279c-434a-90c9-f43ade37074c",
+      "name": "Corn cheese kebab",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 9.0,
+        "carbs": 25.0,
+        "fat": 14.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "corn cheese kebab",
+        "north indian"
+      ]
+    },
+    {
+      "id": "8b5de2f7-e325-4172-9f43-d59ad0b057bd",
+      "name": "Lotus stem kebab",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 7.0,
+        "carbs": 27.0,
+        "fat": 10.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lotus stem kebab",
+        "north indian"
+      ]
+    },
+    {
+      "id": "b98e6db2-fd7a-41c7-896a-608db0f56e0a",
+      "name": "Pui shaak",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.0,
+        "carbs": 9.0,
+        "fat": 4.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pui shaak",
+        "bengal"
+      ]
+    },
+    {
+      "id": "253e6219-6f9d-49e5-850e-da45b42d6ca4",
+      "name": "Lau ghonto",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 3.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lau ghonto",
+        "bengal"
+      ]
+    },
+    {
+      "id": "e3b2db65-70ac-408c-af81-20f7068d1bf6",
+      "name": "Bandhakopi ghonto",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 3.0,
+        "carbs": 12.0,
+        "fat": 5.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bandhakopi ghonto",
+        "bengal"
+      ]
+    },
+    {
+      "id": "49a6fdd1-b8c5-4c2b-9972-e75b14408f24",
+      "name": "Chingri posto",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 16.0,
+        "carbs": 7.0,
+        "fat": 12.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chingri posto",
+        "bengal"
+      ]
+    },
+    {
+      "id": "d06c263d-d695-4cfe-a0d1-1266e1d3234b",
+      "name": "Dimer kosha",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 11.0,
+        "carbs": 6.0,
+        "fat": 13.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dimer kosha",
+        "bengal"
+      ]
+    },
+    {
+      "id": "06dbc2aa-3b45-4344-842d-f8a68f543c20",
+      "name": "Murgir jhol",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 16.0,
+        "carbs": 6.0,
+        "fat": 10.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "murgir jhol",
+        "bengal"
+      ]
+    },
+    {
+      "id": "db711a9f-bd99-4373-9f84-4e5a629cad5e",
+      "name": "Murgir kosha",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 18.0,
+        "carbs": 6.0,
+        "fat": 14.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "murgir kosha",
+        "bengal"
+      ]
+    },
+    {
+      "id": "f83c0960-2f4c-4398-9684-de920effa0d0",
+      "name": "Mutton jhol Bengali",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 17.0,
+        "carbs": 6.0,
+        "fat": 16.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton jhol bengali",
+        "bengal"
+      ]
+    },
+    {
+      "id": "bf39a5e4-afcc-4907-9527-7b7ffd15e2c5",
+      "name": "Ilish bhapa",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 18.0,
+        "carbs": 3.0,
+        "fat": 19.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ilish bhapa",
+        "bengal"
+      ]
+    },
+    {
+      "id": "bb1c6eca-c712-46b8-8197-e8e620371251",
+      "name": "Bhetki paturi",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 20.0,
+        "carbs": 4.0,
+        "fat": 10.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhetki paturi",
+        "bengal"
+      ]
+    },
+    {
+      "id": "fb29346c-c444-4c21-ab96-e70a96268523",
+      "name": "Chingri bhapa",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 19.0,
+        "carbs": 5.0,
+        "fat": 9.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chingri bhapa",
+        "bengal"
+      ]
+    },
+    {
+      "id": "eaf46d8b-e0a8-4b32-afba-dd31dc3b22d6",
+      "name": "Pomfret jhal",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 10.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pomfret jhal",
+        "bengal"
+      ]
+    },
+    {
+      "id": "48be76c1-d6d8-41c2-8645-ba156a354db4",
+      "name": "Tangra macher jhol",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 7.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tangra macher jhol",
+        "bengal"
+      ]
+    },
+    {
+      "id": "3cdc5670-77f5-467d-ae4d-daea6f09aa4c",
+      "name": "Parshe macher jhol",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 16.0,
+        "carbs": 5.0,
+        "fat": 7.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "parshe macher jhol",
+        "bengal"
+      ]
+    },
+    {
+      "id": "79aaf600-f6ae-41b2-bdba-a6e1c552bfd6",
+      "name": "Kochu shak",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 3.5,
+        "carbs": 11.0,
+        "fat": 5.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kochu shak",
+        "bengal"
+      ]
+    },
+    {
+      "id": "c8010c66-ee19-41b5-a5ad-92910168f6b9",
+      "name": "Kochur loti",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.0,
+        "carbs": 15.0,
+        "fat": 5.5,
+        "fiber": 5.0
+      },
+      "portions": [
