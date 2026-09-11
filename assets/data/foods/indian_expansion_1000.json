@@ -15873,3 +15873,638 @@
       ]
     },
     {
+      "id": "c2778b81-5f52-47cb-befe-6fd6836e7689",
+      "name": "Burrito - Spicy",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 201,
+        "caloriesMax": 307,
+        "protein": 6.42285588520767,
+        "carbs": 17.48386895102609,
+        "fat": 6.184055942538787,
+        "fiber": 1.9918768721753075
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burrito",
+        "burrito spicy"
+      ]
+    },
+    {
+      "id": "9d7e07d7-5f45-4ef3-830a-b7f658b8ea66",
+      "name": "Burrito - Healthy",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 231,
+        "caloriesMax": 311,
+        "protein": 13.124593064130604,
+        "carbs": 20.945858918233743,
+        "fat": 14.328895573817224,
+        "fiber": 2.224139661904344
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burrito",
+        "burrito healthy"
+      ]
+    },
+    {
+      "id": "46dd0285-56cf-4d96-9221-1b7d2156a2e2",
+      "name": "Burrito - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 152,
+        "caloriesMax": 314,
+        "protein": 5.221996419311166,
+        "carbs": 13.124663748512393,
+        "fat": 15.903378648666768,
+        "fiber": 1.5211868443011145
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burrito",
+        "burrito low fat"
+      ]
+    },
+    {
+      "id": "5e4e464d-5b05-4609-b70d-d5fac5166217",
+      "name": "Burger - Regular",
+      "category": "nonVeg",
+      "subCategory": "american",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 229,
+        "caloriesMax": 305,
+        "protein": 9.894074973772835,
+        "carbs": 20.068703364432707,
+        "fat": 6.3848373003038645,
+        "fiber": 1.1436185571072253
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burger",
+        "burger regular"
+      ]
+    },
+    {
+      "id": "76cee4c1-64fa-47e1-a67f-37cba24595c8",
+      "name": "Burger - Large",
+      "category": "nonVeg",
+      "subCategory": "american",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 156,
+        "caloriesMax": 296,
+        "protein": 8.95168562899142,
+        "carbs": 22.043566057583767,
+        "fat": 5.969901167590867,
+        "fiber": 2.4975914720509658
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burger",
+        "burger large"
+      ]
+    },
+    {
+      "id": "d012e222-25ba-4da9-ae2d-a4382054053e",
+      "name": "Burger - Spicy",
+      "category": "nonVeg",
+      "subCategory": "american",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 312,
+        "protein": 4.097884370101425,
+        "carbs": 13.10675496641757,
+        "fat": 8.439622901664059,
+        "fiber": 1.8452810878557295
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burger",
+        "burger spicy"
+      ]
+    },
+    {
+      "id": "c80c546f-d5d5-46d0-a331-2aac85a5c2e6",
+      "name": "Burger - Healthy",
+      "category": "nonVeg",
+      "subCategory": "american",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 243,
+        "caloriesMax": 296,
+        "protein": 11.096737293888365,
+        "carbs": 23.057224421601106,
+        "fat": 6.040440118573372,
+        "fiber": 1.8269266436899705
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burger",
+        "burger healthy"
+      ]
+    },
+    {
+      "id": "71136d89-3ea7-42c7-94f5-dfe5770b9ea7",
+      "name": "Burger - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "american",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 243,
+        "caloriesMax": 278,
+        "protein": 8.241301242513758,
+        "carbs": 16.384855458240406,
+        "fat": 18.830703402267513,
+        "fiber": 3.8513239074643746
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burger",
+        "burger low fat"
+      ]
+    },
+    {
+      "id": "ed776ecc-e5dd-4397-8324-5221384fba01",
+      "name": "French Fries - Regular",
+      "category": "veg",
+      "subCategory": "american",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 239,
+        "caloriesMax": 267,
+        "protein": 13.124748812510765,
+        "carbs": 20.83211466606879,
+        "fat": 16.437933971105224,
+        "fiber": 2.564803748872977
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "french fries",
+        "french fries regular"
+      ]
+    },
+    {
+      "id": "6ffb430c-0b9e-4303-bfc7-cb1718cb4ab3",
+      "name": "French Fries - Large",
+      "category": "veg",
+      "subCategory": "american",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 233,
+        "caloriesMax": 308,
+        "protein": 2.1357795084839997,
+        "carbs": 15.86196203994374,
+        "fat": 18.80625074138743,
+        "fiber": 2.7087508059651455
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "french fries",
+        "french fries large"
+      ]
+    },
+    {
+      "id": "6e9cd81a-e6b2-4266-adee-5c12f4172f61",
+      "name": "French Fries - Spicy",
+      "category": "veg",
+      "subCategory": "american",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170,
+        "caloriesMax": 311,
+        "protein": 10.30682109653502,
+        "carbs": 15.893251822292791,
+        "fat": 8.343424156433441,
+        "fiber": 2.9003150202031023
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "french fries",
+        "french fries spicy"
+      ]
+    },
+    {
+      "id": "1b40854f-3bb2-4bf6-8d27-4e2abe09068a",
+      "name": "French Fries - Healthy",
+      "category": "veg",
+      "subCategory": "american",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 228,
+        "caloriesMax": 320,
+        "protein": 14.62306110287418,
+        "carbs": 28.969088447496173,
+        "fat": 9.700601170920223,
+        "fiber": 2.088824449225312
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "french fries",
+        "french fries healthy"
+      ]
+    },
+    {
+      "id": "e58e3fad-47b8-4898-b76c-785c222b195a",
+      "name": "French Fries - Low Fat",
+      "category": "veg",
+      "subCategory": "american",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 219,
+        "caloriesMax": 289,
+        "protein": 10.804782549646717,
+        "carbs": 29.253077370530644,
+        "fat": 8.221881634950158,
+        "fiber": 2.1619776426950406
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "french fries",
+        "french fries low fat"
+      ]
+    },
+    {
+      "id": "777139eb-4567-41e5-8ad4-2c40cf4553c3",
+      "name": "Fried Rice - Regular",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 154,
+        "caloriesMax": 281,
+        "protein": 11.083736292981042,
+        "carbs": 26.74637761198817,
+        "fat": 19.35420489122513,
+        "fiber": 1.3971778716926977
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "fried rice",
+        "fried rice regular"
+      ]
+    },
+    {
+      "id": "137cd45a-1bb5-41df-9cac-9778471a2b23",
+      "name": "Fried Rice - Large",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 239,
+        "caloriesMax": 270,
+        "protein": 4.941348495205923,
+        "carbs": 21.159966023337855,
+        "fat": 11.978229848096856,
+        "fiber": 2.871809087935486
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "fried rice",
+        "fried rice large"
+      ]
+    },
+    {
+      "id": "dbefbb95-75c9-41d3-ace7-31673aa37e32",
+      "name": "Fried Rice - Spicy",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155,
+        "caloriesMax": 342,
+        "protein": 5.217897274815874,
+        "carbs": 15.532456769210743,
+        "fat": 7.081969431644206,
+        "fiber": 3.1290912347337416
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "fried rice",
+        "fried rice spicy"
+      ]
+    },
+    {
+      "id": "a448245a-6847-4073-be40-cb46d58aefbe",
+      "name": "Fried Rice - Healthy",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225,
+        "caloriesMax": 264,
+        "protein": 10.159670280723127,
+        "carbs": 28.65208602046718,
+        "fat": 19.076784714351504,
+        "fiber": 1.846848053086732
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "fried rice",
+        "fried rice healthy"
+      ]
+    },
+    {
+      "id": "97b7709d-0b5f-459c-95d8-19bd2fabbfa8",
+      "name": "Fried Rice - Low Fat",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 184,
+        "caloriesMax": 282,
+        "protein": 4.5036703059749605,
+        "carbs": 25.451583205747863,
+        "fat": 9.748707933330994,
+        "fiber": 2.077003853715995
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "fried rice",
+        "fried rice low fat"
+      ]
+    },
+    {
+      "id": "dfb3d003-23e1-4c0f-a27e-dde30b9a7c46",
+      "name": "Chow Mein - Regular",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 264,
+        "protein": 11.406046060844767,
+        "carbs": 17.579372927993845,
+        "fat": 16.027223235033972,
+        "fiber": 1.8373821488603725
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chow mein",
+        "chow mein regular"
+      ]
+    },
+    {
+      "id": "ced6a4f4-5d8f-4cbe-b495-d3a113afa5d8",
+      "name": "Chow Mein - Large",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235,
+        "caloriesMax": 294,
+        "protein": 5.586340550547369,
+        "carbs": 15.485380457715118,
+        "fat": 18.954295299548825,
+        "fiber": 1.475344549659071
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
