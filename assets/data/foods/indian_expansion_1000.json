@@ -15238,3 +15238,638 @@
       "category": "nonVeg",
       "subCategory": "italian",
       "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 214,
+        "caloriesMax": 327,
+        "protein": 9.805457088339345,
+        "carbs": 21.20499725556462,
+        "fat": 5.687618910806829,
+        "fiber": 3.4769831774298243
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spaghetti bolognese",
+        "spaghetti bolognese spicy"
+      ]
+    },
+    {
+      "id": "f846d41c-1244-4ec7-8460-7c92c2da4645",
+      "name": "Spaghetti Bolognese - Healthy",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 207,
+        "caloriesMax": 333,
+        "protein": 3.774013398684315,
+        "carbs": 26.963184562905948,
+        "fat": 9.506080239761847,
+        "fiber": 3.0170725197986568
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spaghetti bolognese",
+        "spaghetti bolognese healthy"
+      ]
+    },
+    {
+      "id": "0bf8ce08-25c1-4251-85ad-80220839934c",
+      "name": "Spaghetti Bolognese - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "italian",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 176,
+        "caloriesMax": 281,
+        "protein": 7.990192816301492,
+        "carbs": 11.407794146368659,
+        "fat": 16.671414630414482,
+        "fiber": 2.260091354781804
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spaghetti bolognese",
+        "spaghetti bolognese low fat"
+      ]
+    },
+    {
+      "id": "20b89107-7397-4fe6-97de-640f6e1d8aa6",
+      "name": "Sushi Roll - Regular",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 229,
+        "caloriesMax": 304,
+        "protein": 2.0872734922140332,
+        "carbs": 12.65610393714249,
+        "fat": 12.761826748088156,
+        "fiber": 3.263329044082306
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "sushi roll",
+        "sushi roll regular"
+      ]
+    },
+    {
+      "id": "8913ff4b-f2a8-49d0-bbc9-3de5a39745f9",
+      "name": "Sushi Roll - Large",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 168,
+        "caloriesMax": 278,
+        "protein": 4.1805937449760675,
+        "carbs": 29.53833057540106,
+        "fat": 16.794816677888754,
+        "fiber": 3.0873749943084707
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "sushi roll",
+        "sushi roll large"
+      ]
+    },
+    {
+      "id": "e369d1a6-8cfa-4b6e-9dc2-f363088ea1f7",
+      "name": "Sushi Roll - Spicy",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 198,
+        "caloriesMax": 296,
+        "protein": 3.235407427279021,
+        "carbs": 22.75971492766805,
+        "fat": 8.351003751849332,
+        "fiber": 1.4097326529506662
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "sushi roll",
+        "sushi roll spicy"
+      ]
+    },
+    {
+      "id": "b4c4049b-858d-427e-9af2-c4ab96aa28bf",
+      "name": "Sushi Roll - Healthy",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235,
+        "caloriesMax": 335,
+        "protein": 2.0828307575616765,
+        "carbs": 29.160584513911793,
+        "fat": 13.206810184173214,
+        "fiber": 3.2081197024240273
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "sushi roll",
+        "sushi roll healthy"
+      ]
+    },
+    {
+      "id": "1a695d81-798f-4b47-bb6d-4a69495315ce",
+      "name": "Sushi Roll - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 193,
+        "caloriesMax": 326,
+        "protein": 11.195099268680904,
+        "carbs": 13.322824135249597,
+        "fat": 14.94963001895892,
+        "fiber": 2.738042297461991
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "sushi roll",
+        "sushi roll low fat"
+      ]
+    },
+    {
+      "id": "7949d205-03a8-4bb5-a3e5-82b8849d6a41",
+      "name": "Pad Thai - Regular",
+      "category": "veg",
+      "subCategory": "thai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 156,
+        "caloriesMax": 307,
+        "protein": 13.421288718778609,
+        "carbs": 28.0476936887407,
+        "fat": 5.301730256281445,
+        "fiber": 2.5653270962029593
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pad thai",
+        "pad thai regular"
+      ]
+    },
+    {
+      "id": "2d85eda2-0343-43a4-8bfc-9e80b63b42be",
+      "name": "Pad Thai - Large",
+      "category": "veg",
+      "subCategory": "thai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 187,
+        "caloriesMax": 267,
+        "protein": 12.543206240787912,
+        "carbs": 23.102302256320232,
+        "fat": 17.456728264055393,
+        "fiber": 1.5833321861649234
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pad thai",
+        "pad thai large"
+      ]
+    },
+    {
+      "id": "4345466c-f97d-4b48-b12d-fc33ec74c4f8",
+      "name": "Pad Thai - Spicy",
+      "category": "veg",
+      "subCategory": "thai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 163,
+        "caloriesMax": 321,
+        "protein": 11.48014345407277,
+        "carbs": 25.835437345892963,
+        "fat": 8.094376649443726,
+        "fiber": 3.3203048737656453
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pad thai",
+        "pad thai spicy"
+      ]
+    },
+    {
+      "id": "d052d5e7-b429-4380-8aba-c6f7fb59b356",
+      "name": "Pad Thai - Healthy",
+      "category": "veg",
+      "subCategory": "thai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 164,
+        "caloriesMax": 350,
+        "protein": 12.72363960126679,
+        "carbs": 29.046352717907688,
+        "fat": 13.427402163144402,
+        "fiber": 2.989471159006827
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pad thai",
+        "pad thai healthy"
+      ]
+    },
+    {
+      "id": "aba5edc5-ed47-4a26-8231-95b2e80d0f58",
+      "name": "Pad Thai - Low Fat",
+      "category": "veg",
+      "subCategory": "thai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 232,
+        "caloriesMax": 312,
+        "protein": 6.563431342690463,
+        "carbs": 16.850233074808607,
+        "fat": 13.489882581996579,
+        "fiber": 3.7259132996943762
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pad thai",
+        "pad thai low fat"
+      ]
+    },
+    {
+      "id": "f06cc2c3-f894-4e7b-8674-911eaa7809a2",
+      "name": "Tacos - Regular",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210,
+        "caloriesMax": 350,
+        "protein": 10.589875875793126,
+        "carbs": 20.24487079781844,
+        "fat": 12.338067680231298,
+        "fiber": 3.4382305127008923
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tacos",
+        "tacos regular"
+      ]
+    },
+    {
+      "id": "cce0d5a6-0725-4abe-b842-cf076b3e2654",
+      "name": "Tacos - Large",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 245,
+        "caloriesMax": 338,
+        "protein": 11.256177498112486,
+        "carbs": 20.837737226152775,
+        "fat": 8.298834115188908,
+        "fiber": 3.930576824798882
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tacos",
+        "tacos large"
+      ]
+    },
+    {
+      "id": "44f80ddd-1a32-4a5b-a9bc-63073762814f",
+      "name": "Tacos - Spicy",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 186,
+        "caloriesMax": 324,
+        "protein": 7.139782844224164,
+        "carbs": 19.027655965006282,
+        "fat": 14.232066260069686,
+        "fiber": 2.55242667467675
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tacos",
+        "tacos spicy"
+      ]
+    },
+    {
+      "id": "d050d3cd-236e-414f-ba24-910a445537a0",
+      "name": "Tacos - Healthy",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 221,
+        "caloriesMax": 264,
+        "protein": 14.09833231051676,
+        "carbs": 11.17461659097781,
+        "fat": 16.413547419607752,
+        "fiber": 1.0709248484514393
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tacos",
+        "tacos healthy"
+      ]
+    },
+    {
+      "id": "fa5a12af-80cb-471b-a62e-48f7cc431f1c",
+      "name": "Tacos - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155,
+        "caloriesMax": 286,
+        "protein": 4.846217236613479,
+        "carbs": 16.894514551760658,
+        "fat": 12.862442319196493,
+        "fiber": 3.458077755968909
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tacos",
+        "tacos low fat"
+      ]
+    },
+    {
+      "id": "f3ed1bb7-4ee5-4144-9e2c-94f091716df3",
+      "name": "Burrito - Regular",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 163,
+        "caloriesMax": 315,
+        "protein": 5.036216528526296,
+        "carbs": 29.372787832226592,
+        "fat": 15.904138595015258,
+        "fiber": 1.264554279734626
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burrito",
+        "burrito regular"
+      ]
+    },
+    {
+      "id": "5d4c807a-ac36-450b-8c18-11a643eed06d",
+      "name": "Burrito - Large",
+      "category": "nonVeg",
+      "subCategory": "mexican",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 194,
+        "caloriesMax": 319,
+        "protein": 12.423590729786296,
+        "carbs": 11.299801838762544,
+        "fat": 5.817426739356294,
+        "fiber": 1.0447806737790015
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "burrito",
+        "burrito large"
+      ]
+    },
+    {
