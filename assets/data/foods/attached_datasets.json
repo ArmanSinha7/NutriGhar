@@ -44374,3 +44374,1035 @@
       "aliases": [
         "ghila pitha",
         "assam"
+      ]
+    },
+    {
+      "id": "997783f9-ae4b-4eb4-9009-bf9efc87fc27",
+      "name": "Pork bharta",
+      "category": "imported_csv_2",
+      "subCategory": "Nagaland",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 19.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pork bharta",
+        "nagaland"
+      ]
+    },
+    {
+      "id": "c38252f9-ef36-453c-8d23-c3634c380716",
+      "name": "Pork with axone",
+      "category": "imported_csv_2",
+      "subCategory": "Nagaland",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 295.0,
+        "caloriesMax": 315.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 24.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pork with axone",
+        "nagaland"
+      ]
+    },
+    {
+      "id": "cf3a3dc0-7f30-49e3-8c21-07cbd02d9e45",
+      "name": "Naga smoked beef",
+      "category": "imported_csv_2",
+      "subCategory": "Nagaland",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 24.0,
+        "carbs": 3.0,
+        "fat": 18.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "naga smoked beef",
+        "nagaland"
+      ]
+    },
+    {
+      "id": "49bd6b7a-5005-4c93-9f33-51ed027b2a1e",
+      "name": "Anishi curry",
+      "category": "imported_csv_2",
+      "subCategory": "Nagaland",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 5.0,
+        "carbs": 12.0,
+        "fat": 5.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "anishi curry",
+        "nagaland"
+      ]
+    },
+    {
+      "id": "ae9c9314-af51-4fdd-81aa-82f0dc41a671",
+      "name": "Bai Mizoram",
+      "category": "imported_csv_2",
+      "subCategory": "Mizoram",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 5.0,
+        "carbs": 9.0,
+        "fat": 2.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bai mizoram",
+        "mizoram"
+      ]
+    },
+    {
+      "id": "b1726a61-6684-4ae3-8de3-9737bb15a0ab",
+      "name": "Sawhchiar",
+      "category": "imported_csv_2",
+      "subCategory": "Mizoram",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 7.0,
+        "carbs": 18.0,
+        "fat": 2.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sawhchiar",
+        "mizoram"
+      ]
+    },
+    {
+      "id": "a99ae381-ae8f-45b1-84a5-d0a835ed7b58",
+      "name": "Vawksa rep",
+      "category": "imported_csv_2",
+      "subCategory": "Mizoram",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 23.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vawksa rep",
+        "mizoram"
+      ]
+    },
+    {
+      "id": "3c034507-ee80-4ab6-b41c-e1c7b6364280",
+      "name": "Chhum han",
+      "category": "imported_csv_2",
+      "subCategory": "Mizoram",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 3.0,
+        "carbs": 9.0,
+        "fat": 1.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chhum han",
+        "mizoram"
+      ]
+    },
+    {
+      "id": "f1485204-f633-4834-8db7-e6a9efc2b63b",
+      "name": "Doh khleh",
+      "category": "imported_csv_2",
+      "subCategory": "Meghalaya",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 17.0,
+        "carbs": 4.0,
+        "fat": 16.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "doh khleh",
+        "meghalaya"
+      ]
+    },
+    {
+      "id": "58f7fbef-c6ff-4997-8da8-038c9a661c63",
+      "name": "Nakham bitchi",
+      "category": "imported_csv_2",
+      "subCategory": "Meghalaya",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 6.0,
+        "carbs": 6.0,
+        "fat": 2.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nakham bitchi",
+        "meghalaya"
+      ]
+    },
+    {
+      "id": "e31149c0-ae43-46f4-8506-ceca5794cb1e",
+      "name": "Pukhlein",
+      "category": "imported_csv_2",
+      "subCategory": "Meghalaya",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 4.0,
+        "carbs": 55.0,
+        "fat": 10.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pukhlein",
+        "meghalaya"
+      ]
+    },
+    {
+      "id": "d7870864-5684-48e4-9288-331733341aa1",
+      "name": "Kyat",
+      "category": "imported_csv_2",
+      "subCategory": "Meghalaya",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 1.0,
+        "carbs": 13.0,
+        "fat": 0.2,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kyat",
+        "meghalaya"
+      ]
+    },
+    {
+      "id": "1d5a4522-676f-464b-b4a9-66bbd9aeac9a",
+      "name": "Wahan mosdeng",
+      "category": "imported_csv_2",
+      "subCategory": "Tripura",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 17.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wahan mosdeng",
+        "tripura"
+      ]
+    },
+    {
+      "id": "cc4785a1-5faa-4e0a-ab3a-b4f59e233a43",
+      "name": "Chakhwi",
+      "category": "imported_csv_2",
+      "subCategory": "Tripura",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 5.0,
+        "carbs": 11.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chakhwi",
+        "tripura"
+      ]
+    },
+    {
+      "id": "2e63cc10-3b76-4f4f-b876-b3901b04a430",
+      "name": "Mosdeng serma",
+      "category": "imported_csv_2",
+      "subCategory": "Tripura",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 2.0,
+        "carbs": 9.0,
+        "fat": 2.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mosdeng serma",
+        "tripura"
+      ]
+    },
+    {
+      "id": "037e612b-f5e8-4e7c-b8b1-e59302422162",
+      "name": "Gudok",
+      "category": "imported_csv_2",
+      "subCategory": "Tripura",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 5.0,
+        "carbs": 10.0,
+        "fat": 2.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gudok",
+        "tripura"
+      ]
+    },
+    {
+      "id": "96379d55-77eb-40d3-8726-3f15ad2fd91d",
+      "name": "Ooti",
+      "category": "imported_csv_2",
+      "subCategory": "Manipur",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.0,
+        "carbs": 17.0,
+        "fat": 2.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ooti",
+        "manipur"
+      ]
+    },
+    {
+      "id": "d528482d-9283-4fbf-ad0d-909647e6a566",
+      "name": "Kangshoi",
+      "category": "imported_csv_2",
+      "subCategory": "Manipur",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 4.0,
+        "carbs": 8.0,
+        "fat": 1.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kangshoi",
+        "manipur"
+      ]
+    },
+    {
+      "id": "a2ef0b52-1967-4f70-af5c-e0cf514c7212",
+      "name": "Paknam",
+      "category": "imported_csv_2",
+      "subCategory": "Manipur",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 9.0,
+        "carbs": 15.0,
+        "fat": 7.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paknam",
+        "manipur"
+      ]
+    },
+    {
+      "id": "23a29be9-277c-423a-8e8e-1da4c4bbf8a4",
+      "name": "Chak hao kheer",
+      "category": "imported_csv_2",
+      "subCategory": "Manipur",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 4.0,
+        "carbs": 29.0,
+        "fat": 4.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chak hao kheer",
+        "manipur"
+      ]
+    },
+    {
+      "id": "504659aa-f91d-4ecf-b52f-0b400428aa7f",
+      "name": "Momos paneer",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 9.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "momos paneer",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "13ddc4ac-28df-4305-b5e4-4641106fa4d0",
+      "name": "Momos pork",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 12.0,
+        "carbs": 23.0,
+        "fat": 9.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "momos pork",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "8433c8c4-cda8-4ece-a739-104f0f1b2fe6",
+      "name": "Momos buff",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 13.0,
+        "carbs": 23.0,
+        "fat": 8.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "momos buff",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "ab64e047-0bcf-4058-b467-39d7f1a4152b",
+      "name": "Fried veg momos",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 6.0,
+        "carbs": 31.0,
+        "fat": 12.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fried veg momos",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "5bcedbed-c7a9-4a04-b8ce-9e886e2a13c5",
+      "name": "Fried chicken momos",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 12.0,
+        "carbs": 26.0,
+        "fat": 14.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fried chicken momos",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "48ca006e-8bed-4258-9c5a-e070fa041490",
+      "name": "Tingmo",
+      "category": "imported_csv_2",
+      "subCategory": "Himalayan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 7.0,
+        "carbs": 47.0,
+        "fat": 1.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tingmo",
+        "himalayan"
+      ]
+    },
+    {
+      "id": "e4f1c1d2-ac2c-4104-ac9a-5bc0b3c67697",
+      "name": "Mokthuk",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 6.0,
+        "carbs": 12.0,
+        "fat": 2.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mokthuk",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "111be63c-ee8d-43b9-baa2-d086cbbbb013",
+      "name": "Thukpa chicken",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 7.0,
+        "carbs": 12.0,
+        "fat": 3.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thukpa chicken",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "46ce5c2b-5667-4c50-a7ad-db6f3d447c9a",
+      "name": "Thukpa vegetable",
+      "category": "imported_csv_2",
+      "subCategory": "North-East/Tibetan Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 4.0,
+        "carbs": 13.0,
+        "fat": 2.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thukpa vegetable",
+        "north-east/tibetan indian"
+      ]
+    },
+    {
+      "id": "5f6d3936-23fe-4d6e-82d0-54ab7a651d41",
+      "name": "Chhurpi soup",
+      "category": "imported_csv_2",
+      "subCategory": "Himalayan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 6.0,
+        "carbs": 5.0,
+        "fat": 4.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chhurpi soup",
+        "himalayan"
+      ]
+    },
+    {
+      "id": "40693978-70b3-4050-a863-f1c94bc1f081",
+      "name": "Sel roti",
+      "category": "imported_csv_2",
+      "subCategory": "Himalayan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 5.0,
+        "carbs": 62.0,
+        "fat": 9.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sel roti",
+        "himalayan"
+      ]
+    },
+    {
+      "id": "a5a1165c-945e-42fe-8182-a889a2b235a1",
+      "name": "Aloo tama",
+      "category": "imported_csv_2",
+      "subCategory": "Himalayan",
+      "isVegetarian": true,
+      "mealTypes": [
