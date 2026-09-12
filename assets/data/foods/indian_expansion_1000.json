@@ -16508,3 +16508,638 @@
         }
       ],
       "aliases": [
+        "chow mein",
+        "chow mein large"
+      ]
+    },
+    {
+      "id": "560cc6e6-16e7-4bb4-9098-2c72bf33b789",
+      "name": "Chow Mein - Spicy",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 249,
+        "caloriesMax": 266,
+        "protein": 5.533456879415258,
+        "carbs": 17.00843537230206,
+        "fat": 15.073696205106488,
+        "fiber": 3.524279794372209
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chow mein",
+        "chow mein spicy"
+      ]
+    },
+    {
+      "id": "ebc96d4f-c5f4-48ff-8d9d-2aa4c6a69dae",
+      "name": "Chow Mein - Healthy",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 234,
+        "caloriesMax": 327,
+        "protein": 11.783311120877642,
+        "carbs": 23.218235438580905,
+        "fat": 13.217996294598876,
+        "fiber": 2.4867457635770105
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chow mein",
+        "chow mein healthy"
+      ]
+    },
+    {
+      "id": "3f0358f0-a8b3-47a4-907c-156aaec05a12",
+      "name": "Chow Mein - Low Fat",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 249,
+        "caloriesMax": 276,
+        "protein": 12.05717725237774,
+        "carbs": 25.45599029936696,
+        "fat": 18.570385657438514,
+        "fiber": 1.8608760363845764
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chow mein",
+        "chow mein low fat"
+      ]
+    },
+    {
+      "id": "6805f2b5-5129-4f4b-ac5d-8b5af6a6c94d",
+      "name": "Spring Roll - Regular",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 154,
+        "caloriesMax": 284,
+        "protein": 12.930723760846305,
+        "carbs": 22.86086313419922,
+        "fat": 11.789492360092954,
+        "fiber": 2.5583605659650934
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spring roll",
+        "spring roll regular"
+      ]
+    },
+    {
+      "id": "36354e24-14ad-441b-b60a-b4501ce80a70",
+      "name": "Spring Roll - Large",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 172,
+        "caloriesMax": 326,
+        "protein": 3.836779339588858,
+        "carbs": 11.904322911920048,
+        "fat": 16.676048604104775,
+        "fiber": 1.4757887082310073
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spring roll",
+        "spring roll large"
+      ]
+    },
+    {
+      "id": "38209440-b221-488e-ae0a-d310bc9b1778",
+      "name": "Spring Roll - Spicy",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 201,
+        "caloriesMax": 341,
+        "protein": 3.508630132824661,
+        "carbs": 24.849972113081492,
+        "fat": 17.022875010037108,
+        "fiber": 3.774065064567499
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spring roll",
+        "spring roll spicy"
+      ]
+    },
+    {
+      "id": "5e682ba1-0935-4717-a3a1-085cc6640b01",
+      "name": "Spring Roll - Healthy",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 156,
+        "caloriesMax": 286,
+        "protein": 8.935770654006257,
+        "carbs": 12.175824869959278,
+        "fat": 10.528202281666617,
+        "fiber": 3.287944526873004
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spring roll",
+        "spring roll healthy"
+      ]
+    },
+    {
+      "id": "11f39b10-70fa-437b-ac46-89d927f947ca",
+      "name": "Spring Roll - Low Fat",
+      "category": "veg",
+      "subCategory": "chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 239,
+        "caloriesMax": 270,
+        "protein": 7.23733495141605,
+        "carbs": 17.489061217713278,
+        "fat": 5.338340409892943,
+        "fiber": 1.1756808068862383
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "spring roll",
+        "spring roll low fat"
+      ]
+    },
+    {
+      "id": "ca5d3a73-c827-44ed-b9cb-83ef3382aba9",
+      "name": "Kung Pao Chicken - Regular",
+      "category": "nonVeg",
+      "subCategory": "chinese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 209,
+        "caloriesMax": 262,
+        "protein": 14.096089376583555,
+        "carbs": 23.582598263837973,
+        "fat": 17.4030804669072,
+        "fiber": 1.3775761478146502
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kung pao chicken",
+        "kung pao chicken regular"
+      ]
+    },
+    {
+      "id": "fa12bc5b-eeb7-4bd0-89d4-9eebfd5c97e8",
+      "name": "Kung Pao Chicken - Large",
+      "category": "nonVeg",
+      "subCategory": "chinese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 183,
+        "caloriesMax": 315,
+        "protein": 4.816653369664492,
+        "carbs": 11.54326461684204,
+        "fat": 15.946141082730747,
+        "fiber": 2.188223828856711
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kung pao chicken",
+        "kung pao chicken large"
+      ]
+    },
+    {
+      "id": "8811ad4d-f4b2-4155-aae7-9b23f4bc3d7a",
+      "name": "Kung Pao Chicken - Spicy",
+      "category": "nonVeg",
+      "subCategory": "chinese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225,
+        "caloriesMax": 274,
+        "protein": 7.583097000911863,
+        "carbs": 24.81973043579466,
+        "fat": 19.307759307860874,
+        "fiber": 2.739559911739099
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kung pao chicken",
+        "kung pao chicken spicy"
+      ]
+    },
+    {
+      "id": "0bd2cee2-d00c-4fe0-8db9-87395c165831",
+      "name": "Kung Pao Chicken - Healthy",
+      "category": "nonVeg",
+      "subCategory": "chinese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 237,
+        "caloriesMax": 298,
+        "protein": 6.518260253455229,
+        "carbs": 24.972038493364686,
+        "fat": 12.116205300647717,
+        "fiber": 2.956207936858212
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kung pao chicken",
+        "kung pao chicken healthy"
+      ]
+    },
+    {
+      "id": "b80acb3c-e074-4e46-a60f-7725dc65bfa2",
+      "name": "Kung Pao Chicken - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "chinese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 154,
+        "caloriesMax": 285,
+        "protein": 8.7539404715547,
+        "carbs": 14.934899924935944,
+        "fat": 10.531636302125545,
+        "fiber": 1.6623850688987456
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kung pao chicken",
+        "kung pao chicken low fat"
+      ]
+    },
+    {
+      "id": "b0bdcce1-50bf-42c5-ba2c-65566569e4cb",
+      "name": "Kimchi - Regular",
+      "category": "veg",
+      "subCategory": "korean",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 151,
+        "caloriesMax": 271,
+        "protein": 8.956710163692154,
+        "carbs": 14.11153815940552,
+        "fat": 15.279920564791933,
+        "fiber": 1.7566373016538117
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kimchi",
+        "kimchi regular"
+      ]
+    },
+    {
+      "id": "065950a9-6798-497c-a4fc-8954b9246ddd",
+      "name": "Kimchi - Large",
+      "category": "veg",
+      "subCategory": "korean",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 184,
+        "caloriesMax": 276,
+        "protein": 8.494961214607182,
+        "carbs": 26.916258669590356,
+        "fat": 18.77565784224818,
+        "fiber": 1.162903594066293
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kimchi",
+        "kimchi large"
+      ]
+    },
+    {
+      "id": "2ae6d6d4-b398-43ae-82bc-16f64b06b0fd",
+      "name": "Kimchi - Spicy",
+      "category": "veg",
+      "subCategory": "korean",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225,
+        "caloriesMax": 333,
+        "protein": 12.249853485547739,
+        "carbs": 13.547433748851665,
+        "fat": 12.202312308630852,
+        "fiber": 1.7665580978189792
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kimchi",
+        "kimchi spicy"
+      ]
+    },
+    {
+      "id": "ff0e6b8b-4e4c-4c47-b964-090c177298e0",
+      "name": "Kimchi - Healthy",
+      "category": "veg",
+      "subCategory": "korean",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 176,
+        "caloriesMax": 282,
+        "protein": 4.491586531814283,
+        "carbs": 11.654703062187341,
+        "fat": 10.407989368269995,
+        "fiber": 3.4711772609706824
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kimchi",
+        "kimchi healthy"
+      ]
+    },
+    {
+      "id": "650ed535-7b2e-4922-b1e2-35a266b7f3b5",
+      "name": "Kimchi - Low Fat",
+      "category": "veg",
+      "subCategory": "korean",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 239,
+        "caloriesMax": 293,
+        "protein": 3.033570300412138,
+        "carbs": 17.733003981090995,
+        "fat": 11.560871952118152,
+        "fiber": 2.403721980446232
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "kimchi",
+        "kimchi low fat"
+      ]
+    },
+    {
+      "id": "2f21187a-672b-4ae7-befb-2774f24b49b3",
+      "name": "Bibimbap - Regular",
+      "category": "nonVeg",
+      "subCategory": "korean",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 227,
+        "caloriesMax": 281,
+        "protein": 4.877002304146252,
+        "carbs": 28.752488593175173,
+        "fat": 7.4048769477283205,
+        "fiber": 1.8227571886291642
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "bibimbap",
+        "bibimbap regular"
+      ]
+    },
+    {
+      "id": "ba4c7371-02c7-4170-97ed-762946b1b021",
+      "name": "Bibimbap - Large",
+      "category": "nonVeg",
+      "subCategory": "korean",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 183,
+        "caloriesMax": 307,
+        "protein": 9.419696500218448,
+        "carbs": 10.817631605570783,
+        "fat": 6.5620630709589545,
+        "fiber": 1.1872198191771783
+      },
+      "portions": [
+        {
+          "name": "1 serving",
