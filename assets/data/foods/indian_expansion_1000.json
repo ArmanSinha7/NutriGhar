@@ -17143,3 +17143,638 @@
       "portions": [
         {
           "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "bibimbap",
+        "bibimbap large"
+      ]
+    },
+    {
+      "id": "73120cb2-1866-43c2-b135-caed88398e1d",
+      "name": "Bibimbap - Spicy",
+      "category": "nonVeg",
+      "subCategory": "korean",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 204,
+        "caloriesMax": 306,
+        "protein": 14.201825855398377,
+        "carbs": 25.591867008570034,
+        "fat": 17.82114031832699,
+        "fiber": 2.9789072544751165
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "bibimbap",
+        "bibimbap spicy"
+      ]
+    },
+    {
+      "id": "35aa7998-b09f-42de-b50a-e0453394bc33",
+      "name": "Bibimbap - Healthy",
+      "category": "nonVeg",
+      "subCategory": "korean",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230,
+        "caloriesMax": 265,
+        "protein": 13.866137320180966,
+        "carbs": 20.8038574989455,
+        "fat": 16.210099630213257,
+        "fiber": 3.82324820587696
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "bibimbap",
+        "bibimbap healthy"
+      ]
+    },
+    {
+      "id": "8e404ebd-8bd7-4b74-ae21-4715a7ca0c2e",
+      "name": "Bibimbap - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "korean",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 242,
+        "caloriesMax": 350,
+        "protein": 5.445161291698107,
+        "carbs": 25.927633009917056,
+        "fat": 19.0941846388111,
+        "fiber": 1.0974879943388962
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "bibimbap",
+        "bibimbap low fat"
+      ]
+    },
+    {
+      "id": "cd0820b2-596e-4fe4-b68b-751c0431904f",
+      "name": "Ramen - Regular",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 186,
+        "caloriesMax": 324,
+        "protein": 6.610886824709597,
+        "carbs": 11.41341061918688,
+        "fat": 17.460670592517275,
+        "fiber": 1.1978636871368575
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "ramen",
+        "ramen regular"
+      ]
+    },
+    {
+      "id": "a9b592ad-9d75-491e-a2a7-9f041186eb05",
+      "name": "Ramen - Large",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 189,
+        "caloriesMax": 309,
+        "protein": 5.8225963623317885,
+        "carbs": 27.47976178695727,
+        "fat": 14.540747558321332,
+        "fiber": 3.3059493203346024
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "ramen",
+        "ramen large"
+      ]
+    },
+    {
+      "id": "78e2286d-ee26-4b31-a255-66f1165ef85b",
+      "name": "Ramen - Spicy",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 222,
+        "caloriesMax": 274,
+        "protein": 6.514866338951478,
+        "carbs": 28.020131949501927,
+        "fat": 8.870437313977705,
+        "fiber": 1.6876970024169893
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "ramen",
+        "ramen spicy"
+      ]
+    },
+    {
+      "id": "01af6652-af1a-43b4-a046-7b910cef9ba9",
+      "name": "Ramen - Healthy",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 157,
+        "caloriesMax": 305,
+        "protein": 12.760155906977861,
+        "carbs": 19.036839650664998,
+        "fat": 7.656990667743455,
+        "fiber": 1.2194631497296906
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "ramen",
+        "ramen healthy"
+      ]
+    },
+    {
+      "id": "dd46af8f-9765-4c5a-8afc-d2aa4802e2bd",
+      "name": "Ramen - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "japanese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 152,
+        "caloriesMax": 260,
+        "protein": 4.979724509570885,
+        "carbs": 29.26036343389875,
+        "fat": 5.5858427830700155,
+        "fiber": 2.4890909646078407
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "ramen",
+        "ramen low fat"
+      ]
+    },
+    {
+      "id": "7f503c0d-e1f6-457e-a40a-20e420fa95f5",
+      "name": "Pho - Regular",
+      "category": "nonVeg",
+      "subCategory": "vietnamese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 213,
+        "caloriesMax": 260,
+        "protein": 9.005694072944292,
+        "carbs": 19.490346165146384,
+        "fat": 8.00449547648644,
+        "fiber": 1.0529164719999755
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pho",
+        "pho regular"
+      ]
+    },
+    {
+      "id": "e35e3726-5758-494d-9839-098221c32fe4",
+      "name": "Pho - Large",
+      "category": "nonVeg",
+      "subCategory": "vietnamese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 201,
+        "caloriesMax": 281,
+        "protein": 7.079491853633483,
+        "carbs": 26.479388096710373,
+        "fat": 7.156070306115048,
+        "fiber": 3.184446349584829
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pho",
+        "pho large"
+      ]
+    },
+    {
+      "id": "ac2a95fa-87da-45ea-9275-485269a53905",
+      "name": "Pho - Spicy",
+      "category": "nonVeg",
+      "subCategory": "vietnamese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 161,
+        "caloriesMax": 263,
+        "protein": 6.305195724217215,
+        "carbs": 20.026437131760325,
+        "fat": 12.47345975544275,
+        "fiber": 3.4300601369532613
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pho",
+        "pho spicy"
+      ]
+    },
+    {
+      "id": "75ee4502-8469-44d3-ab42-9d6bb45e32e1",
+      "name": "Pho - Healthy",
+      "category": "nonVeg",
+      "subCategory": "vietnamese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 177,
+        "caloriesMax": 300,
+        "protein": 3.1292013362481272,
+        "carbs": 18.29312073801961,
+        "fat": 12.456810412798237,
+        "fiber": 2.4509387283500783
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pho",
+        "pho healthy"
+      ]
+    },
+    {
+      "id": "323380b7-b793-4ff9-a51e-7564362ea600",
+      "name": "Pho - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "vietnamese",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 243,
+        "caloriesMax": 313,
+        "protein": 6.702147761801601,
+        "carbs": 10.419253160154014,
+        "fat": 14.636373650256134,
+        "fiber": 3.4104595873327543
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "pho",
+        "pho low fat"
+      ]
+    },
+    {
+      "id": "b28e1085-a817-402f-a376-6de7262a7289",
+      "name": "Falafel - Regular",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 168,
+        "caloriesMax": 348,
+        "protein": 3.332393338483642,
+        "carbs": 22.84717528246097,
+        "fat": 14.662956763725102,
+        "fiber": 3.7708204070875397
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "falafel",
+        "falafel regular"
+      ]
+    },
+    {
+      "id": "c1e96fa3-43a9-47c5-9829-333850d6e6df",
+      "name": "Falafel - Large",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 179,
+        "caloriesMax": 305,
+        "protein": 10.635713404058864,
+        "carbs": 27.568022123643587,
+        "fat": 15.211515137517392,
+        "fiber": 2.6957390991966323
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "falafel",
+        "falafel large"
+      ]
+    },
+    {
+      "id": "4c719fab-0047-4dd0-9945-775ef880db61",
+      "name": "Falafel - Spicy",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 182,
+        "caloriesMax": 311,
+        "protein": 13.753712948437693,
+        "carbs": 14.971799800980083,
+        "fat": 11.243725268611199,
+        "fiber": 2.6521373952883
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "falafel",
+        "falafel spicy"
+      ]
+    },
+    {
+      "id": "8cd9f9c7-ee4e-4a85-9eb5-3fa1a9911c4c",
+      "name": "Falafel - Healthy",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 224,
+        "caloriesMax": 333,
+        "protein": 4.242322874230903,
+        "carbs": 16.057510905952466,
+        "fat": 14.784944059070607,
+        "fiber": 2.807385504418386
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "falafel",
+        "falafel healthy"
+      ]
+    },
+    {
+      "id": "d4b26f1f-14f5-4380-9407-2aea6b4cb934",
+      "name": "Falafel - Low Fat",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 214,
+        "caloriesMax": 331,
+        "protein": 12.945380667649859,
+        "carbs": 23.325037406269004,
+        "fat": 8.003130507688423,
+        "fiber": 3.173534739506649
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "falafel",
+        "falafel low fat"
+      ]
+    },
+    {
+      "id": "8c7bd5d2-30ee-4edc-9a41-30d4e598778b",
+      "name": "Hummus - Regular",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 151,
+        "caloriesMax": 292,
+        "protein": 9.984554656404852,
+        "carbs": 11.546697378083106,
+        "fat": 16.145760350905185,
+        "fiber": 3.343563479846507
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "hummus",
+        "hummus regular"
+      ]
+    },
+    {
+      "id": "bf2ead60-5d97-4189-9ae0-019b18e73e98",
+      "name": "Hummus - Large",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 188,
+        "caloriesMax": 274,
+        "protein": 9.173798914735205,
+        "carbs": 14.158560327622956,
+        "fat": 6.538508339418453,
