@@ -46438,3 +46438,1035 @@
       "per100g": {
         "caloriesMin": 110.0,
         "caloriesMax": 130.0,
+        "protein": 2.5,
+        "carbs": 10.0,
+        "fat": 8.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baingan bharta punjabi",
+        "punjab"
+      ]
+    },
+    {
+      "id": "b9aa8215-0109-46a2-b6fe-ede3589e6cae",
+      "name": "Methi matar malai Punjabi",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 5.0,
+        "carbs": 15.0,
+        "fat": 12.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi matar malai punjabi",
+        "punjab"
+      ]
+    },
+    {
+      "id": "5f622887-ba8a-47a0-8ca2-353e73baf320",
+      "name": "Shalgam gosht",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 16.0,
+        "carbs": 7.0,
+        "fat": 12.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shalgam gosht",
+        "punjab"
+      ]
+    },
+    {
+      "id": "e50c88a7-09ea-4a75-88a5-bef5eb9f832c",
+      "name": "Saag chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 11.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saag chicken",
+        "punjab"
+      ]
+    },
+    {
+      "id": "21d7d5cf-1dfe-47e2-8792-91a0a1fbb009",
+      "name": "Palak chicken",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 11.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palak chicken",
+        "north indian"
+      ]
+    },
+    {
+      "id": "490e60e4-7133-4b68-874e-f4e8f5a4072d",
+      "name": "Chicken methi",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 12.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken methi",
+        "north indian"
+      ]
+    },
+    {
+      "id": "fe581110-237f-4d18-b519-b36fb8874744",
+      "name": "Methi mutton",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 18.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi mutton",
+        "north indian"
+      ]
+    },
+    {
+      "id": "eff410ed-a1d8-4e35-9664-5ac0dfc33c00",
+      "name": "Lauki chana dal",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 5.0,
+        "carbs": 14.0,
+        "fat": 3.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lauki chana dal",
+        "north indian"
+      ]
+    },
+    {
+      "id": "1ab138d8-d156-48df-be36-edfe9dc1981f",
+      "name": "Turai chana dal",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 5.0,
+        "carbs": 14.0,
+        "fat": 3.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "turai chana dal",
+        "north indian"
+      ]
+    },
+    {
+      "id": "03266961-195e-4739-bc03-2c5bf3f4c6e8",
+      "name": "Arbi masala",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 3.0,
+        "carbs": 21.0,
+        "fat": 5.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arbi masala",
+        "north indian"
+      ]
+    },
+    {
+      "id": "b88b58fe-0b78-463d-8a16-b57a0f895418",
+      "name": "Arbi fry",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 3.0,
+        "carbs": 24.0,
+        "fat": 9.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arbi fry",
+        "north indian"
+      ]
+    },
+    {
+      "id": "bfb79fd1-f20c-44b2-9b33-25dc992a1cb1",
+      "name": "Jimikand masala",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 3.0,
+        "carbs": 20.0,
+        "fat": 5.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jimikand masala",
+        "north indian"
+      ]
+    },
+    {
+      "id": "0c12607c-9c67-4c5a-ab9c-658584c85210",
+      "name": "Kathal masala",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.0,
+        "carbs": 19.0,
+        "fat": 6.0,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kathal masala",
+        "north indian"
+      ]
+    },
+    {
+      "id": "92a1b468-eb0a-4e6a-b96c-852031222392",
+      "name": "Kathal curry",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.0,
+        "carbs": 18.0,
+        "fat": 5.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kathal curry",
+        "north indian"
+      ]
+    },
+    {
+      "id": "13e33392-9901-4d4c-ada5-295e226f7edc",
+      "name": "Kathal biryani",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 4.5,
+        "carbs": 27.0,
+        "fat": 5.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kathal biryani",
+        "north indian"
+      ]
+    },
+    {
+      "id": "4a738402-4177-42d4-b98b-9dec7903c94d",
+      "name": "Matar nimona",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 6.0,
+        "carbs": 17.0,
+        "fat": 4.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "matar nimona",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "4f347760-6fb6-4924-8522-95901fbf689f",
+      "name": "Banarasi dum aloo",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 4.0,
+        "carbs": 21.0,
+        "fat": 10.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banarasi dum aloo",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "e6d5f0fb-9208-40ce-a3c8-2391b9cc9fce",
+      "name": "Bedmi aloo",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 7.0,
+        "carbs": 29.0,
+        "fat": 7.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bedmi aloo",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "40624530-8bab-4301-b5c2-0f46ae8aa3f0",
+      "name": "Tamatar chaat",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 3.0,
+        "carbs": 20.0,
+        "fat": 5.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tamatar chaat",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "40be7b5e-4757-4e16-9b87-05069c85be5a",
+      "name": "Banarasi kachori",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 8.0,
+        "carbs": 42.0,
+        "fat": 16.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banarasi kachori",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "c6bbda41-7577-4943-87dc-49e8fc8e1299",
+      "name": "Banarasi chooda matar",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.0,
+        "carbs": 24.0,
+        "fat": 4.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banarasi chooda matar",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "a0c2b65c-c6c4-4ef8-8fb7-fbb0df84d49a",
+      "name": "Banarasi malaiyyo",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.0,
+        "carbs": 24.0,
+        "fat": 7.0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banarasi malaiyyo",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "d6c6e7fa-2cc4-4b08-9842-7d7d4ca43931",
+      "name": "Pedakiya",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 410.0,
+        "caloriesMax": 430.0,
+        "protein": 7.0,
+        "carbs": 60.0,
+        "fat": 17.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pedakiya",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "b5b8e313-8d28-42c5-a316-caf6839aafcd",
+      "name": "Agra petha",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 0.2,
+        "carbs": 62.0,
+        "fat": 0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "agra petha",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "4461cf81-0c72-440c-9064-3bea7b59887b",
+      "name": "Kesar petha",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 0.2,
+        "carbs": 64.0,
+        "fat": 0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kesar petha",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "e97f97e6-ca51-4409-9fd5-4280d1530a28",
+      "name": "Mathura peda",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 390.0,
+        "caloriesMax": 410.0,
+        "protein": 10.0,
+        "carbs": 55.0,
+        "fat": 15.0,
+        "fiber": 0.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mathura peda",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "25630a0c-5134-47b2-ac8b-8a8db8ef142f",
+      "name": "Malai paan",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 290.0,
+        "caloriesMax": 310.0,
+        "protein": 7.0,
+        "carbs": 42.0,
+        "fat": 12.0,
+        "fiber": 0.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "malai paan",
+        "uttar pradesh"
+      ]
+    },
+    {
+      "id": "3a1503d5-dc13-412a-b56d-4f96729ba9dc",
+      "name": "Kachalu chaat",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 5.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kachalu chaat",
+        "street food"
+      ]
+    },
+    {
+      "id": "4fb6fc66-eca5-457e-94ca-cf5c9a65124f",
+      "name": "Shakarkandi chaat",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 2.0,
+        "carbs": 27.0,
+        "fat": 2.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shakarkandi chaat",
+        "street food"
+      ]
+    },
+    {
+      "id": "ac15abdd-b7d7-4030-a3be-944d28c4b5ce",
+      "name": "Matar kulcha",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 7.0,
+        "carbs": 34.0,
+        "fat": 3.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "matar kulcha",
+        "street food"
+      ]
+    },
+    {
+      "id": "f3f75c74-b826-46c9-a6b2-d211a909dcf8",
+      "name": "Ram ladoo",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 11.0,
+        "carbs": 29.0,
+        "fat": 11.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ram ladoo",
+        "street food"
+      ]
+    },
+    {
+      "id": "856a2fd9-a817-4f07-ab55-018a642be2d8",
+      "name": "Moonglet",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 11.0,
+        "carbs": 19.0,
+        "fat": 6.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
