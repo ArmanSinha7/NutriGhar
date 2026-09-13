@@ -17778,3 +17778,638 @@
         "protein": 9.173798914735205,
         "carbs": 14.158560327622956,
         "fat": 6.538508339418453,
+        "fiber": 3.602439074136178
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "hummus",
+        "hummus large"
+      ]
+    },
+    {
+      "id": "f7f9eb08-b98e-45e6-9a89-f1dbc1423287",
+      "name": "Hummus - Spicy",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210,
+        "caloriesMax": 283,
+        "protein": 9.250876733136643,
+        "carbs": 14.365895843483806,
+        "fat": 11.556323470359793,
+        "fiber": 3.4300965328381166
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "hummus",
+        "hummus spicy"
+      ]
+    },
+    {
+      "id": "0ee5b54b-a8c2-4990-8724-286097f8ee15",
+      "name": "Hummus - Healthy",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 151,
+        "caloriesMax": 316,
+        "protein": 9.019861278206445,
+        "carbs": 10.585190868531797,
+        "fat": 19.94388481919607,
+        "fiber": 1.7803444565118922
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "hummus",
+        "hummus healthy"
+      ]
+    },
+    {
+      "id": "c412c7dd-8f43-4ec7-8537-e64ffe28af9d",
+      "name": "Hummus - Low Fat",
+      "category": "veg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 181,
+        "caloriesMax": 330,
+        "protein": 7.075210741589281,
+        "carbs": 15.909759605315639,
+        "fat": 8.713159601182133,
+        "fiber": 1.5120230080243755
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "hummus",
+        "hummus low fat"
+      ]
+    },
+    {
+      "id": "41cb1723-a813-4e4a-9cb8-a68c111668f4",
+      "name": "Shawarma - Regular",
+      "category": "nonVeg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 176,
+        "caloriesMax": 296,
+        "protein": 7.181129273323446,
+        "carbs": 13.61125898340962,
+        "fat": 7.05313469373982,
+        "fiber": 3.061870015117818
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "shawarma",
+        "shawarma regular"
+      ]
+    },
+    {
+      "id": "00c64faf-1f53-4fc6-9507-b4a1b86c66b8",
+      "name": "Shawarma - Large",
+      "category": "nonVeg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 174,
+        "caloriesMax": 262,
+        "protein": 3.2383958356266955,
+        "carbs": 15.313069405037577,
+        "fat": 12.821952722502179,
+        "fiber": 2.267362039256511
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "shawarma",
+        "shawarma large"
+      ]
+    },
+    {
+      "id": "0fb29bfd-d026-4a4b-815d-20d8504dcda2",
+      "name": "Shawarma - Spicy",
+      "category": "nonVeg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160,
+        "caloriesMax": 336,
+        "protein": 3.1324029047686484,
+        "carbs": 22.34244706211308,
+        "fat": 14.614842451127528,
+        "fiber": 2.6904463849606017
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "shawarma",
+        "shawarma spicy"
+      ]
+    },
+    {
+      "id": "1b80a8b8-9305-480e-b657-05affae3c9ea",
+      "name": "Shawarma - Healthy",
+      "category": "nonVeg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 260,
+        "protein": 9.684879263819514,
+        "carbs": 26.256104837325786,
+        "fat": 19.916278045164397,
+        "fiber": 3.828645351644041
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "shawarma",
+        "shawarma healthy"
+      ]
+    },
+    {
+      "id": "c9d46b96-ae9f-44e9-9b1d-b953462f043e",
+      "name": "Shawarma - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "middle_eastern",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 186,
+        "caloriesMax": 322,
+        "protein": 6.552688652909731,
+        "carbs": 17.054702134398305,
+        "fat": 18.037894439484045,
+        "fiber": 1.3297415983657257
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "shawarma",
+        "shawarma low fat"
+      ]
+    },
+    {
+      "id": "16da3a23-baf6-4bb6-8aee-c305439a30c8",
+      "name": "Croissant - Regular",
+      "category": "veg",
+      "subCategory": "french",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 152,
+        "caloriesMax": 329,
+        "protein": 8.157518498448958,
+        "carbs": 22.889048025212386,
+        "fat": 19.249352231016186,
+        "fiber": 3.7231086602208627
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "croissant",
+        "croissant regular"
+      ]
+    },
+    {
+      "id": "0a49c2a7-bb96-455e-b761-90b2cdacca71",
+      "name": "Croissant - Large",
+      "category": "veg",
+      "subCategory": "french",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 186,
+        "caloriesMax": 314,
+        "protein": 6.75050865312555,
+        "carbs": 14.635290584065913,
+        "fat": 17.325033568918023,
+        "fiber": 1.1132373243611324
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "croissant",
+        "croissant large"
+      ]
+    },
+    {
+      "id": "387e4bb2-3ab4-4b5f-af75-7a838586b2d3",
+      "name": "Croissant - Spicy",
+      "category": "veg",
+      "subCategory": "french",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170,
+        "caloriesMax": 335,
+        "protein": 8.45579770861346,
+        "carbs": 17.9985284853798,
+        "fat": 14.985344281779316,
+        "fiber": 1.2436241120607443
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "croissant",
+        "croissant spicy"
+      ]
+    },
+    {
+      "id": "9d76795a-49e0-4d85-9fa9-80e0d0f69f89",
+      "name": "Croissant - Healthy",
+      "category": "veg",
+      "subCategory": "french",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 209,
+        "caloriesMax": 348,
+        "protein": 3.1059932541599893,
+        "carbs": 19.76306293199335,
+        "fat": 14.014798920734682,
+        "fiber": 3.8430708650869283
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "croissant",
+        "croissant healthy"
+      ]
+    },
+    {
+      "id": "c62891ef-cd48-4f9e-b805-602a0df99c9a",
+      "name": "Croissant - Low Fat",
+      "category": "veg",
+      "subCategory": "french",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 236,
+        "caloriesMax": 271,
+        "protein": 11.523387610106587,
+        "carbs": 28.480591084947108,
+        "fat": 8.583672500301535,
+        "fiber": 2.447334057069889
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "croissant",
+        "croissant low fat"
+      ]
+    },
+    {
+      "id": "ddc1384a-d590-4a56-8d70-1892d7f9a63f",
+      "name": "Paella - Regular",
+      "category": "nonVeg",
+      "subCategory": "spanish",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 268,
+        "protein": 6.265284020426609,
+        "carbs": 17.791217852899525,
+        "fat": 14.368442246225342,
+        "fiber": 2.699509770287705
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "paella",
+        "paella regular"
+      ]
+    },
+    {
+      "id": "1d3aec67-caca-4ba5-89a2-435a7c5ff5c7",
+      "name": "Paella - Large",
+      "category": "nonVeg",
+      "subCategory": "spanish",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 158,
+        "caloriesMax": 321,
+        "protein": 6.502495440607241,
+        "carbs": 10.027258422840964,
+        "fat": 5.615838737868572,
+        "fiber": 3.816951718214598
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "paella",
+        "paella large"
+      ]
+    },
+    {
+      "id": "415a4976-1770-4ec4-ad83-7577ff8302da",
+      "name": "Paella - Spicy",
+      "category": "nonVeg",
+      "subCategory": "spanish",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155,
+        "caloriesMax": 306,
+        "protein": 13.13147184889147,
+        "carbs": 13.94556866924499,
+        "fat": 5.178714472576081,
+        "fiber": 2.471048228078142
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "paella",
+        "paella spicy"
+      ]
+    },
+    {
+      "id": "7cc25038-5f54-4f55-8a06-1b9243e83c06",
+      "name": "Paella - Healthy",
+      "category": "nonVeg",
+      "subCategory": "spanish",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 224,
+        "caloriesMax": 283,
+        "protein": 11.39234849041912,
+        "carbs": 16.15727091795147,
+        "fat": 8.485063432532957,
+        "fiber": 2.690828571338408
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "paella",
+        "paella healthy"
+      ]
+    },
+    {
+      "id": "02f988df-47ba-4099-b980-d9eb5325ff54",
+      "name": "Paella - Low Fat",
+      "category": "nonVeg",
+      "subCategory": "spanish",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 213,
+        "caloriesMax": 325,
+        "protein": 11.140149801163654,
+        "carbs": 20.91109356955844,
+        "fat": 13.011542690156098,
+        "fiber": 3.5030163032819686
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "paella",
+        "paella low fat"
+      ]
+    },
+    {
+      "id": "bfaa7543-ff49-4cef-b380-7255ab2a6095",
+      "name": "Greek Salad - Regular",
+      "category": "veg",
+      "subCategory": "greek",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 169,
+        "caloriesMax": 280,
+        "protein": 5.727065227071746,
+        "carbs": 23.04612069866237,
+        "fat": 14.196063412241276,
+        "fiber": 2.289197023483644
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "greek salad",
+        "greek salad regular"
+      ]
+    },
+    {
+      "id": "a9336028-17f8-4961-8f80-84fcaad1ee1a",
+      "name": "Greek Salad - Large",
+      "category": "veg",
+      "subCategory": "greek",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
