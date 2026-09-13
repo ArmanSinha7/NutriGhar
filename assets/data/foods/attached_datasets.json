@@ -45406,3 +45406,1035 @@
       "subCategory": "Himalayan",
       "isVegetarian": true,
       "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 4.0,
+        "carbs": 14.0,
+        "fat": 3.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo tama",
+        "himalayan"
+      ]
+    },
+    {
+      "id": "0a98d36c-6ae5-4437-a727-3c11631024ae",
+      "name": "Gundruk soup",
+      "category": "imported_csv_2",
+      "subCategory": "Himalayan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 3.0,
+        "carbs": 6.0,
+        "fat": 1.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gundruk soup",
+        "himalayan"
+      ]
+    },
+    {
+      "id": "08e890e1-69d4-42ef-a1e8-6f4015fcd474",
+      "name": "Kafuli with rice",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 4.0,
+        "carbs": 18.0,
+        "fat": 3.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kafuli with rice",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "e9212391-0a33-4055-8628-c6f887c4ba3e",
+      "name": "Bhatt ki churkani",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 8.0,
+        "carbs": 18.0,
+        "fat": 5.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhatt ki churkani",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "23eb511f-25bc-493a-9574-38bda3cb2016",
+      "name": "Dubuk",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 7.0,
+        "carbs": 17.0,
+        "fat": 3.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dubuk",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "21bc6157-5e77-4d1a-a484-72bb23c06e99",
+      "name": "Aloo tamatar jhol",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 2.0,
+        "carbs": 13.0,
+        "fat": 3.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo tamatar jhol",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "a8f40cf2-5f5c-459f-af4c-be34504c3561",
+      "name": "Kandalee ka saag",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 4.0,
+        "carbs": 7.0,
+        "fat": 3.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kandalee ka saag",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "e3581946-088f-4a47-a800-99a4800096b8",
+      "name": "Gahat dal",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 7.0,
+        "carbs": 17.0,
+        "fat": 3.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gahat dal",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "56cfbc44-4d99-4a9f-82d5-3994dcbca9f2",
+      "name": "Gahat ke parathe",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 255.0,
+        "caloriesMax": 275.0,
+        "protein": 10.0,
+        "carbs": 38.0,
+        "fat": 8.0,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gahat ke parathe",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "65bc2031-f6f0-4991-963e-0278ad58109f",
+      "name": "Arsa Uttarakhand",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 360.0,
+        "caloriesMax": 380.0,
+        "protein": 5.0,
+        "carbs": 64.0,
+        "fat": 10.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arsa uttarakhand",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "ba9143d0-3820-40cc-8d49-62851cc83026",
+      "name": "Jhol Himachali",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.5,
+        "carbs": 10.0,
+        "fat": 3.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jhol himachali",
+        "himachal"
+      ]
+    },
+    {
+      "id": "ac86ca5d-405c-4bf7-894f-53bbe16dbd08",
+      "name": "Khatta Himachali",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 4.0,
+        "carbs": 14.0,
+        "fat": 3.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khatta himachali",
+        "himachal"
+      ]
+    },
+    {
+      "id": "e963b8f2-92af-405c-a4cf-dff16b0b7f3c",
+      "name": "Mittha Himachali",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 4.0,
+        "carbs": 41.0,
+        "fat": 5.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mittha himachali",
+        "himachal"
+      ]
+    },
+    {
+      "id": "18a128b3-098b-42ac-82fe-4a7064c9e0a3",
+      "name": "Chha gosht",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 17.0,
+        "carbs": 6.0,
+        "fat": 14.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chha gosht",
+        "himachal"
+      ]
+    },
+    {
+      "id": "e6d0afb7-71f3-45c3-946b-6c44ce3c8f22",
+      "name": "Kullu trout curry",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 20.0,
+        "carbs": 4.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kullu trout curry",
+        "himachal"
+      ]
+    },
+    {
+      "id": "8748dc7e-8e3d-4079-a693-22dd07972516",
+      "name": "Patande",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 6.0,
+        "carbs": 36.0,
+        "fat": 6.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "patande",
+        "himachal"
+      ]
+    },
+    {
+      "id": "b984f7af-84fa-4db0-b9ee-5c77dc61f6bb",
+      "name": "Bhey ki sabzi",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 4.0,
+        "carbs": 16.0,
+        "fat": 4.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhey ki sabzi",
+        "himachal"
+      ]
+    },
+    {
+      "id": "34de08fa-36f1-4660-9e5e-a4e692a595da",
+      "name": "Mash dal Himachali",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 7.0,
+        "carbs": 18.0,
+        "fat": 4.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mash dal himachali",
+        "himachal"
+      ]
+    },
+    {
+      "id": "7183025c-1cab-4833-9e60-fbed031906f6",
+      "name": "Kulthi dal",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 7.0,
+        "carbs": 17.0,
+        "fat": 3.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kulthi dal",
+        "himachal"
+      ]
+    },
+    {
+      "id": "e9a05e54-8f6f-4db8-9f5e-567f5d3a476f",
+      "name": "Kashmiri muji gaad",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 14.0,
+        "carbs": 7.0,
+        "fat": 7.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri muji gaad",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "153fda28-0f2f-497f-b185-1698187f3574",
+      "name": "Nadru palak",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 4.0,
+        "carbs": 14.0,
+        "fat": 4.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nadru palak",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "e7a8f940-9a99-4357-86e4-914e2f5c7ad8",
+      "name": "Haak maaz",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 15.0,
+        "carbs": 5.0,
+        "fat": 12.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "haak maaz",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "32c1bbf1-879f-4a48-9578-ac11b9cbdea1",
+      "name": "Aab gosht",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 15.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aab gosht",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "9b41f2c9-f8f7-442c-9209-7f1b0f5ac35f",
+      "name": "Methi maaz",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 16.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi maaz",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "4714ae54-0e2b-445e-82b8-b57e549a5997",
+      "name": "Kashmiri chicken yakhni",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 15.0,
+        "carbs": 5.0,
+        "fat": 10.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri chicken yakhni",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "df2cdb5a-23e2-494f-94bb-52c314d09fb3",
+      "name": "Kashmiri al yakhni",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 3.5,
+        "carbs": 13.0,
+        "fat": 4.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri al yakhni",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "5e97940f-0402-464b-a120-8131106194de",
+      "name": "Tsoonth wangun",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 5.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tsoonth wangun",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "e78a88c6-8b4d-41fc-9eb6-190f2624de3a",
+      "name": "Kashmiri monji haak",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 3.0,
+        "carbs": 9.0,
+        "fat": 3.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri monji haak",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "0609f167-51f0-4260-9738-11a9ce98aedd",
+      "name": "Shufta",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 7.0,
+        "carbs": 55.0,
+        "fat": 21.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shufta",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "6584f981-f8ea-469b-a6a4-7437a13d60df",
+      "name": "Amritsari wadi sabzi",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 8.0,
+        "carbs": 17.0,
+        "fat": 8.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amritsari wadi sabzi",
+        "punjab"
+      ]
+    },
+    {
+      "id": "7dfdbbd4-8d7b-40c3-9bbe-71be61be1497",
+      "name": "Wadi aloo",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 6.0,
+        "carbs": 20.0,
+        "fat": 6.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wadi aloo",
+        "punjab"
+      ]
+    },
+    {
+      "id": "f5fc1692-6ef6-476c-88d0-95b9c2c5ce73",
+      "name": "Baingan bharta Punjabi",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
