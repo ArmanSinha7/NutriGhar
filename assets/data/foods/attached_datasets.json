@@ -48502,3 +48502,1035 @@
       ]
     },
     {
+      "id": "4962a98a-ce46-4878-ab1c-480439d4b555",
+      "name": "Crispy chilli chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 17.0,
+        "carbs": 16.0,
+        "fat": 17.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "crispy chilli chicken",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "1d349276-9c15-4b96-87c9-2356395c47b6",
+      "name": "Lemon chicken Indo-Chinese",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 17.0,
+        "carbs": 13.0,
+        "fat": 11.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon chicken indo-chinese",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "b542eea1-ce7e-403a-83bb-1002034024b5",
+      "name": "Chicken in black bean sauce",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 17.0,
+        "carbs": 10.0,
+        "fat": 8.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken in black bean sauce",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "804b588a-31b3-4f38-ac51-71acef4208b9",
+      "name": "Paneer in hot garlic sauce",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 11.0,
+        "carbs": 13.0,
+        "fat": 15.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer in hot garlic sauce",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "19307936-ed65-47be-ab99-9296461f1cf9",
+      "name": "Mushroom manchurian",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 5.0,
+        "carbs": 22.0,
+        "fat": 10.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom manchurian",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "6deecea4-7168-4c70-ba69-d207c32b8c4f",
+      "name": "Baby corn manchurian",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 5.0,
+        "carbs": 27.0,
+        "fat": 9.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baby corn manchurian",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "73c04b6a-f5cf-48df-95b6-af9aaf166a71",
+      "name": "Chilli mushroom",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 5.0,
+        "carbs": 17.0,
+        "fat": 11.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chilli mushroom",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "c05e132b-6694-4fec-a9bf-ed6232646ad7",
+      "name": "Chilli baby corn",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 5.0,
+        "carbs": 26.0,
+        "fat": 9.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chilli baby corn",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "21de2318-9cf3-4a47-bdd5-032c91ac6409",
+      "name": "Crispy fried vegetables",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 5.0,
+        "carbs": 32.0,
+        "fat": 11.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "crispy fried vegetables",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "6ba59ed5-c72f-4dfa-a17c-70a70551ca2e",
+      "name": "Veg dragon roll",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 6.0,
+        "carbs": 34.0,
+        "fat": 12.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg dragon roll",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "9ba14055-32b1-4fc0-8f8d-cb976e97c587",
+      "name": "Chicken dragon roll",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 11.0,
+        "carbs": 31.0,
+        "fat": 14.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken dragon roll",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "c214e3b1-5543-40a3-a14e-92a679b1762e",
+      "name": "Wonton soup veg",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 2.0,
+        "carbs": 9.0,
+        "fat": 1.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wonton soup veg",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "8ac37ba8-b2a9-4073-ba56-354879a848da",
+      "name": "Wonton soup chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 5.0,
+        "carbs": 8.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wonton soup chicken",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "8f4a1a0a-e0ca-43f8-a138-22158d0490a3",
+      "name": "Chicken manchow soup",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 5.0,
+        "carbs": 9.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken manchow soup",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "79d7fdef-5810-4856-b73d-4f0b8269805e",
+      "name": "Chicken hot and sour soup",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 5.0,
+        "carbs": 8.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken hot and sour soup",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "ded9e2b5-d9da-45ca-add8-9c8e1971b022",
+      "name": "Lemon coriander soup",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 1.5,
+        "carbs": 6.0,
+        "fat": 0.8,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon coriander soup",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "7ee52327-ee69-4584-bda1-093bd6468b17",
+      "name": "Rasam soup",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20.0,
+        "caloriesMax": 40.0,
+        "protein": 1.2,
+        "carbs": 5.0,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasam soup",
+        "south indian"
+      ]
+    },
+    {
+      "id": "a85b8d28-1ec6-44ce-9f19-d92fef1b89be",
+      "name": "Carrot soup Indian",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 1.5,
+        "carbs": 8.0,
+        "fat": 1.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot soup indian",
+        "north indian"
+      ]
+    },
+    {
+      "id": "2466209c-f568-4bd6-8e48-2003ae27d22c",
+      "name": "Mixed vegetable soup",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 30.0,
+        "caloriesMax": 50.0,
+        "protein": 2.0,
+        "carbs": 7.0,
+        "fat": 1.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mixed vegetable soup",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c8297a00-e228-49f8-a908-8597b7a1adc0",
+      "name": "Dal soup",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 4.0,
+        "carbs": 10.0,
+        "fat": 1.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dal soup",
+        "north indian"
+      ]
+    },
+    {
+      "id": "7787a02b-00a2-4bc3-9ed8-bff3399ad49f",
+      "name": "Chicken shorba",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 7.0,
+        "carbs": 3.0,
+        "fat": 2.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken shorba",
+        "north indian"
+      ]
+    },
+    {
+      "id": "bae1b00d-6d5b-4346-94f1-0765f31eb774",
+      "name": "Mutton shorba",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 8.0,
+        "carbs": 3.0,
+        "fat": 4.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton shorba",
+        "north indian"
+      ]
+    },
+    {
+      "id": "00ae443d-dc75-433e-9257-b718ee018c17",
+      "name": "Yakhni shorba",
+      "category": "imported_csv_2",
+      "subCategory": "Mughlai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 7.0,
+        "carbs": 3.0,
+        "fat": 3.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "yakhni shorba",
+        "mughlai"
+      ]
+    },
+    {
+      "id": "cc93ae78-45a0-416d-8848-97996c0bbcba",
+      "name": "Makhania lassi",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 4.0,
+        "carbs": 18.0,
+        "fat": 5.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makhania lassi",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "cbdee1e0-154f-45f0-b2e8-6b7814e4a125",
+      "name": "Dry fruit lassi",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 5.0,
+        "carbs": 20.0,
+        "fat": 6.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dry fruit lassi",
+        "north indian"
+      ]
+    },
+    {
+      "id": "8fb86b0a-a32d-4c99-b5f1-c6192642169f",
+      "name": "Mango mastani",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 4.0,
+        "carbs": 27.0,
+        "fat": 5.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango mastani",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "dd9fb082-e0dc-46a9-a213-44e78a09bf11",
+      "name": "Rose falooda milk",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 4.0,
+        "carbs": 23.0,
+        "fat": 3.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rose falooda milk",
+        "north indian"
+      ]
+    },
+    {
+      "id": "a66f6694-0596-4bfd-97a6-69bd6aae6c47",
+      "name": "Piyush",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 4.0,
+        "carbs": 19.0,
+        "fat": 3.5,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "piyush",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "28cd3326-fd56-44f5-a728-b89685260755",
+      "name": "Aam doi",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 4.0,
+        "carbs": 18.0,
+        "fat": 2.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aam doi",
+        "bengal"
+      ]
+    },
+    {
+      "id": "19654e76-8490-4bc6-b09d-b1f85a0a6731",
+      "name": "Chaas masala",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 1.5,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chaas masala",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "192cfc77-4da4-4bc1-9c52-8e3dd43a50ad",
+      "name": "Neer mor",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20.0,
+        "caloriesMax": 40.0,
+        "protein": 1.5,
+        "carbs": 3.0,
+        "fat": 1.5,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "neer mor",
+        "south indian"
+      ]
+    },
+    {
+      "id": "3f27ef3f-922b-4b17-aa52-2af787113740",
+      "name": "Sambharam",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
