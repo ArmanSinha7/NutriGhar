@@ -18413,3 +18413,638 @@
       ],
       "confidenceLevel": "HIGH",
       "per100g": {
+        "caloriesMin": 213,
+        "caloriesMax": 333,
+        "protein": 11.106625425207946,
+        "carbs": 24.092674846377832,
+        "fat": 19.369028111560763,
+        "fiber": 1.182322937414168
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "greek salad",
+        "greek salad large"
+      ]
+    },
+    {
+      "id": "bf45ad13-65ba-4104-a713-53aae974507a",
+      "name": "Greek Salad - Spicy",
+      "category": "veg",
+      "subCategory": "greek",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 158,
+        "caloriesMax": 343,
+        "protein": 14.103146862922475,
+        "carbs": 17.559168884657964,
+        "fat": 6.897600288759531,
+        "fiber": 3.0998987380730934
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "greek salad",
+        "greek salad spicy"
+      ]
+    },
+    {
+      "id": "356106e9-182d-4ad3-95b5-092e2b480a58",
+      "name": "Greek Salad - Healthy",
+      "category": "veg",
+      "subCategory": "greek",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 237,
+        "caloriesMax": 321,
+        "protein": 2.076838887152062,
+        "carbs": 16.924408235443522,
+        "fat": 16.110459170791437,
+        "fiber": 2.0960932168033786
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "greek salad",
+        "greek salad healthy"
+      ]
+    },
+    {
+      "id": "ebf7bc76-3f56-41be-9594-081d9f05ec4e",
+      "name": "Greek Salad - Low Fat",
+      "category": "veg",
+      "subCategory": "greek",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 239,
+        "caloriesMax": 312,
+        "protein": 6.506035745715943,
+        "carbs": 21.03267387763709,
+        "fat": 11.91746519453929,
+        "fiber": 1.418415513346779
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "greek salad",
+        "greek salad low fat"
+      ]
+    },
+    {
+      "id": "67dc0072-ccb4-48da-9408-ad6daa4eaccb",
+      "name": "Roti (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "roti"
+      ]
+    },
+    {
+      "id": "98cc13f7-6a91-4ab2-b1d2-d6878a0fe8ef",
+      "name": "Roti (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "roti"
+      ]
+    },
+    {
+      "id": "23ab3ea3-3502-4b4d-8039-c9e264fe03cd",
+      "name": "Roti (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "roti"
+      ]
+    },
+    {
+      "id": "a08a9490-aa80-4711-a38e-60d9de155eb6",
+      "name": "Roti (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "roti"
+      ]
+    },
+    {
+      "id": "2a2423f3-304d-4a56-8c4a-639fbff11293",
+      "name": "Chapati (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "chapati"
+      ]
+    },
+    {
+      "id": "e63c1043-783d-49b0-b551-af470b489c32",
+      "name": "Chapati (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "chapati"
+      ]
+    },
+    {
+      "id": "a49786b3-3bc9-4d73-b352-8fc4f4f33e46",
+      "name": "Chapati (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "chapati"
+      ]
+    },
+    {
+      "id": "1cdf2539-b489-4067-9f4a-2842df4c801a",
+      "name": "Chapati (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "chapati"
+      ]
+    },
+    {
+      "id": "fdb02e4c-b3e0-4f94-b9f4-e10b0fcba999",
+      "name": "Phulka (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "phulka"
+      ]
+    },
+    {
+      "id": "f44097e7-111d-4e63-806d-5b4249e2c7b9",
+      "name": "Phulka (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "phulka"
+      ]
+    },
+    {
+      "id": "237e631b-090a-46e3-9523-0343f611dc75",
+      "name": "Phulka (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "phulka"
+      ]
+    },
+    {
+      "id": "0b490cfe-c705-4b6f-83d5-a9287e8c7fe6",
+      "name": "Phulka (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "phulka"
+      ]
+    },
+    {
+      "id": "336ab75d-0801-440d-a685-eaf6214c845d",
+      "name": "Naan (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "naan"
+      ]
+    },
+    {
+      "id": "52cb3aa8-ad51-4af3-803b-696510579875",
+      "name": "Naan (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "naan"
+      ]
+    },
+    {
+      "id": "7fe09892-e522-4299-ba47-34c6148154c1",
+      "name": "Naan (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "naan"
+      ]
+    },
+    {
+      "id": "9e23cc9b-1736-4d9b-975a-123de23b7189",
+      "name": "Naan (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "naan"
+      ]
+    },
+    {
+      "id": "016323d4-33a4-471d-afd9-db48b32d7f19",
+      "name": "Garlic Naan (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
