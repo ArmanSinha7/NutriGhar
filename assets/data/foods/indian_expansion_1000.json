@@ -19683,3 +19683,638 @@
       "isVegetarian": true,
       "mealTypes": [
         "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "puri"
+      ]
+    },
+    {
+      "id": "443edb4a-11c1-4e21-923f-91fae8f8869e",
+      "name": "Puri (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "puri"
+      ]
+    },
+    {
+      "id": "5715b366-de4d-468d-bef9-0a3dc271c8f0",
+      "name": "Puri (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "puri"
+      ]
+    },
+    {
+      "id": "3ad67554-85a1-4f00-956f-be5daea0b03e",
+      "name": "Paratha (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paratha"
+      ]
+    },
+    {
+      "id": "85dfa93b-2a44-47d3-be17-572c83abf7b5",
+      "name": "Paratha (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paratha"
+      ]
+    },
+    {
+      "id": "0ca8c5a4-7915-432d-9e8f-73c4b49eef97",
+      "name": "Paratha (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paratha"
+      ]
+    },
+    {
+      "id": "7c7193ef-e4c6-452f-8686-540afe8b642b",
+      "name": "Paratha (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paratha"
+      ]
+    },
+    {
+      "id": "97ada0b4-7306-4427-abff-15c23618b5c1",
+      "name": "Aloo Paratha (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "aloo paratha"
+      ]
+    },
+    {
+      "id": "25472249-b613-4474-b4b9-06759ccf8fd5",
+      "name": "Aloo Paratha (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "aloo paratha"
+      ]
+    },
+    {
+      "id": "a7479e7e-c476-4910-9402-e6800df6e29c",
+      "name": "Aloo Paratha (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "aloo paratha"
+      ]
+    },
+    {
+      "id": "007b4245-03aa-4c78-b92d-7b35ea2a6a83",
+      "name": "Aloo Paratha (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "aloo paratha"
+      ]
+    },
+    {
+      "id": "95afed9d-3d7a-40d5-8f7b-00126b4e9371",
+      "name": "Paneer Paratha (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paneer paratha"
+      ]
+    },
+    {
+      "id": "a7a54a91-e56d-4d2d-aaa1-5e8f3b66814f",
+      "name": "Paneer Paratha (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paneer paratha"
+      ]
+    },
+    {
+      "id": "39a35eaa-233c-4f6a-a598-fe91ce9a9c1f",
+      "name": "Paneer Paratha (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paneer paratha"
+      ]
+    },
+    {
+      "id": "b0274e48-e8c4-44e4-9f94-67017032b6e0",
+      "name": "Paneer Paratha (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "paneer paratha"
+      ]
+    },
+    {
+      "id": "bc2c8acd-29c8-4654-9b76-9a05ed33fa90",
+      "name": "Gobi Paratha (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "gobi paratha"
+      ]
+    },
+    {
+      "id": "1f119b0f-0600-4d94-9ec7-3a9f3ac412cd",
+      "name": "Gobi Paratha (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "gobi paratha"
+      ]
+    },
+    {
+      "id": "4e3dd65c-1942-4980-857f-966546f6d839",
+      "name": "Gobi Paratha (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "gobi paratha"
+      ]
+    },
+    {
+      "id": "15b64ae1-7094-4804-a0d1-c80d1df604af",
+      "name": "Gobi Paratha (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "gobi paratha"
+      ]
+    },
+    {
+      "id": "b1dca3f2-d822-471b-b699-b4168243d585",
+      "name": "Lachha Paratha (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "lachha paratha"
+      ]
+    },
+    {
+      "id": "c402ce0a-2d68-428c-bd96-30f7c5f07934",
+      "name": "Lachha Paratha (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
