@@ -19048,3 +19048,638 @@
         {
           "name": "1 piece",
           "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "garlic naan"
+      ]
+    },
+    {
+      "id": "7d00c685-c469-443d-abb0-fd5b90a0a25e",
+      "name": "Garlic Naan (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "garlic naan"
+      ]
+    },
+    {
+      "id": "a78c268f-e447-4800-852a-d7a6eb1eafdc",
+      "name": "Garlic Naan (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "garlic naan"
+      ]
+    },
+    {
+      "id": "de0ed511-b3c7-415a-9413-308a063fa09e",
+      "name": "Garlic Naan (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "garlic naan"
+      ]
+    },
+    {
+      "id": "ed309574-939e-4612-b4d5-47665e8b0fb9",
+      "name": "Butter Naan (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "butter naan"
+      ]
+    },
+    {
+      "id": "631b3ac0-0bf5-4e79-8940-54c0a05d7a33",
+      "name": "Butter Naan (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "butter naan"
+      ]
+    },
+    {
+      "id": "8e33b483-c204-4bec-93cb-4599c3846da4",
+      "name": "Butter Naan (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "butter naan"
+      ]
+    },
+    {
+      "id": "268d968b-cdfe-4b8c-8ef8-be8f0cdcaf27",
+      "name": "Butter Naan (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "butter naan"
+      ]
+    },
+    {
+      "id": "a2efa7a2-5a84-4ef2-adb4-65f4b3ae674a",
+      "name": "Tandoori Roti (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "tandoori roti"
+      ]
+    },
+    {
+      "id": "08caba78-8bdb-4395-9d83-0d292ebf9389",
+      "name": "Tandoori Roti (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "tandoori roti"
+      ]
+    },
+    {
+      "id": "f49992e8-244b-4548-a1c1-0416e660a083",
+      "name": "Tandoori Roti (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "tandoori roti"
+      ]
+    },
+    {
+      "id": "23ffae06-e15f-4a4c-8664-38abc064b8bc",
+      "name": "Tandoori Roti (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "tandoori roti"
+      ]
+    },
+    {
+      "id": "b1e316d1-5af2-4772-866b-92b957d1a2bb",
+      "name": "Missi Roti (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "missi roti"
+      ]
+    },
+    {
+      "id": "223a538a-20aa-4a17-88e8-e1c016b779ec",
+      "name": "Missi Roti (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "missi roti"
+      ]
+    },
+    {
+      "id": "bbff6ee4-1a2e-491f-ae0f-568c7140008a",
+      "name": "Missi Roti (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "missi roti"
+      ]
+    },
+    {
+      "id": "80646f1f-5c41-4684-8452-a8cc6783c638",
+      "name": "Missi Roti (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "missi roti"
+      ]
+    },
+    {
+      "id": "e769c9f0-605a-4967-817d-668e5ab4aefa",
+      "name": "Bhatura (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "bhatura"
+      ]
+    },
+    {
+      "id": "0eeba52c-8d06-4139-85ed-d87da0513cc3",
+      "name": "Bhatura (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "bhatura"
+      ]
+    },
+    {
+      "id": "389f5f97-0b24-44b5-a362-24e7d13f77f4",
+      "name": "Bhatura (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "bhatura"
+      ]
+    },
+    {
+      "id": "a05f2066-1622-42ef-924c-4d805fe898c8",
+      "name": "Bhatura (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "bhatura"
+      ]
+    },
+    {
+      "id": "4f1a8f23-0ad8-4beb-a136-96b12df4edcd",
+      "name": "Puri (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "puri"
+      ]
+    },
+    {
+      "id": "f119901e-5193-4580-8491-25a2779c5b37",
+      "name": "Puri (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
