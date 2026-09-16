@@ -50566,3 +50566,1035 @@
         "protein": 9.0,
         "carbs": 60.0,
         "fat": 16.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makhana namkeen",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "45870c4d-1a97-4ae0-b6fa-6876597cf18e",
+      "name": "Chivda",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 440.0,
+        "caloriesMax": 460.0,
+        "protein": 8.0,
+        "carbs": 65.0,
+        "fat": 18.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chivda",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "137cc377-49b2-4b0c-a4e1-28920b090db8",
+      "name": "Cornflakes chivda",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 7.0,
+        "carbs": 68.0,
+        "fat": 13.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cornflakes chivda",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "7cbe23d5-5d37-4b96-aaf0-8bc15a507b89",
+      "name": "Poha chivda",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 7.0,
+        "carbs": 67.0,
+        "fat": 15.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poha chivda",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "9c349f48-80f9-45d5-8173-126f450d5e06",
+      "name": "Nylon sev",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 550.0,
+        "caloriesMax": 570.0,
+        "protein": 14.0,
+        "carbs": 44.0,
+        "fat": 37.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nylon sev",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "f5225b42-a5e6-431c-8765-53adfb9376fe",
+      "name": "Aloo bhujia",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 530.0,
+        "caloriesMax": 550.0,
+        "protein": 11.0,
+        "carbs": 52.0,
+        "fat": 32.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo bhujia",
+        "north indian"
+      ]
+    },
+    {
+      "id": "2d48bbeb-3878-421b-bdb4-1fd3a429d588",
+      "name": "Moong dal namkeen",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 510.0,
+        "caloriesMax": 530.0,
+        "protein": 22.0,
+        "carbs": 42.0,
+        "fat": 29.0,
+        "fiber": 9.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal namkeen",
+        "north indian"
+      ]
+    },
+    {
+      "id": "97c39756-600a-4a5e-908c-8caf8dcc2d92",
+      "name": "Navratan mixture",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 490.0,
+        "caloriesMax": 510.0,
+        "protein": 11.0,
+        "carbs": 54.0,
+        "fat": 27.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "navratan mixture",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d50ed777-77a1-42c9-82fb-9e405c3399c1",
+      "name": "Banana raw",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 79.0,
+        "caloriesMax": 99.0,
+        "protein": 1.1,
+        "carbs": 23.0,
+        "fat": 0.3,
+        "fiber": 2.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana raw",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "0a010cd8-1271-4c84-a46f-02a28923557c",
+      "name": "Mango ripe",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 0.8,
+        "carbs": 15.0,
+        "fat": 0.4,
+        "fiber": 1.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango ripe",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5f180c92-1ad0-44ae-a614-2234b3131533",
+      "name": "Guava",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 58.0,
+        "caloriesMax": 78.0,
+        "protein": 2.6,
+        "carbs": 14.0,
+        "fat": 1.0,
+        "fiber": 5.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "guava",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "bbc4b30b-c946-4165-bc5b-fe4a06fe17a9",
+      "name": "Papaya",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 33.0,
+        "caloriesMax": 53.0,
+        "protein": 0.5,
+        "carbs": 11.0,
+        "fat": 0.3,
+        "fiber": 1.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papaya",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ae27134c-fcab-4854-8d92-c4e2b8e10a50",
+      "name": "Pomegranate",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 73.0,
+        "caloriesMax": 93.0,
+        "protein": 1.7,
+        "carbs": 19.0,
+        "fat": 1.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pomegranate",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "4fadd462-cd9f-4457-a1e4-747d3241a911",
+      "name": "Sapota chikoo",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 73.0,
+        "caloriesMax": 93.0,
+        "protein": 0.4,
+        "carbs": 20.0,
+        "fat": 1.1,
+        "fiber": 5.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sapota chikoo",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "e9bb50b7-f62f-41b2-aa89-285aef646911",
+      "name": "Custard apple",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 84.0,
+        "caloriesMax": 104.0,
+        "protein": 2.1,
+        "carbs": 24.0,
+        "fat": 0.3,
+        "fiber": 4.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "custard apple",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "8711f076-7d32-4136-a180-dbf5c395fe50",
+      "name": "Indian gooseberry amla",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 34.0,
+        "caloriesMax": 54.0,
+        "protein": 0.9,
+        "carbs": 10.0,
+        "fat": 0.6,
+        "fiber": 4.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "indian gooseberry amla",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "11dd698c-ecc9-4edd-9357-f7a63da97ec9",
+      "name": "Jackfruit ripe",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 1.7,
+        "carbs": 23.0,
+        "fat": 0.6,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jackfruit ripe",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "dec2ea1a-63ff-426b-8c07-5638727e6490",
+      "name": "Watermelon",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20.0,
+        "caloriesMax": 40.0,
+        "protein": 0.6,
+        "carbs": 7.6,
+        "fat": 0.2,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "watermelon",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "2d2fc8ef-210f-4aa7-8c3f-143e97942022",
+      "name": "Muskmelon",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 24.0,
+        "caloriesMax": 44.0,
+        "protein": 0.8,
+        "carbs": 8.2,
+        "fat": 0.2,
+        "fiber": 0.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "muskmelon",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "05783bed-59c8-4e61-8f18-4ee90fe23fdb",
+      "name": "Sweet lime",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 33.0,
+        "caloriesMax": 53.0,
+        "protein": 0.8,
+        "carbs": 10.0,
+        "fat": 0.3,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet lime",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "fe3d371e-1919-4cff-9040-3c1094d95626",
+      "name": "Jamun",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 0.7,
+        "carbs": 15.5,
+        "fat": 0.2,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jamun",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5f958b6c-621c-4f56-b4b4-ffd9b09f0578",
+      "name": "Lychee",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 56.0,
+        "caloriesMax": 76.0,
+        "protein": 0.8,
+        "carbs": 16.5,
+        "fat": 0.4,
+        "fiber": 1.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lychee",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "9278c9ca-b25f-4e54-9e84-952d83fa9817",
+      "name": "Wood apple",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 127.0,
+        "caloriesMax": 147.0,
+        "protein": 1.8,
+        "carbs": 31.8,
+        "fat": 0.3,
+        "fiber": 2.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wood apple",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ed7e691f-f7a8-46d6-b5b0-72254832c6b6",
+      "name": "Raw mango",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 0.8,
+        "carbs": 15.0,
+        "fat": 0.4,
+        "fiber": 1.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raw mango",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "44bb3bf8-5b1d-4f55-9d54-304562397bc8",
+      "name": "Tender jackfruit cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.0,
+        "carbs": 15.0,
+        "fat": 0.4,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tender jackfruit cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "07ce764b-c57d-495a-843e-bcad8cebc36b",
+      "name": "Bottle gourd cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 5.0,
+        "caloriesMax": 25.0,
+        "protein": 0.6,
+        "carbs": 3.5,
+        "fat": 0.1,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bottle gourd cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "fa6d7a2d-1285-4bc0-8e90-3d0a20787301",
+      "name": "Bitter gourd cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 10.0,
+        "caloriesMax": 30.0,
+        "protein": 1.0,
+        "carbs": 4.3,
+        "fat": 0.2,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bitter gourd cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1690a9a4-21cb-4037-9e27-03bcaf410a66",
+      "name": "Okra cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 23.0,
+        "caloriesMax": 43.0,
+        "protein": 1.9,
+        "carbs": 7.5,
+        "fat": 0.2,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "okra cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "e522bd97-f204-4f80-a16b-ec95ddfb7f14",
+      "name": "Spinach cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 13.0,
+        "caloriesMax": 33.0,
+        "protein": 3.0,
+        "carbs": 3.8,
+        "fat": 0.3,
+        "fiber": 2.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "spinach cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "dcf68edf-4a1f-443b-b235-60a35f6aa52a",
+      "name": "Fenugreek leaves cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 39.0,
+        "caloriesMax": 59.0,
+        "protein": 4.4,
+        "carbs": 6.0,
+        "fat": 0.9,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fenugreek leaves cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f9346f36-6663-4182-b9ca-9dda4099cdb2",
+      "name": "Drumstick leaves cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 54.0,
+        "caloriesMax": 74.0,
+        "protein": 5.1,
+        "carbs": 8.3,
+        "fat": 1.4,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "drumstick leaves cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1820e5e7-6505-413c-b6aa-6e2c0248e8ed",
+      "name": "Drumstick pods cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 27.0,
+        "caloriesMax": 47.0,
+        "protein": 2.1,
+        "carbs": 8.5,
+        "fat": 0.2,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
