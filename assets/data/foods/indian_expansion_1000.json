@@ -20318,3 +20318,638 @@
       "portions": [
         {
           "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "lachha paratha"
+      ]
+    },
+    {
+      "id": "5899571a-8377-4a78-b9c4-76d448c4e903",
+      "name": "Lachha Paratha (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "lachha paratha"
+      ]
+    },
+    {
+      "id": "fdbd7c2b-3232-4044-a03a-c8b16dfa6240",
+      "name": "Lachha Paratha (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "lachha paratha"
+      ]
+    },
+    {
+      "id": "77aa93d4-2ccc-4824-aab5-c601e94f07d2",
+      "name": "Rumali Roti (Wheat)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "rumali roti"
+      ]
+    },
+    {
+      "id": "0640dbb2-c07e-465a-9aee-98cc3e158143",
+      "name": "Rumali Roti (Multigrain)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "rumali roti"
+      ]
+    },
+    {
+      "id": "c3df8e79-8b7d-4a62-b34b-1b8a9e46d99e",
+      "name": "Rumali Roti (Maida)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "rumali roti"
+      ]
+    },
+    {
+      "id": "ec5072eb-d089-4c4e-ab39-0eb092f41484",
+      "name": "Rumali Roti (Gluten-Free)",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250,
+        "caloriesMax": 300,
+        "protein": 8.0,
+        "carbs": 50.0,
+        "fat": 3.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 50
+        }
+      ],
+      "aliases": [
+        "rumali roti"
+      ]
+    },
+    {
+      "id": "cccab339-ece8-4f1d-9ebc-591ee9707491",
+      "name": "Steamed Rice - Basmati",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "steamed rice"
+      ]
+    },
+    {
+      "id": "54dc6c26-6228-4ef6-84ea-141be18e49ad",
+      "name": "Steamed Rice - Brown Rice",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "steamed rice"
+      ]
+    },
+    {
+      "id": "09c4874f-83a6-4194-ab5e-cab5d44c892c",
+      "name": "Steamed Rice - Sona Masoori",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "steamed rice"
+      ]
+    },
+    {
+      "id": "79a4ed53-af13-42f8-9fb5-20efaf6d062e",
+      "name": "Steamed Rice - Restaurant Style",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "steamed rice"
+      ]
+    },
+    {
+      "id": "3c492484-b0d4-46a6-98a3-7141f4b1127c",
+      "name": "Jeera Rice - Basmati",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera rice"
+      ]
+    },
+    {
+      "id": "e73907f0-d41b-4412-b927-0abb307ae4b4",
+      "name": "Jeera Rice - Brown Rice",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera rice"
+      ]
+    },
+    {
+      "id": "071c9253-de2d-412a-90dd-02125839e827",
+      "name": "Jeera Rice - Sona Masoori",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera rice"
+      ]
+    },
+    {
+      "id": "0be8b70e-b51b-4f39-8886-bc076c5324e0",
+      "name": "Jeera Rice - Restaurant Style",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "jeera rice"
+      ]
+    },
+    {
+      "id": "9fa0a5c2-61cc-4ea8-8a1e-864a891632b8",
+      "name": "Veg Pulao - Basmati",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg pulao"
+      ]
+    },
+    {
+      "id": "b0211622-2076-4964-b8bf-45cf8ce8adb1",
+      "name": "Veg Pulao - Brown Rice",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg pulao"
+      ]
+    },
+    {
+      "id": "529c90ce-22ae-43b8-a02d-93c1027fb981",
+      "name": "Veg Pulao - Sona Masoori",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg pulao"
+      ]
+    },
+    {
+      "id": "8782bcdc-8ac6-41a8-b2a4-2992bb4bec4d",
+      "name": "Veg Pulao - Restaurant Style",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg pulao"
+      ]
+    },
+    {
+      "id": "2bf445bb-3c8f-42ef-b7a0-7d4bf8057f14",
+      "name": "Peas Pulao - Basmati",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
