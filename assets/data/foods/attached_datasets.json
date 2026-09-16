@@ -51598,3 +51598,1035 @@
           "weightMaxG": 150
         }
       ],
+      "aliases": [
+        "drumstick pods cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "9b2ca289-68dd-4791-b989-37fc11f655ea",
+      "name": "Taro root boiled",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 102.0,
+        "caloriesMax": 122.0,
+        "protein": 1.5,
+        "carbs": 26.0,
+        "fat": 0.2,
+        "fiber": 4.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "taro root boiled",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "62611077-8ac9-461f-9b1f-a4a151e0b528",
+      "name": "Yam boiled",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 106.0,
+        "caloriesMax": 126.0,
+        "protein": 1.5,
+        "carbs": 27.5,
+        "fat": 0.1,
+        "fiber": 3.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "yam boiled",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "a8f36269-d302-4659-8a82-04d757535bb4",
+      "name": "Raw banana boiled",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 106.0,
+        "caloriesMax": 126.0,
+        "protein": 1.0,
+        "carbs": 31.0,
+        "fat": 0.2,
+        "fiber": 2.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raw banana boiled",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "57d322c2-9013-4d49-b631-a5519c9c1571",
+      "name": "Lotus stem cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 56.0,
+        "caloriesMax": 76.0,
+        "protein": 1.6,
+        "carbs": 16.0,
+        "fat": 0.1,
+        "fiber": 3.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lotus stem cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ef95b31d-7812-4793-add5-8b2a86e27a45",
+      "name": "Cooked quinoa",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 4.4,
+        "carbs": 21.3,
+        "fat": 1.9,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked quinoa",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1a1e32d3-f733-4af4-8a4b-d004cc9e5fec",
+      "name": "Cooked foxtail millet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 109.0,
+        "caloriesMax": 129.0,
+        "protein": 3.5,
+        "carbs": 23.5,
+        "fat": 1.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked foxtail millet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d021cf9c-3aa0-47db-a74d-f9f1b5563c93",
+      "name": "Cooked little millet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.5,
+        "carbs": 23.5,
+        "fat": 1.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked little millet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5e94129c-d8ee-422b-b5a6-b6a2a3990617",
+      "name": "Cooked barnyard millet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.6,
+        "carbs": 22.0,
+        "fat": 1.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked barnyard millet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "b21325fa-c061-4ee4-b6d9-80a7a811ff98",
+      "name": "Cooked kodo millet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.5,
+        "carbs": 23.0,
+        "fat": 1.2,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked kodo millet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "96dec922-48a0-4ea2-bd54-6f1c9a64a072",
+      "name": "Cooked pearl millet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 109.0,
+        "caloriesMax": 129.0,
+        "protein": 3.7,
+        "carbs": 22.7,
+        "fat": 1.3,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked pearl millet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f28d759a-6934-45b6-a786-0fdd1443756d",
+      "name": "Cooked sorghum",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.5,
+        "carbs": 25.0,
+        "fat": 1.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked sorghum",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "25cd9e4b-e386-4a69-b17f-fab5c880b493",
+      "name": "Cooked finger millet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 108.0,
+        "caloriesMax": 128.0,
+        "protein": 3.0,
+        "carbs": 24.0,
+        "fat": 0.8,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cooked finger millet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ba56a88f-0a86-47f8-90b1-a448182b16c5",
+      "name": "Boiled masoor whole",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 106.0,
+        "caloriesMax": 126.0,
+        "protein": 9.0,
+        "carbs": 20.0,
+        "fat": 0.4,
+        "fiber": 7.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled masoor whole",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d62e212e-99da-43e7-8f11-1ded3e1f7840",
+      "name": "Boiled moong whole",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 7.0,
+        "carbs": 19.0,
+        "fat": 0.4,
+        "fiber": 7.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled moong whole",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "8f91d13f-7d66-4a15-a09f-143de26b05bf",
+      "name": "Boiled urad whole",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 106.0,
+        "caloriesMax": 126.0,
+        "protein": 8.0,
+        "carbs": 20.0,
+        "fat": 0.5,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled urad whole",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "4c2c78c1-02d0-4bd1-8309-5174858bdfac",
+      "name": "Boiled horse gram",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 8.0,
+        "carbs": 21.0,
+        "fat": 0.5,
+        "fiber": 7.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled horse gram",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "b31f4cfa-2194-41d0-9446-57cbfc1c4679",
+      "name": "Boiled moth beans",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 107.0,
+        "caloriesMax": 127.0,
+        "protein": 8.0,
+        "carbs": 20.0,
+        "fat": 0.6,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled moth beans",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5d290c57-1ccf-4eb6-baf1-e752d16a0d03",
+      "name": "Boiled pigeon peas",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 111.0,
+        "caloriesMax": 131.0,
+        "protein": 6.8,
+        "carbs": 22.0,
+        "fat": 0.4,
+        "fiber": 6.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled pigeon peas",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "012f22d8-c60b-451e-9074-f38c879de698",
+      "name": "Boiled soybeans",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 163.0,
+        "caloriesMax": 183.0,
+        "protein": 16.6,
+        "carbs": 10.0,
+        "fat": 9.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boiled soybeans",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "71e2afb2-6741-4cc7-939b-0ff4766e9509",
+      "name": "Tofu firm",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 134.0,
+        "caloriesMax": 154.0,
+        "protein": 17.0,
+        "carbs": 3.0,
+        "fat": 9.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tofu firm",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ba340fdc-7427-45bb-9f74-eb4c26e3f087",
+      "name": "Tempeh Indian style",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 19.0,
+        "carbs": 8.0,
+        "fat": 11.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tempeh indian style",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "a3eeb9bf-40f6-4a22-b41e-77227bb66a58",
+      "name": "Soya granules cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 16.0,
+        "carbs": 9.0,
+        "fat": 2.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soya granules cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "7521f1e2-41da-4c63-8b55-824e20a2849b",
+      "name": "Low fat paneer",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 22.0,
+        "carbs": 4.0,
+        "fat": 8.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "low fat paneer",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d597ca75-3547-46b4-bdc6-5eefa69873c5",
+      "name": "Buffalo milk",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 87.0,
+        "caloriesMax": 107.0,
+        "protein": 3.8,
+        "carbs": 5.2,
+        "fat": 7.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "buffalo milk",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f297ff03-21e0-4cbe-8aee-bf9bf8e5e59e",
+      "name": "Cow milk whole",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 51.0,
+        "caloriesMax": 71.0,
+        "protein": 3.2,
+        "carbs": 4.8,
+        "fat": 3.3,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cow milk whole",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "78291ab7-c2f9-49ee-a519-6ad8ada58caf",
+      "name": "Cow milk toned",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 48.0,
+        "caloriesMax": 68.0,
+        "protein": 3.1,
+        "carbs": 4.9,
+        "fat": 3.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cow milk toned",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "23c73c45-be5a-4c80-a4ef-ab72cd35d4e3",
+      "name": "Skim milk",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 3.4,
+        "carbs": 5.0,
+        "fat": 0.2,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "skim milk",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ce2f5515-7c8b-46a1-b262-ffafb20351e9",
+      "name": "Malai fresh",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 2.5,
+        "carbs": 3.0,
+        "fat": 37.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "malai fresh",
+        "north indian"
+      ]
+    },
+    {
+      "id": "9743449f-fa67-447e-bead-b8e01e8e9d28",
+      "name": "Greek yogurt plain",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 87.0,
+        "caloriesMax": 107.0,
+        "protein": 9.0,
+        "carbs": 4.0,
+        "fat": 5.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "greek yogurt plain",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "3e708f76-de8c-4a8f-a972-80db6d227734",
+      "name": "Sweetened curd",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 3.5,
+        "carbs": 17.0,
+        "fat": 3.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweetened curd",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "680976d2-4809-4b3f-a619-288bcf200443",
+      "name": "Buffalo curd",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 4.0,
+        "carbs": 5.0,
+        "fat": 7.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "buffalo curd",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ec664a9e-843b-48db-8296-d1d385b43aca",
+      "name": "Masala idli",
+      "category": "imported_csv_2",
