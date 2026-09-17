@@ -53662,3 +53662,1035 @@
         "snack"
       ],
       "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 4.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd semiya",
+        "south indian"
+      ]
+    },
+    {
+      "id": "d8dfa458-8c45-4fd6-9f64-a56265b7a3e9",
+      "name": "Tomato sevai",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 3.5,
+        "carbs": 27.0,
+        "fat": 4.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato sevai",
+        "south indian"
+      ]
+    },
+    {
+      "id": "72b33521-f138-4a19-aefe-7756a89a4308",
+      "name": "Vegetable sevai",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.0,
+        "carbs": 25.0,
+        "fat": 4.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable sevai",
+        "south indian"
+      ]
+    },
+    {
+      "id": "20ddcb13-e2e8-4fd9-81fe-b0bd0ff92c26",
+      "name": "Ragi idli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 5.0,
+        "carbs": 27.0,
+        "fat": 2.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi idli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "5e2cff20-2934-476e-8b57-fb6545db99e3",
+      "name": "Millet idli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 5.0,
+        "carbs": 28.0,
+        "fat": 2.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "millet idli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "746fd463-3230-4daa-a84a-fa31638b04fc",
+      "name": "Millet dosa",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 5.5,
+        "carbs": 30.0,
+        "fat": 4.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "millet dosa",
+        "south indian"
+      ]
+    },
+    {
+      "id": "097be3a3-7283-4023-915d-37f434371687",
+      "name": "Foxtail millet upma",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 4.0,
+        "carbs": 22.0,
+        "fat": 3.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "foxtail millet upma",
+        "south indian"
+      ]
+    },
+    {
+      "id": "9751d833-3306-4ce1-a8ad-42328755b9ad",
+      "name": "Little millet pongal",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 4.5,
+        "carbs": 23.0,
+        "fat": 3.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "little millet pongal",
+        "south indian"
+      ]
+    },
+    {
+      "id": "7a9067bf-898a-44de-b9e9-09fdc9394ac5",
+      "name": "Barnyard millet khichdi",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 4.5,
+        "carbs": 21.0,
+        "fat": 2.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barnyard millet khichdi",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "e6505c25-ca6b-4ee8-8b01-b51a48991447",
+      "name": "Kodo millet pulao",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 4.0,
+        "carbs": 24.0,
+        "fat": 3.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kodo millet pulao",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "4f91dbd9-4846-4a71-8049-9d3e132adf43",
+      "name": "Samai rice cooked",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.5,
+        "carbs": 23.0,
+        "fat": 1.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samai rice cooked",
+        "south indian"
+      ]
+    },
+    {
+      "id": "bd618dde-8074-43c3-8653-e26dd0cb59a2",
+      "name": "Thinai pongal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 4.5,
+        "carbs": 24.0,
+        "fat": 3.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thinai pongal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4df1e429-76c7-4747-b921-be04d1de7e5a",
+      "name": "Kambu dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 5.0,
+        "carbs": 30.0,
+        "fat": 3.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kambu dosa",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a0e53c6f-d045-40f2-8730-59764250c23f",
+      "name": "Kambu adai",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 8.0,
+        "carbs": 28.0,
+        "fat": 5.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kambu adai",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4ff3fd4c-771d-4277-8a10-ad03a2b49939",
+      "name": "Ragi puttu",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 4.0,
+        "carbs": 34.0,
+        "fat": 1.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi puttu",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "dc713228-2dd9-4ea0-b9c3-6ba52f36ff71",
+      "name": "Ragi kali",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.0,
+        "carbs": 24.0,
+        "fat": 0.8,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi kali",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "20dc9cdf-730f-4b41-b17a-f6e146a16b50",
+      "name": "Ragi sankati",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.0,
+        "carbs": 24.0,
+        "fat": 0.8,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi sankati",
+        "andhra"
+      ]
+    },
+    {
+      "id": "823885f6-45eb-4d01-9462-7e31f2989aa1",
+      "name": "Jolada rotti",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 8.5,
+        "carbs": 52.0,
+        "fat": 2.0,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jolada rotti",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "02a4b74a-1328-47c9-8ddb-39edc198be0c",
+      "name": "Benne dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 4.5,
+        "carbs": 30.0,
+        "fat": 11.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "benne dosa",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "6fcd10c7-1d06-45f9-a566-e42f45cc7477",
+      "name": "Davangere benne dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 5.0,
+        "carbs": 31.0,
+        "fat": 12.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "davangere benne dosa",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "af7b239d-c88c-4a95-87ae-39462414bc72",
+      "name": "Masala mandakki",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.0,
+        "carbs": 30.0,
+        "fat": 5.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala mandakki",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "cffdd913-dae2-45f2-b0bb-669eb44a8ded",
+      "name": "Churmuri",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.0,
+        "carbs": 29.0,
+        "fat": 4.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "churmuri",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "52aa2359-a7ca-47e7-8930-2e3d3fb67f34",
+      "name": "Girmit",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 5.0,
+        "carbs": 28.0,
+        "fat": 5.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "girmit",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "c126402b-eb44-4075-afdf-5a8c50b05915",
+      "name": "Nippattu",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 490.0,
+        "caloriesMax": 510.0,
+        "protein": 9.0,
+        "carbs": 58.0,
+        "fat": 26.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nippattu",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "be24b3c2-cea7-4df3-bafd-85aec2a44ea8",
+      "name": "Kodubale",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 8.0,
+        "carbs": 60.0,
+        "fat": 24.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kodubale",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "5741d6b8-e494-476d-9396-8f61ceb7fab5",
+      "name": "Maddur vada",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 7.0,
+        "carbs": 42.0,
+        "fat": 15.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "maddur vada",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "08c43c83-930c-4078-a7fd-fb2d4334aa00",
+      "name": "Congress kadlekai",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 550.0,
+        "caloriesMax": 570.0,
+        "protein": 23.0,
+        "carbs": 20.0,
+        "fat": 45.0,
+        "fiber": 8.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "congress kadlekai",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "9f4133c1-01e7-4004-b422-2c023bfc3e02",
+      "name": "Avarekalu curry",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 7.0,
+        "carbs": 18.0,
+        "fat": 4.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "avarekalu curry",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "8db86ac0-f20f-4ec6-9bf3-e5b94150570f",
+      "name": "Avarekalu bath",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 5.0,
+        "carbs": 27.0,
+        "fat": 5.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "avarekalu bath",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "303484eb-390e-4f3b-bf25-577195e3ebe0",
+      "name": "Ennegayi",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 4.0,
+        "carbs": 12.0,
+        "fat": 10.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ennegayi",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "3d05122a-7197-4b2b-8f07-26333ca8a7c2",
+      "name": "Badanekayi palya",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.0,
+        "carbs": 11.0,
+        "fat": 7.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "badanekayi palya",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "5670451a-063b-4b75-bda3-74bc62dfe171",
+      "name": "Hesaru bele payasa",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 5.0,
+        "carbs": 28.0,
+        "fat": 5.0,
+        "fiber": 2.0
+      },
+      "portions": [
