@@ -20953,3 +20953,638 @@
       },
       "portions": [
         {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "peas pulao"
+      ]
+    },
+    {
+      "id": "03ba6e71-63eb-4781-97f4-3ddac0dcbc0e",
+      "name": "Peas Pulao - Brown Rice",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "peas pulao"
+      ]
+    },
+    {
+      "id": "af517c5d-8865-4918-be7b-89eedbcfbdf7",
+      "name": "Peas Pulao - Sona Masoori",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "peas pulao"
+      ]
+    },
+    {
+      "id": "a2f13403-cd8c-4503-a5cd-00e5e6030d43",
+      "name": "Peas Pulao - Restaurant Style",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "peas pulao"
+      ]
+    },
+    {
+      "id": "092d546a-6daa-4585-9db2-d729ac853929",
+      "name": "Veg Biryani - Basmati",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg biryani"
+      ]
+    },
+    {
+      "id": "29582eda-f986-46d0-85f1-ad51b48e8aa0",
+      "name": "Veg Biryani - Brown Rice",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg biryani"
+      ]
+    },
+    {
+      "id": "d4cf4281-5e25-48b8-8148-5e984bd46384",
+      "name": "Veg Biryani - Sona Masoori",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg biryani"
+      ]
+    },
+    {
+      "id": "7a9f02dc-b2a5-4b33-99e9-d66ce1ad2c0e",
+      "name": "Veg Biryani - Restaurant Style",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "veg biryani"
+      ]
+    },
+    {
+      "id": "acad8050-62ac-445c-a0d6-f2e5fc07158c",
+      "name": "Chicken Biryani - Basmati",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken biryani"
+      ]
+    },
+    {
+      "id": "74e046a7-b194-4fa4-a1b8-19d9db23944e",
+      "name": "Chicken Biryani - Brown Rice",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken biryani"
+      ]
+    },
+    {
+      "id": "ea033118-2fa7-4168-819f-85735b79aa5f",
+      "name": "Chicken Biryani - Sona Masoori",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken biryani"
+      ]
+    },
+    {
+      "id": "4c22cf55-b8c2-41db-89c4-ab03be5b9b2f",
+      "name": "Chicken Biryani - Restaurant Style",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "chicken biryani"
+      ]
+    },
+    {
+      "id": "cc989814-f081-4cdf-9575-3ba49b233a82",
+      "name": "Mutton Biryani - Basmati",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton biryani"
+      ]
+    },
+    {
+      "id": "38afa402-322c-4dd4-9fa5-80370e252268",
+      "name": "Mutton Biryani - Brown Rice",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton biryani"
+      ]
+    },
+    {
+      "id": "d41af10c-9eca-4b43-8312-2848d83d3fe9",
+      "name": "Mutton Biryani - Sona Masoori",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton biryani"
+      ]
+    },
+    {
+      "id": "4346a7e7-569b-4fe2-9cef-e3c51c77729c",
+      "name": "Mutton Biryani - Restaurant Style",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "mutton biryani"
+      ]
+    },
+    {
+      "id": "79625b6f-76d8-4957-8487-a6f6e83f872f",
+      "name": "Egg Biryani - Basmati",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg biryani"
+      ]
+    },
+    {
+      "id": "90d2acc2-330e-4d54-89f5-7dded4443fb5",
+      "name": "Egg Biryani - Brown Rice",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "egg biryani"
+      ]
+    },
+    {
+      "id": "1c8e0e1c-06e1-4574-b952-3d368de331fc",
+      "name": "Egg Biryani - Sona Masoori",
+      "category": "nonVeg",
+      "subCategory": "grains",
+      "isVegetarian": false,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 10.0,
+        "carbs": 25.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
