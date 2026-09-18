@@ -54694,3 +54694,1035 @@
         "fiber": 2.0
       },
       "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hesaru bele payasa",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "7a67fc14-5793-4c0b-b606-d6a5772cca75",
+      "name": "Kobbari mithai",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 4.0,
+        "carbs": 58.0,
+        "fat": 20.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kobbari mithai",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "a8e264e9-1edf-450d-b82a-1cac91154135",
+      "name": "Andhra pulusu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.0,
+        "carbs": 11.0,
+        "fat": 3.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "andhra pulusu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "b28618a7-c69f-4771-a747-5f752db2ba41",
+      "name": "Pappu charu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 3.0,
+        "carbs": 10.0,
+        "fat": 2.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pappu charu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "854edfb3-a252-4547-9150-a824dccb0540",
+      "name": "Dosakaya pappu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 6.0,
+        "carbs": 15.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dosakaya pappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "44e198b1-e1da-4bd2-9b5b-abbbbff73a22",
+      "name": "Sorakaya pappu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 6.0,
+        "carbs": 14.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sorakaya pappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "10ea50d6-d988-43e4-ae9a-71fe23419765",
+      "name": "Cabbage pappu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.0,
+        "carbs": 15.0,
+        "fat": 3.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cabbage pappu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "524fff61-607e-4d9f-b978-cfce1211d316",
+      "name": "Bendakaya fry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 3.0,
+        "carbs": 12.0,
+        "fat": 10.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bendakaya fry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "3bf598c6-d117-4c50-b941-0adcd106aec4",
+      "name": "Dondakaya fry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 3.0,
+        "carbs": 14.0,
+        "fat": 10.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dondakaya fry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "a3a3238d-2f70-471d-bc41-6fab0e7b02e1",
+      "name": "Kakarakaya fry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 3.0,
+        "carbs": 12.0,
+        "fat": 11.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kakarakaya fry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "62075a3f-afd5-4a18-ba41-6aa91b779a4d",
+      "name": "Andhra chicken fry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 20.0,
+        "carbs": 6.0,
+        "fat": 19.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "andhra chicken fry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "c0ff8911-fac8-4890-aedc-a0421757caa4",
+      "name": "Gongura chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 14.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gongura chicken",
+        "andhra"
+      ]
+    },
+    {
+      "id": "7ea465e9-2d21-4c5e-93ef-ca7613ec9642",
+      "name": "Gongura mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 20.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gongura mutton",
+        "andhra"
+      ]
+    },
+    {
+      "id": "9501ab13-c380-4b86-a2aa-24aa27923aeb",
+      "name": "Kodi vepudu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 20.0,
+        "carbs": 6.0,
+        "fat": 18.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kodi vepudu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "62ff6562-ad1b-4120-a9e2-9a27a35523b9",
+      "name": "Royyala vepudu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 22.0,
+        "carbs": 6.0,
+        "fat": 14.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "royyala vepudu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "a48e03f5-603d-41fc-9c9b-44455a232b12",
+      "name": "Ulavacharu",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 5.0,
+        "carbs": 12.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ulavacharu",
+        "andhra"
+      ]
+    },
+    {
+      "id": "5041fc74-66b0-4c91-af7f-b0f48d2d6b50",
+      "name": "Ulavacharu biryani",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 9.0,
+        "carbs": 25.0,
+        "fat": 7.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ulavacharu biryani",
+        "andhra"
+      ]
+    },
+    {
+      "id": "f237d74b-eb84-4077-8aa2-7b5e4cd1b691",
+      "name": "Hyderabadi haleem chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 14.0,
+        "carbs": 18.0,
+        "fat": 9.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hyderabadi haleem chicken",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "403e9cc6-f454-4d9c-b184-f576e24746d6",
+      "name": "Hyderabadi haleem mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 14.0,
+        "carbs": 18.0,
+        "fat": 12.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hyderabadi haleem mutton",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "815a974b-a1f2-420b-ac97-328f2d3f1dae",
+      "name": "Mutton dalcha",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 12.0,
+        "carbs": 14.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton dalcha",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "551748f4-08a2-4efd-aebf-446b31c38e1f",
+      "name": "Chicken dalcha",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 12.0,
+        "carbs": 14.0,
+        "fat": 6.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken dalcha",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "8c7d3076-2ed9-4560-b24f-a201b56dfc9b",
+      "name": "Marag",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 15.0,
+        "carbs": 5.0,
+        "fat": 10.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "marag",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "f9067005-d9ff-4712-bfa4-b50fafeefd64",
+      "name": "Lukhmi",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 10.0,
+        "carbs": 38.0,
+        "fat": 17.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lukhmi",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "30c436ea-10aa-480b-a944-b082f3f7eb74",
+      "name": "Hyderabadi khichdi",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 4.5,
+        "carbs": 21.0,
+        "fat": 3.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hyderabadi khichdi",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "d0327079-1463-4d9e-8fc8-042622ed95d6",
+      "name": "Khatta",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 1.0,
+        "carbs": 9.0,
+        "fat": 1.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khatta",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "04625970-3377-4342-bb70-9fbe52473f75",
+      "name": "Sheer khurma",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 6.0,
+        "carbs": 32.0,
+        "fat": 8.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sheer khurma",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "fcb8d746-0496-48c1-8063-153120eceffd",
+      "name": "Phirni",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.0,
+        "carbs": 27.0,
+        "fat": 4.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "phirni",
+        "north indian"
+      ]
+    },
+    {
+      "id": "77874e3b-9168-48c5-96e0-0e8483ec5880",
+      "name": "Badam halwa",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 440.0,
+        "caloriesMax": 460.0,
+        "protein": 9.0,
+        "carbs": 45.0,
+        "fat": 27.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "badam halwa",
+        "north indian"
+      ]
+    },
+    {
+      "id": "28a81226-1691-4ec8-88a4-386b4443d076",
+      "name": "Moong dal halwa",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 9.0,
+        "carbs": 45.0,
+        "fat": 16.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal halwa",
+        "north indian"
+      ]
+    },
+    {
+      "id": "77d31c09-db83-4e59-8a3c-bddfb009aed2",
+      "name": "Atte ka halwa",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 6.0,
+        "carbs": 48.0,
+        "fat": 13.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "atte ka halwa",
+        "north indian"
+      ]
+    },
+    {
+      "id": "bceb72e3-1547-4b6c-8969-e6312be3f56a",
+      "name": "Lauki halwa",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 4.0,
+        "carbs": 30.0,
+        "fat": 8.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lauki halwa",
+        "north indian"
+      ]
+    },
+    {
+      "id": "8bc5a3f1-b2cd-4217-9fb1-e6f21160982b",
+      "name": "Aloo halwa",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 3.0,
+        "carbs": 42.0,
+        "fat": 9.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo halwa",
+        "north indian"
