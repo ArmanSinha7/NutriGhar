@@ -22223,3 +22223,638 @@
           "weightMaxG": 200
         }
       ],
+      "aliases": [
+        "sindhi biryani"
+      ]
+    },
+    {
+      "id": "842a2a41-0c17-4784-8f34-8eb4405a3270",
+      "name": "Sindhi Biryani - Brown Rice",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "sindhi biryani"
+      ]
+    },
+    {
+      "id": "2cac6c06-6773-4ca9-9aa8-25d61f160a79",
+      "name": "Sindhi Biryani - Sona Masoori",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "sindhi biryani"
+      ]
+    },
+    {
+      "id": "2f0e1118-5078-4a5f-9bb4-6174b794d354",
+      "name": "Sindhi Biryani - Restaurant Style",
+      "category": "veg",
+      "subCategory": "grains",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130,
+        "caloriesMax": 180,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 plate",
+          "weightMinG": 250,
+          "weightMaxG": 350
+        },
+        {
+          "name": "1 bowl",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "sindhi biryani"
+      ]
+    },
+    {
+      "id": "dd3ff72f-d27e-4708-befc-c04b133b7f55",
+      "name": "Samosa (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samosa"
+      ]
+    },
+    {
+      "id": "64d9af1a-97bd-46d9-a01c-45d05eaa4b67",
+      "name": "Samosa (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samosa"
+      ]
+    },
+    {
+      "id": "7599263b-a1cd-493d-824d-840a8873d7e5",
+      "name": "Samosa (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samosa"
+      ]
+    },
+    {
+      "id": "3f7becf7-897d-4141-99fc-7128a768c08c",
+      "name": "Samosa (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samosa"
+      ]
+    },
+    {
+      "id": "034425f4-b3d3-4be9-adbf-82b065e279aa",
+      "name": "Kachori (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kachori"
+      ]
+    },
+    {
+      "id": "86042652-8c07-4c7a-8c35-b007c104541e",
+      "name": "Kachori (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kachori"
+      ]
+    },
+    {
+      "id": "fbade131-c829-454d-8ab1-6a4b2f2609eb",
+      "name": "Kachori (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kachori"
+      ]
+    },
+    {
+      "id": "950eba4f-afa4-4d1f-aed8-b2652a469576",
+      "name": "Kachori (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kachori"
+      ]
+    },
+    {
+      "id": "e9234f4d-5cc3-4c57-978c-c5631d7d0914",
+      "name": "Vada Pav (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vada pav"
+      ]
+    },
+    {
+      "id": "c6249bcf-256d-46a5-82aa-6b3dc77b52c3",
+      "name": "Vada Pav (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vada pav"
+      ]
+    },
+    {
+      "id": "62ac8466-60a1-4b1e-9643-416da8f24052",
+      "name": "Vada Pav (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vada pav"
+      ]
+    },
+    {
+      "id": "d4f597e6-5247-4f02-afee-45ba15b84117",
+      "name": "Vada Pav (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vada pav"
+      ]
+    },
+    {
+      "id": "6b295af0-dd0f-4c2a-bd37-ae7930742fc4",
+      "name": "Pav Bhaji (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pav bhaji"
+      ]
+    },
+    {
+      "id": "215aacdd-75ca-4b42-81a9-22f7f73859ad",
+      "name": "Pav Bhaji (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pav bhaji"
+      ]
+    },
+    {
+      "id": "ef0a76fb-5004-4cff-9cce-2f3c376eb2d5",
+      "name": "Pav Bhaji (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pav bhaji"
+      ]
+    },
+    {
