@@ -57790,3 +57790,1035 @@
       "per100g": {
         "caloriesMin": 60.0,
         "caloriesMax": 80.0,
+        "protein": 1.0,
+        "carbs": 14.0,
+        "fat": 0.2,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "handia",
+        "jharkhand"
+      ]
+    },
+    {
+      "id": "edf9eb6b-178f-4c76-a1ef-83c9a30f8703",
+      "name": "Chana sattu stuffing",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 13.0,
+        "carbs": 26.0,
+        "fat": 5.0,
+        "fiber": 10.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chana sattu stuffing",
+        "bihar"
+      ]
+    },
+    {
+      "id": "6acf8f08-4b45-4ed5-8910-98c07cc6ae9c",
+      "name": "Dal puri",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 9.0,
+        "carbs": 43.0,
+        "fat": 12.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dal puri",
+        "bihar"
+      ]
+    },
+    {
+      "id": "1d66266e-c58a-4616-bb2d-c6d2c49831b0",
+      "name": "Nimki",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 490.0,
+        "caloriesMax": 510.0,
+        "protein": 7.0,
+        "carbs": 62.0,
+        "fat": 25.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nimki",
+        "bihar"
+      ]
+    },
+    {
+      "id": "61eb7bd3-b75c-4071-8855-f3c847e3c96b",
+      "name": "Parwal mithai",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 290.0,
+        "caloriesMax": 310.0,
+        "protein": 5.0,
+        "carbs": 55.0,
+        "fat": 7.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "parwal mithai",
+        "bihar"
+      ]
+    },
+    {
+      "id": "2fcae313-08d0-44bc-a5d3-2ac66e94d7dc",
+      "name": "Khaja Bihar",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 6.0,
+        "carbs": 68.0,
+        "fat": 19.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khaja bihar",
+        "bihar"
+      ]
+    },
+    {
+      "id": "bdd72f9d-4119-4bcd-a1c8-acdd8377df65",
+      "name": "Laung lata",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 6.0,
+        "carbs": 62.0,
+        "fat": 18.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "laung lata",
+        "bihar"
+      ]
+    },
+    {
+      "id": "49c4443e-c8ef-41a8-b3e0-850654bc921d",
+      "name": "Kalari cheese grilled",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 24.0,
+        "carbs": 2.0,
+        "fat": 25.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kalari cheese grilled",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "be21e039-c3e2-4eb0-8c72-6aa5c0a3d2a8",
+      "name": "Kalari kulcha",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 14.0,
+        "carbs": 34.0,
+        "fat": 11.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kalari kulcha",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "9b93f007-4be9-4e7d-b4f1-7d6dd4c3f139",
+      "name": "Dogri ambal sweet sour pumpkin",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 1.8,
+        "carbs": 18.0,
+        "fat": 3.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dogri ambal sweet sour pumpkin",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "45b90b64-f5fe-4611-9f91-46c7863648d0",
+      "name": "Rajma Jammu with anardana",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 7.2,
+        "carbs": 19.5,
+        "fat": 3.2,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rajma jammu with anardana",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "97f72ec1-2588-428d-83d3-285fc3caac17",
+      "name": "Gheur Dogri traditional bread",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 6.5,
+        "carbs": 42.0,
+        "fat": 5.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gheur dogri traditional bread",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "4cdbd15b-1f6c-4a5c-8861-cca144dfe856",
+      "name": "Khatta meat Dogri mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 17.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khatta meat dogri mutton",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "9936c723-63f9-4aa5-9eef-137040331c8b",
+      "name": "Madra Dogri chickpea yogurt",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 7.5,
+        "carbs": 18.0,
+        "fat": 8.5,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "madra dogri chickpea yogurt",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "ccec836f-868b-4b57-8c42-35f466cc4302",
+      "name": "Khamire Dogri fermented roti",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 7.5,
+        "carbs": 46.0,
+        "fat": 2.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khamire dogri fermented roti",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "53417ec7-625d-49bd-ab79-511bd6877743",
+      "name": "Sund Dogri dry fruit panjiri",
+      "category": "imported_csv_2",
+      "subCategory": "Jammu & Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 10.5,
+        "carbs": 52.0,
+        "fat": 26.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sund dogri dry fruit panjiri",
+        "jammu & kashmir"
+      ]
+    },
+    {
+      "id": "72e8eaff-6c27-4e5d-8d5b-74544b7ec87b",
+      "name": "Kashmiri daniwal korma coriander mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 17.5,
+        "carbs": 4.5,
+        "fat": 17.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri daniwal korma coriander mutton",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "00c4b2e8-9ef4-4f3b-8d1a-c1f22ac8065e",
+      "name": "Marchwangan korma spicy red mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 18.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "marchwangan korma spicy red mutton",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "72410d8e-b5ed-4ac8-824c-98eea59b13bf",
+      "name": "Matschgand Kashmiri minced meatballs",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 17.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "matschgand kashmiri minced meatballs",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "68c64b33-a74f-4fde-9399-3cfa8ed5421d",
+      "name": "Modur pulao Kashmiri sweet saffron rice",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 3.8,
+        "carbs": 42.0,
+        "fat": 5.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "modur pulao kashmiri sweet saffron rice",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "0f848116-567e-42c6-81b9-7f14f0e5d176",
+      "name": "Roth Kashmiri sweet baked bread",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 370.0,
+        "caloriesMax": 390.0,
+        "protein": 6.5,
+        "carbs": 58.0,
+        "fat": 14.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roth kashmiri sweet baked bread",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "dd0f1526-8674-4028-904e-bc1a44f63fc2",
+      "name": "Lavasa Kashmiri unleavened flatbread",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 7.8,
+        "carbs": 50.0,
+        "fat": 1.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lavasa kashmiri unleavened flatbread",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "7a8619d3-93d5-416b-b116-99d9941ab28a",
+      "name": "Girda Kashmiri fermented breakfast bread",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 7.5,
+        "carbs": 48.0,
+        "fat": 1.8,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "girda kashmiri fermented breakfast bread",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "b468ae0c-6b53-4311-8ae2-14286cd0b13d",
+      "name": "Telvor Kashmiri crispy bagel bread",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 8.5,
+        "carbs": 52.0,
+        "fat": 5.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "telvor kashmiri crispy bagel bread",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "cecc896d-592b-47fa-a629-07b29804f181",
+      "name": "Kashmiri dum aloo curd gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 3.2,
+        "carbs": 20.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri dum aloo curd gravy",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "c932e1e1-7804-4e6c-b367-c015939b96e7",
+      "name": "Guchhi pulao Himalayan morel mushroom rice",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir/Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 5.5,
+        "carbs": 28.0,
+        "fat": 6.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "guchhi pulao himalayan morel mushroom rice",
+        "kashmir/himachal"
+      ]
+    },
+    {
+      "id": "423dc486-6566-4776-9426-5154c41c0932",
+      "name": "Kashmiri baingan khatte meethe",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 2.0,
+        "carbs": 13.0,
+        "fat": 7.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri baingan khatte meethe",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "04c37234-81d3-409a-b84c-5875383ed539",
+      "name": "Nadru palak lotus root spinach",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 3.8,
+        "carbs": 13.5,
+        "fat": 4.2,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nadru palak lotus root spinach",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "1c65294c-488c-47a2-8a1c-38ffbf11f690",
+      "name": "Kashmiri gaad te tamatar fish tomato",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 16.5,
+        "carbs": 4.5,
+        "fat": 7.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashmiri gaad te tamatar fish tomato",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "8f5b517e-6f91-44a6-bdf7-e968c8c3bcf9",
+      "name": "Dhaam boor ki dal Himachali",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 6.8,
+        "carbs": 18.0,
+        "fat": 4.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhaam boor ki dal himachali",
+        "himachal"
+      ]
+    },
+    {
+      "id": "b5fda031-49fe-434b-be3f-f1f059c7c54f",
+      "name": "Telia mah black gram curry Himachali",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 8.0,
+        "carbs": 17.0,
+        "fat": 7.5,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "telia mah black gram curry himachali",
+        "himachal"
+      ]
+    },
+    {
+      "id": "2a9f8fb5-b071-425d-893f-11ab0b4e6273",
+      "name": "Himachali beduan stuffed bread",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 8.5,
+        "carbs": 42.0,
+        "fat": 7.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
