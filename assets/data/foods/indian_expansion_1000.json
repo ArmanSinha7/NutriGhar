@@ -23493,3 +23493,638 @@
       "category": "veg",
       "subCategory": "snacks",
       "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo tikki"
+      ]
+    },
+    {
+      "id": "16800715-b57e-4650-b31c-f5cae4cac273",
+      "name": "Aloo Tikki (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo tikki"
+      ]
+    },
+    {
+      "id": "4d797d89-60a2-4349-8905-b1fdf63ca17a",
+      "name": "Aloo Tikki (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo tikki"
+      ]
+    },
+    {
+      "id": "46e6f6dd-8da0-4a36-93f9-b9fd0e0e3228",
+      "name": "Papdi Chaat (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papdi chaat"
+      ]
+    },
+    {
+      "id": "d7c11a4b-0bfc-4a75-a068-c92029416b85",
+      "name": "Papdi Chaat (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papdi chaat"
+      ]
+    },
+    {
+      "id": "9685c0e8-b38f-4c34-8c03-d01e7b760abf",
+      "name": "Papdi Chaat (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papdi chaat"
+      ]
+    },
+    {
+      "id": "f7ab362c-abf5-44fe-a57d-526f5bc5c04d",
+      "name": "Papdi Chaat (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papdi chaat"
+      ]
+    },
+    {
+      "id": "75edd956-8748-43ea-9161-1ed2b236043f",
+      "name": "Pakora (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pakora"
+      ]
+    },
+    {
+      "id": "73275263-19b2-4262-9443-bb6b2dc35ca4",
+      "name": "Pakora (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pakora"
+      ]
+    },
+    {
+      "id": "d5197941-e071-489c-89c4-004e3718bc49",
+      "name": "Pakora (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pakora"
+      ]
+    },
+    {
+      "id": "a2f20450-6ed6-4a71-ad97-e4994f568139",
+      "name": "Pakora (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pakora"
+      ]
+    },
+    {
+      "id": "c9c23c16-e386-4319-bd52-0c0cf6b2c4c7",
+      "name": "Onion Bhaji (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion bhaji"
+      ]
+    },
+    {
+      "id": "1221eafd-343f-4b38-8484-5bcde3678f37",
+      "name": "Onion Bhaji (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion bhaji"
+      ]
+    },
+    {
+      "id": "15219a91-ae5b-4de1-94dc-86b2d2de9c31",
+      "name": "Onion Bhaji (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion bhaji"
+      ]
+    },
+    {
+      "id": "c34dd5ef-17cf-4534-85e5-479bbe021686",
+      "name": "Onion Bhaji (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion bhaji"
+      ]
+    },
+    {
+      "id": "e42adcdc-3d6e-4c4a-9188-a7386c397164",
+      "name": "Mirchi Bajji (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mirchi bajji"
+      ]
+    },
+    {
+      "id": "165e3e6c-b814-4f1e-b3ba-e62b187d0410",
+      "name": "Mirchi Bajji (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mirchi bajji"
+      ]
+    },
+    {
+      "id": "ca71625e-3cfe-4ec6-a462-842063542995",
+      "name": "Mirchi Bajji (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mirchi bajji"
+      ]
+    },
+    {
+      "id": "64f5558d-eeb9-46cb-80b4-9255b34bfbb2",
+      "name": "Mirchi Bajji (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
