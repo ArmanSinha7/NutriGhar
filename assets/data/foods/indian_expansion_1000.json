@@ -24128,3 +24128,638 @@
         "breakfast"
       ],
       "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mirchi bajji"
+      ]
+    },
+    {
+      "id": "06e827d5-3f7b-4094-853e-66c3d5d2c9a0",
+      "name": "Dhokla (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhokla"
+      ]
+    },
+    {
+      "id": "c2b9db92-1f3b-4af5-b220-6bf5d43f13df",
+      "name": "Dhokla (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhokla"
+      ]
+    },
+    {
+      "id": "a18edf91-4ca8-440c-a283-3e9562021eba",
+      "name": "Dhokla (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhokla"
+      ]
+    },
+    {
+      "id": "3074b241-9df3-4995-9417-76eada8fed78",
+      "name": "Dhokla (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhokla"
+      ]
+    },
+    {
+      "id": "5722941a-474c-4b41-bab7-e55cb5bc0e39",
+      "name": "Khandvi (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khandvi"
+      ]
+    },
+    {
+      "id": "a918547d-bf5a-4762-9760-3dc032e7c546",
+      "name": "Khandvi (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khandvi"
+      ]
+    },
+    {
+      "id": "ab1a2851-11f7-4fa7-a626-e586c2bee48b",
+      "name": "Khandvi (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khandvi"
+      ]
+    },
+    {
+      "id": "a340b94b-c5eb-4c1e-a086-ecf3d0992c84",
+      "name": "Khandvi (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khandvi"
+      ]
+    },
+    {
+      "id": "e7e2d1f1-2fb9-4437-a8cd-e7246ff3898e",
+      "name": "Fafda (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fafda"
+      ]
+    },
+    {
+      "id": "e745cd3f-c554-47ef-ae0e-9889864c6d8d",
+      "name": "Fafda (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fafda"
+      ]
+    },
+    {
+      "id": "83274980-1920-4bf6-8cb3-c07b994833d6",
+      "name": "Fafda (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fafda"
+      ]
+    },
+    {
+      "id": "0433710a-ddb8-40ea-a1b8-b6904a8cc5dd",
+      "name": "Fafda (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fafda"
+      ]
+    },
+    {
+      "id": "23eee61f-b591-4cea-be37-a257dfef29af",
+      "name": "Jalebi (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jalebi"
+      ]
+    },
+    {
+      "id": "1265470e-7fe4-4d03-bad8-4e804a85bd92",
+      "name": "Jalebi (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jalebi"
+      ]
+    },
+    {
+      "id": "336bd26a-072f-4d97-b97b-e0544c11d87b",
+      "name": "Jalebi (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jalebi"
+      ]
+    },
+    {
+      "id": "e4507f63-f501-4b72-8234-86f8c249ba22",
+      "name": "Jalebi (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jalebi"
+      ]
+    },
+    {
+      "id": "ca637241-5341-463f-bca8-f7ea0978184c",
+      "name": "Gulab Jamun (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gulab jamun"
+      ]
+    },
+    {
+      "id": "c039977c-3583-4a3e-a804-a1c99c8634ac",
+      "name": "Gulab Jamun (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
