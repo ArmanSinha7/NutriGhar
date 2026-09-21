@@ -24763,3 +24763,638 @@
         "caloriesMax": 400,
         "protein": 5.0,
         "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gulab jamun"
+      ]
+    },
+    {
+      "id": "f6fea2ec-4053-428b-8be0-3bcfbf2f8a83",
+      "name": "Gulab Jamun (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gulab jamun"
+      ]
+    },
+    {
+      "id": "ff4b0c1f-011f-4299-b3ff-1e93e90616fb",
+      "name": "Gulab Jamun (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gulab jamun"
+      ]
+    },
+    {
+      "id": "b77d4e8f-193f-4133-b511-d720f941e07f",
+      "name": "Rasgulla (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasgulla"
+      ]
+    },
+    {
+      "id": "21d1081b-8375-4264-8dfa-a0112415e656",
+      "name": "Rasgulla (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasgulla"
+      ]
+    },
+    {
+      "id": "e025e3a1-08a0-4750-a628-dc21d5209722",
+      "name": "Rasgulla (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasgulla"
+      ]
+    },
+    {
+      "id": "fd1aff54-6ca9-48af-9175-b755889effdc",
+      "name": "Rasgulla (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasgulla"
+      ]
+    },
+    {
+      "id": "b237b4cd-1003-4417-9560-c71f51dedf3c",
+      "name": "Rasmalai (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasmalai"
+      ]
+    },
+    {
+      "id": "cae5c67a-053a-4c83-902b-3efedc8f03c8",
+      "name": "Rasmalai (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasmalai"
+      ]
+    },
+    {
+      "id": "bb321216-3ca9-4ca5-a0de-d687637fcde2",
+      "name": "Rasmalai (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasmalai"
+      ]
+    },
+    {
+      "id": "307673d9-f612-457c-87e7-b20ca1c1fc28",
+      "name": "Rasmalai (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasmalai"
+      ]
+    },
+    {
+      "id": "314c3371-e850-456c-a065-3eb334b86805",
+      "name": "Kaju Katli (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaju katli"
+      ]
+    },
+    {
+      "id": "8ea40705-7e37-44af-ab22-81cdf3456d10",
+      "name": "Kaju Katli (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaju katli"
+      ]
+    },
+    {
+      "id": "dddc7c64-5b1b-4cdc-abc6-06bede58e16d",
+      "name": "Kaju Katli (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaju katli"
+      ]
+    },
+    {
+      "id": "022f5645-5051-409f-a067-92eb6f10544c",
+      "name": "Kaju Katli (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaju katli"
+      ]
+    },
+    {
+      "id": "7f583caa-5794-4673-8b9a-eee4409aaa9c",
+      "name": "Barfi (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barfi"
+      ]
+    },
+    {
+      "id": "45049c03-97a5-4c6f-803e-ad7eeb45840b",
+      "name": "Barfi (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barfi"
+      ]
+    },
+    {
+      "id": "e54af024-2105-428d-a767-e24b3ca4f46a",
+      "name": "Barfi (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barfi"
+      ]
+    },
+    {
+      "id": "f835416e-7349-4413-9910-df876caf89b8",
+      "name": "Barfi (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
