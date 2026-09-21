@@ -59854,3 +59854,1035 @@
       ]
     },
     {
+      "id": "02e2a9a7-45bb-4621-935d-fc8dfd9b6cae",
+      "name": "Bathua ka raita chenopodium winter leaves",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 3.2,
+        "carbs": 4.5,
+        "fat": 3.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bathua ka raita chenopodium winter leaves",
+        "north indian"
+      ]
+    },
+    {
+      "id": "dd695dbb-9077-4589-b085-a602db384912",
+      "name": "Pudina raita fresh mint blended curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 2.8,
+        "carbs": 4.0,
+        "fat": 3.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pudina raita fresh mint blended curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "37cca49d-cfa6-44b8-990e-6b2d9d46a2e9",
+      "name": "Lauki ka raita steamed bottle gourd curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 2.5,
+        "carbs": 4.5,
+        "fat": 2.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lauki ka raita steamed bottle gourd curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "4ee24383-be9a-4610-b985-68e9c5e3b63b",
+      "name": "Beetroot raita pink grated beet curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.6,
+        "carbs": 7.0,
+        "fat": 3.2,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beetroot raita pink grated beet curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "e9a1f76e-b744-4b3c-9e21-a29ce5b58e25",
+      "name": "Fruit raita apple banana pomegranate curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 2.5,
+        "carbs": 14.5,
+        "fat": 2.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fruit raita apple banana pomegranate curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "87d933ca-ff5e-4c04-95a3-c399b5d8b6aa",
+      "name": "Dahi bhalla soft lentil dumplings sweet curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 5.5,
+        "carbs": 22.0,
+        "fat": 6.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dahi bhalla soft lentil dumplings sweet curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "7df0099b-bac7-4ff9-bdc9-e0d8ec0991d3",
+      "name": "Dahi gujiya stuffed mawa dry fruit bhalla",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 6.0,
+        "carbs": 24.0,
+        "fat": 8.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dahi gujiya stuffed mawa dry fruit bhalla",
+        "north indian"
+      ]
+    },
+    {
+      "id": "dd357242-b7b6-40a3-8907-b518bcaf4ee5",
+      "name": "Papdi chaat crisp wafers potato curd chutney",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 5.0,
+        "carbs": 28.0,
+        "fat": 8.8,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papdi chaat crisp wafers potato curd chutney",
+        "north indian"
+      ]
+    },
+    {
+      "id": "c7d2d54d-67ec-4163-a30e-cc61fd6c887b",
+      "name": "Sev batata puri Mumbai chaat layered",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 4.8,
+        "carbs": 31.0,
+        "fat": 8.8,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sev batata puri mumbai chaat layered",
+        "street food"
+      ]
+    },
+    {
+      "id": "7c3c72fe-f906-4cfd-9066-583a820509ea",
+      "name": "Dahi batata puri stuffed hollow puri curd",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 4.5,
+        "carbs": 27.0,
+        "fat": 7.2,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dahi batata puri stuffed hollow puri curd",
+        "street food"
+      ]
+    },
+    {
+      "id": "99e2c743-84e9-4857-b686-dc6ba0610de4",
+      "name": "Bhel puri wet geela bhel tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 4.2,
+        "carbs": 32.0,
+        "fat": 3.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhel puri wet geela bhel tamarind",
+        "street food"
+      ]
+    },
+    {
+      "id": "0bfaaa74-0c77-40ce-879f-ad1b90d3fc42",
+      "name": "Matar chaat dry white peas spiced",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 7.0,
+        "carbs": 21.0,
+        "fat": 2.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "matar chaat dry white peas spiced",
+        "street food"
+      ]
+    },
+    {
+      "id": "4817144d-c42f-41cd-8f85-c33c0636ede3",
+      "name": "Katori chaat edible fried basket filled",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 5.5,
+        "carbs": 34.0,
+        "fat": 10.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "katori chaat edible fried basket filled",
+        "street food"
+      ]
+    },
+    {
+      "id": "52218556-e872-4db8-b7f1-11c23dc6cd60",
+      "name": "Aloo kachaloo spiced potato colocasia chaat",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 2.8,
+        "carbs": 24.0,
+        "fat": 4.8,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo kachaloo spiced potato colocasia chaat",
+        "street food"
+      ]
+    },
+    {
+      "id": "e7e3b455-8c60-41b4-a355-dc279870dda3",
+      "name": "Corn chaat boiled sweet corn butter masala",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 4.0,
+        "carbs": 22.0,
+        "fat": 3.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "corn chaat boiled sweet corn butter masala",
+        "street food"
+      ]
+    },
+    {
+      "id": "9af992b2-1cbf-456e-85a6-24baaa1384e4",
+      "name": "Peanut chaat boiled peanuts onion tomato",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 10.5,
+        "carbs": 14.0,
+        "fat": 12.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut chaat boiled peanuts onion tomato",
+        "street food"
+      ]
+    },
+    {
+      "id": "97884313-8cf6-4cb0-9c7b-b144be0111b3",
+      "name": "Sprouts chaat mixed moong chana sprouted",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 8.5,
+        "carbs": 17.0,
+        "fat": 2.0,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sprouts chaat mixed moong chana sprouted",
+        "street food"
+      ]
+    },
+    {
+      "id": "864f6247-fcb4-4318-aa7c-fb4fa90654da",
+      "name": "Chana chaat boiled brown chickpeas tangy",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 8.0,
+        "carbs": 22.0,
+        "fat": 2.8,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chana chaat boiled brown chickpeas tangy",
+        "street food"
+      ]
+    },
+    {
+      "id": "ac267c8c-db01-42c7-a308-90c07ca40d2c",
+      "name": "Paneer tikka roll rumali wrap mint sauce",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 11.0,
+        "carbs": 28.0,
+        "fat": 9.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer tikka roll rumali wrap mint sauce",
+        "street food"
+      ]
+    },
+    {
+      "id": "7a780acb-d24c-4678-968e-e23d44e13f89",
+      "name": "Soya malai chaap roll cream marinade wrap",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 245.0,
+        "caloriesMax": 265.0,
+        "protein": 12.5,
+        "carbs": 27.0,
+        "fat": 11.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soya malai chaap roll cream marinade wrap",
+        "street food"
+      ]
+    },
+    {
+      "id": "d09bb23d-5d34-47a4-8945-f394c8fb7d73",
+      "name": "Mushroom tikka roll roasted wrap",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 6.5,
+        "carbs": 29.0,
+        "fat": 7.8,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom tikka roll roasted wrap",
+        "street food"
+      ]
+    },
+    {
+      "id": "34677a30-f1dc-4818-a5f5-a66278248122",
+      "name": "Egg roll single egg flaky paratha wrap",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 9.0,
+        "carbs": 29.0,
+        "fat": 9.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg roll single egg flaky paratha wrap",
+        "street food"
+      ]
+    },
+    {
+      "id": "986091c7-54a8-4216-a119-321f7926c04e",
+      "name": "Double egg roll double fried egg wrap",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 245.0,
+        "caloriesMax": 265.0,
+        "protein": 12.0,
+        "carbs": 28.0,
+        "fat": 11.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "double egg roll double fried egg wrap",
+        "street food"
+      ]
+    },
+    {
+      "id": "9dd68ba8-fcbb-470d-b48b-17cd3f92690c",
+      "name": "Chicken seekh roll spiced kebab paratha wrap",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 255.0,
+        "caloriesMax": 275.0,
+        "protein": 14.5,
+        "carbs": 27.0,
+        "fat": 11.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken seekh roll spiced kebab paratha wrap",
+        "street food"
+      ]
+    },
+    {
+      "id": "6244b335-36d8-4f21-9ef4-fbf522753252",
+      "name": "Mutton seekh roll grilled kebab wrap",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 275.0,
+        "caloriesMax": 295.0,
+        "protein": 15.5,
+        "carbs": 26.0,
+        "fat": 13.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton seekh roll grilled kebab wrap",
+        "street food"
+      ]
+    },
+    {
+      "id": "d4537e70-8736-4224-a021-030c2ba6432f",
+      "name": "Tandoori chicken roll shredded smoky wrap",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 15.0,
+        "carbs": 27.0,
+        "fat": 9.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tandoori chicken roll shredded smoky wrap",
+        "street food"
+      ]
+    },
+    {
+      "id": "41157806-fb4c-4990-b34d-5bf4e234c2e4",
+      "name": "Fish finger breadcrumb fried fish sticks",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 16.5,
+        "carbs": 14.0,
+        "fat": 13.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish finger breadcrumb fried fish sticks",
+        "street food"
+      ]
+    },
+    {
+      "id": "30a2e81f-fa7a-4d82-a503-0870065d5fd6",
+      "name": "Chicken pakora spiced gram flour fried",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 19.0,
+        "carbs": 12.0,
+        "fat": 16.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken pakora spiced gram flour fried",
+        "street food"
+      ]
+    },
+    {
+      "id": "67042ce7-7cc0-4e07-a85a-e517a7179d4a",
+      "name": "Fish pakora Amritsari ajwain fried",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 20.0,
+        "carbs": 9.0,
+        "fat": 13.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fish pakora amritsari ajwain fried",
+        "punjab"
+      ]
+    },
+    {
+      "id": "29d62263-2e60-491e-be91-ae357994d63a",
+      "name": "Prawn pakora batter fried spiced shrimp",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 18.0,
+        "carbs": 12.0,
+        "fat": 11.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "prawn pakora batter fried spiced shrimp",
+        "street food"
+      ]
+    },
+    {
+      "id": "c08f87d9-662f-43a4-a1d2-04e397321735",
+      "name": "Egg pakora hard boiled halved fried",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 11.5,
+        "carbs": 14.0,
+        "fat": 12.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg pakora hard boiled halved fried",
+        "street food"
+      ]
+    },
+    {
+      "id": "a273d3f2-55d4-42ee-b133-27c9b642d9fd",
+      "name": "Gobhi pakora cauliflower florets fried",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
