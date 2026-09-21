@@ -58822,3 +58822,1035 @@
         {
           "name": "1 serving",
           "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "himachali beduan stuffed bread",
+        "himachal"
+      ]
+    },
+    {
+      "id": "630a1aed-0175-45a9-a3fd-fa1e960c053e",
+      "name": "Luchachi Himachali flatbread",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 7.0,
+        "carbs": 46.0,
+        "fat": 5.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "luchachi himachali flatbread",
+        "himachal"
+      ]
+    },
+    {
+      "id": "44c17b50-dc81-44c8-94fe-834649539e22",
+      "name": "Aktori buckwheat pancake Lahaul",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 6.5,
+        "carbs": 38.0,
+        "fat": 3.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aktori buckwheat pancake lahaul",
+        "himachal"
+      ]
+    },
+    {
+      "id": "b99862f7-c308-4b22-bd60-b14fd729fd17",
+      "name": "Bhey crispy lotus root chips Himachali",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 3.5,
+        "carbs": 28.0,
+        "fat": 11.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhey crispy lotus root chips himachali",
+        "himachal"
+      ]
+    },
+    {
+      "id": "ccac5cf6-cff6-470b-b177-33250444954d",
+      "name": "Kullu trout tawa fry",
+      "category": "imported_csv_2",
+      "subCategory": "Himachal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 21.0,
+        "carbs": 3.0,
+        "fat": 9.0,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kullu trout tawa fry",
+        "himachal"
+      ]
+    },
+    {
+      "id": "076ad7bb-22b9-4ef5-a50c-ff487e79c1e8",
+      "name": "Pahadi kheere ka raita mustard cucumber",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.5,
+        "carbs": 5.0,
+        "fat": 4.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pahadi kheere ka raita mustard cucumber",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "34debe4c-5152-4a31-894c-96179fdc5190",
+      "name": "Mandua ki roti ragi millet Uttarakhand",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 6.5,
+        "carbs": 46.0,
+        "fat": 2.0,
+        "fiber": 8.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mandua ki roti ragi millet uttarakhand",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "aef84cbc-8758-4916-9ca8-c768aacf218d",
+      "name": "Jhangora bhat barnyard millet boiled",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.5,
+        "carbs": 22.5,
+        "fat": 1.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jhangora bhat barnyard millet boiled",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "7b6fb27b-1c49-44ca-9816-81b5ae2b71bc",
+      "name": "Arbi ke patode steamed colocasia leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 5.5,
+        "carbs": 24.0,
+        "fat": 6.0,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arbi ke patode steamed colocasia leaves",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "c1545474-5c55-40e2-af89-5dab686b5e08",
+      "name": "Urad dal pakode pahadi badil",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 11.0,
+        "carbs": 32.0,
+        "fat": 12.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "urad dal pakode pahadi badil",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "5280b070-1ac4-404c-8524-430b20066d35",
+      "name": "Pahadi palak ka kapha gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.5,
+        "carbs": 7.5,
+        "fat": 4.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pahadi palak ka kapha gravy",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "656d8746-8fa5-4db4-9907-16cbd02c6006",
+      "name": "Gahat ki khichdi horse gram rice",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 6.0,
+        "carbs": 22.0,
+        "fat": 2.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gahat ki khichdi horse gram rice",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "015729df-b33b-4b59-8cce-72c98416bbf3",
+      "name": "Til ki chutney sesame hemp Pahadi",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 12.0,
+        "carbs": 10.0,
+        "fat": 26.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "til ki chutney sesame hemp pahadi",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "5700feb4-79af-4fc1-9fe7-e1d819963204",
+      "name": "Sani hui moli radish mustard curd mash",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 2.2,
+        "carbs": 9.0,
+        "fat": 5.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sani hui moli radish mustard curd mash",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "8fe649d5-2388-492a-8131-7b858bc8abc6",
+      "name": "Roht kumaoni sweet deep fried bread",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 6.0,
+        "carbs": 54.0,
+        "fat": 13.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roht kumaoni sweet deep fried bread",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "323ac4db-6160-41ef-8418-54e8db749c91",
+      "name": "Jhangore ki kheer sweet millet pudding",
+      "category": "imported_csv_2",
+      "subCategory": "Uttarakhand",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.2,
+        "carbs": 27.0,
+        "fat": 4.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jhangore ki kheer sweet millet pudding",
+        "uttarakhand"
+      ]
+    },
+    {
+      "id": "36fc7c42-67f9-48d3-84b1-55febcff4631",
+      "name": "Chana dal paratha Punjabi stuffed",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 8.5,
+        "carbs": 42.0,
+        "fat": 7.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chana dal paratha punjabi stuffed",
+        "punjab"
+      ]
+    },
+    {
+      "id": "8476b7e1-133a-48d3-abb5-e9f5aa922098",
+      "name": "Gobhi paratha whole wheat stuffed cauliflower",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 5.5,
+        "carbs": 36.0,
+        "fat": 7.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gobhi paratha whole wheat stuffed cauliflower",
+        "punjab"
+      ]
+    },
+    {
+      "id": "3106034e-6e19-484c-9e15-0fe524f8c960",
+      "name": "Mooli paratha whole wheat spiced radish",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 5.0,
+        "carbs": 35.0,
+        "fat": 6.8,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mooli paratha whole wheat spiced radish",
+        "punjab"
+      ]
+    },
+    {
+      "id": "eff94407-8911-4a79-abd8-19208c766f07",
+      "name": "Pyaaz paratha whole wheat stuffed onion",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 5.2,
+        "carbs": 36.0,
+        "fat": 7.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pyaaz paratha whole wheat stuffed onion",
+        "punjab"
+      ]
+    },
+    {
+      "id": "a67ef112-09ff-4388-8eee-001924b365f3",
+      "name": "Aloo gobhi paratha mixed stuffing",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 5.5,
+        "carbs": 37.0,
+        "fat": 7.8,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo gobhi paratha mixed stuffing",
+        "punjab"
+      ]
+    },
+    {
+      "id": "0b95f655-aaaf-4f4d-a348-77841b5d25f3",
+      "name": "Matar paratha spiced green peas stuffing",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 6.8,
+        "carbs": 38.0,
+        "fat": 7.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "matar paratha spiced green peas stuffing",
+        "punjab"
+      ]
+    },
+    {
+      "id": "ff59730a-7643-458c-ae7a-61d609ba9826",
+      "name": "Dal paratha leftover dal kneaded roti",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 7.5,
+        "carbs": 40.0,
+        "fat": 6.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dal paratha leftover dal kneaded roti",
+        "punjab"
+      ]
+    },
+    {
+      "id": "ec118832-652f-444b-9347-3340171a3b60",
+      "name": "Sugar paratha meetha cheeni paratha",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 4.5,
+        "carbs": 58.0,
+        "fat": 10.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sugar paratha meetha cheeni paratha",
+        "north indian"
+      ]
+    },
+    {
+      "id": "82dab6d1-aa87-4bca-ad4d-cef5d68c9975",
+      "name": "Gur paratha jaggery stuffed sweet paratha",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 4.8,
+        "carbs": 56.0,
+        "fat": 10.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gur paratha jaggery stuffed sweet paratha",
+        "north indian"
+      ]
+    },
+    {
+      "id": "0c7c6308-6c81-40f5-b10d-87d8eb2dcacb",
+      "name": "Papad paratha crushed spiced papad stuffed",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 7.0,
+        "carbs": 40.0,
+        "fat": 8.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papad paratha crushed spiced papad stuffed",
+        "north indian"
+      ]
+    },
+    {
+      "id": "dd660734-c39e-496e-8b3b-e81c0202d11c",
+      "name": "Egg paratha anda stuffed paratha",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 255.0,
+        "caloriesMax": 275.0,
+        "protein": 10.5,
+        "carbs": 30.0,
+        "fat": 11.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg paratha anda stuffed paratha",
+        "north indian"
+      ]
+    },
+    {
+      "id": "f8b17ffc-2e4d-4e2c-9385-41281c5bd4a6",
+      "name": "Boondi raita seasoned whisked curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.5,
+        "carbs": 9.5,
+        "fat": 6.8,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boondi raita seasoned whisked curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "9db8dcc8-6805-488b-98dc-c7cb82dc59b4",
+      "name": "Cucumber raita fresh grated kheera",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 2.8,
+        "carbs": 4.5,
+        "fat": 3.2,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cucumber raita fresh grated kheera",
+        "north indian"
+      ]
+    },
+    {
+      "id": "ea96c0e2-c486-4205-8efc-c15316863b3f",
+      "name": "Onion tomato raita spiced curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 2.6,
+        "carbs": 5.5,
+        "fat": 3.2,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion tomato raita spiced curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "b2606314-f823-40fd-8ef6-a6a1319803d7",
+      "name": "Pineapple raita sweet tangy curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 2.5,
+        "carbs": 14.0,
+        "fat": 3.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple raita sweet tangy curd",
+        "north indian"
+      ]
+    },
+    {
+      "id": "cad70df8-f174-4250-85c3-80f10a6056e1",
+      "name": "Burani raita garlic spiced thick curd",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 3.5,
+        "carbs": 5.0,
+        "fat": 6.0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "burani raita garlic spiced thick curd",
+        "north indian"
+      ]
+    },
+    {
