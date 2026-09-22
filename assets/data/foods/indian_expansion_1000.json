@@ -25398,3 +25398,638 @@
       },
       "portions": [
         {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barfi"
+      ]
+    },
+    {
+      "id": "1b2906f4-e179-4301-b568-eb4242196e87",
+      "name": "Ladoo (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ladoo"
+      ]
+    },
+    {
+      "id": "ab7edd9e-b24c-4e45-a225-f746e8ee8dfa",
+      "name": "Ladoo (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ladoo"
+      ]
+    },
+    {
+      "id": "1ac501c3-a1a9-4f9b-bacf-f4b389db7044",
+      "name": "Ladoo (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ladoo"
+      ]
+    },
+    {
+      "id": "0e3a41fa-c8bd-4f8a-a477-bea21a300e7c",
+      "name": "Ladoo (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ladoo"
+      ]
+    },
+    {
+      "id": "f18ba35b-eabc-421f-9415-1cefaa8fd4de",
+      "name": "Peda (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peda"
+      ]
+    },
+    {
+      "id": "6c1843f3-e9ea-4b88-90b5-42818debcfef",
+      "name": "Peda (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peda"
+      ]
+    },
+    {
+      "id": "15779712-cdf3-4493-8d21-4338066f8478",
+      "name": "Peda (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peda"
+      ]
+    },
+    {
+      "id": "7a4164e0-7e4a-45ad-bb8b-e6bb45384946",
+      "name": "Peda (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peda"
+      ]
+    },
+    {
+      "id": "27472019-5b1b-4dde-8145-60878ed8d5bd",
+      "name": "Halwa (Small)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "halwa"
+      ]
+    },
+    {
+      "id": "234ce27a-0789-4706-b004-8311fce29c4a",
+      "name": "Halwa (Regular)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "halwa"
+      ]
+    },
+    {
+      "id": "87155275-b0e7-421d-bfe9-1caf33c10efd",
+      "name": "Halwa (Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "halwa"
+      ]
+    },
+    {
+      "id": "235976f4-2110-4b51-b01a-5817608b7bb9",
+      "name": "Halwa (Extra Large)",
+      "category": "veg",
+      "subCategory": "snacks",
+      "isVegetarian": true,
+      "mealTypes": [
+        "snack",
+        "breakfast"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200,
+        "caloriesMax": 400,
+        "protein": 5.0,
+        "carbs": 40.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 30,
+          "weightMaxG": 60
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "halwa"
+      ]
+    },
+    {
+      "id": "440cbad2-bab6-4b6b-a065-237ecd7ca4a7",
+      "name": "Idli - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idli"
+      ]
+    },
+    {
+      "id": "b9d5d68f-8a12-4ea6-a599-dd828fb89aab",
+      "name": "Idli - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idli"
+      ]
+    },
+    {
+      "id": "c79a3c28-f0d0-4232-8447-b7699bee7325",
+      "name": "Idli - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idli"
+      ]
+    },
+    {
+      "id": "31a5a42a-0578-4b35-9d73-964025e64162",
+      "name": "Idli - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idli"
+      ]
+    },
+    {
+      "id": "42b34931-32ab-449b-9185-58d9027fa149",
+      "name": "Idli - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idli"
+      ]
+    },
+    {
+      "id": "dc369a08-f746-4a12-bb6f-78c56059e715",
+      "name": "Dosa - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
