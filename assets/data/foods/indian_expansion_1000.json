@@ -26033,3 +26033,638 @@
           "weightMaxG": 80
         },
         {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dosa"
+      ]
+    },
+    {
+      "id": "6a5bcafc-45c8-4475-b002-3e67079d5f18",
+      "name": "Dosa - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dosa"
+      ]
+    },
+    {
+      "id": "58b38e3d-2231-4add-82b0-fce18f3a8ba6",
+      "name": "Dosa - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dosa"
+      ]
+    },
+    {
+      "id": "56c437bb-13ab-40a6-8e57-e06fbae9f399",
+      "name": "Dosa - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dosa"
+      ]
+    },
+    {
+      "id": "7f759df1-d821-4781-bc41-9d520c0be10e",
+      "name": "Dosa - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "dosa"
+      ]
+    },
+    {
+      "id": "6390675a-8656-4b4b-948d-e55c882f41ba",
+      "name": "Masala Dosa - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "masala dosa"
+      ]
+    },
+    {
+      "id": "ce58b86c-8ab8-4307-b978-59caa0b7e791",
+      "name": "Masala Dosa - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "masala dosa"
+      ]
+    },
+    {
+      "id": "e87a7a68-be07-4d6d-9c79-a5dd9963bedd",
+      "name": "Masala Dosa - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "masala dosa"
+      ]
+    },
+    {
+      "id": "f3a8993e-1a78-4891-9568-bb1d29670e21",
+      "name": "Masala Dosa - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "masala dosa"
+      ]
+    },
+    {
+      "id": "761343c4-db36-49e9-b7bd-8c6376004189",
+      "name": "Masala Dosa - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "masala dosa"
+      ]
+    },
+    {
+      "id": "fb25118f-bcff-4730-a601-7973958f953c",
+      "name": "Medu Vada - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "medu vada"
+      ]
+    },
+    {
+      "id": "ad059eaa-fef4-470a-8f76-61a95a69e1da",
+      "name": "Medu Vada - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "medu vada"
+      ]
+    },
+    {
+      "id": "0cab69c7-586c-4abf-a7f4-2fe2ba28f84b",
+      "name": "Medu Vada - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "medu vada"
+      ]
+    },
+    {
+      "id": "d67bdb9b-cb72-4db8-b778-f5a6245d603e",
+      "name": "Medu Vada - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "medu vada"
+      ]
+    },
+    {
+      "id": "aa0717c9-59a8-4fc7-aac4-fba7e8e9aa23",
+      "name": "Medu Vada - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "medu vada"
+      ]
+    },
+    {
+      "id": "425466db-c00c-4406-a022-d96ec4cd9da4",
+      "name": "Upma - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "upma"
+      ]
+    },
+    {
+      "id": "4a21ecb4-7758-4fee-9314-9b2598cd1544",
+      "name": "Upma - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "upma"
+      ]
+    },
+    {
+      "id": "74c25efc-1f76-42d3-9bf7-c9dcc341eea8",
+      "name": "Upma - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "upma"
+      ]
+    },
+    {
+      "id": "fb5163f4-dcfa-4003-bd04-577d9de4f1f2",
+      "name": "Upma - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
