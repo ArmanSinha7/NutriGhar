@@ -60886,3 +60886,1035 @@
         "lunch",
         "dinner",
         "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 4.5,
+        "carbs": 22.0,
+        "fat": 13.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gobhi pakora cauliflower florets fried",
+        "street food"
+      ]
+    },
+    {
+      "id": "8152f600-b6fa-41b4-bb5a-e69e233e37b0",
+      "name": "Baingan pakora eggplant slices fried",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 3.5,
+        "carbs": 20.0,
+        "fat": 13.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baingan pakora eggplant slices fried",
+        "street food"
+      ]
+    },
+    {
+      "id": "ab7ce580-191c-41f5-b543-3a7d39c42f4e",
+      "name": "Pyaz pakora onion fritters kanda bhaji",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 6.5,
+        "carbs": 27.0,
+        "fat": 17.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pyaz pakora onion fritters kanda bhaji",
+        "street food"
+      ]
+    },
+    {
+      "id": "69c2b58d-adae-41f0-b73b-b141c5a88bb7",
+      "name": "Aloo pakora potato slices batter fried",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 4.0,
+        "carbs": 28.0,
+        "fat": 12.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo pakora potato slices batter fried",
+        "street food"
+      ]
+    },
+    {
+      "id": "2a1a68b5-1a52-4606-9579-126d60de49ba",
+      "name": "Mirchi vada Jodhpur potato stuffed green chilli",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 255.0,
+        "caloriesMax": 275.0,
+        "protein": 5.0,
+        "carbs": 31.0,
+        "fat": 13.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mirchi vada jodhpur potato stuffed green chilli",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "75e5a2ab-5b4d-4eee-be39-412ad27c2ad7",
+      "name": "Moong dal pakoda mangodi crisp fritters",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 275.0,
+        "caloriesMax": 295.0,
+        "protein": 11.0,
+        "carbs": 31.0,
+        "fat": 13.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal pakoda mangodi crisp fritters",
+        "north indian"
+      ]
+    },
+    {
+      "id": "d91e9980-8b2c-45b6-a1c3-ecebfbe8a240",
+      "name": "Urad dal pakoda medu mini fritters",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 285.0,
+        "caloriesMax": 305.0,
+        "protein": 10.5,
+        "carbs": 32.0,
+        "fat": 14.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "urad dal pakoda medu mini fritters",
+        "south indian"
+      ]
+    },
+    {
+      "id": "689d52c8-ded4-4110-9c74-7c86f40b258c",
+      "name": "Sabudana vada peanut sago patties fried",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 4.0,
+        "carbs": 36.0,
+        "fat": 13.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sabudana vada peanut sago patties fried",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "0ce7e9ca-51a1-427a-aa0f-0864f87ca9cf",
+      "name": "Kothimbir vadi steamed pan fried coriander",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 7.5,
+        "carbs": 26.0,
+        "fat": 9.5,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothimbir vadi steamed pan fried coriander",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "e2959585-5972-4572-9596-b4d77347d977",
+      "name": "Alu vadi colocasia leaf roll fried",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 5.8,
+        "carbs": 27.0,
+        "fat": 9.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "alu vadi colocasia leaf roll fried",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "8038d209-0cd8-4c9f-b57a-f150d68b976d",
+      "name": "Suran chips deep fried elephant foot yam",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 2.5,
+        "carbs": 30.0,
+        "fat": 14.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "suran chips deep fried elephant foot yam",
+        "street food"
+      ]
+    },
+    {
+      "id": "bca25c42-7406-430f-94f4-3565f0e98f08",
+      "name": "Raw banana bajji crisp plantain fritters",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 3.0,
+        "carbs": 32.0,
+        "fat": 10.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raw banana bajji crisp plantain fritters",
+        "south indian"
+      ]
+    },
+    {
+      "id": "50a5165c-231b-4232-ab4b-8a47a49e6fb8",
+      "name": "Capsicum bajji whole stuffed green pepper",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 3.5,
+        "carbs": 25.0,
+        "fat": 11.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "capsicum bajji whole stuffed green pepper",
+        "south indian"
+      ]
+    },
+    {
+      "id": "11e0c627-4bd7-4e73-ba3a-d3611b557bc6",
+      "name": "Bread roll baked spiced potato stuffed",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 5.5,
+        "carbs": 34.0,
+        "fat": 3.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bread roll baked spiced potato stuffed",
+        "north indian"
+      ]
+    },
+    {
+      "id": "7827d045-8c59-437b-88a9-f1a9562bf5f4",
+      "name": "Aloo bonda potato masala ball fried",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 4.5,
+        "carbs": 30.0,
+        "fat": 11.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo bonda potato masala ball fried",
+        "south indian"
+      ]
+    },
+    {
+      "id": "cd9d114e-8033-453a-bf9c-58cd7222fd53",
+      "name": "Mysore bonda maida curd fluffy fritters",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 6.5,
+        "carbs": 39.0,
+        "fat": 14.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mysore bonda maida curd fluffy fritters",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "13d8e8df-19d6-427c-b0e3-8c566a44a58c",
+      "name": "Mangalore buns sweet banana fermented puri",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 5.5,
+        "carbs": 50.0,
+        "fat": 12.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mangalore buns sweet banana fermented puri",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "bb557cf9-d9bd-4878-8771-260543d1c12c",
+      "name": "Maddur vada crunchy onion semolina patty",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 6.8,
+        "carbs": 40.0,
+        "fat": 17.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "maddur vada crunchy onion semolina patty",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "084c1713-5e04-4bdf-b95c-8ddd355d3211",
+      "name": "Nippattu spiced rice lentil crackers",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 485.0,
+        "caloriesMax": 505.0,
+        "protein": 8.5,
+        "carbs": 56.0,
+        "fat": 26.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nippattu spiced rice lentil crackers",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "846c5acf-360e-4a39-972b-8b8b05de85b5",
+      "name": "Thattai crunchy rice crackers sesame",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 475.0,
+        "caloriesMax": 495.0,
+        "protein": 7.8,
+        "carbs": 58.0,
+        "fat": 25.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thattai crunchy rice crackers sesame",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8fa1c821-0db6-4122-b92d-02c1f8be2868",
+      "name": "Murukku chakli spiral crunchy snack",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 500.0,
+        "caloriesMax": 520.0,
+        "protein": 7.5,
+        "carbs": 57.0,
+        "fat": 28.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "murukku chakli spiral crunchy snack",
+        "south indian"
+      ]
+    },
+    {
+      "id": "d8e95d17-567e-4f09-98a0-35d8c736cae8",
+      "name": "Butter murukku melt in mouth chakli",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 520.0,
+        "caloriesMax": 540.0,
+        "protein": 6.5,
+        "carbs": 54.0,
+        "fat": 32.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "butter murukku melt in mouth chakli",
+        "south indian"
+      ]
+    },
+    {
+      "id": "7ab1e9cd-0e18-4cdb-b11f-06476aa345d2",
+      "name": "Ribbon sev besan flat noodles fried",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 510.0,
+        "caloriesMax": 530.0,
+        "protein": 9.5,
+        "carbs": 52.0,
+        "fat": 30.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ribbon sev besan flat noodles fried",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1c59084e-eb8d-40a9-821b-72d36c22c8c1",
+      "name": "Oma podi ajwain flavored fine crispy sev",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 530.0,
+        "caloriesMax": 550.0,
+        "protein": 10.0,
+        "carbs": 48.0,
+        "fat": 34.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "oma podi ajwain flavored fine crispy sev",
+        "south indian"
+      ]
+    },
+    {
+      "id": "d32a68df-eb92-4e0a-acce-b19e7421fa48",
+      "name": "Kara sev thick spiced black pepper sev",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 515.0,
+        "caloriesMax": 535.0,
+        "protein": 11.0,
+        "carbs": 46.0,
+        "fat": 33.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kara sev thick spiced black pepper sev",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "75d6e570-7151-4c06-a859-b2f220211c47",
+      "name": "Ratlami sev spiced clove flavored sev",
+      "category": "imported_csv_2",
+      "subCategory": "Madhya Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 530.0,
+        "caloriesMax": 550.0,
+        "protein": 11.5,
+        "carbs": 45.0,
+        "fat": 35.0,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ratlami sev spiced clove flavored sev",
+        "madhya pradesh"
+      ]
+    },
+    {
+      "id": "f0b74d05-b12f-45f5-91b8-834accb03d59",
+      "name": "Ujjaini sev thick mild gram flour sev",
+      "category": "imported_csv_2",
+      "subCategory": "Madhya Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 520.0,
+        "caloriesMax": 540.0,
+        "protein": 11.0,
+        "carbs": 48.0,
+        "fat": 33.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ujjaini sev thick mild gram flour sev",
+        "madhya pradesh"
+      ]
+    },
+    {
+      "id": "e0d25069-f6d9-406f-80a9-57e1f26e3cb2",
+      "name": "Bhavnagari gathiya soft thick sev",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 500.0,
+        "caloriesMax": 520.0,
+        "protein": 12.5,
+        "carbs": 45.0,
+        "fat": 31.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhavnagari gathiya soft thick sev",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "b2454814-a822-40ef-865b-3c76f35b68dd",
+      "name": "Papdi gathiya flat crisp besan crackers",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 495.0,
+        "caloriesMax": 515.0,
+        "protein": 12.0,
+        "carbs": 48.0,
+        "fat": 29.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papdi gathiya flat crisp besan crackers",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "98cc574e-9d6b-44e6-a486-db1395be0fe1",
+      "name": "Tikha gathiya spicy red chili besan gathiya",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 505.0,
+        "caloriesMax": 525.0,
+        "protein": 12.0,
+        "carbs": 46.0,
+        "fat": 31.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tikha gathiya spicy red chili besan gathiya",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "83d83d85-0c17-495b-ad0c-6fa71eb9741c",
+      "name": "Champakali gathiya floral shaped snack",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 510.0,
+        "caloriesMax": 530.0,
+        "protein": 11.5,
+        "carbs": 47.0,
+        "fat": 32.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "champakali gathiya floral shaped snack",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "81989980-aa11-4582-b28c-c315167f90b5",
+      "name": "Farsi puri flaky pepper cumin spiced puri",
+      "category": "imported_csv_2",
+      "subCategory": "Gujarat",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 7.5,
+        "carbs": 52.0,
+        "fat": 28.0,
