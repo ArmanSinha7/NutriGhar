@@ -61918,3 +61918,1035 @@
         "protein": 7.5,
         "carbs": 52.0,
         "fat": 28.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "farsi puri flaky pepper cumin spiced puri",
+        "gujarat"
+      ]
+    },
+    {
+      "id": "bd7fddbe-c546-491f-8cc5-2345d92a51f5",
+      "name": "Methi puri crispy fenugreek cracker",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 8.0,
+        "carbs": 54.0,
+        "fat": 26.0,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi puri crispy fenugreek cracker",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "7e098521-11ff-4c1c-a99a-e28533382e63",
+      "name": "Chakli roasted grain flour spiral snack",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 9.0,
+        "carbs": 55.0,
+        "fat": 25.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chakli roasted grain flour spiral snack",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "6c2d2c2a-44de-4fc2-842a-164618581db9",
+      "name": "Shankarpali sweet crisp diamond biscuits",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 460.0,
+        "caloriesMax": 480.0,
+        "protein": 6.5,
+        "carbs": 62.0,
+        "fat": 22.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shankarpali sweet crisp diamond biscuits",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "245e94a1-c7fa-4637-a3cf-c1adc04a17d1",
+      "name": "Shankarpali salted spicy diamond namkeen",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 7.5,
+        "carbs": 58.0,
+        "fat": 22.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shankarpali salted spicy diamond namkeen",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "fc8dbe72-61e5-4499-97c8-5fd43d552c8c",
+      "name": "Chivda roasted poha light diet snack",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 380.0,
+        "caloriesMax": 400.0,
+        "protein": 6.5,
+        "carbs": 68.0,
+        "fat": 10.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chivda roasted poha light diet snack",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "1b8b9384-2d89-426d-93e4-586cab0f92cc",
+      "name": "Chivda fried poha nuts raisins rich",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 7.0,
+        "carbs": 58.0,
+        "fat": 26.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chivda fried poha nuts raisins rich",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "839e34c9-86ae-44c9-ac1d-c8af460aeddf",
+      "name": "Cornflakes mixture sweet spicy nuts",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 6.5,
+        "carbs": 64.0,
+        "fat": 20.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cornflakes mixture sweet spicy nuts",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ffd04111-e50c-4546-a4b2-d8d3975419cf",
+      "name": "Sabudana chivda fasting sago potato mix",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 3.5,
+        "carbs": 62.0,
+        "fat": 24.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sabudana chivda fasting sago potato mix",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "9c1315fa-7ecc-4313-976d-55fc14c883d1",
+      "name": "Makhana bhel roasted lotus seeds vegetables",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.5,
+        "carbs": 30.0,
+        "fat": 4.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makhana bhel roasted lotus seeds vegetables",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ce6790e3-9ee8-4927-960a-d9043db61a8f",
+      "name": "Diet namkeen roasted puffed grains",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 370.0,
+        "caloriesMax": 390.0,
+        "protein": 8.5,
+        "carbs": 72.0,
+        "fat": 6.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "diet namkeen roasted puffed grains",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c4cd29e4-715a-4e1e-b898-09b7cf250f74",
+      "name": "Khatta meetha mixture sweet sour namkeen",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 500.0,
+        "caloriesMax": 520.0,
+        "protein": 9.0,
+        "carbs": 58.0,
+        "fat": 27.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khatta meetha mixture sweet sour namkeen",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "cad81eb7-653e-42a9-874e-e3895b4b6dec",
+      "name": "All in one mixture spicy crunchy pulses",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 510.0,
+        "caloriesMax": 530.0,
+        "protein": 11.5,
+        "carbs": 52.0,
+        "fat": 29.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "all in one mixture spicy crunchy pulses",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "93f58ab5-a240-454e-b619-a5c13310287a",
+      "name": "Dal biji fried masoor dal melon seeds",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 520.0,
+        "caloriesMax": 540.0,
+        "protein": 16.0,
+        "carbs": 42.0,
+        "fat": 33.0,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dal biji fried masoor dal melon seeds",
+        "north indian"
+      ]
+    },
+    {
+      "id": "10c745ab-595a-4e32-8bea-c7b6cdf80649",
+      "name": "Moong dal fried salted crispy snack",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 21.0,
+        "carbs": 46.0,
+        "fat": 25.0,
+        "fiber": 8.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal fried salted crispy snack",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "773fa4c3-36e6-4c23-8c6f-a641f3ea7565",
+      "name": "Chana dal spicy fried split gram snack",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 18.5,
+        "carbs": 48.0,
+        "fat": 24.0,
+        "fiber": 9.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chana dal spicy fried split gram snack",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "baf3831f-209d-4aa4-b183-048ee48f4f8c",
+      "name": "Peanut pakoda besan coated fried groundnuts",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 530.0,
+        "caloriesMax": 550.0,
+        "protein": 18.5,
+        "carbs": 30.0,
+        "fat": 39.0,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peanut pakoda besan coated fried groundnuts",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5a73d4fd-55cc-470b-a552-a1d3ee556ca2",
+      "name": "Masala kaju fried spiced cashew nuts",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 570.0,
+        "caloriesMax": 590.0,
+        "protein": 17.0,
+        "carbs": 28.0,
+        "fat": 45.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala kaju fried spiced cashew nuts",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "b211469f-3b24-4850-9ac3-7796978c059a",
+      "name": "Roasted salted almonds badam snack",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 580.0,
+        "caloriesMax": 600.0,
+        "protein": 21.0,
+        "carbs": 18.0,
+        "fat": 50.0,
+        "fiber": 11.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roasted salted almonds badam snack",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "659d53c0-687a-4efd-8002-9effef869339",
+      "name": "Roasted salted pistachios in shell",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 560.0,
+        "caloriesMax": 580.0,
+        "protein": 20.0,
+        "carbs": 26.0,
+        "fat": 45.0,
+        "fiber": 10.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roasted salted pistachios in shell",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "581d60da-20b0-4a9d-af5b-a5e17450f3a5",
+      "name": "Chana chur spiced flattened chickpea mix",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal/Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 430.0,
+        "caloriesMax": 450.0,
+        "protein": 16.0,
+        "carbs": 56.0,
+        "fat": 16.0,
+        "fiber": 11.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chana chur spiced flattened chickpea mix",
+        "bengal/bihar"
+      ]
+    },
+    {
+      "id": "65c41e82-a3f0-43ba-883e-05ab0d71c0e2",
+      "name": "Jhal muri Kolkata puffed rice mustard oil mix",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 5.5,
+        "carbs": 36.0,
+        "fat": 8.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jhal muri kolkata puffed rice mustard oil mix",
+        "bengal"
+      ]
+    },
+    {
+      "id": "73f19e06-53f0-4174-802f-5a6733167e9c",
+      "name": "Churmur Kolkata crushed puchka potato mix",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 4.2,
+        "carbs": 30.0,
+        "fat": 8.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "churmur kolkata crushed puchka potato mix",
+        "bengal"
+      ]
+    },
+    {
+      "id": "a935da44-17a6-494e-8a27-83ccf6f36641",
+      "name": "Ghugni chaat yellow pea curry garnished",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal/Odisha",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 7.5,
+        "carbs": 21.0,
+        "fat": 2.8,
+        "fiber": 5.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ghugni chaat yellow pea curry garnished",
+        "bengal/odisha"
+      ]
+    },
+    {
+      "id": "0f8093bf-8176-4454-945a-13c9fa308965",
+      "name": "Aloo dum Bengali spicy baby potato",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 2.8,
+        "carbs": 22.0,
+        "fat": 6.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo dum bengali spicy baby potato",
+        "bengal"
+      ]
+    },
+    {
+      "id": "557c692b-ef8c-40ca-b362-4760de8e792f",
+      "name": "Luchi deep fried refined flour puffed bread",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 6.0,
+        "carbs": 48.0,
+        "fat": 16.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "luchi deep fried refined flour puffed bread",
+        "bengal"
+      ]
+    },
+    {
+      "id": "bac3b8fd-937e-4c65-b2b9-7d49bd5664cb",
+      "name": "Kachori dal stuffed Bengali club kachori",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 7.5,
+        "carbs": 44.0,
+        "fat": 13.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kachori dal stuffed bengali club kachori",
+        "bengal"
+      ]
+    },
+    {
+      "id": "a186eb5a-31e8-4f21-89cf-e51d7a145267",
+      "name": "Ghee bhat sweet fragrant Bengali rice",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 3.0,
+        "carbs": 32.0,
+        "fat": 4.8,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ghee bhat sweet fragrant bengali rice",
+        "bengal"
+      ]
+    },
+    {
+      "id": "e131cee6-22d9-4d40-86d9-2be870f8160d",
+      "name": "Basanti pulao Bengali yellow sweet pulao",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 3.5,
+        "carbs": 35.0,
+        "fat": 4.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "basanti pulao bengali yellow sweet pulao",
+        "bengal"
+      ]
+    },
+    {
+      "id": "8d3255aa-1e37-4571-b0e7-307ab792ac63",
+      "name": "Kaju kishmish pulao rich dry fruits rice",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 3.8,
+        "carbs": 33.0,
+        "fat": 5.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaju kishmish pulao rich dry fruits rice",
+        "north indian"
+      ]
+    },
+    {
+      "id": "849e365b-3c51-493a-9e54-d2482e0f05e7",
+      "name": "Peas pulao matar basmati spiced",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 3.5,
+        "carbs": 26.0,
+        "fat": 2.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peas pulao matar basmati spiced",
+        "north indian"
+      ]
+    },
+    {
+      "id": "1265ae9d-6a37-402d-88f1-f4dc7f158e6b",
+      "name": "Jeera pulao tempered cumin ghee rice",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 3.0,
+        "carbs": 27.0,
+        "fat": 3.2,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
