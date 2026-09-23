@@ -26668,3 +26668,638 @@
           "weightMaxG": 200
         }
       ],
+      "aliases": [
+        "upma"
+      ]
+    },
+    {
+      "id": "f026d935-a290-4a29-8637-591de50a9bc4",
+      "name": "Upma - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "upma"
+      ]
+    },
+    {
+      "id": "4e2cc759-eb13-42a4-a519-145c5bbb2297",
+      "name": "Uttapam - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "uttapam"
+      ]
+    },
+    {
+      "id": "d4726226-eccb-4f93-95f0-2a60462152b7",
+      "name": "Uttapam - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "uttapam"
+      ]
+    },
+    {
+      "id": "69346d96-a276-4222-8411-5f5d37012d00",
+      "name": "Uttapam - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "uttapam"
+      ]
+    },
+    {
+      "id": "6813ae94-8a68-4f13-89e0-6c357d92420e",
+      "name": "Uttapam - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "uttapam"
+      ]
+    },
+    {
+      "id": "4738c05a-654c-4a97-9af6-a7db8699b71c",
+      "name": "Uttapam - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "uttapam"
+      ]
+    },
+    {
+      "id": "7dee5d3d-2138-4f74-95f7-f3c0b270af5c",
+      "name": "Pesarattu - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pesarattu"
+      ]
+    },
+    {
+      "id": "87f10d84-7789-4825-b1e5-9a3a1373f514",
+      "name": "Pesarattu - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pesarattu"
+      ]
+    },
+    {
+      "id": "2a00460a-bc13-4b13-b1a2-5069563885ab",
+      "name": "Pesarattu - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pesarattu"
+      ]
+    },
+    {
+      "id": "ae2d0c60-08f1-423a-98ce-4a49210a3f61",
+      "name": "Pesarattu - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pesarattu"
+      ]
+    },
+    {
+      "id": "593d6834-3e1f-4aa2-bf95-28707bb5f0cc",
+      "name": "Pesarattu - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pesarattu"
+      ]
+    },
+    {
+      "id": "7cd5f886-4fd6-4744-ba75-cf6283292971",
+      "name": "Appam - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "appam"
+      ]
+    },
+    {
+      "id": "f849b9b7-dbfe-4cfd-813e-a7d794131ed0",
+      "name": "Appam - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "appam"
+      ]
+    },
+    {
+      "id": "e356d7cd-2769-4a2d-948b-2249cb6abfa2",
+      "name": "Appam - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "appam"
+      ]
+    },
+    {
+      "id": "c578b1a5-f652-47db-acf7-de6bebdf5b28",
+      "name": "Appam - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "appam"
+      ]
+    },
+    {
+      "id": "41cc0864-ee0b-49b3-ace6-0a09f4dd567c",
+      "name": "Appam - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "appam"
+      ]
+    },
+    {
+      "id": "36febca2-57ab-48b9-9dd9-21a1fc48f70b",
+      "name": "Puttu - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "puttu"
+      ]
+    },
+    {
+      "id": "cf2f66ed-ab53-4d5c-a159-49abc2f5e503",
+      "name": "Puttu - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "puttu"
+      ]
+    },
+    {
