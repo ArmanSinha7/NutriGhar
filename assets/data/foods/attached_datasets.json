@@ -62950,3 +62950,1035 @@
           "weightMaxG": 150
         }
       ],
+      "aliases": [
+        "jeera pulao tempered cumin ghee rice",
+        "north indian"
+      ]
+    },
+    {
+      "id": "9667387c-c3ca-4f40-9ce2-2a53d9face29",
+      "name": "Corn pulao sweet corn kernel basmati",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 3.6,
+        "carbs": 27.0,
+        "fat": 2.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "corn pulao sweet corn kernel basmati",
+        "north indian"
+      ]
+    },
+    {
+      "id": "6ef0d5e4-0a37-405a-9a88-dca1808cc070",
+      "name": "Methi pulao fresh fenugreek scented rice",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 3.5,
+        "carbs": 25.0,
+        "fat": 2.8,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi pulao fresh fenugreek scented rice",
+        "south indian"
+      ]
+    },
+    {
+      "id": "4271269d-f3c9-4911-a5f0-f1266bcd2508",
+      "name": "Pudina pulao fresh mint leaf puree rice",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 3.0,
+        "carbs": 25.0,
+        "fat": 2.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pudina pulao fresh mint leaf puree rice",
+        "south indian"
+      ]
+    },
+    {
+      "id": "0d84c301-7956-4202-8cf3-917c0345c5d7",
+      "name": "Palak rice spinach puree tempered basmati",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.2,
+        "carbs": 24.0,
+        "fat": 2.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palak rice spinach puree tempered basmati",
+        "south indian"
+      ]
+    },
+    {
+      "id": "0e185c47-da0e-46d9-81fa-582864d2fa33",
+      "name": "Carrot rice grated sweet carrot spiced",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 2.8,
+        "carbs": 26.0,
+        "fat": 2.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot rice grated sweet carrot spiced",
+        "south indian"
+      ]
+    },
+    {
+      "id": "63fe36a2-eb36-4dbc-97dd-fb48251179c6",
+      "name": "Capsicum rice bell pepper spiced rice",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 2.8,
+        "carbs": 25.0,
+        "fat": 2.6,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "capsicum rice bell pepper spiced rice",
+        "south indian"
+      ]
+    },
+    {
+      "id": "caec9f45-5e33-4838-b845-5182d25e812a",
+      "name": "Raw mango rice mamidikaya pulihora",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 3.2,
+        "carbs": 28.0,
+        "fat": 5.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "raw mango rice mamidikaya pulihora",
+        "andhra"
+      ]
+    },
+    {
+      "id": "267c589f-2b65-46d4-9d56-98e505875ffe",
+      "name": "Sesame rice ellu sadam roasted til rice",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 5.2,
+        "carbs": 27.0,
+        "fat": 7.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sesame rice ellu sadam roasted til rice",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2a73ae2a-a092-4ebe-aba6-486b8d410049",
+      "name": "Curry leaves rice karivepaku sadam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 3.5,
+        "carbs": 26.0,
+        "fat": 5.2,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curry leaves rice karivepaku sadam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "441b5664-3d3b-4857-b403-0d10a573822f",
+      "name": "Kollu sadam horse gram spiced rice",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 5.5,
+        "carbs": 25.0,
+        "fat": 4.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kollu sadam horse gram spiced rice",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "9d65bede-1664-4970-994e-a0b5078aa59e",
+      "name": "Moong dal khichdi light yellow lentil rice",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 4.5,
+        "carbs": 20.0,
+        "fat": 2.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal khichdi light yellow lentil rice",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "3e0e386c-6eff-4ff4-97e8-4a96f9ec2322",
+      "name": "Toor dal khichdi pigeon pea vegetable rice",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 5.0,
+        "carbs": 22.0,
+        "fat": 2.2,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "toor dal khichdi pigeon pea vegetable rice",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "8c956ae6-24d1-4d79-bd70-922fce34dd76",
+      "name": "Masoor dal khichdi red lentil cumin rice",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 5.2,
+        "carbs": 21.0,
+        "fat": 2.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masoor dal khichdi red lentil cumin rice",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "607a0dd1-9ce8-4962-99e7-766310e6e5b1",
+      "name": "Panchdhan khichdi five grain nutritious",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 5.8,
+        "carbs": 22.0,
+        "fat": 2.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "panchdhan khichdi five grain nutritious",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1e47563e-f6a7-4cc0-8873-5c5d02fcc10a",
+      "name": "Gehun ki khichdi broken wheat daliya",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 4.2,
+        "carbs": 20.0,
+        "fat": 1.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gehun ki khichdi broken wheat daliya",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ee10c89a-1931-432d-9b6f-f91fd7684f04",
+      "name": "Daliya vegetable broken wheat vegetable khichdi",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 4.0,
+        "carbs": 19.0,
+        "fat": 1.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "daliya vegetable broken wheat vegetable khichdi",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c0ee2351-c81e-4258-bbfa-d43c3c712443",
+      "name": "Oats khichdi rolled oats vegetable lentils",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 4.8,
+        "carbs": 18.0,
+        "fat": 2.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "oats khichdi rolled oats vegetable lentils",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "6db918ee-5e4b-4594-aa0a-31a77d8f8489",
+      "name": "Sorghum jowar khichdi whole grain slow cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 4.5,
+        "carbs": 23.0,
+        "fat": 1.8,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sorghum jowar khichdi whole grain slow cooked",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "bde98585-6789-4036-adf9-74787bf20030",
+      "name": "Pearl millet bajra khichdi whole grain winter",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 4.8,
+        "carbs": 23.5,
+        "fat": 2.2,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pearl millet bajra khichdi whole grain winter",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "0bda4d8e-9b03-4246-8048-523d7eabd0a3",
+      "name": "Barley jau khichdi whole grain cooling",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.8,
+        "carbs": 22.0,
+        "fat": 1.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barley jau khichdi whole grain cooling",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c195215d-a513-40d3-be22-4636f615c510",
+      "name": "Buckwheat kuttu khichdi fasting meal",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 5.0,
+        "carbs": 24.0,
+        "fat": 3.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "buckwheat kuttu khichdi fasting meal",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "fcfd95eb-1aa0-445f-9f46-6444fcfa5ac8",
+      "name": "Barnyard millet samak khichdi vrat ke chawal",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 4.2,
+        "carbs": 22.0,
+        "fat": 2.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barnyard millet samak khichdi vrat ke chawal",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "71243f86-6421-4b47-bc66-16c8c6fff5e2",
+      "name": "Tapioca pearls sabudana vada deep fried",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 4.0,
+        "carbs": 36.0,
+        "fat": 13.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tapioca pearls sabudana vada deep fried",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "886c8e70-27e7-4eff-8e38-b9e85e50a890",
+      "name": "Sabudana thalipeeth pan grilled sago pancake",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 4.0,
+        "carbs": 39.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sabudana thalipeeth pan grilled sago pancake",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "2753d4fb-93a4-4d80-8abd-614515ad1d60",
+      "name": "Singhare ke atte ki puri water chestnut fried",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 5.5,
+        "carbs": 42.0,
+        "fat": 15.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "singhare ke atte ki puri water chestnut fried",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "975f04ff-a7ce-4b46-8801-850a9cdd5faa",
+      "name": "Kuttu ki puri buckwheat flour deep fried",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 7.5,
+        "carbs": 40.0,
+        "fat": 16.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kuttu ki puri buckwheat flour deep fried",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1c24050a-29fe-4703-8953-d961ea74a771",
+      "name": "Rajgira puri amaranth flour puffed bread",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 8.0,
+        "carbs": 38.0,
+        "fat": 18.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rajgira puri amaranth flour puffed bread",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "cbd4d9f3-37f0-4e4f-9f0e-041cc073b852",
+      "name": "Samak ke chawal vrat boiled barnyard millet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 3.2,
+        "carbs": 22.0,
+        "fat": 1.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samak ke chawal vrat boiled barnyard millet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "8d8b55b5-34d9-4f01-b445-35059d737210",
+      "name": "Vrat ke aloo boiled potato rock salt cumin",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 2.0,
+        "carbs": 18.0,
+        "fat": 4.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vrat ke aloo boiled potato rock salt cumin",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5d1f0519-8a87-4fa6-940d-fa9645212fad",
+      "name": "Arbi dry masala fasting colocasia roast",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 2.5,
+        "carbs": 22.0,
+        "fat": 6.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arbi dry masala fasting colocasia roast",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "58235192-b4bb-4544-b949-0b540ae439b5",
+      "name": "Lauki sabzi vrat bottle gourd sendha namak",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 1.2,
+        "carbs": 6.5,
+        "fat": 4.2,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lauki sabzi vrat bottle gourd sendha namak",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d67b2e55-58f5-439f-acd5-2a9115d35096",
+      "name": "Kaddu halwa sweet pumpkin pudding ghee",
+      "category": "imported_csv_2",
