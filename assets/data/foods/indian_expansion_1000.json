@@ -27303,3 +27303,638 @@
       ]
     },
     {
+      "id": "baede6a2-0a2a-4bcb-8436-ac02e92c1b72",
+      "name": "Puttu - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "puttu"
+      ]
+    },
+    {
+      "id": "afee253c-f0de-487f-810f-a5660811213a",
+      "name": "Puttu - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "puttu"
+      ]
+    },
+    {
+      "id": "011aa7d0-bbc7-4833-825f-b050dc8edd8d",
+      "name": "Puttu - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "puttu"
+      ]
+    },
+    {
+      "id": "f5733546-355f-49a5-b978-48a110edf1da",
+      "name": "Idiyappam - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idiyappam"
+      ]
+    },
+    {
+      "id": "a25c76f6-50eb-4373-85e4-c5005028c3aa",
+      "name": "Idiyappam - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idiyappam"
+      ]
+    },
+    {
+      "id": "21929367-100a-4e2f-bdc2-919c61f5ef71",
+      "name": "Idiyappam - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idiyappam"
+      ]
+    },
+    {
+      "id": "febd90db-da6e-4426-b22c-c05376a66ba5",
+      "name": "Idiyappam - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idiyappam"
+      ]
+    },
+    {
+      "id": "3009a908-dc2b-4224-b59b-fb7cd4f412e5",
+      "name": "Idiyappam - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "idiyappam"
+      ]
+    },
+    {
+      "id": "a59f0491-ca54-4b6d-a354-66c4145de4c0",
+      "name": "Pongal - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pongal"
+      ]
+    },
+    {
+      "id": "c13564f6-9b69-4be2-b320-698b95a04b20",
+      "name": "Pongal - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pongal"
+      ]
+    },
+    {
+      "id": "131e156a-fb14-49c5-8401-be3368bbf0a4",
+      "name": "Pongal - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pongal"
+      ]
+    },
+    {
+      "id": "17214df9-538c-49e8-9401-e88a9bfbfd50",
+      "name": "Pongal - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pongal"
+      ]
+    },
+    {
+      "id": "0f1b4ab1-ebea-4f4d-bc1c-39e70086b3eb",
+      "name": "Pongal - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "pongal"
+      ]
+    },
+    {
+      "id": "828a0450-fdb8-44b5-9178-9e24527a9a5d",
+      "name": "Bisi Bele Bath - Regular",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bisi bele bath"
+      ]
+    },
+    {
+      "id": "8f4e5711-d320-4aa0-bd62-1c948a31652a",
+      "name": "Bisi Bele Bath - Rava",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bisi bele bath"
+      ]
+    },
+    {
+      "id": "1c23c6ac-bfd9-43d9-a3b4-6c4400aa22e7",
+      "name": "Bisi Bele Bath - Oats",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bisi bele bath"
+      ]
+    },
+    {
+      "id": "8137cf9e-1d92-43ee-80d6-2e4df184e17b",
+      "name": "Bisi Bele Bath - Millet",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bisi bele bath"
+      ]
+    },
+    {
+      "id": "0ca1a5d6-a1e0-43b7-b543-00ac80954388",
+      "name": "Bisi Bele Bath - Ragi",
+      "category": "veg",
+      "subCategory": "breakfast",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100,
+        "caloriesMax": 200,
+        "protein": 4.0,
+        "carbs": 20.0,
+        "fat": 3.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 piece",
+          "weightMinG": 40,
+          "weightMaxG": 80
+        },
+        {
+          "name": "1 plate",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        }
+      ],
+      "aliases": [
+        "bisi bele bath"
+      ]
+    },
+    {
+      "id": "3be477a3-9eba-4f96-b8d8-54c5c3a9349a",
+      "name": "Tea - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
