@@ -63982,3 +63982,1035 @@
       "id": "d67b2e55-58f5-439f-acd5-2a9115d35096",
       "name": "Kaddu halwa sweet pumpkin pudding ghee",
       "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 2.5,
+        "carbs": 32.0,
+        "fat": 8.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaddu halwa sweet pumpkin pudding ghee",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c22bb0c2-4f65-4654-af6f-7bc3ac903aa0",
+      "name": "Singhare ka halwa water chestnut flour dessert",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 4.5,
+        "carbs": 48.0,
+        "fat": 11.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "singhare ka halwa water chestnut flour dessert",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1cff8dc1-81ce-46ca-8301-75e4946ebc24",
+      "name": "Kuttu ka halwa buckwheat sweet pudding",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 5.5,
+        "carbs": 46.0,
+        "fat": 12.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kuttu ka halwa buckwheat sweet pudding",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "21247a26-4258-4490-a6fe-f558dcc3e6c0",
+      "name": "Makhana kheer lotus seed creamy dessert",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 5.2,
+        "carbs": 26.0,
+        "fat": 5.2,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makhana kheer lotus seed creamy dessert",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "58b50687-9031-4b78-b8f3-2281b4e4d97f",
+      "name": "Apple kheer grated fresh apple milk pudding",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 3.5,
+        "carbs": 22.0,
+        "fat": 4.2,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "apple kheer grated fresh apple milk pudding",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f05437ba-4e9b-497e-8385-d0dc66f38877",
+      "name": "Badam kheer almond paste rich saffron milk",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 7.0,
+        "carbs": 22.0,
+        "fat": 10.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "badam kheer almond paste rich saffron milk",
+        "north indian"
+      ]
+    },
+    {
+      "id": "7ea7d6a0-a636-4a2b-ac4f-125dd7e74784",
+      "name": "Pista kheer pistachio flavored creamy milk",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 6.8,
+        "carbs": 22.0,
+        "fat": 10.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pista kheer pistachio flavored creamy milk",
+        "north indian"
+      ]
+    },
+    {
+      "id": "6a5aa738-836b-4e17-9ea5-6a1550f24f1b",
+      "name": "Carrot kheer grated red gajar payasam",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 4.0,
+        "carbs": 24.0,
+        "fat": 4.8,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "carrot kheer grated red gajar payasam",
+        "south indian"
+      ]
+    },
+    {
+      "id": "9860898a-f3e1-4c8e-bb2b-c91d1556fb10",
+      "name": "Beetroot kheer pink colored festive pudding",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 3.8,
+        "carbs": 25.0,
+        "fat": 5.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beetroot kheer pink colored festive pudding",
+        "south indian"
+      ]
+    },
+    {
+      "id": "596abcaa-b4a3-4b28-a591-cf0f22157467",
+      "name": "Paneer kheer chenna payesh cottage cheese",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 8.5,
+        "carbs": 21.0,
+        "fat": 8.0,
+        "fiber": 0.3
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer kheer chenna payesh cottage cheese",
+        "north indian"
+      ]
+    },
+    {
+      "id": "af5690c4-8947-4ec3-9e04-3a59ffc2f5db",
+      "name": "Lauki kheer grated bottle gourd sweet milk",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.0,
+        "carbs": 21.0,
+        "fat": 5.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lauki kheer grated bottle gourd sweet milk",
+        "north indian"
+      ]
+    },
+    {
+      "id": "312c2955-43eb-4324-8a53-7df69d30b8b9",
+      "name": "Moong dal payasam yellow lentil jaggery coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala/TN",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 5.5,
+        "carbs": 32.0,
+        "fat": 4.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal payasam yellow lentil jaggery coconut",
+        "kerala/tn"
+      ]
+    },
+    {
+      "id": "d364cc0f-b78f-4b25-806a-afcaa1420b85",
+      "name": "Rava payasam semolina milk ghee cardamom",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 4.5,
+        "carbs": 28.0,
+        "fat": 5.2,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rava payasam semolina milk ghee cardamom",
+        "south indian"
+      ]
+    },
+    {
+      "id": "3c1ff126-da95-445b-bc4f-6e015f8eea98",
+      "name": "Javvarisi payasam sago tapioca pearl sweet",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 3.0,
+        "carbs": 31.0,
+        "fat": 3.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "javvarisi payasam sago tapioca pearl sweet",
+        "south indian"
+      ]
+    },
+    {
+      "id": "52163518-b978-4a08-8ab5-5f4c7026aa52",
+      "name": "Semiya payasam roasted vermicelli sweet milk",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 4.2,
+        "carbs": 29.0,
+        "fat": 4.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semiya payasam roasted vermicelli sweet milk",
+        "south indian"
+      ]
+    },
+    {
+      "id": "4e2df054-9c56-4190-89e9-c0b4cce63484",
+      "name": "Aval payasam flattened rice poha sweet milk",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 4.0,
+        "carbs": 29.0,
+        "fat": 3.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aval payasam flattened rice poha sweet milk",
+        "south indian"
+      ]
+    },
+    {
+      "id": "e89a28b4-f280-4995-b0e5-a00342245405",
+      "name": "Paruppu thengai payasam chana coconut sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 6.2,
+        "carbs": 30.0,
+        "fat": 7.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paruppu thengai payasam chana coconut sweet",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e10519df-5d02-4190-870e-263be7efe68b",
+      "name": "Elaneer payasam tender coconut pulp milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 3.5,
+        "carbs": 24.0,
+        "fat": 5.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "elaneer payasam tender coconut pulp milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "c969e4ee-43b6-4ee1-8145-91c0ec6fedf9",
+      "name": "Godhumai rava payasam broken wheat jaggery",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 4.5,
+        "carbs": 30.0,
+        "fat": 3.8,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "godhumai rava payasam broken wheat jaggery",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e36fff18-72ab-44e1-a99b-50f1d354228a",
+      "name": "Kalkandu vadai sweet rock sugar lentil vada",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 7.5,
+        "carbs": 46.0,
+        "fat": 10.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kalkandu vadai sweet rock sugar lentil vada",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ef592b8d-5dac-4e50-b362-17c205de416b",
+      "name": "Suzhiyam sweet stuffed fried lentil spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 6.5,
+        "carbs": 52.0,
+        "fat": 9.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "suzhiyam sweet stuffed fried lentil spheres",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "deaa4ea5-651b-44b9-837a-15922568634a",
+      "name": "Ukkarai traditional Chettinad crumbled sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 8.5,
+        "carbs": 50.0,
+        "fat": 11.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ukkarai traditional chettinad crumbled sweet",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "791e9cfc-bc9b-4eff-ae18-4e30de6ed8ed",
+      "name": "Kavanarisi black sticky rice sweet Chettinad",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 4.5,
+        "carbs": 44.0,
+        "fat": 5.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kavanarisi black sticky rice sweet chettinad",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0be3d145-69f2-4cb6-bf8a-f4837aff21a1",
+      "name": "Athirasam fermented rice jaggery deep fried",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 4.8,
+        "carbs": 68.0,
+        "fat": 13.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "athirasam fermented rice jaggery deep fried",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e5db1436-babe-4cad-a084-3a470eb7a622",
+      "name": "Paal paniyaram crisp spheres in sweet coconut milk",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 4.2,
+        "carbs": 36.0,
+        "fat": 7.8,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paal paniyaram crisp spheres in sweet coconut milk",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b3d57e4b-3bb4-4668-b72a-14450ca5eb1d",
+      "name": "Kandarappam crispy edged sweet Chettinad cake",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 5.5,
+        "carbs": 50.0,
+        "fat": 12.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kandarappam crispy edged sweet chettinad cake",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4c13f069-c48f-4075-b867-4a6750712a0c",
+      "name": "Maa laddu roasted gram flour sweet balls",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 12.0,
+        "carbs": 56.0,
+        "fat": 21.0,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "maa laddu roasted gram flour sweet balls",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e332a69d-d15a-448f-905c-18493b4b3bd7",
+      "name": "Rava laddu semolina ghee sugar dry fruits",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 6.8,
+        "carbs": 60.0,
+        "fat": 18.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rava laddu semolina ghee sugar dry fruits",
+        "south indian"
+      ]
+    },
+    {
+      "id": "f5ba9d4e-0175-4dfb-bed7-ae12e018e61b",
+      "name": "Boondi laddu orange sweet pearl spheres",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 410.0,
+        "caloriesMax": 430.0,
+        "protein": 7.0,
+        "carbs": 58.0,
+        "fat": 18.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boondi laddu orange sweet pearl spheres",
+        "north indian"
+      ]
+    },
+    {
+      "id": "667fab3f-4121-4a98-9556-9472756e7155",
+      "name": "Motichoor laddu fine micro gram flour pearls",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 405.0,
+        "caloriesMax": 425.0,
+        "protein": 6.8,
+        "carbs": 59.0,
+        "fat": 17.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "motichoor laddu fine micro gram flour pearls",
+        "north indian"
+      ]
+    },
+    {
+      "id": "df9aaa9b-4769-4709-8d17-541de682b8bb",
+      "name": "Besan laddu roasted chickpea flour ghee",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 9.5,
+        "carbs": 52.0,
+        "fat": 26.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "besan laddu roasted chickpea flour ghee",
+        "north indian"
+      ]
+    },
+    {
+      "id": "5b8ed2cf-ad27-482d-9b7a-df8551e7173a",
+      "name": "Atta laddu whole wheat flour desi ghee",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
