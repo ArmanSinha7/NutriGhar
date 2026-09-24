@@ -27938,3 +27938,638 @@
       "category": "veg",
       "subCategory": "beverage",
       "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "016b7958-b5dc-4d0e-86d6-1b867a152540",
+      "name": "Tea - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "2413f620-cf84-497a-9947-f439a72ad82e",
+      "name": "Tea - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "5f4c69ad-5bea-4fa0-b84a-cc9043b873fa",
+      "name": "Tea - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "5f029ae1-abe6-4ca0-823a-bc2fce0b9643",
+      "name": "Tea - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "71b9c8af-9b7f-4cbd-bb4e-453ed73c8f21",
+      "name": "Tea - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "a8115236-8df6-4733-a357-6f249edcdae7",
+      "name": "Tea - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "5dc4170d-3e71-4e6a-9391-0dc8685ce683",
+      "name": "Tea - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "77cd9608-2d19-4c0a-a26f-436cdc97128a",
+      "name": "Tea - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "tea"
+      ]
+    },
+    {
+      "id": "6f312a4d-65c0-4b12-a15b-8e43c8eff3bc",
+      "name": "Coffee - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "665463b4-8875-45dd-a668-91ff9ed10015",
+      "name": "Coffee - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "d253fac9-1d1f-4ac6-9e28-8eb43617a954",
+      "name": "Coffee - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "5dea9f89-91b7-4275-b135-ca720e2d4add",
+      "name": "Coffee - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "f46ca44e-1932-4731-bf10-22b0420127e3",
+      "name": "Coffee - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "7a929e28-632c-436c-91db-bb6a6a883232",
+      "name": "Coffee - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "0bc4fd5c-2ca4-49bf-bcd5-84ad42334ce4",
+      "name": "Coffee - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "67fce202-fe9f-4b7a-859f-207d475d5206",
+      "name": "Coffee - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "17c5a355-f442-4208-b5aa-b0e81f753bf1",
+      "name": "Coffee - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "b180fa40-2387-43a0-a291-25871bc3e8ab",
+      "name": "Green Tea - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
