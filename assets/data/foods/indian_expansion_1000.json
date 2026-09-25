@@ -28573,3 +28573,638 @@
         "snack"
       ],
       "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "52f2f202-0efe-457b-89f7-d6eeb69a47a5",
+      "name": "Green Tea - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "9d68d329-e769-4d50-96ea-d1f65c4fb4b6",
+      "name": "Green Tea - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "ddf1ea18-5b72-46ce-8080-886eb3d15241",
+      "name": "Green Tea - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "1ecfaaf9-15be-4b87-abc2-bd81c5dc8894",
+      "name": "Green Tea - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "3e8b2ac5-7b71-4a94-b7be-23762a9d6426",
+      "name": "Green Tea - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "bb106132-b340-4d46-9257-9d4baef80732",
+      "name": "Green Tea - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "b662e6e2-5e0b-4af2-a16f-8c132f1e5a88",
+      "name": "Green Tea - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "cf30314c-13c5-48f4-bf5e-ef453d4f2cbd",
+      "name": "Green Tea - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "green tea"
+      ]
+    },
+    {
+      "id": "ea5ac438-f54a-4716-97d6-da67ec7f3662",
+      "name": "Masala Chai - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "d95cf7dc-bc6d-462d-baa8-d96d790a78e7",
+      "name": "Masala Chai - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "38ced709-39d6-4b1b-8f06-2582d1cf0fea",
+      "name": "Masala Chai - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "219b6e73-cfa3-48bc-95c7-b54958056a7e",
+      "name": "Masala Chai - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "1da43373-5093-4784-8180-5c3c255b35d9",
+      "name": "Masala Chai - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "52b16250-9a33-4bd9-b79a-928a3be73f9b",
+      "name": "Masala Chai - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "3e8ee0ac-efc4-46df-9e48-78590bdaff69",
+      "name": "Masala Chai - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "8f3b9f70-5904-42bf-94aa-aa8794ffc0ff",
+      "name": "Masala Chai - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "7c267691-e9ad-46b7-8f97-b467e5ed7d10",
+      "name": "Masala Chai - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "masala chai"
+      ]
+    },
+    {
+      "id": "7b02d723-4527-411a-9fb8-2ac2b3f05454",
+      "name": "Filter Coffee - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
