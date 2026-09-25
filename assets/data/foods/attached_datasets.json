@@ -65014,3 +65014,1035 @@
         "snack"
       ],
       "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 460.0,
+        "caloriesMax": 480.0,
+        "protein": 8.5,
+        "carbs": 54.0,
+        "fat": 24.5,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "atta laddu whole wheat flour desi ghee",
+        "north indian"
+      ]
+    },
+    {
+      "id": "44c9cde9-de77-4eb8-b0bf-67359a3990df",
+      "name": "Gond laddu edible gum resin winter sweet",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 490.0,
+        "caloriesMax": 510.0,
+        "protein": 8.8,
+        "carbs": 52.0,
+        "fat": 28.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gond laddu edible gum resin winter sweet",
+        "north indian"
+      ]
+    },
+    {
+      "id": "80bd7e00-e4b8-45fd-8271-6768cf6698c5",
+      "name": "Methi laddu fenugreek seeds winter health",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 9.2,
+        "carbs": 50.0,
+        "fat": 24.5,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi laddu fenugreek seeds winter health",
+        "north indian"
+      ]
+    },
+    {
+      "id": "89130694-a680-4e16-807c-5edf506de50f",
+      "name": "Sonth laddu dry ginger warming sweet ball",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 460.0,
+        "caloriesMax": 480.0,
+        "protein": 8.0,
+        "carbs": 52.0,
+        "fat": 25.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sonth laddu dry ginger warming sweet ball",
+        "north indian"
+      ]
+    },
+    {
+      "id": "5ace6344-a3de-4f97-9048-b98a7352bc19",
+      "name": "Alsi pinni flax seed whole wheat winter sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 11.0,
+        "carbs": 48.0,
+        "fat": 28.0,
+        "fiber": 8.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "alsi pinni flax seed whole wheat winter sweet",
+        "punjab"
+      ]
+    },
+    {
+      "id": "df5e3a2e-32bc-4466-8941-410bd7f88b1f",
+      "name": "Urad dal pinni black gram flour winter rich",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 12.5,
+        "carbs": 49.0,
+        "fat": 26.0,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "urad dal pinni black gram flour winter rich",
+        "punjab"
+      ]
+    },
+    {
+      "id": "0c0d5f13-1b15-405d-ab2b-8701a19768cf",
+      "name": "Doda barfi sprouted wheat milk fudge Punjabi",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 410.0,
+        "caloriesMax": 430.0,
+        "protein": 9.0,
+        "carbs": 54.0,
+        "fat": 18.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "doda barfi sprouted wheat milk fudge punjabi",
+        "punjab"
+      ]
+    },
+    {
+      "id": "55557837-6b56-43bd-8d11-f1efe76f6b84",
+      "name": "Panjiri roasted wheat dry fruit herbal mix",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 10.5,
+        "carbs": 52.0,
+        "fat": 26.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "panjiri roasted wheat dry fruit herbal mix",
+        "punjab"
+      ]
+    },
+    {
+      "id": "1129fedc-1f6b-4a30-89ab-cefb00289426",
+      "name": "Kaju barfi cashew diamond fudge thin",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 455.0,
+        "caloriesMax": 475.0,
+        "protein": 11.5,
+        "carbs": 56.0,
+        "fat": 22.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaju barfi cashew diamond fudge thin",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "0bbf72f1-c407-49b5-ba3d-21ec9e6475ea",
+      "name": "Pista barfi pistachio fudge green",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 465.0,
+        "caloriesMax": 485.0,
+        "protein": 12.0,
+        "carbs": 52.0,
+        "fat": 24.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pista barfi pistachio fudge green",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "67a898c1-7e2a-4739-8dd4-33a8e67c7048",
+      "name": "Badam barfi almond rich milk sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 475.0,
+        "caloriesMax": 495.0,
+        "protein": 13.0,
+        "carbs": 48.0,
+        "fat": 27.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "badam barfi almond rich milk sweet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "8ea598c4-6896-4d04-bae5-8aab0600a816",
+      "name": "Anjeer roll fig dry fruit sugar free sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 380.0,
+        "caloriesMax": 400.0,
+        "protein": 7.5,
+        "carbs": 62.0,
+        "fat": 12.5,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "anjeer roll fig dry fruit sugar free sweet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ca86b431-3892-4685-9af6-a84768b0e8e8",
+      "name": "Khajoor barfi date nut sugar free roll",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 370.0,
+        "caloriesMax": 390.0,
+        "protein": 6.8,
+        "carbs": 64.0,
+        "fat": 11.5,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khajoor barfi date nut sugar free roll",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "bb942e46-eb4d-4682-9130-23402970156c",
+      "name": "Coconut barfi nariyal fresh coconut fudge",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 5.0,
+        "carbs": 56.0,
+        "fat": 18.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut barfi nariyal fresh coconut fudge",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "7d6f46bb-3b7b-46c4-b6db-53fbd2022f65",
+      "name": "Dry coconut barfi copra mawa sweet square",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 430.0,
+        "caloriesMax": 450.0,
+        "protein": 6.5,
+        "carbs": 52.0,
+        "fat": 22.5,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dry coconut barfi copra mawa sweet square",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "cc091c23-3269-4222-845d-02abcad4d72a",
+      "name": "Besan barfi roasted gram flour fudge ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 9.0,
+        "carbs": 54.0,
+        "fat": 23.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "besan barfi roasted gram flour fudge ghee",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "08b37dc9-d778-4d0e-9489-68c3a0be5a69",
+      "name": "Moong dal barfi yellow lentil rich fudge",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 380.0,
+        "caloriesMax": 400.0,
+        "protein": 9.5,
+        "carbs": 50.0,
+        "fat": 16.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moong dal barfi yellow lentil rich fudge",
+        "north indian"
+      ]
+    },
+    {
+      "id": "73145ed6-2bf7-4e76-975c-74691e6c74a5",
+      "name": "Gajar barfi carrot milk fudge square",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 5.5,
+        "carbs": 46.0,
+        "fat": 12.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gajar barfi carrot milk fudge square",
+        "north indian"
+      ]
+    },
+    {
+      "id": "c9a51ace-7eca-48ff-b283-c68bcc4b461e",
+      "name": "Lauki barfi bottle gourd mawa diamond sweet",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 5.0,
+        "carbs": 48.0,
+        "fat": 11.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lauki barfi bottle gourd mawa diamond sweet",
+        "north indian"
+      ]
+    },
+    {
+      "id": "ad5a0734-823f-47a6-b402-4be91d1f69fd",
+      "name": "Sev barfi Sindhi singhar ji mithai",
+      "category": "imported_csv_2",
+      "subCategory": "Sindhi",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 9.0,
+        "carbs": 52.0,
+        "fat": 20.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sev barfi sindhi singhar ji mithai",
+        "sindhi"
+      ]
+    },
+    {
+      "id": "68873434-5f31-436b-8942-59358fe19754",
+      "name": "Mysore pak soft ghee melted gram flour",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 540.0,
+        "caloriesMax": 560.0,
+        "protein": 6.5,
+        "carbs": 48.0,
+        "fat": 37.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mysore pak soft ghee melted gram flour",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "95a7a473-62c4-41fc-987b-20776a7ebc15",
+      "name": "Mysore pak hard porous traditional",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 510.0,
+        "caloriesMax": 530.0,
+        "protein": 7.5,
+        "carbs": 52.0,
+        "fat": 31.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mysore pak hard porous traditional",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "16c56cb4-ee71-44d7-82c4-8c2805975b96",
+      "name": "Dharwad peda caramelized brown milk sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 10.5,
+        "carbs": 54.0,
+        "fat": 16.5,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dharwad peda caramelized brown milk sweet",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "ad1518e1-d8eb-4f43-94bb-b98fb79856cf",
+      "name": "Belagavi kunda slow boiled milk brown fudge",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 360.0,
+        "caloriesMax": 380.0,
+        "protein": 9.8,
+        "carbs": 50.0,
+        "fat": 14.5,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "belagavi kunda slow boiled milk brown fudge",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "0a25f464-3e18-4199-8d72-06f50ee8f114",
+      "name": "Gokak karadantu edible gum dry fruit chew",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 470.0,
+        "caloriesMax": 490.0,
+        "protein": 11.0,
+        "carbs": 46.0,
+        "fat": 27.5,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gokak karadantu edible gum dry fruit chew",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "e481c8ef-8f11-45e2-a36b-a205e4aecc84",
+      "name": "Amingad karadantu special organic jaggery nut",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 465.0,
+        "caloriesMax": 485.0,
+        "protein": 11.5,
+        "carbs": 47.0,
+        "fat": 26.5,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amingad karadantu special organic jaggery nut",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "8011108c-5b2f-4a0d-b839-86674c88a95d",
+      "name": "Halbai ragi finger millet coconut jelly sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 3.5,
+        "carbs": 42.0,
+        "fat": 4.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "halbai ragi finger millet coconut jelly sweet",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "7f8a1505-3735-4ace-a6b2-d7bdcc77e4fc",
+      "name": "Halbai rice raw rice coconut jaggery cake",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 3.0,
+        "carbs": 44.0,
+        "fat": 2.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "halbai rice raw rice coconut jaggery cake",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "6cfc6122-c9b9-45d2-8c24-cce2a81feaf5",
+      "name": "Chiroti crispy flaky layered pastry sugar dust",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 5.5,
+        "carbs": 62.0,
+        "fat": 18.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chiroti crispy flaky layered pastry sugar dust",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "496aa0c0-cc09-4689-88d2-e69025eca247",
+      "name": "Pheni delicate fine vermicelli sweet milk",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka/South",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 6.0,
+        "carbs": 58.0,
+        "fat": 11.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pheni delicate fine vermicelli sweet milk",
+        "karnataka/south"
+      ]
+    },
+    {
+      "id": "f709b61b-e399-4ec8-b71c-8cc8debecf72",
+      "name": "Hayagreeva chana dal jaggery coconut sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 8.0,
+        "carbs": 52.0,
+        "fat": 5.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hayagreeva chana dal jaggery coconut sweet",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "1d2cd37d-d44c-45cd-875a-2613a6b1622a",
+      "name": "Gasagase payasa poppy seeds jaggery coconut milk",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 6.0,
+        "carbs": 32.0,
+        "fat": 10.0,
+        "fiber": 3.5
+      },
+      "portions": [
