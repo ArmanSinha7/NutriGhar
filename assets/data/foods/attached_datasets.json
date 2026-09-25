@@ -66046,3 +66046,1035 @@
         "fiber": 3.5
       },
       "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gasagase payasa poppy seeds jaggery coconut milk",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "94a17451-5a0a-4432-bb02-f049e27f307c",
+      "name": "Majjige huli ash gourd in spiced buttermilk",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 2.5,
+        "carbs": 7.0,
+        "fat": 4.2,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "majjige huli ash gourd in spiced buttermilk",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "0da3ec8d-7b87-43c0-8a18-bb8a40e7bacc",
+      "name": "Bendekayi gojju okra sweet sour tamarind curry",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.2,
+        "carbs": 14.0,
+        "fat": 5.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bendekayi gojju okra sweet sour tamarind curry",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "9377bd36-f67b-4d97-a407-02bb00d50b65",
+      "name": "Mavinkayi gojju raw mango jaggery spicy curry",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 1.5,
+        "carbs": 26.0,
+        "fat": 3.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mavinkayi gojju raw mango jaggery spicy curry",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "927a1ce8-5293-4fc4-affb-5dca945c8b22",
+      "name": "Hagalkayi gojju bitter gourd tamarind jaggery",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 2.5,
+        "carbs": 18.0,
+        "fat": 4.2,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hagalkayi gojju bitter gourd tamarind jaggery",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "14c76555-3f4e-451c-a257-f116ac0ddd4f",
+      "name": "Menaskayi pineapple spicy tangy coconut curry",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 1.8,
+        "carbs": 22.0,
+        "fat": 4.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "menaskayi pineapple spicy tangy coconut curry",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "17a74f56-5e79-4a88-a1ac-8b038e8e2861",
+      "name": "Thovve simple plain toor dal tempered ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 6.0,
+        "carbs": 14.0,
+        "fat": 2.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thovve simple plain toor dal tempered ghee",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "27ca4217-32d5-47f4-8e43-b8501012b916",
+      "name": "Hesaru bele thovve split moong dal tempered",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 6.2,
+        "carbs": 13.5,
+        "fat": 1.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hesaru bele thovve split moong dal tempered",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "c7e53aab-d203-4adc-8622-25c53877d489",
+      "name": "Kootu mixed vegetable lentil coconut stew",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 4.5,
+        "carbs": 15.0,
+        "fat": 4.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu mixed vegetable lentil coconut stew",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "bf0a179f-da70-4fc3-b61b-2ca19cf631b7",
+      "name": "Palya cabbage finely chopped cabbage coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 2.8,
+        "carbs": 8.5,
+        "fat": 5.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palya cabbage finely chopped cabbage coconut",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "2a775d4e-24ba-4ab0-b764-61350c043868",
+      "name": "Palya beans green beans carrot grated coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 3.0,
+        "carbs": 9.5,
+        "fat": 5.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palya beans green beans carrot grated coconut",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "cc75a7f3-175d-40df-9ad2-a09f535eaafa",
+      "name": "Palya beetroot tempered spiced beet coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 2.5,
+        "carbs": 13.0,
+        "fat": 4.8,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palya beetroot tempered spiced beet coconut",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "c3ef9d0a-dcf2-42ae-a7cf-bf0d0975fc76",
+      "name": "Soppina palya mixed fresh greens stir fry",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 3.8,
+        "carbs": 7.0,
+        "fat": 4.2,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soppina palya mixed fresh greens stir fry",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "aee0e2bc-e031-48de-b330-7171a7106fd6",
+      "name": "Alugadde palya spiced mashed potato for dosa",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 2.5,
+        "carbs": 18.0,
+        "fat": 4.8,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "alugadde palya spiced mashed potato for dosa",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "c0f326fa-20a4-4bd0-8d29-b62d6afb32be",
+      "name": "Saaru tomato rasam Karnataka style",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 30.0,
+        "caloriesMax": 50.0,
+        "protein": 1.2,
+        "carbs": 7.0,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saaru tomato rasam karnataka style",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "d6aa3898-5172-49dd-9328-26737524e64d",
+      "name": "Kalu saaru sprouted field beans spicy broth",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.5,
+        "carbs": 16.0,
+        "fat": 2.2,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kalu saaru sprouted field beans spicy broth",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "3250ecdb-64bf-4fcb-9982-a331b95a0d27",
+      "name": "Massoppu saaru mashed leafy greens lentil",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 4.2,
+        "carbs": 11.0,
+        "fat": 2.5,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "massoppu saaru mashed leafy greens lentil",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "5751f575-30d3-4f1f-a102-c2f7ad19550e",
+      "name": "Udupi rasam traditional temple spice broth",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 2.0,
+        "carbs": 9.0,
+        "fat": 1.2,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "udupi rasam traditional temple spice broth",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "fd3b6d3a-04ff-410c-a458-aba8ff6c1392",
+      "name": "Udupi sambar sweet tangy lentil vegetable",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 3.5,
+        "carbs": 12.0,
+        "fat": 2.0,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "udupi sambar sweet tangy lentil vegetable",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "2f78a102-270f-4bc1-b9d7-38f83a00c013",
+      "name": "Kadale kalu usli seasoned black chickpea stir fry",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 8.8,
+        "carbs": 23.0,
+        "fat": 3.8,
+        "fiber": 7.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kadale kalu usli seasoned black chickpea stir fry",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "2307039d-e21c-4724-8593-1b104fa20cf5",
+      "name": "Hesaru kalu usli seasoned whole green moong",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 9.0,
+        "carbs": 22.0,
+        "fat": 2.2,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hesaru kalu usli seasoned whole green moong",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "25da238a-2579-4926-acd7-b117de8b755a",
+      "name": "Alasande kalu usli seasoned black eyed peas",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 8.5,
+        "carbs": 23.0,
+        "fat": 2.5,
+        "fiber": 5.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "alasande kalu usli seasoned black eyed peas",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "ce272feb-c49e-446b-b0e5-8c7d289b49a5",
+      "name": "Huruli usli seasoned boiled horse gram",
+      "category": "imported_csv_2",
+      "subCategory": "Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 9.5,
+        "carbs": 24.0,
+        "fat": 2.2,
+        "fiber": 7.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "huruli usli seasoned boiled horse gram",
+        "karnataka"
+      ]
+    },
+    {
+      "id": "0b8d7b80-65d1-4788-a1f8-fe85f2a039ea",
+      "name": "Puri bhaji spiced potato gravy with fried puffed puri",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 5.5,
+        "carbs": 36.0,
+        "fat": 10.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "puri bhaji spiced potato gravy with fried puffed puri",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "8d3e95e2-147d-4188-8b9d-09e5a17d8d7b",
+      "name": "Aloo puri North Indian spicy potato tomato curry with puri",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 5.2,
+        "carbs": 37.0,
+        "fat": 11.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo puri north indian spicy potato tomato curry with puri",
+        "north indian"
+      ]
+    },
+    {
+      "id": "43554940-fa72-4fcc-b9c0-45c96edda5d7",
+      "name": "Chana puri spiced chickpea gravy with hot wheat puri",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 275.0,
+        "caloriesMax": 295.0,
+        "protein": 7.5,
+        "carbs": 38.0,
+        "fat": 11.0,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chana puri spiced chickpea gravy with hot wheat puri",
+        "north indian"
+      ]
+    },
+    {
+      "id": "c1f52a16-a653-415f-92b2-1e278b89573c",
+      "name": "Palak puri vibrant green spinach dough fried puffed bread",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 6.5,
+        "carbs": 44.0,
+        "fat": 12.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palak puri vibrant green spinach dough fried puffed bread",
+        "north indian"
+      ]
+    },
+    {
+      "id": "74be455d-ec6a-477d-9dfc-f6749e992efa",
+      "name": "Methi puri fresh fenugreek leaf dough fried bread",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 305.0,
+        "caloriesMax": 325.0,
+        "protein": 6.8,
+        "carbs": 43.0,
+        "fat": 12.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi puri fresh fenugreek leaf dough fried bread",
+        "north indian"
+      ]
+    },
+    {
+      "id": "93f9e40c-30b9-4972-ab57-d81a51acc53a",
+      "name": "Ajwain puri carom seed spiced deep fried bread",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 6.5,
+        "carbs": 46.0,
+        "fat": 13.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ajwain puri carom seed spiced deep fried bread",
+        "north indian"
+      ]
+    },
+    {
+      "id": "97693b67-16eb-4755-acf8-a9c97aaee2b9",
+      "name": "Missi puri chickpea flour wheat blend fried bread",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 9.0,
+        "carbs": 44.0,
+        "fat": 14.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "missi puri chickpea flour wheat blend fried bread",
+        "north indian"
+      ]
+    },
+    {
+      "id": "6cf15b18-5a6a-4c4e-898a-583e146e9bb9",
+      "name": "Radha ballabhi urad dal stuffed spiced soft luchi",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 8.5,
+        "carbs": 41.0,
+        "fat": 13.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "radha ballabhi urad dal stuffed spiced soft luchi",
+        "bengal"
+      ]
+    },
+    {
+      "id": "3f3cefbd-e2f9-4ba6-bea1-0fc20325d082",
+      "name": "Bedmi puri coarse urad dal kneaded crispy bread",
+      "category": "imported_csv_2",
+      "subCategory": "Uttar Pradesh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 325.0,
+        "caloriesMax": 345.0,
+        "protein": 8.8,
+        "carbs": 42.0,
+        "fat": 14.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bedmi puri coarse urad dal kneaded crispy bread",
+        "uttar pradesh"
