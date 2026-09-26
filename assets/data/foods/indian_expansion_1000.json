@@ -29843,3 +29843,638 @@
       },
       "portions": [
         {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "c2d7b123-8a38-4606-ab80-c68e2575b216",
+      "name": "Lassi - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "96c34d61-6f95-47c0-b3f2-d92791cfda6d",
+      "name": "Lassi - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "76053ea9-d82e-4f86-90a9-e07fe9081e0e",
+      "name": "Lassi - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "fc568423-1414-4510-9e42-d77cb72305c8",
+      "name": "Lassi - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "4d318dbb-dd97-4e9f-8a30-439210e42f6e",
+      "name": "Lassi - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "6696c071-e202-4461-9dcb-d19088071813",
+      "name": "Lassi - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "0b9e040d-8f89-4236-8737-e8b9691a16e3",
+      "name": "Lassi - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "05d489e3-47ca-4156-a4f1-542de5b01f48",
+      "name": "Lassi - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "lassi"
+      ]
+    },
+    {
+      "id": "395b5c4c-f44c-46a0-9f5d-9a4af7421cf8",
+      "name": "Chaas - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "e0152135-5ebe-4349-ba9b-daf3b879f94e",
+      "name": "Chaas - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "34989eba-8d4e-44c0-b0ef-80add2d657ac",
+      "name": "Chaas - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "e3e6c7b6-152b-4bcd-8ba1-5f777a55dc4c",
+      "name": "Chaas - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "16d62ce3-0593-4b24-aff0-d35924996bf3",
+      "name": "Chaas - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "58c6a95c-17db-46e0-8155-fe0aa97386cd",
+      "name": "Chaas - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "f9291719-0769-4c76-8781-45733153a0d7",
+      "name": "Chaas - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "d83b1633-0be7-4a33-8aae-f872b3e3767d",
+      "name": "Chaas - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "06fde4ac-e36c-44e5-a6b9-3757bdb2c59c",
+      "name": "Chaas - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "chaas"
+      ]
+    },
+    {
+      "id": "5d3e5086-c4ab-43b1-8e89-b80d7336c614",
+      "name": "Nimbu Pani - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
