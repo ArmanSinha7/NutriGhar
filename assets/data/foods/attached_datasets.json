@@ -67078,3 +67078,1035 @@
       "aliases": [
         "bedmi puri coarse urad dal kneaded crispy bread",
         "uttar pradesh"
+      ]
+    },
+    {
+      "id": "2ceb1ef0-3002-4b74-af9d-20555e469efc",
+      "name": "Nagori puri tiny crisp semolina puffed bread",
+      "category": "imported_csv_2",
+      "subCategory": "Delhi",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 7.0,
+        "carbs": 50.0,
+        "fat": 14.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nagori puri tiny crisp semolina puffed bread",
+        "delhi"
+      ]
+    },
+    {
+      "id": "240a045a-f254-43c9-9f5c-92bdc1579416",
+      "name": "Bhatura fermented yogurt flour large deep fried bread",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 7.0,
+        "carbs": 48.0,
+        "fat": 13.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhatura fermented yogurt flour large deep fried bread",
+        "punjab"
+      ]
+    },
+    {
+      "id": "4287b189-eccb-4926-bf84-86a2974474c7",
+      "name": "Kulcha leavened baked flatbread North Indian",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 7.5,
+        "carbs": 49.0,
+        "fat": 3.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kulcha leavened baked flatbread north indian",
+        "punjab"
+      ]
+    },
+    {
+      "id": "d81ca9dd-8edd-4051-94e0-23425e2b4161",
+      "name": "Amritsari naan layered spiced mashed potato baked tandoor",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 275.0,
+        "caloriesMax": 295.0,
+        "protein": 6.8,
+        "carbs": 46.0,
+        "fat": 8.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amritsari naan layered spiced mashed potato baked tandoor",
+        "punjab"
+      ]
+    },
+    {
+      "id": "e084cf8b-08ba-4caf-9ccf-6b01c90d13dc",
+      "name": "Tandoori roti whole wheat bread clay oven baked",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 7.5,
+        "carbs": 48.0,
+        "fat": 1.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tandoori roti whole wheat bread clay oven baked",
+        "north indian"
+      ]
+    },
+    {
+      "id": "0d72feea-6a4b-464a-a63a-c8ffcb21914e",
+      "name": "Butter tandoori roti brushed fresh melted butter",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 7.5,
+        "carbs": 46.0,
+        "fat": 5.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "butter tandoori roti brushed fresh melted butter",
+        "north indian"
+      ]
+    },
+    {
+      "id": "63c6ae7d-90e2-441e-a055-99c870256c9b",
+      "name": "Roomali roti ultra thin stretched soft bread handkerchief",
+      "category": "imported_csv_2",
+      "subCategory": "Mughlai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 7.5,
+        "carbs": 50.0,
+        "fat": 1.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roomali roti ultra thin stretched soft bread handkerchief",
+        "mughlai"
+      ]
+    },
+    {
+      "id": "eb380ad0-986a-452a-89d6-d8e41d8203dc",
+      "name": "Phulka oil free puffed whole wheat flatbread",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 7.5,
+        "carbs": 45.0,
+        "fat": 1.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "phulka oil free puffed whole wheat flatbread",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "e3527c42-a9d4-4fee-9162-0d2e6dc3be1e",
+      "name": "Chapati lightly oiled whole wheat tawa cooked flatbread",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 7.2,
+        "carbs": 44.0,
+        "fat": 4.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chapati lightly oiled whole wheat tawa cooked flatbread",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c11e54f1-f79d-4e29-b547-c60d534ddd87",
+      "name": "Paratha plain layered shallow fried whole wheat flatbread",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 6.8,
+        "carbs": 45.0,
+        "fat": 11.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paratha plain layered shallow fried whole wheat flatbread",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f659bfd6-5995-4f3a-95be-3b0c2639e37d",
+      "name": "Lachha paratha multiple spiral layered crispy wheat bread",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 7.0,
+        "carbs": 46.0,
+        "fat": 13.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lachha paratha multiple spiral layered crispy wheat bread",
+        "north indian"
+      ]
+    },
+    {
+      "id": "4ec9a9bf-a699-454a-8628-22f044ab1d9b",
+      "name": "Koshimbir cucumber peanut tempered yogurt salad",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.0,
+        "carbs": 6.0,
+        "fat": 5.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "koshimbir cucumber peanut tempered yogurt salad",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "842485a6-2c6b-4c44-8c35-12b909acb966",
+      "name": "Koshimbir carrot crushed peanut lemon salad",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 2.5,
+        "carbs": 9.0,
+        "fat": 5.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "koshimbir carrot crushed peanut lemon salad",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "c2df243a-626e-4f29-824a-33c01d597519",
+      "name": "Koshimbir cabbage green chilli mustard salad",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.0,
+        "carbs": 6.5,
+        "fat": 4.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "koshimbir cabbage green chilli mustard salad",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "c983378c-8925-443e-be6b-f82786cd3649",
+      "name": "Koshimbir tomato onion coriander light salad",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 40.0,
+        "caloriesMax": 60.0,
+        "protein": 1.5,
+        "carbs": 6.0,
+        "fat": 2.2,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "koshimbir tomato onion coriander light salad",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "9f5f64db-3a8c-4936-83ab-49977fdcb5de",
+      "name": "Pachadi cucumber coconut green chilli yogurt salad",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 2.2,
+        "carbs": 5.0,
+        "fat": 5.2,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pachadi cucumber coconut green chilli yogurt salad",
+        "kerala"
+      ]
+    },
+    {
+      "id": "f3de108c-35af-488d-bc3e-2e3dc9e83838",
+      "name": "Pachadi beetroot vibrant crimson spiced yogurt mash",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 2.4,
+        "carbs": 8.0,
+        "fat": 5.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pachadi beetroot vibrant crimson spiced yogurt mash",
+        "kerala"
+      ]
+    },
+    {
+      "id": "4660455e-d6ee-431a-ad35-515db37e16d9",
+      "name": "Pachadi ladyfinger okra crisp fried in seasoned curd",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.8,
+        "carbs": 8.5,
+        "fat": 7.2,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pachadi ladyfinger okra crisp fried in seasoned curd",
+        "kerala"
+      ]
+    },
+    {
+      "id": "2398b6f5-355e-404d-ae21-7264794c8cda",
+      "name": "Pachadi raw mango sour spicy tempered yogurt curry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 1.8,
+        "carbs": 12.0,
+        "fat": 5.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pachadi raw mango sour spicy tempered yogurt curry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "fc601bd2-4d73-46a0-a690-4bd0d9b9fcbf",
+      "name": "Inji thayir ginger green chilli salted yogurt digestive",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 2.5,
+        "carbs": 4.0,
+        "fat": 3.8,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "inji thayir ginger green chilli salted yogurt digestive",
+        "kerala"
+      ]
+    },
+    {
+      "id": "209345ab-35f6-4d6c-9cb4-dbaee6be0918",
+      "name": "Vellarikka kichadi golden cucumber crushed mustard curd",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.0,
+        "carbs": 5.0,
+        "fat": 4.8,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vellarikka kichadi golden cucumber crushed mustard curd",
+        "kerala"
+      ]
+    },
+    {
+      "id": "5c9a978c-5662-48da-bf7d-8c7b78bd06db",
+      "name": "Pavakka kichadi bitter gourd fried in tempered yogurt",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 2.5,
+        "carbs": 6.5,
+        "fat": 6.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pavakka kichadi bitter gourd fried in tempered yogurt",
+        "kerala"
+      ]
+    },
+    {
+      "id": "5be3eb61-df15-4da2-bdff-8cbf9b88d2ce",
+      "name": "Thoran yard long payar beans coconut stir fry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 4.0,
+        "carbs": 10.0,
+        "fat": 6.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran yard long payar beans coconut stir fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "3debcba6-a79e-4bae-8405-5adfd84a2217",
+      "name": "Thoran snake gourd padavalanga coconut stir fry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 2.2,
+        "carbs": 7.0,
+        "fat": 5.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran snake gourd padavalanga coconut stir fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "9ddd8980-a5a5-4572-a4b2-92d0b883d4a9",
+      "name": "Thoran ivy gourd kovakka coconut mild stir fry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 2.8,
+        "carbs": 9.5,
+        "fat": 6.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran ivy gourd kovakka coconut mild stir fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "03e1a168-791f-40bb-84ab-136d06f4fdbd",
+      "name": "Thoran mushroom sliced button mushrooms coconut fry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 4.5,
+        "carbs": 7.0,
+        "fat": 7.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran mushroom sliced button mushrooms coconut fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "8bee471c-07aa-465c-aaec-d25c747cb3e9",
+      "name": "Thoran vazhapindi banana stem finely chopped coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 1.8,
+        "carbs": 8.0,
+        "fat": 4.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran vazhapindi banana stem finely chopped coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "c787015b-9eae-4e1c-bd0a-55aaf2e02f11",
+      "name": "Thoran vazhapoo banana flower finely diced spiced",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 3.2,
+        "carbs": 14.0,
+        "fat": 4.8,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran vazhapoo banana flower finely diced spiced",
+        "kerala"
+      ]
+    },
+    {
+      "id": "33125bc8-be52-4c0c-86c1-9a6eac60d0c4",
+      "name": "Thoran cheera red amaranth leaves steamed coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 3.8,
+        "carbs": 6.5,
+        "fat": 4.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran cheera red amaranth leaves steamed coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "eaef66cb-5b6d-445d-8bbc-babc8a3a0d3f",
+      "name": "Thoran muringayila drumstick leaves dry coconut roast",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 6.2,
+        "carbs": 9.0,
+        "fat": 7.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoran muringayila drumstick leaves dry coconut roast",
+        "kerala"
+      ]
+    },
+    {
+      "id": "aa5db851-b8b7-4f29-a009-217cf45cd31b",
+      "name": "Meen pattichathu sardines cooked red fiery kokum sauce",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 18.5,
+        "carbs": 2.5,
+        "fat": 9.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "meen pattichathu sardines cooked red fiery kokum sauce",
+        "kerala"
+      ]
+    },
+    {
+      "id": "ef43b3b2-e778-4f50-9c2a-368361275887",
+      "name": "Meen mulakittathu king fish cooked spicy red tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
