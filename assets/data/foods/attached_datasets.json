@@ -68110,3 +68110,1035 @@
       "subCategory": "Kerala",
       "isVegetarian": true,
       "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 19.0,
+        "carbs": 3.0,
+        "fat": 9.5,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "meen mulakittathu king fish cooked spicy red tamarind",
+        "kerala"
+      ]
+    },
+    {
+      "id": "a6fef334-f138-48eb-93e3-2fc58ebd924d",
+      "name": "Kottayam fish curry traditional red spicy fish stew",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 18.0,
+        "carbs": 3.5,
+        "fat": 9.2,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kottayam fish curry traditional red spicy fish stew",
+        "kerala"
+      ]
+    },
+    {
+      "id": "66820c32-18b8-4615-aff7-1b54b803590d",
+      "name": "Alleppey fish curry raw mango coconut cream mild stew",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 16.5,
+        "carbs": 5.5,
+        "fat": 11.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "alleppey fish curry raw mango coconut cream mild stew",
+        "kerala"
+      ]
+    },
+    {
+      "id": "eeb7a694-7ef6-429e-9b94-b891a6347ed0",
+      "name": "Malabar fish curry creamy spiced coconut gravy seer fish",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 17.0,
+        "carbs": 4.5,
+        "fat": 11.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "malabar fish curry creamy spiced coconut gravy seer fish",
+        "kerala"
+      ]
+    },
+    {
+      "id": "6d96e0f1-4d51-4279-ab5f-ee525f2d664e",
+      "name": "Nethili meen curry fresh tiny anchovies spicy curry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 19.5,
+        "carbs": 2.0,
+        "fat": 8.2,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nethili meen curry fresh tiny anchovies spicy curry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "26ec66e1-001c-47d5-b3ca-0e98d2564b46",
+      "name": "Ayala porichathu whole mackerel shallow fried Kerala spices",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 22.0,
+        "carbs": 3.0,
+        "fat": 17.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ayala porichathu whole mackerel shallow fried kerala spices",
+        "kerala"
+      ]
+    },
+    {
+      "id": "fd608f30-eb46-400c-aaad-65691d1bf5f4",
+      "name": "Karimeen varuthathu pearl spot marinated crisp fried",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 21.0,
+        "carbs": 4.0,
+        "fat": 16.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karimeen varuthathu pearl spot marinated crisp fried",
+        "kerala"
+      ]
+    },
+    {
+      "id": "5eaa9399-b3d7-405b-b319-ed0201e3a335",
+      "name": "Nandu roast mud crabs dry caramelized onion black pepper",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 18.0,
+        "carbs": 5.5,
+        "fat": 10.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nandu roast mud crabs dry caramelized onion black pepper",
+        "kerala"
+      ]
+    },
+    {
+      "id": "caa16ce9-8483-40ff-9213-08b6201ca5b1",
+      "name": "Kakka irachi fry river clam meat roasted coconut slices",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 19.5,
+        "carbs": 6.0,
+        "fat": 12.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kakka irachi fry river clam meat roasted coconut slices",
+        "kerala"
+      ]
+    },
+    {
+      "id": "45a830e0-b482-425a-90a4-e76e7363a897",
+      "name": "Kallummakkaya roast mussels saut\u00e9ed shallots pepper",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 18.5,
+        "carbs": 7.0,
+        "fat": 10.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kallummakkaya roast mussels saut\u00e9ed shallots pepper",
+        "kerala"
+      ]
+    },
+    {
+      "id": "f3238ac5-3433-4973-ada2-0e416450c24c",
+      "name": "Koonthal fry squid calamari rings spiced pan roasted",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 19.0,
+        "carbs": 5.0,
+        "fat": 11.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "koonthal fry squid calamari rings spiced pan roasted",
+        "kerala"
+      ]
+    },
+    {
+      "id": "3c3e8e8d-05ef-41da-9e79-71c20535ef14",
+      "name": "Varutharacha chicken curry roasted whole coconut paste",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 17.0,
+        "carbs": 4.5,
+        "fat": 14.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "varutharacha chicken curry roasted whole coconut paste",
+        "kerala"
+      ]
+    },
+    {
+      "id": "4e7483dd-9555-46f0-95e2-47f2a0ee92a9",
+      "name": "Varutharacha mutton curry rich roasted coconut dark gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 245.0,
+        "caloriesMax": 265.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 18.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "varutharacha mutton curry rich roasted coconut dark gravy",
+        "kerala"
+      ]
+    },
+    {
+      "id": "d3067557-2617-47a0-9e00-375accb5c984",
+      "name": "Kozhi nirachathu whole roasted chicken Malabar stuffed",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 21.0,
+        "carbs": 5.0,
+        "fat": 15.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhi nirachathu whole roasted chicken malabar stuffed",
+        "kerala"
+      ]
+    },
+    {
+      "id": "34fbbad0-2f82-44f5-a006-3ca7235bd63c",
+      "name": "Chicken peralan dry thick spicy chicken shallot roast",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 20.5,
+        "carbs": 4.0,
+        "fat": 14.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken peralan dry thick spicy chicken shallot roast",
+        "kerala"
+      ]
+    },
+    {
+      "id": "5a851332-ac78-4178-a1f8-3c54567adbf1",
+      "name": "Mutton peralan dry thick tender goat meat pepper roast",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 20.0,
+        "carbs": 3.5,
+        "fat": 19.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton peralan dry thick tender goat meat pepper roast",
+        "kerala"
+      ]
+    },
+    {
+      "id": "6a48ff0c-dce8-4182-9d0d-8345800d8614",
+      "name": "Beef peralan tender beef cubes spiced shallots curry leaf",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 21.0,
+        "carbs": 3.5,
+        "fat": 20.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beef peralan tender beef cubes spiced shallots curry leaf",
+        "kerala"
+      ]
+    },
+    {
+      "id": "641f35c1-e189-48e5-a9c7-68bf8327479f",
+      "name": "Pork roast Christian style pork belly caramelized fry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 305.0,
+        "caloriesMax": 325.0,
+        "protein": 18.5,
+        "carbs": 3.0,
+        "fat": 26.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pork roast christian style pork belly caramelized fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "cfda4a7d-149b-4104-b834-8574f4500854",
+      "name": "Thattu dosa small thick spongy street style rice crepe",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.2,
+        "carbs": 30.0,
+        "fat": 2.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thattu dosa small thick spongy street style rice crepe",
+        "kerala"
+      ]
+    },
+    {
+      "id": "fc1c9b44-caba-4658-84d8-3918a1912792",
+      "name": "Thattu kadai chicken fry spicy red street fried chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 22.0,
+        "carbs": 6.0,
+        "fat": 18.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thattu kadai chicken fry spicy red street fried chicken",
+        "kerala"
+      ]
+    },
+    {
+      "id": "e7c825b8-dbf6-4e0b-9c61-b9decef4ddbb",
+      "name": "Thattu kadai beef fry fiery street side sliced beef fry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 285.0,
+        "caloriesMax": 305.0,
+        "protein": 23.0,
+        "carbs": 4.0,
+        "fat": 21.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thattu kadai beef fry fiery street side sliced beef fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "07c908cb-d7c9-4792-967e-116b92458a75",
+      "name": "Kozhikode biryani fragrant kaima rice chicken dum cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 12.0,
+        "carbs": 24.0,
+        "fat": 6.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhikode biryani fragrant kaima rice chicken dum cooked",
+        "kerala"
+      ]
+    },
+    {
+      "id": "2aa7a03a-4a9e-47c9-86a3-a4788b5fc8c9",
+      "name": "Kannur biryani mild aromatic short grain spiced mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 13.0,
+        "carbs": 23.0,
+        "fat": 8.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kannur biryani mild aromatic short grain spiced mutton",
+        "kerala"
+      ]
+    },
+    {
+      "id": "d61dcec5-17ed-4d5c-9855-5fef0336d3f0",
+      "name": "Kuttanad duck roast rich bone in water bird pepper fry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 275.0,
+        "caloriesMax": 295.0,
+        "protein": 18.5,
+        "carbs": 4.0,
+        "fat": 21.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kuttanad duck roast rich bone in water bird pepper fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "2f673619-4680-4964-8624-0368f0ffdf97",
+      "name": "Irachi chor spiced meat and short grain rice one pot",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 12.5,
+        "carbs": 24.0,
+        "fat": 7.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "irachi chor spiced meat and short grain rice one pot",
+        "kerala"
+      ]
+    },
+    {
+      "id": "213049eb-9abe-4743-986c-683e3096354d",
+      "name": "Neychor Malabar ghee rice fried onions cashews raisins",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 3.5,
+        "carbs": 30.0,
+        "fat": 6.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "neychor malabar ghee rice fried onions cashews raisins",
+        "kerala"
+      ]
+    },
+    {
+      "id": "f2895d8d-e04b-4d9c-a0f4-ada1a59344fb",
+      "name": "Jeera kaima rice cumin flavored short grain rice ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 3.2,
+        "carbs": 28.0,
+        "fat": 5.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jeera kaima rice cumin flavored short grain rice ghee",
+        "kerala"
+      ]
+    },
+    {
+      "id": "d6fde4ee-0f5a-47b4-adf3-9d6a7a9bb5e9",
+      "name": "Parippu thalichathu toor dal tempered garlic green chilli",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 6.0,
+        "carbs": 15.0,
+        "fat": 2.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "parippu thalichathu toor dal tempered garlic green chilli",
+        "kerala"
+      ]
+    },
+    {
+      "id": "54c86ec9-604f-43f6-82ef-91febb217a9a",
+      "name": "Cherupayar parippu split yellow moong cumin coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 6.8,
+        "carbs": 16.0,
+        "fat": 2.8,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cherupayar parippu split yellow moong cumin coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "c201db5c-74f5-40a4-8426-43851e6c968a",
+      "name": "Mathanga vanpayar erissery pumpkin red chori beans",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 4.2,
+        "carbs": 17.0,
+        "fat": 5.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mathanga vanpayar erissery pumpkin red chori beans",
+        "kerala"
+      ]
+    },
+    {
+      "id": "e371dcc7-77bb-44ea-84d5-98f95895f8a4",
+      "name": "Chenai vanpayar erissery elephant yam cowpeas coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 4.5,
+        "carbs": 18.0,
+        "fat": 5.8,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chenai vanpayar erissery elephant yam cowpeas coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "1490a897-5d93-425b-9f04-c66dc98ab341",
+      "name": "Kootu curry black chickpeas yam raw banana jaggery roasted coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
