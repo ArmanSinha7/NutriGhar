@@ -31113,3 +31113,638 @@
           "weightMaxG": 300
         }
       ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "dea75dbf-15e7-4753-852d-d007c51f7425",
+      "name": "Milk - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "37850378-435e-4eae-bcf9-b6b44f5035f0",
+      "name": "Milk - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "0ebcd1f9-f894-4b5d-9206-654bf38d51c3",
+      "name": "Milk - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "98c6a108-f8fd-42d1-8298-ea6660eefa55",
+      "name": "Milk - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "8185889d-c71e-47a8-bccc-c08ecebe7bb6",
+      "name": "Milk - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "477d24f1-53bd-4b46-af99-e380df9700a4",
+      "name": "Milk - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "f6b0ad96-0e1d-42d3-9fd4-2615d1c7dc18",
+      "name": "Milk - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "70039306-fe1f-4c98-a161-aef423967ab6",
+      "name": "Milk - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "milk"
+      ]
+    },
+    {
+      "id": "8d380d07-65d4-44f2-b8c3-df87a2eff512",
+      "name": "Almond Milk - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "d473328b-22d7-4167-90cd-df9a93849dde",
+      "name": "Almond Milk - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "2f2db249-b1b8-4c0e-8187-e5ca88ac4d7f",
+      "name": "Almond Milk - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "6c7f7085-8446-4b83-994b-b0198fac3fb2",
+      "name": "Almond Milk - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "7140c6cd-87b0-43ba-a902-865939530628",
+      "name": "Almond Milk - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "fb436134-fb0e-4b61-a5b0-9680cc7d8b29",
+      "name": "Almond Milk - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "7cca128e-9dbd-4668-b4c2-b7036dee3404",
+      "name": "Almond Milk - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "3db1e7b3-13f5-4b0c-ad11-4f494e7d95db",
+      "name": "Almond Milk - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "d55cdf72-3fec-4cdd-8fcb-bd37a4fe8f78",
+      "name": "Almond Milk - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "almond milk"
+      ]
+    },
+    {
+      "id": "376c620b-887d-4326-9a81-4506c2f8f852",
+      "name": "Soy Milk - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
