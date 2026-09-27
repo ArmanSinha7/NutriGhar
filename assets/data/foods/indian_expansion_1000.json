@@ -31748,3 +31748,599 @@
       ]
     },
     {
+      "id": "a3eb7426-d046-4e76-8839-5d0df4bc1651",
+      "name": "Soy Milk - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "d57804b3-ea4c-4581-9b78-60bc765a197e",
+      "name": "Soy Milk - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "9424b4c3-900c-4e63-aa7c-3df5ae07bd03",
+      "name": "Soy Milk - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "e8d4f20d-c4d6-4314-beb2-7884db208d1e",
+      "name": "Soy Milk - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "59161d6d-17ea-49e9-a1ee-7ff7d5290ce6",
+      "name": "Soy Milk - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "4dca1af5-c9e6-431f-a679-67b805f8d502",
+      "name": "Soy Milk - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "48a8b86f-f13b-4eb9-9a52-4577b0b2ec78",
+      "name": "Soy Milk - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "5fe2aab0-d5d8-4b46-8170-8fa7ff5a4011",
+      "name": "Soy Milk - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "soy milk"
+      ]
+    },
+    {
+      "id": "23cec2cd-a6e7-44f6-85d4-182eec320cd1",
+      "name": "Coconut Water - Small",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "9b07a654-0781-4851-9dc7-c29cce03cee9",
+      "name": "Coconut Water - Medium",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "582c1a88-c06c-4c2b-9cb5-062658bbcdf1",
+      "name": "Coconut Water - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "badf9960-7488-4c19-ad6a-729b73c19900",
+      "name": "Coconut Water - No Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "b7b66367-40a6-42a5-ad31-15bfda3e982b",
+      "name": "Coconut Water - With Sugar",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "c10a7a79-35c0-4751-9b0e-68d3bfbddf09",
+      "name": "Coconut Water - Iced",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "93a36349-e55f-49a5-a750-1bc86433f19a",
+      "name": "Coconut Water - Hot",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "7358eddb-3415-4295-88b0-de847b33474a",
+      "name": "Coconut Water - Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    },
+    {
+      "id": "cb1861c3-b7e2-4e5d-af1c-2b6a6464080d",
+      "name": "Coconut Water - Extra Large",
+      "category": "veg",
+      "subCategory": "beverage",
+      "isVegetarian": true,
+      "mealTypes": [
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20,
+        "caloriesMax": 80,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 2.0,
+        "fiber": 0.0
+      },
+      "portions": [
+        {
+          "name": "1 cup",
+          "weightMinG": 150,
+          "weightMaxG": 200
+        },
+        {
+          "name": "1 glass",
+          "weightMinG": 200,
+          "weightMaxG": 300
+        }
+      ],
+      "aliases": [
+        "coconut water"
+      ]
+    }
+  ]
+}
