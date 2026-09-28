@@ -69142,3 +69142,1035 @@
       "per100g": {
         "caloriesMin": 140.0,
         "caloriesMax": 160.0,
+        "protein": 5.5,
+        "carbs": 19.0,
+        "fat": 6.0,
+        "fiber": 5.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu curry black chickpeas yam raw banana jaggery roasted coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "313085df-3d7c-4257-893e-a5fb17cce3ea",
+      "name": "Moru kachiyathu warm spiced seasoned buttermilk curry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 2.2,
+        "carbs": 5.5,
+        "fat": 3.8,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moru kachiyathu warm spiced seasoned buttermilk curry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "4b0823ae-b56f-42c4-ac13-87946f5da506",
+      "name": "Kurukku kalan thick condensed yogurt plantain yam sweet sour",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 3.8,
+        "carbs": 16.0,
+        "fat": 8.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kurukku kalan thick condensed yogurt plantain yam sweet sour",
+        "kerala"
+      ]
+    },
+    {
+      "id": "7be0d47c-38ff-4726-b6b3-ca47ceb2af89",
+      "name": "Pulissery pineapple sweet ripe fruit cooked spiced yogurt",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.2,
+        "carbs": 16.5,
+        "fat": 4.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pulissery pineapple sweet ripe fruit cooked spiced yogurt",
+        "kerala"
+      ]
+    },
+    {
+      "id": "190af04e-7c2f-4416-b6b3-4788942d21dd",
+      "name": "Pulissery ash gourd white melon cooked sour curd coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.5,
+        "carbs": 8.0,
+        "fat": 4.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pulissery ash gourd white melon cooked sour curd coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "68ecfb9a-b5fd-4859-a840-9f3f2d2d7ad4",
+      "name": "Pulissery ripe mango whole small mangoes sweet sour curd",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 2.0,
+        "carbs": 18.0,
+        "fat": 4.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pulissery ripe mango whole small mangoes sweet sour curd",
+        "kerala"
+      ]
+    },
+    {
+      "id": "11a7b678-e40c-4b78-9127-a3c5d8ffec03",
+      "name": "Chakkakuru manga curry jackfruit seeds raw mango coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 3.8,
+        "carbs": 24.0,
+        "fat": 4.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chakkakuru manga curry jackfruit seeds raw mango coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "428678d8-e69d-45cc-a161-e16b55cd2894",
+      "name": "Chakkakuru meen curry jackfruit seeds fish red curry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 16.5,
+        "carbs": 12.0,
+        "fat": 7.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chakkakuru meen curry jackfruit seeds fish red curry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "437f1024-4b6d-4ead-a856-40ed17948437",
+      "name": "Ulli theeyal small shallots pearl onions dark roasted coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 2.8,
+        "carbs": 14.0,
+        "fat": 8.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ulli theeyal small shallots pearl onions dark roasted coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "1e8ecd84-23c0-4e51-b320-f9c9a4930f6e",
+      "name": "Pavakka theeyal bitter gourd dark caramelized coconut tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.0,
+        "carbs": 12.0,
+        "fat": 7.8,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pavakka theeyal bitter gourd dark caramelized coconut tamarind",
+        "kerala"
+      ]
+    },
+    {
+      "id": "106a7d38-842e-4515-949c-e19b10534eeb",
+      "name": "Vazhuthananga theeyal baby brinjal toasted coconut tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 2.5,
+        "carbs": 11.0,
+        "fat": 8.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vazhuthananga theeyal baby brinjal toasted coconut tamarind",
+        "kerala"
+      ]
+    },
+    {
+      "id": "a9135023-f0a2-4ec0-8889-a9294fa27c37",
+      "name": "Chembil theeyal colocasia root taro dark coconut gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 2.5,
+        "carbs": 18.0,
+        "fat": 7.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chembil theeyal colocasia root taro dark coconut gravy",
+        "kerala"
+      ]
+    },
+    {
+      "id": "9b3979af-433e-4e48-a3c5-20d66f089b3d",
+      "name": "Vendakka theeyal fresh okra sliced dark roasted coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 2.5,
+        "carbs": 11.0,
+        "fat": 7.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vendakka theeyal fresh okra sliced dark roasted coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "ed8195e0-000c-442b-87df-2cf4155d375c",
+      "name": "Pacha manga chammanthi ground fresh raw mango coconut chilli",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 2.2,
+        "carbs": 10.0,
+        "fat": 13.5,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pacha manga chammanthi ground fresh raw mango coconut chilli",
+        "kerala"
+      ]
+    },
+    {
+      "id": "eac14bc0-6a9a-4f4e-b9af-0193796b7fb2",
+      "name": "Thenga chammanthi thick ground fresh coconut roasted dal chilli",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 4.5,
+        "carbs": 8.0,
+        "fat": 24.0,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thenga chammanthi thick ground fresh coconut roasted dal chilli",
+        "kerala"
+      ]
+    },
+    {
+      "id": "fb343a90-79fb-4d52-bc68-064c41da9060",
+      "name": "Mulaku chammanthi fiery shallots crushed red bird eye chilli",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 1.8,
+        "carbs": 11.0,
+        "fat": 4.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mulaku chammanthi fiery shallots crushed red bird eye chilli",
+        "kerala"
+      ]
+    },
+    {
+      "id": "83d510d7-e112-4613-b45f-1d1296dffd04",
+      "name": "Unakka meen chammanthi roasted dried fish crushed with coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 16.0,
+        "carbs": 6.0,
+        "fat": 16.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "unakka meen chammanthi roasted dried fish crushed with coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "49848b12-7f63-4139-93f4-0d0c4d7dad9a",
+      "name": "Pazham kanji overnight fermented rice starch buttermilk pickle",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 1.8,
+        "carbs": 15.0,
+        "fat": 0.8,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pazham kanji overnight fermented rice starch buttermilk pickle",
+        "kerala"
+      ]
+    },
+    {
+      "id": "409c3595-f6fb-4838-95c1-3b5264588ea9",
+      "name": "Kappa vevichathu boiled mashed tapioca turmeric garlic tempered",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 1.8,
+        "carbs": 28.0,
+        "fat": 1.2,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kappa vevichathu boiled mashed tapioca turmeric garlic tempered",
+        "kerala"
+      ]
+    },
+    {
+      "id": "ecee981f-f9cc-4e24-8279-174c7cacfc8c",
+      "name": "Kappa meen curry boiled tapioca root spicy sardine curry",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 8.5,
+        "carbs": 22.0,
+        "fat": 4.2,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kappa meen curry boiled tapioca root spicy sardine curry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "62581348-f9cd-4a07-9ffa-252fb0112006",
+      "name": "Kappa biryani beef mashed tapioca cooked with spiced beef chunks",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 11.5,
+        "carbs": 24.0,
+        "fat": 9.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kappa biryani beef mashed tapioca cooked with spiced beef chunks",
+        "kerala"
+      ]
+    },
+    {
+      "id": "c1e6c574-e86b-453e-89f9-9eb726238b1e",
+      "name": "Chakka chips crispy salted deep fried raw jackfruit strips",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 480.0,
+        "caloriesMax": 500.0,
+        "protein": 2.8,
+        "carbs": 62.0,
+        "fat": 25.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chakka chips crispy salted deep fried raw jackfruit strips",
+        "kerala"
+      ]
+    },
+    {
+      "id": "ee191b52-67d2-4fa4-a04b-e610554fc7b7",
+      "name": "Kuzhalappam crispy fried rice flour tubes roasted sesame cumin",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 475.0,
+        "caloriesMax": 495.0,
+        "protein": 6.2,
+        "carbs": 61.0,
+        "fat": 23.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kuzhalappam crispy fried rice flour tubes roasted sesame cumin",
+        "kerala"
+      ]
+    },
+    {
+      "id": "2f8a89af-1147-4b8c-9036-68e37411c8c7",
+      "name": "Achappam delicate deep fried sweet patterned rosette cookies",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 455.0,
+        "caloriesMax": 475.0,
+        "protein": 5.8,
+        "carbs": 59.0,
+        "fat": 22.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "achappam delicate deep fried sweet patterned rosette cookies",
+        "kerala"
+      ]
+    },
+    {
+      "id": "ed833665-7c48-4852-96b6-649442ac1edd",
+      "name": "Cheeda crunchy fried rice and lentil flour snack spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 500.0,
+        "caloriesMax": 520.0,
+        "protein": 7.5,
+        "carbs": 58.0,
+        "fat": 27.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheeda crunchy fried rice and lentil flour snack spheres",
+        "kerala"
+      ]
+    },
+    {
+      "id": "b4f4072c-b798-419a-89e6-7d31273d79ee",
+      "name": "Churuttu sweet rolled wafer tube stuffed roasted rice jaggery",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 370.0,
+        "caloriesMax": 390.0,
+        "protein": 4.5,
+        "carbs": 72.0,
+        "fat": 8.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "churuttu sweet rolled wafer tube stuffed roasted rice jaggery",
+        "kerala"
+      ]
+    },
+    {
+      "id": "9e35a656-db6c-434e-ac5a-00df1abb1c32",
+      "name": "Madakku san sweet folded crispy pastry stuffed grated coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 5.0,
+        "carbs": 56.0,
+        "fat": 12.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "madakku san sweet folded crispy pastry stuffed grated coconut",
+        "kerala"
+      ]
+    },
+    {
+      "id": "7dd9dba4-f3d3-47bc-83b9-f32affee2405",
+      "name": "Diamond cuts sweet crunchy maida diamond biscuits sugar coated",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 430.0,
+        "caloriesMax": 450.0,
+        "protein": 5.5,
+        "carbs": 68.0,
+        "fat": 16.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "diamond cuts sweet crunchy maida diamond biscuits sugar coated",
+        "kerala"
+      ]
+    },
+    {
+      "id": "1cf868b9-0bf4-4f80-bcc1-34ecef17e3e4",
+      "name": "Diamond cuts spicy fried salted seasoned maida snack",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 6.5,
+        "carbs": 60.0,
+        "fat": 21.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "diamond cuts spicy fried salted seasoned maida snack",
+        "kerala"
+      ]
+    },
+    {
+      "id": "b68ab5e7-8fb0-41c4-9a87-05d785569738",
+      "name": "Boli sweet soft yellow lentil crepe served with payasam",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 6.5,
+        "carbs": 58.0,
+        "fat": 6.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boli sweet soft yellow lentil crepe served with payasam",
+        "kerala"
+      ]
+    },
+    {
+      "id": "afd54c75-f4f3-44dc-b52f-e822a65a7349",
+      "name": "Kozhikodan halwa red translucent wheat halwa coconut oil cashews",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 1.8,
+        "carbs": 69.0,
+        "fat": 14.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhikodan halwa red translucent wheat halwa coconut oil cashews",
+        "kerala"
+      ]
+    },
+    {
+      "id": "f7172d87-9198-4cac-be87-97076524c053",
+      "name": "Kozhikodan halwa green pistachio flavored gummy halwa",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 405.0,
+        "caloriesMax": 425.0,
+        "protein": 2.0,
+        "carbs": 68.0,
+        "fat": 15.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
