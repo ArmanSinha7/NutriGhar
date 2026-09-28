@@ -70174,3 +70174,1035 @@
         {
           "name": "1 serving",
           "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhikodan halwa green pistachio flavored gummy halwa",
+        "kerala"
+      ]
+    },
+    {
+      "id": "60e1cf69-f360-469e-82b5-cabd344f5cfb",
+      "name": "Kozhikodan halwa tender coconut unique soft sweet fudge",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 380.0,
+        "caloriesMax": 400.0,
+        "protein": 2.2,
+        "carbs": 65.0,
+        "fat": 13.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhikodan halwa tender coconut unique soft sweet fudge",
+        "kerala"
+      ]
+    },
+    {
+      "id": "9b413bfc-928d-4142-9020-1be002c57855",
+      "name": "Pazham halwa ripe caramelized plantain banana sweet fudge",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 2.0,
+        "carbs": 72.0,
+        "fat": 7.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pazham halwa ripe caramelized plantain banana sweet fudge",
+        "kerala"
+      ]
+    },
+    {
+      "id": "6744caaf-2704-4bfb-a63e-802959c2f1cc",
+      "name": "Palpayasam traditional Ambalappuzha temple sweet pink rice milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 4.8,
+        "carbs": 28.0,
+        "fat": 6.0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palpayasam traditional ambalappuzha temple sweet pink rice milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "070085d7-fb6c-40bd-91a5-816ccdd9b0c7",
+      "name": "Nei payasam sweet dark jaggery raw red rice clarified butter",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 3.5,
+        "carbs": 54.0,
+        "fat": 10.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nei payasam sweet dark jaggery raw red rice clarified butter",
+        "kerala"
+      ]
+    },
+    {
+      "id": "3d32a502-7861-4ae0-ab2e-880663b349df",
+      "name": "Chakka payasam ripe wild jackfruit pulp jaggery coconut milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 2.4,
+        "carbs": 36.0,
+        "fat": 5.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chakka payasam ripe wild jackfruit pulp jaggery coconut milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "3369e8d1-1c32-4164-ad97-89a3897b134c",
+      "name": "Parippu payasam yellow moong dal melted jaggery thick coconut milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 5.2,
+        "carbs": 33.0,
+        "fat": 4.8,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "parippu payasam yellow moong dal melted jaggery thick coconut milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "f72eb2d2-703c-4910-b66b-521dcadac015",
+      "name": "Gothambu payasam broken whole wheat grain sweet coconut milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 4.2,
+        "carbs": 31.0,
+        "fat": 4.2,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gothambu payasam broken whole wheat grain sweet coconut milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "9388771a-17b1-4b69-9bd0-3e5c72b71214",
+      "name": "Semiya payasam roasted wheat vermicelli condensed sweetened milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 4.0,
+        "carbs": 29.0,
+        "fat": 4.8,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semiya payasam roasted wheat vermicelli condensed sweetened milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "eebdcc6e-2b0d-4a7f-a2fb-6016edc99ba1",
+      "name": "Ada pradhaman steamed rice pasta flakes jaggery coconut milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 3.0,
+        "carbs": 34.0,
+        "fat": 5.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ada pradhaman steamed rice pasta flakes jaggery coconut milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "143362ae-a2fc-4c15-8205-da0618cb0292",
+      "name": "Palada pradhaman thin rice pasta flakes simmered rich sweetened milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 4.5,
+        "carbs": 32.0,
+        "fat": 6.2,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palada pradhaman thin rice pasta flakes simmered rich sweetened milk",
+        "kerala"
+      ]
+    },
+    {
+      "id": "198d502c-067a-4f61-b3cc-486a0aad42fd",
+      "name": "Rava laddu roasted semolina grated coconut ghee sugar balls",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 410.0,
+        "caloriesMax": 430.0,
+        "protein": 6.5,
+        "carbs": 58.0,
+        "fat": 18.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rava laddu roasted semolina grated coconut ghee sugar balls",
+        "kerala"
+      ]
+    },
+    {
+      "id": "032b1003-b202-4770-8721-6f2083a5fce1",
+      "name": "Kumbilappam steamed sweet jackfruit bay leaf shaped dumplings",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 2.8,
+        "carbs": 42.0,
+        "fat": 1.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kumbilappam steamed sweet jackfruit bay leaf shaped dumplings",
+        "kerala"
+      ]
+    },
+    {
+      "id": "a74b1f66-9a32-4c0e-a35a-f0809df4109e",
+      "name": "Kozhukkatta steamed rice balls filled with sweet coconut jaggery",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 3.2,
+        "carbs": 41.0,
+        "fat": 2.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhukkatta steamed rice balls filled with sweet coconut jaggery",
+        "kerala"
+      ]
+    },
+    {
+      "id": "3a586425-3268-411c-a91b-56d264827afb",
+      "name": "Vattayappam fermented soft fluffy steamed round white rice cake",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 3.8,
+        "carbs": 38.0,
+        "fat": 2.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vattayappam fermented soft fluffy steamed round white rice cake",
+        "kerala"
+      ]
+    },
+    {
+      "id": "a461e0ab-eb72-4e8f-8404-d68d3fc10715",
+      "name": "Pootharekulu authentic paper thin rice starch roll ghee sugar dry fruits",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 440.0,
+        "caloriesMax": 460.0,
+        "protein": 3.8,
+        "carbs": 65.0,
+        "fat": 19.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pootharekulu authentic paper thin rice starch roll ghee sugar dry fruits",
+        "andhra"
+      ]
+    },
+    {
+      "id": "7b9e71f5-48a6-4bb1-a738-5f999c52ed23",
+      "name": "Pootharekulu authentic jaggery dry fruit paper sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 420.0,
+        "caloriesMax": 440.0,
+        "protein": 4.2,
+        "carbs": 67.0,
+        "fat": 16.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pootharekulu authentic jaggery dry fruit paper sweet",
+        "andhra"
+      ]
+    },
+    {
+      "id": "54b90773-2f5d-42c1-b55a-d8294112a1d6",
+      "name": "Kakinada gottam kaja crisp cylindrical dry syrup soaked sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 5.2,
+        "carbs": 65.0,
+        "fat": 14.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kakinada gottam kaja crisp cylindrical dry syrup soaked sweet",
+        "andhra"
+      ]
+    },
+    {
+      "id": "eeedcf34-0995-456d-9825-0ce55c7e6e6a",
+      "name": "Madatha kaja ribbon layered flaky sweet soaked sugar syrup",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 415.0,
+        "caloriesMax": 435.0,
+        "protein": 4.8,
+        "carbs": 64.0,
+        "fat": 16.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "madatha kaja ribbon layered flaky sweet soaked sugar syrup",
+        "andhra"
+      ]
+    },
+    {
+      "id": "2bf9233d-8759-428a-8600-16d350076d6a",
+      "name": "Tapeswaram kaja juicy soft layered sweet filled syrup",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 380.0,
+        "caloriesMax": 400.0,
+        "protein": 4.5,
+        "carbs": 62.0,
+        "fat": 14.0,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tapeswaram kaja juicy soft layered sweet filled syrup",
+        "andhra"
+      ]
+    },
+    {
+      "id": "7c909b87-42ff-46bd-a9e5-8db25a470d57",
+      "name": "Bandar laddu thokkudu laddu velvety smooth gram flour ghee sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 485.0,
+        "caloriesMax": 505.0,
+        "protein": 8.0,
+        "carbs": 55.0,
+        "fat": 27.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bandar laddu thokkudu laddu velvety smooth gram flour ghee sweet",
+        "andhra"
+      ]
+    },
+    {
+      "id": "00b3fe28-d99b-44af-9b52-05406609a59e",
+      "name": "Sunnundalu roasted urad dal jaggery ghee spherical sweet balls",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 455.0,
+        "caloriesMax": 475.0,
+        "protein": 13.5,
+        "carbs": 53.0,
+        "fat": 22.0,
+        "fiber": 6.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sunnundalu roasted urad dal jaggery ghee spherical sweet balls",
+        "andhra"
+      ]
+    },
+    {
+      "id": "2dcc72a6-ce3e-4d2f-abe2-34622b8b92a1",
+      "name": "Sunnundalu roasted urad dal sugar desi ghee sweet spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 465.0,
+        "caloriesMax": 485.0,
+        "protein": 13.0,
+        "carbs": 54.0,
+        "fat": 23.5,
+        "fiber": 5.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sunnundalu roasted urad dal sugar desi ghee sweet spheres",
+        "andhra"
+      ]
+    },
+    {
+      "id": "eea6fc9c-f226-413a-b3d5-02bd7f8e6974",
+      "name": "Ariselu traditional sesame coated deep fried rice flour jaggery sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 4.8,
+        "carbs": 66.0,
+        "fat": 14.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ariselu traditional sesame coated deep fried rice flour jaggery sweet",
+        "andhra"
+      ]
+    },
+    {
+      "id": "22b49312-3ada-441a-a7ad-a18109a5c95e",
+      "name": "Boorelu poornam deep fried sweet stuffed lentil batter spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 315.0,
+        "caloriesMax": 335.0,
+        "protein": 6.5,
+        "carbs": 55.0,
+        "fat": 9.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boorelu poornam deep fried sweet stuffed lentil batter spheres",
+        "andhra"
+      ]
+    },
+    {
+      "id": "5dcbcc49-9468-460d-8ba7-5b39f6b6f416",
+      "name": "Bobbatlu puran poli sweet chana dal filled delicate flatbread",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 6.5,
+        "carbs": 54.0,
+        "fat": 7.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bobbatlu puran poli sweet chana dal filled delicate flatbread",
+        "andhra"
+      ]
+    },
+    {
+      "id": "d9549f54-ed52-490e-af45-358399d37047",
+      "name": "Kobbari lavuju sweet grated coconut jaggery candy spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 410.0,
+        "caloriesMax": 430.0,
+        "protein": 4.5,
+        "carbs": 56.0,
+        "fat": 19.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kobbari lavuju sweet grated coconut jaggery candy spheres",
+        "andhra"
+      ]
+    },
+    {
+      "id": "fd9760fc-3633-418c-b5d2-5cf71872a32b",
+      "name": "Rava laddu semolina sugar ghee cardamom round sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 415.0,
+        "caloriesMax": 435.0,
+        "protein": 6.2,
+        "carbs": 60.0,
+        "fat": 17.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rava laddu semolina sugar ghee cardamom round sweet",
+        "andhra"
+      ]
+    },
+    {
+      "id": "58f6aac3-6557-4c55-82e5-8e6abcb8fe60",
+      "name": "Chakkera pongali rich sweet rice lentils pure ghee sugar dry fruits",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 4.2,
+        "carbs": 50.0,
+        "fat": 7.2,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chakkera pongali rich sweet rice lentils pure ghee sugar dry fruits",
+        "andhra"
+      ]
+    },
+    {
+      "id": "cd279652-883d-4edd-8267-7b5c987670d1",
+      "name": "Bellam pongali sweet rice split yellow moong simmered jaggery ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 255.0,
+        "caloriesMax": 275.0,
+        "protein": 4.5,
+        "carbs": 49.0,
+        "fat": 6.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bellam pongali sweet rice split yellow moong simmered jaggery ghee",
+        "andhra"
+      ]
+    },
+    {
+      "id": "1f563c97-ebf7-4e25-a803-91a705e360ca",
+      "name": "Paramannam traditional temple sweet rice pudding milk jaggery",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 4.0,
+        "carbs": 29.0,
+        "fat": 5.2,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paramannam traditional temple sweet rice pudding milk jaggery",
+        "andhra"
+      ]
+    },
+    {
+      "id": "62582c46-faf3-420e-a5fe-6ea218e6846c",
+      "name": "Pulihora tamarind rice spiced green chillies peanuts mustard seeds",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 3.8,
+        "carbs": 31.0,
+        "fat": 6.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pulihora tamarind rice spiced green chillies peanuts mustard seeds",
+        "andhra"
+      ]
+    },
+    {
