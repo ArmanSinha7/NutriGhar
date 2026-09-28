@@ -71206,3 +71206,1035 @@
       ]
     },
     {
+      "id": "f3a8fb61-0448-4773-8c10-ab9fe2b467a3",
+      "name": "Nimmakaya pulihora fresh squeezed lemon rice roasted peanuts",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 3.2,
+        "carbs": 28.0,
+        "fat": 5.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nimmakaya pulihora fresh squeezed lemon rice roasted peanuts",
+        "andhra"
+      ]
+    },
+    {
+      "id": "107be122-c052-4107-bf02-befec8ac3366",
+      "name": "Dabbakaya pulihora wild citron tangy spiced festive rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 3.0,
+        "carbs": 28.0,
+        "fat": 5.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dabbakaya pulihora wild citron tangy spiced festive rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "2c8baeae-5002-4d70-ab60-fd6991df29cb",
+      "name": "Chintapandu pulihora rich thick spiced tamarind paste cooked rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 4.0,
+        "carbs": 32.0,
+        "fat": 6.8,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chintapandu pulihora rich thick spiced tamarind paste cooked rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "6f2e072c-b066-4148-bcfa-c6607521b6d5",
+      "name": "Usirikaya pulihora grated Indian gooseberry amla tangy rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 3.2,
+        "carbs": 27.0,
+        "fat": 4.8,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "usirikaya pulihora grated indian gooseberry amla tangy rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "77f17549-7f00-4c77-a8c8-725eb2825dc5",
+      "name": "Mamidikaya pulihora spicy sour grated raw mango turmeric rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 3.2,
+        "carbs": 28.0,
+        "fat": 5.2,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mamidikaya pulihora spicy sour grated raw mango turmeric rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "7d5693fc-7109-436b-ab71-16cdb9c97b23",
+      "name": "Ava pulihora mustard paste blended spicy tangy tamarind rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 4.2,
+        "carbs": 30.0,
+        "fat": 7.8,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ava pulihora mustard paste blended spicy tangy tamarind rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "3ad0082e-ddb0-46d6-88a2-3de0696a47a6",
+      "name": "Gongura pulihora sorrel leaves spiced puree blended rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 3.5,
+        "carbs": 27.0,
+        "fat": 6.2,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gongura pulihora sorrel leaves spiced puree blended rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "3832ec28-d178-4084-b3cc-6ed91cb13295",
+      "name": "Kobbari annam freshly grated coconut milk tempered rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 3.8,
+        "carbs": 25.0,
+        "fat": 8.2,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kobbari annam freshly grated coconut milk tempered rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "12efedd8-acbf-4249-a2cb-67169059b090",
+      "name": "Karivepaku annam spicy curry leaves powder blended rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 3.8,
+        "carbs": 26.0,
+        "fat": 6.0,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karivepaku annam spicy curry leaves powder blended rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "b887561a-6d30-494b-8ac7-514f1fa94198",
+      "name": "Nalla karam annam fiery black spice mix ghee rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 4.2,
+        "carbs": 26.0,
+        "fat": 7.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nalla karam annam fiery black spice mix ghee rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "d2ba4e95-ec01-42d4-abf7-1c906adb7310",
+      "name": "Palli podi annam crushed peanut red chili powder steamed rice",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 6.5,
+        "carbs": 25.0,
+        "fat": 10.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palli podi annam crushed peanut red chili powder steamed rice",
+        "andhra"
+      ]
+    },
+    {
+      "id": "b0dd110a-4460-4d82-bc32-d0f8098b4574",
+      "name": "Kandi podi annam roasted toor dal powder blended hot rice ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 6.8,
+        "carbs": 27.0,
+        "fat": 7.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kandi podi annam roasted toor dal powder blended hot rice ghee",
+        "andhra"
+      ]
+    },
+    {
+      "id": "a10db8ac-e7c5-4c25-bd87-8ab179daf5ad",
+      "name": "Mudda pappu thick plain boiled mashed toor dal served with ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 7.2,
+        "carbs": 17.0,
+        "fat": 2.2,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mudda pappu thick plain boiled mashed toor dal served with ghee",
+        "andhra"
+      ]
+    },
+    {
+      "id": "ae7095a4-1dee-4eb0-9917-eaddfc782068",
+      "name": "Pappu charu thin tangy tamarind toor dal vegetable soup",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 3.2,
+        "carbs": 10.5,
+        "fat": 2.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pappu charu thin tangy tamarind toor dal vegetable soup",
+        "andhra"
+      ]
+    },
+    {
+      "id": "880ad3b1-ac3d-44d6-9523-ee055fee44a7",
+      "name": "Tomato charu thin peppery tomato tamarind broth",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 1.5,
+        "carbs": 8.0,
+        "fat": 0.8,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato charu thin peppery tomato tamarind broth",
+        "andhra"
+      ]
+    },
+    {
+      "id": "10842212-c65c-4203-a4f4-b3e73163c6f4",
+      "name": "Miriyala charu black pepper garlic warming rasam broth",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 30.0,
+        "caloriesMax": 50.0,
+        "protein": 1.2,
+        "carbs": 6.5,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "miriyala charu black pepper garlic warming rasam broth",
+        "andhra"
+      ]
+    },
+    {
+      "id": "ce600da6-47d6-47b2-a8e2-1193f38f6f7f",
+      "name": "Majjiga charu seasoned tempered spiced buttermilk soup",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 2.2,
+        "carbs": 4.5,
+        "fat": 3.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "majjiga charu seasoned tempered spiced buttermilk soup",
+        "andhra"
+      ]
+    },
+    {
+      "id": "3ef2704e-b933-4f05-9dbb-f7cfe3447e88",
+      "name": "Ulavacharu slow simmered brown horse gram thick soup",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 5.5,
+        "carbs": 13.0,
+        "fat": 2.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ulavacharu slow simmered brown horse gram thick soup",
+        "andhra"
+      ]
+    },
+    {
+      "id": "b8c3d5c5-d9ac-4257-b0db-5b074264b6bf",
+      "name": "Dosakaya pappu yellow cucumber cooked with yellow toor dal",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 6.0,
+        "carbs": 15.0,
+        "fat": 2.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dosakaya pappu yellow cucumber cooked with yellow toor dal",
+        "andhra"
+      ]
+    },
+    {
+      "id": "a2ac13e4-e704-45fc-a4b8-58caefa8502e",
+      "name": "Tomato pappu ripe juicy tomatoes simmered split pigeon peas",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 5.8,
+        "carbs": 15.5,
+        "fat": 2.8,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato pappu ripe juicy tomatoes simmered split pigeon peas",
+        "andhra"
+      ]
+    },
+    {
+      "id": "fa8957cd-5e15-46f3-9d00-cae20d912f95",
+      "name": "Palakura pappu fresh spinach leaves cooked yellow toor dal",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 6.2,
+        "carbs": 14.0,
+        "fat": 2.8,
+        "fiber": 4.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "palakura pappu fresh spinach leaves cooked yellow toor dal",
+        "andhra"
+      ]
+    },
+    {
+      "id": "45d36603-be08-4bf3-b8c9-a4ecfaa9ffa6",
+      "name": "Gongura pappu red sorrel leaves sour greens toor dal stew",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 6.5,
+        "carbs": 14.5,
+        "fat": 3.2,
+        "fiber": 5.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gongura pappu red sorrel leaves sour greens toor dal stew",
+        "andhra"
+      ]
+    },
+    {
+      "id": "1dbcde2b-a997-4350-89bd-64d2fd467661",
+      "name": "Thotakura pappu fresh amaranth greens cooked split pigeon peas",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.0,
+        "carbs": 15.0,
+        "fat": 2.8,
+        "fiber": 4.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thotakura pappu fresh amaranth greens cooked split pigeon peas",
+        "andhra"
+      ]
+    },
+    {
+      "id": "94f8a359-3025-4835-8ce8-02c2016c2478",
+      "name": "Chukkakura pappu green sorrel dock leaves cooked yellow dal",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 5.8,
+        "carbs": 14.0,
+        "fat": 2.8,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chukkakura pappu green sorrel dock leaves cooked yellow dal",
+        "andhra"
+      ]
+    },
+    {
+      "id": "9f15ed20-b732-47df-9b80-b8decdbec8f4",
+      "name": "Bachali kura pappu Malabar spinach leaves cooked yellow dal",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 5.8,
+        "carbs": 14.5,
+        "fat": 3.0,
+        "fiber": 4.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bachali kura pappu malabar spinach leaves cooked yellow dal",
+        "andhra"
+      ]
+    },
+    {
+      "id": "e4cd5810-0741-4b05-9b98-62bac741d213",
+      "name": "Menthikura pappu fresh fenugreek leaves yellow lentil stew",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 6.2,
+        "carbs": 14.5,
+        "fat": 3.2,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "menthikura pappu fresh fenugreek leaves yellow lentil stew",
+        "andhra"
+      ]
+    },
+    {
+      "id": "703582ff-d766-4337-8fbe-806753f4eb16",
+      "name": "Sorakaya pappu tender bottle gourd pieces cooked yellow toor dal",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 5.5,
+        "carbs": 14.0,
+        "fat": 2.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sorakaya pappu tender bottle gourd pieces cooked yellow toor dal",
+        "andhra"
+      ]
+    },
+    {
+      "id": "508958a6-261f-4381-9387-2051e97b73d6",
+      "name": "Beerakaya pappu ridge gourd cubes cooked split pigeon peas",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 5.8,
+        "carbs": 14.0,
+        "fat": 2.5,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beerakaya pappu ridge gourd cubes cooked split pigeon peas",
+        "andhra"
+      ]
+    },
+    {
+      "id": "df83caf8-07e4-4cba-b5ca-99c4021771aa",
+      "name": "Vankaya kura homestyle baby eggplant saut\u00e9ed onion spices",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 2.5,
+        "carbs": 10.0,
+        "fat": 8.8,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vankaya kura homestyle baby eggplant saut\u00e9ed onion spices",
+        "andhra"
+      ]
+    },
+    {
+      "id": "7883506f-76c2-46fd-94ad-f70073e8ad57",
+      "name": "Gutti vankaya kura whole slit eggplants stuffed spicy peanut sesame paste",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 3.8,
+        "carbs": 11.5,
+        "fat": 12.5,
+        "fiber": 4.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gutti vankaya kura whole slit eggplants stuffed spicy peanut sesame paste",
+        "andhra"
+      ]
+    },
+    {
+      "id": "5d469472-00b2-4acb-8e95-8be8b44c82b8",
+      "name": "Bendakaya kura sliced okra saut\u00e9ed garlic onion dry masala",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 2.8,
+        "carbs": 10.5,
+        "fat": 8.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bendakaya kura sliced okra saut\u00e9ed garlic onion dry masala",
+        "andhra"
+      ]
+    },
+    {
+      "id": "ac4001d2-9ffa-489d-bcbd-1e2b82288214",
+      "name": "Dondakaya kura ivy gourd rounds stir fried spices roasted gram powder",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
