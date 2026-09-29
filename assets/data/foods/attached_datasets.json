@@ -72238,3 +72238,1035 @@
         "lunch",
         "dinner",
         "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 3.2,
+        "carbs": 12.0,
+        "fat": 8.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dondakaya kura ivy gourd rounds stir fried spices roasted gram powder",
+        "andhra"
+      ]
+    },
+    {
+      "id": "2bef6b4d-7ca4-4ae9-bb01-49c005e2babb",
+      "name": "Beerakaya kura ridge gourd cooked mild milk or poppy seed gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 2.2,
+        "carbs": 9.0,
+        "fat": 6.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "beerakaya kura ridge gourd cooked mild milk or poppy seed gravy",
+        "andhra"
+      ]
+    },
+    {
+      "id": "fca595e2-5cb7-4665-9e60-9dbe3081d61c",
+      "name": "Sorakaya kura bottle gourd chunks cooked creamy seasoned milk gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 2.0,
+        "carbs": 8.0,
+        "fat": 6.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sorakaya kura bottle gourd chunks cooked creamy seasoned milk gravy",
+        "andhra"
+      ]
+    },
+    {
+      "id": "f6a28cf7-eb7c-46f8-bfe0-ee1d7e114c78",
+      "name": "Aratikaya kura raw plantain cubes seasoned mustard curry leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 2.2,
+        "carbs": 20.0,
+        "fat": 5.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aratikaya kura raw plantain cubes seasoned mustard curry leaves",
+        "andhra"
+      ]
+    },
+    {
+      "id": "37577ff2-c69f-43fe-bc1b-e3f7fb110913",
+      "name": "Chamadumpa pulusu fried taro root boiled sweet tangy tamarind gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 2.2,
+        "carbs": 19.5,
+        "fat": 4.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chamadumpa pulusu fried taro root boiled sweet tangy tamarind gravy",
+        "andhra"
+      ]
+    },
+    {
+      "id": "949390fa-84b5-487f-ac62-2e31994b507c",
+      "name": "Kanda bachaali kura elephant foot yam cooked with Malabar spinach mustard",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.0,
+        "carbs": 16.0,
+        "fat": 5.8,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kanda bachaali kura elephant foot yam cooked with malabar spinach mustard",
+        "andhra"
+      ]
+    },
+    {
+      "id": "78c796fd-b3d1-4f33-9fde-085d9f903bc8",
+      "name": "Gummadikaya pulusu sweet yellow pumpkin simmered tamarind jaggery stew",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 1.5,
+        "carbs": 14.0,
+        "fat": 2.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gummadikaya pulusu sweet yellow pumpkin simmered tamarind jaggery stew",
+        "andhra"
+      ]
+    },
+    {
+      "id": "1c116ed5-a46a-496f-9a47-d6ec1b2ff82a",
+      "name": "Anapakaya pulusu bottle gourd cubes cooked sour tamarind shallot broth",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 1.5,
+        "carbs": 12.0,
+        "fat": 2.8,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "anapakaya pulusu bottle gourd cubes cooked sour tamarind shallot broth",
+        "andhra"
+      ]
+    },
+    {
+      "id": "840b5d36-d9a5-413a-897a-01a60710afeb",
+      "name": "Kakarakaya pulusu bitter gourd roundels slow simmered jaggery tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 2.2,
+        "carbs": 15.0,
+        "fat": 4.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kakarakaya pulusu bitter gourd roundels slow simmered jaggery tamarind",
+        "andhra"
+      ]
+    },
+    {
+      "id": "cb4cbb60-efb1-4d49-a458-352f31850268",
+      "name": "Mukkala pulusu mixed country vegetables sweet tangy thin stew",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.0,
+        "carbs": 11.0,
+        "fat": 3.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mukkala pulusu mixed country vegetables sweet tangy thin stew",
+        "andhra"
+      ]
+    },
+    {
+      "id": "4982ea8a-837d-4579-9f15-011f13abc4d4",
+      "name": "Natu kodi kura country free range chicken cooked fiery Andhra gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 18.5,
+        "carbs": 4.0,
+        "fat": 13.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "natu kodi kura country free range chicken cooked fiery andhra gravy",
+        "andhra"
+      ]
+    },
+    {
+      "id": "b5af8781-3c5b-42c8-be12-cf6516702c72",
+      "name": "Andhra chicken curry standard spiced poultry onion tomato poppy seed gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 17.0,
+        "carbs": 5.0,
+        "fat": 11.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "andhra chicken curry standard spiced poultry onion tomato poppy seed gravy",
+        "andhra"
+      ]
+    },
+    {
+      "id": "f1138311-a4ce-4eff-9ce9-d22e6b839cc2",
+      "name": "Gongura kodi kura tender chicken pieces simmered tangy sorrel leaves paste",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 17.5,
+        "carbs": 4.5,
+        "fat": 13.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gongura kodi kura tender chicken pieces simmered tangy sorrel leaves paste",
+        "andhra"
+      ]
+    },
+    {
+      "id": "87cf3019-ee66-4ef9-9a2a-496babc2ff7a",
+      "name": "Kodi vepudu spicy dry pan roasted chicken bone in pepper curry leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 21.5,
+        "carbs": 5.0,
+        "fat": 18.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kodi vepudu spicy dry pan roasted chicken bone in pepper curry leaves",
+        "andhra"
+      ]
+    },
+    {
+      "id": "46e4c163-ee43-4acb-ac8c-9f149f4ba146",
+      "name": "Andhra chilli chicken green chili paste coated shallow fried spicy chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 245.0,
+        "caloriesMax": 265.0,
+        "protein": 22.0,
+        "carbs": 4.5,
+        "fat": 16.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "andhra chilli chicken green chili paste coated shallow fried spicy chicken",
+        "andhra"
+      ]
+    },
+    {
+      "id": "19a22468-9694-4fbf-90d4-3693a3776bc0",
+      "name": "Miriyala kodi vepudu black pepper crushed spicy dry chicken fry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 255.0,
+        "caloriesMax": 275.0,
+        "protein": 22.0,
+        "carbs": 4.0,
+        "fat": 17.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "miriyala kodi vepudu black pepper crushed spicy dry chicken fry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "f505a810-bc67-411a-9f74-f39b2f4da39e",
+      "name": "Mamsam kura classic spicy bone in mutton gravy shallots ginger garlic",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 17.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mamsam kura classic spicy bone in mutton gravy shallots ginger garlic",
+        "andhra"
+      ]
+    },
+    {
+      "id": "845b4ad4-4553-4839-85de-7dfc2b61df13",
+      "name": "Gongura mamsam tender goat meat slow cooked tangy red sorrel leaf puree",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 18.5,
+        "carbs": 4.0,
+        "fat": 18.5,
+        "fiber": 1.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gongura mamsam tender goat meat slow cooked tangy red sorrel leaf puree",
+        "andhra"
+      ]
+    },
+    {
+      "id": "1f1705a7-9b2f-4552-aee1-5a3421d683e2",
+      "name": "Mamsam vepudu dry roasted goat meat shallots black pepper red chili",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 21.0,
+        "carbs": 3.5,
+        "fat": 21.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mamsam vepudu dry roasted goat meat shallots black pepper red chili",
+        "andhra"
+      ]
+    },
+    {
+      "id": "64cdbf56-c5cf-490a-8bb3-23ecaffdff8b",
+      "name": "Talakaya kura goat head meat cooked rustic spicy village gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 19.0,
+        "carbs": 2.5,
+        "fat": 18.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "talakaya kura goat head meat cooked rustic spicy village gravy",
+        "andhra"
+      ]
+    },
+    {
+      "id": "36d54af2-a713-4011-a54c-cbc26b40b26f",
+      "name": "Boti kura goat intestine tripe curry cooked chana dal Andhra spices",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 17.5,
+        "carbs": 3.5,
+        "fat": 16.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boti kura goat intestine tripe curry cooked chana dal andhra spices",
+        "andhra"
+      ]
+    },
+    {
+      "id": "48b2dd29-f811-4337-ab63-b7f834f0a730",
+      "name": "Gurda fry goat kidney spiced dry fry pepper curry leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 18.5,
+        "carbs": 3.0,
+        "fat": 15.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gurda fry goat kidney spiced dry fry pepper curry leaves",
+        "andhra"
+      ]
+    },
+    {
+      "id": "e3043a85-126f-4031-ae85-819221e2aef6",
+      "name": "Chepala pulusu fresh water fish steaks cooked thick tangy fenugreek tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 17.0,
+        "carbs": 4.5,
+        "fat": 8.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chepala pulusu fresh water fish steaks cooked thick tangy fenugreek tamarind",
+        "andhra"
+      ]
+    },
+    {
+      "id": "fb910f2e-bc39-4003-9642-7f11a43c052b",
+      "name": "Nellore chepala pulusu famous tangy raw mango tamarind fish curry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 17.5,
+        "carbs": 4.0,
+        "fat": 9.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nellore chepala pulusu famous tangy raw mango tamarind fish curry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "3c3fbaf5-9b93-4557-a775-2db3766e5e3c",
+      "name": "Chepala vepudu whole or sliced fish coated red spice paste pan fried",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 21.0,
+        "carbs": 5.0,
+        "fat": 15.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chepala vepudu whole or sliced fish coated red spice paste pan fried",
+        "andhra"
+      ]
+    },
+    {
+      "id": "79ea28ec-350a-47ed-8851-b5a11ab51419",
+      "name": "Royyala kura fresh prawns cooked spicy onion tomato coconut gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 17.5,
+        "carbs": 5.5,
+        "fat": 9.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "royyala kura fresh prawns cooked spicy onion tomato coconut gravy",
+        "andhra"
+      ]
+    },
+    {
+      "id": "875f5497-614b-480a-9c76-4905c599ff56",
+      "name": "Gongura royyalu juicy prawns cooked sour tangy sorrel leaf mixture",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 18.0,
+        "carbs": 5.0,
+        "fat": 10.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gongura royyalu juicy prawns cooked sour tangy sorrel leaf mixture",
+        "andhra"
+      ]
+    },
+    {
+      "id": "86b3e6a7-0fa1-46bb-80d9-23734f69f7d3",
+      "name": "Royyala vepudu crispy dry spiced prawn fry caramelized onion green chili",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 21.5,
+        "carbs": 5.5,
+        "fat": 14.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "royyala vepudu crispy dry spiced prawn fry caramelized onion green chili",
+        "andhra"
+      ]
+    },
+    {
+      "id": "0dd7998d-8677-4baa-80f6-9e84305c61e5",
+      "name": "Peethala kura fresh sea or mud crabs cooked cracked shell spicy masala",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 17.0,
+        "carbs": 4.5,
+        "fat": 9.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peethala kura fresh sea or mud crabs cooked cracked shell spicy masala",
+        "andhra"
+      ]
+    },
+    {
+      "id": "355e26c8-2dfd-4533-8afb-687a557eb9bd",
+      "name": "Peethala vepudu crab roast spicy black pepper fennel garlic dry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 18.5,
+        "carbs": 5.0,
+        "fat": 12.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peethala vepudu crab roast spicy black pepper fennel garlic dry",
+        "andhra"
+      ]
+    },
+    {
+      "id": "3bc594d1-80da-4402-a258-eaefd4108852",
+      "name": "Bommidala pulusu spiny eel fish simmered traditional country tamarind broth",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 16.5,
+        "carbs": 4.0,
+        "fat": 7.8,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bommidala pulusu spiny eel fish simmered traditional country tamarind broth",
+        "andhra"
+      ]
+    },
+    {
+      "id": "f4f35deb-1cec-4fad-8ed2-907d46d50654",
+      "name": "Endu chepala vankaya dried salted fish cooked baby eggplants spicy curry",
+      "category": "imported_csv_2",
+      "subCategory": "Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 18.0,
+        "carbs": 6.0,
+        "fat": 9.0,
