@@ -74302,3 +74302,1035 @@
           "weightMaxG": 150
         }
       ],
+      "aliases": [
+        "vallarai podi brahmi leaf herbal brain tonic dry rice mix powder",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "89c68382-4fc2-4fda-b928-753e9fe6c0f4",
+      "name": "Pirandai thogayal adamants creeper digestive bone healing thick paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 2.5,
+        "carbs": 12.0,
+        "fat": 8.8,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pirandai thogayal adamants creeper digestive bone healing thick paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ac5db9e2-4542-45f7-ad15-99916d731db1",
+      "name": "Thoothuvalai thogayal purple fruited pea eggplant cold relief chutney",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 2.8,
+        "carbs": 11.0,
+        "fat": 8.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoothuvalai thogayal purple fruited pea eggplant cold relief chutney",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8825744b-ec52-4613-98f0-187ba90b199a",
+      "name": "Kothamalli thogayal fresh green coriander leaves roasted urad dal paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 3.2,
+        "carbs": 10.0,
+        "fat": 8.8,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothamalli thogayal fresh green coriander leaves roasted urad dal paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b9416b84-6bbc-495b-aec7-2e9a73b70e30",
+      "name": "Pudina thogayal fresh mint leaves tamarind red chili thick condiment",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.0,
+        "carbs": 10.5,
+        "fat": 8.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pudina thogayal fresh mint leaves tamarind red chili thick condiment",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a45b0933-4dd0-4a52-9478-4c4d26c11d82",
+      "name": "Kariveppilai thogayal thick roasted fresh curry leaf tamarind chutney",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 3.5,
+        "carbs": 11.0,
+        "fat": 9.5,
+        "fiber": 4.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kariveppilai thogayal thick roasted fresh curry leaf tamarind chutney",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "91331175-dbdf-4ab0-a400-e181b66d9870",
+      "name": "Thengai thogayal fresh coconut roasted red chili urad dal thick paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 4.8,
+        "carbs": 8.5,
+        "fat": 21.0,
+        "fiber": 5.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thengai thogayal fresh coconut roasted red chili urad dal thick paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4730716a-867b-443c-90ca-24b00531ab15",
+      "name": "Puli thogayal sour tamarind jaggery spiced long shelf life paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 2.0,
+        "carbs": 42.0,
+        "fat": 4.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "puli thogayal sour tamarind jaggery spiced long shelf life paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "281e1805-dbc3-4044-8963-5317d691fb32",
+      "name": "Paruppu thogayal roasted toor dal pepper cumin thick rice paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 9.5,
+        "carbs": 24.0,
+        "fat": 5.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paruppu thogayal roasted toor dal pepper cumin thick rice paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a95c1048-9ac1-498b-ae01-8fd911c88c14",
+      "name": "Kollu thogayal roasted horse gram garlic red chili thick paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 9.0,
+        "carbs": 23.0,
+        "fat": 5.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kollu thogayal roasted horse gram garlic red chili thick paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "5a21a83c-0b5f-48f9-9450-4c9ec4224908",
+      "name": "Poondu thogayal roasted whole garlic pods red chili tamarind paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.5,
+        "carbs": 18.0,
+        "fat": 7.8,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poondu thogayal roasted whole garlic pods red chili tamarind paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f1de0bfa-3eca-4e36-b1c4-d3ca50ad9bd1",
+      "name": "Kovakkai thogayal saut\u00e9ed ivy gourd tamarind green chili thick paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 2.5,
+        "carbs": 11.0,
+        "fat": 7.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kovakkai thogayal saut\u00e9ed ivy gourd tamarind green chili thick paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "dd22e17d-00c4-4ec7-9980-9cd201e7be74",
+      "name": "Peerkangai thol thogayal ridge gourd skin roasted dal tangy paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 2.8,
+        "carbs": 10.0,
+        "fat": 6.8,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "peerkangai thol thogayal ridge gourd skin roasted dal tangy paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "519e5613-cf0f-4e90-94e0-49cfa4dd2b07",
+      "name": "Vazhaithandu thogayal banana stem center core fiber rich spicy paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 1.8,
+        "carbs": 9.0,
+        "fat": 5.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vazhaithandu thogayal banana stem center core fiber rich spicy paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f76aff67-88e2-43b6-a113-068b406b2602",
+      "name": "Chow chow thogayal chayote squash roasted dal tamarind paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 2.2,
+        "carbs": 9.5,
+        "fat": 5.8,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chow chow thogayal chayote squash roasted dal tamarind paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3da3e97b-d800-46e5-b3d6-507a5da1e159",
+      "name": "Kathirikai gothsu mashed charred eggplant tamarind spicy gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 1.8,
+        "carbs": 9.0,
+        "fat": 5.2,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kathirikai gothsu mashed charred eggplant tamarind spicy gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "cd344f70-2f14-4b1f-be58-2a844a73b485",
+      "name": "Chidambaram gothsu mixed vegetable eggplant tamarind tiffin gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 2.0,
+        "carbs": 10.0,
+        "fat": 5.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chidambaram gothsu mixed vegetable eggplant tamarind tiffin gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d5edc25d-9bc7-4382-80f4-4986027c01af",
+      "name": "Tomato gothsu tangy tomato onion green chili gravy for idli ven pongal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 1.5,
+        "carbs": 9.0,
+        "fat": 4.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tomato gothsu tangy tomato onion green chili gravy for idli ven pongal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "054dfe73-c237-4ab2-9be2-d59a46cbb96d",
+      "name": "Tiffin sambar golden yellow toor dal shallot tomato mild sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.8,
+        "carbs": 12.0,
+        "fat": 2.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tiffin sambar golden yellow toor dal shallot tomato mild sambar",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3177159c-9ceb-4ae9-a2ff-8b988d521d7f",
+      "name": "Hotel sambar fragrant freshly ground coriander cumin shallot sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 4.0,
+        "carbs": 12.5,
+        "fat": 2.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "hotel sambar fragrant freshly ground coriander cumin shallot sambar",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7e5df27f-40c1-4927-a834-436c3735b21f",
+      "name": "Arachuvitta sambar roasted whole spice fresh coconut paste traditional sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 4.2,
+        "carbs": 13.0,
+        "fat": 4.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arachuvitta sambar roasted whole spice fresh coconut paste traditional sambar",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c1d6934f-0dc4-49ee-a96a-b7cd07bf1e09",
+      "name": "Vengaya sambar whole small pearl onions shallots rich tangy sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 3.5,
+        "carbs": 13.0,
+        "fat": 3.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vengaya sambar whole small pearl onions shallots rich tangy sambar",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "76be93ab-07db-4068-9ea5-6ea83ed1574a",
+      "name": "Murungakkai sambar fresh tender drumsticks aromatic lentil gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 3.8,
+        "carbs": 12.5,
+        "fat": 2.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "murungakkai sambar fresh tender drumsticks aromatic lentil gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ab372824-8371-484d-9e4b-8936e055859d",
+      "name": "Mullangi sambar sliced radish pungent earthy flavored toor dal sambar",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.5,
+        "carbs": 11.5,
+        "fat": 2.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mullangi sambar sliced radish pungent earthy flavored toor dal sambar",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "97a90217-9ba2-428f-bfca-115b3efe8bd6",
+      "name": "Kathirikai sambar baby brinjal country eggplant simmered dal stew",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 3.4,
+        "carbs": 12.0,
+        "fat": 2.8,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kathirikai sambar baby brinjal country eggplant simmered dal stew",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "759582fe-cd62-49fb-b22c-fb48c2446a66",
+      "name": "Poosanikai sambar white ash gourd melon soft soothing lentil gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 3.0,
+        "carbs": 10.0,
+        "fat": 2.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poosanikai sambar white ash gourd melon soft soothing lentil gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e9cb3349-abc6-4fea-9334-829247c34741",
+      "name": "Parangikai sambar sweet yellow pumpkin chunks mild tangy dal stew",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.8,
+        "carbs": 12.0,
+        "fat": 2.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "parangikai sambar sweet yellow pumpkin chunks mild tangy dal stew",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7f1b9b3c-ad8b-455c-a0af-fc6ddc7e29e2",
+      "name": "Keerai sambar fresh green spinach amaranth simmered split pigeon peas",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 4.2,
+        "carbs": 11.0,
+        "fat": 2.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "keerai sambar fresh green spinach amaranth simmered split pigeon peas",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b35d65bb-4343-4635-825b-cc7ae02bb650",
+      "name": "Pacha payaru sambar whole green gram cooked country vegetables",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.2,
+        "carbs": 16.0,
+        "fat": 2.0,
+        "fiber": 4.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pacha payaru sambar whole green gram cooked country vegetables",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0b3c9e82-7d0b-4181-9fe6-3bbcefbc0db7",
+      "name": "Kollu sambar whole horse gram rustic lentil country vegetable gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 6.5,
+        "carbs": 16.5,
+        "fat": 2.2,
+        "fiber": 5.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kollu sambar whole horse gram rustic lentil country vegetable gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0b167f92-ed55-4141-91f4-7051b1bbd2fe",
+      "name": "Karuveppilai kuzhambu fresh curry leaf paste simmered tangy tamarind sauce",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 2.5,
+        "carbs": 12.0,
+        "fat": 6.2,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karuveppilai kuzhambu fresh curry leaf paste simmered tangy tamarind sauce",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c2af322e-10f4-4c39-8a38-f53886484852",
+      "name": "Poondu kuzhambu lots of whole peeled garlic cloves thick spicy tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 3.0,
+        "carbs": 14.0,
+        "fat": 6.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poondu kuzhambu lots of whole peeled garlic cloves thick spicy tamarind",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "04548bdc-7ca4-4e75-8f3c-a85b5935d64c",
+      "name": "Milagu kuzhambu black peppercorn roasted dal spicy heating winter gravy",
+      "category": "imported_csv_2",
