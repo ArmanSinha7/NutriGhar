@@ -75334,3 +75334,1035 @@
       "id": "04548bdc-7ca4-4e75-8f3c-a85b5935d64c",
       "name": "Milagu kuzhambu black peppercorn roasted dal spicy heating winter gravy",
       "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.8,
+        "carbs": 13.0,
+        "fat": 5.2,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "milagu kuzhambu black peppercorn roasted dal spicy heating winter gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "19cfc1d3-1b76-40a1-a76b-e83d605b4869",
+      "name": "Vatha kuzhambu sundakkai fried dried turkey berry tangy tamarind gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 2.2,
+        "carbs": 15.0,
+        "fat": 7.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vatha kuzhambu sundakkai fried dried turkey berry tangy tamarind gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3c7a3adb-71a2-4506-b98f-c2e52e34b1a5",
+      "name": "Manathakkali kuzhambu dried black nightshade berries tangy spiced gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 2.0,
+        "carbs": 14.5,
+        "fat": 7.0,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "manathakkali kuzhambu dried black nightshade berries tangy spiced gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "5432ae6c-6536-4e61-81f5-f231b1f6066f",
+      "name": "Ennai kathirikai kuzhambu baby brinjal simmered abundant sesame oil spicy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 2.8,
+        "carbs": 11.5,
+        "fat": 12.8,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ennai kathirikai kuzhambu baby brinjal simmered abundant sesame oil spicy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e11255c5-e08f-41e7-81c1-9d18a36f6b5f",
+      "name": "Mor kuzhambu buttermilk yogurt turmeric coconut cumin mild stew",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.2,
+        "carbs": 7.5,
+        "fat": 4.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mor kuzhambu buttermilk yogurt turmeric coconut cumin mild stew",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3317ca67-3197-423d-978c-bbacee60a1ff",
+      "name": "Vendakkai mor kuzhambu crisp saut\u00e9ed okra simmered seasoned spiced curd",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 3.0,
+        "carbs": 8.0,
+        "fat": 5.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vendakkai mor kuzhambu crisp saut\u00e9ed okra simmered seasoned spiced curd",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f33541a0-e939-4ce4-814e-67280022c150",
+      "name": "Poosanikai mor kuzhambu ash gourd chunks cooked yellow coconut yogurt gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.8,
+        "carbs": 7.0,
+        "fat": 4.2,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poosanikai mor kuzhambu ash gourd chunks cooked yellow coconut yogurt gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8f24423f-49d7-4e5f-88fa-bf7f12765974",
+      "name": "Vadai mor kuzhambu crispy medu vada soaked soothing spiced curd stew",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 5.5,
+        "carbs": 12.0,
+        "fat": 8.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vadai mor kuzhambu crispy medu vada soaked soothing spiced curd stew",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e0b44b8c-8bf4-40e8-95f9-8d4952ff5263",
+      "name": "Thakkali rasam ripe red country tomatoes crushed garlic pepper cumin broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 30.0,
+        "caloriesMax": 50.0,
+        "protein": 1.2,
+        "carbs": 6.5,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thakkali rasam ripe red country tomatoes crushed garlic pepper cumin broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f0485802-6159-4e2b-a1cc-42acd9b40e63",
+      "name": "Paruppu rasam cooked toor dal water light digestive coriander broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 2.0,
+        "carbs": 7.0,
+        "fat": 0.8,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paruppu rasam cooked toor dal water light digestive coriander broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d49cce79-2e1f-4372-960e-83485104b397",
+      "name": "Mysore rasam roasted coriander chana dal coconut fragrant spice broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu/Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 2.5,
+        "carbs": 9.0,
+        "fat": 2.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mysore rasam roasted coriander chana dal coconut fragrant spice broth",
+        "tamil nadu/karnataka"
+      ]
+    },
+    {
+      "id": "b92ac1cf-ed50-403c-9f99-5fc41eb84097",
+      "name": "Jeera milagu rasam roasted cumin seed coarse black pepper warming broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 1.2,
+        "carbs": 5.5,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jeera milagu rasam roasted cumin seed coarse black pepper warming broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6e3f469e-47dd-4b96-98b7-ff15a443fc6d",
+      "name": "Poondu rasam lots of crushed garlic pods black pepper digestive soup",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 32.0,
+        "caloriesMax": 52.0,
+        "protein": 1.8,
+        "carbs": 6.8,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poondu rasam lots of crushed garlic pods black pepper digestive soup",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c9e270c2-78cb-4c3e-ac18-5918456b7b73",
+      "name": "Kollu rasam boiled horse gram nutrient rich water spicy herbal broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 38.0,
+        "caloriesMax": 58.0,
+        "protein": 2.5,
+        "carbs": 7.5,
+        "fat": 0.8,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kollu rasam boiled horse gram nutrient rich water spicy herbal broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "dea3d9b0-55ba-42dc-b221-dc539fcedd62",
+      "name": "Kandathippili rasam medicinal long pepper roots traditional herbal broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 1.8,
+        "carbs": 7.0,
+        "fat": 1.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kandathippili rasam medicinal long pepper roots traditional herbal broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b24113d1-d71c-4f19-a548-39d0ac9cf0c6",
+      "name": "Thoothuvalai rasam climbing brinjal leaves herbal cold relief soup",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 30.0,
+        "caloriesMax": 50.0,
+        "protein": 1.5,
+        "carbs": 6.5,
+        "fat": 0.8,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thoothuvalai rasam climbing brinjal leaves herbal cold relief soup",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "00c61799-6302-4c67-86a6-83eaa6efe06c",
+      "name": "Vallarai rasam memory enhancing pennywort brahmi leaf spiced broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 32.0,
+        "caloriesMax": 52.0,
+        "protein": 1.6,
+        "carbs": 6.8,
+        "fat": 0.8,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vallarai rasam memory enhancing pennywort brahmi leaf spiced broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6beeed72-1c37-4d75-a294-46c64b2d7c9a",
+      "name": "Murungai keerai rasam fresh drumstick leaves iron rich herbal rasam",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 2.2,
+        "carbs": 6.5,
+        "fat": 0.9,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "murungai keerai rasam fresh drumstick leaves iron rich herbal rasam",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ff94234b-c6c0-44ff-8b6c-307d093eac36",
+      "name": "Inji rasam fresh pounded ginger root zesty lemon digestive broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 28.0,
+        "caloriesMax": 48.0,
+        "protein": 1.2,
+        "carbs": 6.2,
+        "fat": 0.8,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "inji rasam fresh pounded ginger root zesty lemon digestive broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6e6d7375-a2d5-46a9-acb0-f89c785395d6",
+      "name": "Elumichai rasam fresh squeezed lime juice mild green chili coriander broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 1.0,
+        "carbs": 5.5,
+        "fat": 0.7,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "elumichai rasam fresh squeezed lime juice mild green chili coriander broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "41d87336-f21d-4ca0-be20-6c31c1c99b19",
+      "name": "Pineapple rasam fresh sweet pineapple chunks tangy peppery broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 38.0,
+        "caloriesMax": 58.0,
+        "protein": 1.0,
+        "carbs": 9.5,
+        "fat": 0.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pineapple rasam fresh sweet pineapple chunks tangy peppery broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "aab8e52f-2d1c-4ed3-86e7-fc1624763312",
+      "name": "Manga rasam green raw sour mango simmered peppery digestive soup",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 32.0,
+        "caloriesMax": 52.0,
+        "protein": 1.0,
+        "carbs": 8.0,
+        "fat": 0.6,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "manga rasam green raw sour mango simmered peppery digestive soup",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "5f947038-1fa8-4244-837e-5c3e9da34b18",
+      "name": "Vetha rasam traditional postpartum herbal seed restorative broth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 2.0,
+        "carbs": 7.5,
+        "fat": 1.8,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vetha rasam traditional postpartum herbal seed restorative broth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ca341739-0bbd-43a4-92d3-5a4f126c211b",
+      "name": "Kootu chow chow chayote squash split moong dal ground coconut cumin",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 4.2,
+        "carbs": 11.0,
+        "fat": 2.8,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu chow chow chayote squash split moong dal ground coconut cumin",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "24231629-d46e-46bc-a4cc-f59062d8659e",
+      "name": "Kootu poosanikai white pumpkin yellow lentil coconut mild stew",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.8,
+        "carbs": 10.0,
+        "fat": 2.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu poosanikai white pumpkin yellow lentil coconut mild stew",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "595ca1ae-1e1d-432f-826e-08eb66d048ea",
+      "name": "Kootu parangikai sweet yellow pumpkin chana dal coconut stew",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 4.0,
+        "carbs": 13.0,
+        "fat": 2.8,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu parangikai sweet yellow pumpkin chana dal coconut stew",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "17dffafd-43ab-4359-a642-0a9d4869bfec",
+      "name": "Kootu vazhaithandu diced banana stem moong dal tempered cumin",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 3.0,
+        "carbs": 9.0,
+        "fat": 2.2,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu vazhaithandu diced banana stem moong dal tempered cumin",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "dc594e4d-e075-44fb-a95c-2ea8a1d5cabc",
+      "name": "Kootu keerai fresh spinach amaranth leaves cooked yellow moong coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 5.2,
+        "carbs": 10.5,
+        "fat": 3.2,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu keerai fresh spinach amaranth leaves cooked yellow moong coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6e9b7fbe-ddee-405c-9bd4-0e54a020c4c8",
+      "name": "Kootu cabbage shredded green cabbage split dal grated coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 3.5,
+        "carbs": 9.5,
+        "fat": 3.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu cabbage shredded green cabbage split dal grated coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c19bae6b-e788-4e06-ad35-1ac35a67a69f",
+      "name": "Kootu snake gourd padavalangai split yellow lentils coconut milk",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 3.8,
+        "carbs": 9.0,
+        "fat": 3.0,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu snake gourd padavalangai split yellow lentils coconut milk",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "286eee34-8edd-424c-adfa-d772830b482e",
+      "name": "Kootu avarakkai broad beans moong dal ground coconut cumin",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 4.5,
+        "carbs": 11.0,
+        "fat": 3.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kootu avarakkai broad beans moong dal ground coconut cumin",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "450fd89c-2fb7-4319-b8ef-4fee26b868a6",
+      "name": "Poriyal beans finely cut French green beans saut\u00e9ed freshly grated coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
