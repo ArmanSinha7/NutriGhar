@@ -77398,3 +77398,1035 @@
         "fiber": 0.6
       },
       "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mathi meen kuzhambu fresh oil rich sardines cooked rustic village pot gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "bee51734-4a9c-4767-a8f4-68c72a022868",
+      "name": "Vavval meen kuzhambu white or black pomfret simmered Chettinad spice gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 17.5,
+        "carbs": 4.0,
+        "fat": 9.8,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vavval meen kuzhambu white or black pomfret simmered chettinad spice gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c53ad00e-abc2-4d6d-95c1-dbc98f2693e6",
+      "name": "Keluthi meen kuzhambu river catfish simmered tangy shallots garlic curry",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 17.0,
+        "carbs": 3.5,
+        "fat": 8.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "keluthi meen kuzhambu river catfish simmered tangy shallots garlic curry",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d091180f-6c6f-4b6c-a6fa-75f12692ea31",
+      "name": "Kaara podi meen varuval silver biddy tiny fish crisp fried whole",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 21.0,
+        "carbs": 4.0,
+        "fat": 15.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaara podi meen varuval silver biddy tiny fish crisp fried whole",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e40889be-dedf-4372-8179-3a2b033b6114",
+      "name": "Nethili 65 fresh anchovies dipped in spiced rice flour batter deep fried",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 21.5,
+        "carbs": 11.0,
+        "fat": 16.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nethili 65 fresh anchovies dipped in spiced rice flour batter deep fried",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "06d7cfcf-6c84-4b68-9685-27dcf21d298d",
+      "name": "Chicken 65 spicy deep fried boneless chicken cubes curry leaves chili",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 22.0,
+        "carbs": 9.5,
+        "fat": 18.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken 65 spicy deep fried boneless chicken cubes curry leaves chili",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "68c957df-9afe-4143-8e9f-23a0a612c1c7",
+      "name": "Paneer 65 crispy deep fried paneer cubes yogurt red chili curry leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 14.0,
+        "carbs": 12.0,
+        "fat": 23.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer 65 crispy deep fried paneer cubes yogurt red chili curry leaves",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "838a26a2-23ce-4e9d-80c0-debfd0882bd4",
+      "name": "Gobhi 65 crisp deep fried cauliflower florets spicy red seasoning",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 4.8,
+        "carbs": 24.0,
+        "fat": 13.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gobhi 65 crisp deep fried cauliflower florets spicy red seasoning",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b29627ab-cd39-4a81-a6b2-f8d67ebc6dfb",
+      "name": "Mushroom 65 batter fried button mushrooms tossed curry leaf spice",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 5.2,
+        "carbs": 22.0,
+        "fat": 12.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom 65 batter fried button mushrooms tossed curry leaf spice",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a1a3905f-21df-4bac-a5fd-01c620c7e4e9",
+      "name": "Baby corn 65 crispy fried baby corn fingers spicy South Indian coating",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 4.5,
+        "carbs": 28.0,
+        "fat": 13.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "baby corn 65 crispy fried baby corn fingers spicy south indian coating",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2ce7ca37-6584-4c34-b043-c4b527abccf5",
+      "name": "Egg 65 hard boiled egg quarters batter fried tossed spicy masala",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 12.5,
+        "carbs": 10.0,
+        "fat": 16.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg 65 hard boiled egg quarters batter fried tossed spicy masala",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f00d2b52-0ddb-4a21-a286-d2932ab010f6",
+      "name": "Aloo 65 crispy deep fried potato cubes seasoned South Indian spices",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 3.5,
+        "carbs": 30.0,
+        "fat": 13.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo 65 crispy deep fried potato cubes seasoned south indian spices",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a026c809-a044-47a4-a8e0-dd2c8b82b4f6",
+      "name": "Kola urundai Chettinad minced mutton meatballs deep fried spiced spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 22.0,
+        "carbs": 8.0,
+        "fat": 20.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kola urundai chettinad minced mutton meatballs deep fried spiced spheres",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d4d20bfc-eb9e-49fb-bbec-3bc28af1cb62",
+      "name": "Kola urundai veg raw banana roasted lentil fried vegetarian meatballs",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 6.5,
+        "carbs": 26.0,
+        "fat": 10.0,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kola urundai veg raw banana roasted lentil fried vegetarian meatballs",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "757514c5-33ae-408d-bfe6-28f837dd0aaf",
+      "name": "Kola urundai mushroom minced button mushrooms fried spiced spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 5.5,
+        "carbs": 25.0,
+        "fat": 10.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kola urundai mushroom minced button mushrooms fried spiced spheres",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7178b6e4-21f7-4753-a839-4d75eff60247",
+      "name": "Kola urundai fish minced boneless fish seasoned fennel garlic deep fried",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 20.0,
+        "carbs": 9.0,
+        "fat": 16.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kola urundai fish minced boneless fish seasoned fennel garlic deep fried",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e8394589-70c1-41bd-8649-73755dda0a58",
+      "name": "Mutta roast hard boiled eggs simmered thick caramelized onion tomato masala",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 11.5,
+        "carbs": 7.5,
+        "fat": 12.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutta roast hard boiled eggs simmered thick caramelized onion tomato masala",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "cf24486b-0cd1-43c5-b735-3c49c0eb38a3",
+      "name": "Mutta thokku boiled eggs saut\u00e9ed spicy tangy shallot tomato paste",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 11.0,
+        "carbs": 8.0,
+        "fat": 11.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutta thokku boiled eggs saut\u00e9ed spicy tangy shallot tomato paste",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "55eddfa3-7413-4816-bca5-b3f9e0c98673",
+      "name": "Mutta podimas South Indian scrambled eggs shallots green chillies curry leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 12.5,
+        "carbs": 3.5,
+        "fat": 13.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutta podimas south indian scrambled eggs shallots green chillies curry leaves",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "49e0e9bb-5581-4a1a-919d-f12ebca677c1",
+      "name": "Kari muttai omelette fluffy country egg omelette mixed minced spicy mutton",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 16.0,
+        "carbs": 2.5,
+        "fat": 16.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kari muttai omelette fluffy country egg omelette mixed minced spicy mutton",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "43a5a441-d8eb-4aa5-91ed-4f93ba078b84",
+      "name": "Nandu muttai crab meat scrambled with beaten eggs black pepper shallots",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 17.5,
+        "carbs": 2.8,
+        "fat": 13.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nandu muttai crab meat scrambled with beaten eggs black pepper shallots",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "acc5cf18-22bc-4e26-a731-29186ffaea60",
+      "name": "Eral muttai small fresh prawns scrambled with farm fresh eggs green chili",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 18.0,
+        "carbs": 3.0,
+        "fat": 14.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "eral muttai small fresh prawns scrambled with farm fresh eggs green chili",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "905c9e4b-7313-4334-a562-5ad70fe31269",
+      "name": "Kalakki Madurai street style soft gooey layered folded egg masala",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 12.0,
+        "carbs": 3.2,
+        "fat": 15.0,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kalakki madurai street style soft gooey layered folded egg masala",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d9250145-b0eb-43a4-a4d6-b21627a89d08",
+      "name": "Half boil sunny side up egg seasoned crushed black pepper sea salt",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 12.5,
+        "carbs": 0.8,
+        "fat": 13.5,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "half boil sunny side up egg seasoned crushed black pepper sea salt",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a8fa270a-da26-49d3-a710-a94c0c3da209",
+      "name": "Full boil hard boiled whole egg served street side pepper salt",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 13.0,
+        "carbs": 1.1,
+        "fat": 11.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "full boil hard boiled whole egg served street side pepper salt",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "fc2712c0-775a-4e1e-ace5-045b1a5ceb58",
+      "name": "Omelette double egg roadside stall style onions green chillies black pepper",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 13.0,
+        "carbs": 3.5,
+        "fat": 14.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "omelette double egg roadside stall style onions green chillies black pepper",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6ad27761-38bc-40c4-8491-7548ea7be282",
+      "name": "Kothu parotta mutton shredded parotta tossed mutton gravy tender meat egg",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 285.0,
+        "caloriesMax": 305.0,
+        "protein": 13.5,
+        "carbs": 31.0,
+        "fat": 13.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothu parotta mutton shredded parotta tossed mutton gravy tender meat egg",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "fe0996e5-076b-4f81-9acc-80e1473f5ebe",
+      "name": "Kothu parotta chicken flaky shredded flatbread chicken curry egg shallots",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 265.0,
+        "caloriesMax": 285.0,
+        "protein": 12.5,
+        "carbs": 32.0,
+        "fat": 11.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothu parotta chicken flaky shredded flatbread chicken curry egg shallots",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ddfa0dd9-d242-4a52-ae66-68aa3b968b9f",
+      "name": "Kothu parotta egg shredded parotta tossed beaten eggs onion green chili salna",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 9.5,
+        "carbs": 34.0,
+        "fat": 9.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothu parotta egg shredded parotta tossed beaten eggs onion green chili salna",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "be6723e0-09d1-41be-9688-d1a801e5266e",
+      "name": "Kothu parotta veg shredded parotta tossed spicy vegetable salna green peas",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 6.5,
+        "carbs": 36.0,
+        "fat": 7.5,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothu parotta veg shredded parotta tossed spicy vegetable salna green peas",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "5a241cd9-538e-43d2-a02a-471bd2efa1d3",
+      "name": "Kothu idli leftover idlis diced pan fried onions tomatoes podi curry leaf",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.5,
+        "carbs": 28.0,
+        "fat": 5.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothu idli leftover idlis diced pan fried onions tomatoes podi curry leaf",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "65a49922-44e5-41ba-ad76-f2cc7e13f10c",
+      "name": "Kothu chapati shredded whole wheat rotis stir fried egg chicken vegetables",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 10.5,
+        "carbs": 29.0,
+        "fat": 8.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kothu chapati shredded whole wheat rotis stir fried egg chicken vegetables",
+        "tamil nadu"
