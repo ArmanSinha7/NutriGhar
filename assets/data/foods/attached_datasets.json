@@ -76366,3 +76366,1035 @@
         "snack"
       ],
       "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 3.2,
+        "carbs": 9.8,
+        "fat": 5.8,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal beans finely cut french green beans saut\u00e9ed freshly grated coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c7354dd1-e6ba-45cc-88dd-54a6819d1f3b",
+      "name": "Poriyal carrot finely diced orange carrots tempered mustard fresh coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 90.0,
+        "caloriesMax": 110.0,
+        "protein": 2.5,
+        "carbs": 12.0,
+        "fat": 5.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal carrot finely diced orange carrots tempered mustard fresh coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "022111b9-101c-4160-ad76-1844100af949",
+      "name": "Poriyal cabbage shredded green cabbage saut\u00e9ed curry leaves coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 2.8,
+        "carbs": 8.8,
+        "fat": 5.2,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal cabbage shredded green cabbage saut\u00e9ed curry leaves coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c0cf2f52-aaf8-4093-a4d7-90c37f4439c3",
+      "name": "Poriyal beetroot finely chopped vibrant beet saut\u00e9ed mustard coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.5,
+        "carbs": 13.5,
+        "fat": 5.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal beetroot finely chopped vibrant beet saut\u00e9ed mustard coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "bfab7760-69ff-4725-a1ce-f8b14e4d061a",
+      "name": "Poriyal vazhakkai diced raw green plantain tempered mustard curry leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 2.2,
+        "carbs": 21.0,
+        "fat": 4.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal vazhakkai diced raw green plantain tempered mustard curry leaves",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7ffd4df1-76ac-42ac-86e2-a790e19ef22e",
+      "name": "Poriyal kovakkai sliced ivy gourd pan fried with spices grated coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 2.8,
+        "carbs": 10.0,
+        "fat": 6.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal kovakkai sliced ivy gourd pan fried with spices grated coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "bc3c83d5-ca78-46e8-bc20-8fbc010af8d4",
+      "name": "Poriyal murungakkai split tender drumstick pulp tempered grated coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.5,
+        "carbs": 12.0,
+        "fat": 6.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal murungakkai split tender drumstick pulp tempered grated coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "305dbac9-ec8a-47fe-be30-ff7e945140b2",
+      "name": "Poriyal vendakkai sliced ladyfinger okra saut\u00e9ed dry with spices",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 2.5,
+        "carbs": 10.0,
+        "fat": 7.0,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal vendakkai sliced ladyfinger okra saut\u00e9ed dry with spices",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c85ef3ee-609f-4ca8-a170-d7f99d9e6d52",
+      "name": "Poriyal senai kizhangu diced elephant foot yam roasted spices",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 2.5,
+        "carbs": 21.0,
+        "fat": 6.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal senai kizhangu diced elephant foot yam roasted spices",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6b84c8b0-eb0e-4058-be80-d9319c6ad3a3",
+      "name": "Poriyal urulai kizhangu baby potatoes spicy roasted Chettinad style",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 2.8,
+        "carbs": 22.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal urulai kizhangu baby potatoes spicy roasted chettinad style",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "9fc436cc-f049-42af-85a4-fec7d6c49cdf",
+      "name": "Poriyal seppankizhangu boiled sliced taro root crisp pan roasted",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 2.2,
+        "carbs": 24.0,
+        "fat": 8.8,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal seppankizhangu boiled sliced taro root crisp pan roasted",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "066235cf-804c-4211-abb3-34062e08786d",
+      "name": "Poriyal keerai chopped fresh amaranth leaves saut\u00e9ed shallots coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 4.0,
+        "carbs": 7.5,
+        "fat": 4.2,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal keerai chopped fresh amaranth leaves saut\u00e9ed shallots coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8a691650-c71f-4ea9-9bdd-624b7fe03425",
+      "name": "Poriyal murungai keerai fresh drumstick leaves saut\u00e9ed shallots eggs coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 6.5,
+        "carbs": 8.5,
+        "fat": 7.5,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal murungai keerai fresh drumstick leaves saut\u00e9ed shallots eggs coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "28510ce3-e5d6-4253-9c4b-2ef07229afab",
+      "name": "Poriyal sirukeerai tropical amaranth leaves saut\u00e9ed garlic green chili",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 3.8,
+        "carbs": 7.0,
+        "fat": 4.0,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal sirukeerai tropical amaranth leaves saut\u00e9ed garlic green chili",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "31d84253-a7f0-4a23-9924-08f638985432",
+      "name": "Poriyal araikeerai tender field amaranth greens saut\u00e9ed red chili coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 72.0,
+        "caloriesMax": 92.0,
+        "protein": 3.8,
+        "carbs": 7.2,
+        "fat": 4.0,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal araikeerai tender field amaranth greens saut\u00e9ed red chili coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c5aab693-86bb-4965-b5ab-5d948215932a",
+      "name": "Poriyal manathakkali keerai black nightshade leaves healing mouth ulcer stir fry",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 4.2,
+        "carbs": 7.0,
+        "fat": 4.2,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal manathakkali keerai black nightshade leaves healing mouth ulcer stir fry",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c418de08-2f36-4ebf-940d-d1704e24aa3c",
+      "name": "Poriyal paruppu usili beans steamed crumbled toor chana dal with green beans",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 7.2,
+        "carbs": 15.0,
+        "fat": 6.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal paruppu usili beans steamed crumbled toor chana dal with green beans",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c12c8690-0df3-4c3c-967e-d6819e31d390",
+      "name": "Poriyal paruppu usili vazhaipoo minced banana flower with steamed spicy lentils",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 7.0,
+        "carbs": 17.0,
+        "fat": 6.0,
+        "fiber": 7.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal paruppu usili vazhaipoo minced banana flower with steamed spicy lentils",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "36c32419-9cb5-4e4d-88ef-0b0cf82b59ff",
+      "name": "Poriyal paruppu usili kothavarangai cluster beans with spiced steamed dal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 7.5,
+        "carbs": 14.0,
+        "fat": 5.8,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal paruppu usili kothavarangai cluster beans with spiced steamed dal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "04de5452-5bd4-4930-8d4d-a989871ef753",
+      "name": "Poriyal paruppu usili cabbage shredded cabbage with crumbled spiced lentils",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 6.8,
+        "carbs": 14.5,
+        "fat": 5.5,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal paruppu usili cabbage shredded cabbage with crumbled spiced lentils",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e8893185-5184-4e13-a5f2-c4808103fd71",
+      "name": "Poriyal paruppu usili capsicum green bell pepper with steamed spicy dal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 6.5,
+        "carbs": 13.5,
+        "fat": 5.5,
+        "fiber": 5.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "poriyal paruppu usili capsicum green bell pepper with steamed spicy dal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "84521aac-7f72-4cc7-bebd-a9bf2834b8ce",
+      "name": "Kari sukka tender boneless goat meat pan roasted shallots fennel pepper",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 21.0,
+        "carbs": 3.5,
+        "fat": 21.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kari sukka tender boneless goat meat pan roasted shallots fennel pepper",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f6b7b4e4-07e6-4daa-b451-8fa5f9efd3f1",
+      "name": "Kozhi sukka bone in country chicken pan roasted crushed Chettinad spices",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 245.0,
+        "caloriesMax": 265.0,
+        "protein": 21.5,
+        "carbs": 4.0,
+        "fat": 17.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhi sukka bone in country chicken pan roasted crushed chettinad spices",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "69b3b276-bb4b-4833-b0a3-9a3000f16ad7",
+      "name": "Eral sukka fresh ocean prawns dry roasted shallots ginger garlic pepper",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 20.5,
+        "carbs": 4.5,
+        "fat": 12.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "eral sukka fresh ocean prawns dry roasted shallots ginger garlic pepper",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "24fe8bbe-bd40-427e-9818-cc3fa7b753d7",
+      "name": "Nandu sukka blue sea crabs cracked shell dry roasted black pepper fennel",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 19.0,
+        "carbs": 5.0,
+        "fat": 11.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nandu sukka blue sea crabs cracked shell dry roasted black pepper fennel",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c353e253-d4b9-4cf1-b9cc-646deb69d2ff",
+      "name": "Kaada fry farm raised quail whole birds marinated deep fried Chettinad spices",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 23.0,
+        "carbs": 3.5,
+        "fat": 19.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kaada fry farm raised quail whole birds marinated deep fried chettinad spices",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "52ebd0a3-8349-499c-856d-a59cc7f6a349",
+      "name": "Viral meen kuzhambu freshwater snakehead murrel simmered spicy tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 18.5,
+        "carbs": 3.5,
+        "fat": 8.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "viral meen kuzhambu freshwater snakehead murrel simmered spicy tamarind",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "741b545d-f91d-4c7b-90d8-376693e67715",
+      "name": "Vanjaram meen kuzhambu seer fish king mackerel rich spicy shallot curry",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 10.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vanjaram meen kuzhambu seer fish king mackerel rich spicy shallot curry",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "cd32e49a-adcc-415e-b54b-3cb721c184c9",
+      "name": "Sankara meen kuzhambu red snapper fish simmered country tamarind gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 17.5,
+        "carbs": 3.8,
+        "fat": 8.2,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sankara meen kuzhambu red snapper fish simmered country tamarind gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "688a11dc-ec83-4ff4-b5cd-926f3f2a744c",
+      "name": "Nethili meen kuzhambu fresh anchovies simmered garlic tomato tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 18.0,
+        "carbs": 3.0,
+        "fat": 7.8,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nethili meen kuzhambu fresh anchovies simmered garlic tomato tamarind",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "804f8f53-a5f7-457f-8d07-39497075b29c",
+      "name": "Ayala meen kuzhambu Indian mackerel cooked spicy fenugreek tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 17.5,
+        "carbs": 3.5,
+        "fat": 10.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ayala meen kuzhambu indian mackerel cooked spicy fenugreek tamarind",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8c7c8f25-7706-4ae2-b21d-455e2ec8ad32",
+      "name": "Mathi meen kuzhambu fresh oil rich sardines cooked rustic village pot gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 18.0,
+        "carbs": 3.0,
+        "fat": 9.5,
+        "fiber": 0.6
+      },
+      "portions": [
