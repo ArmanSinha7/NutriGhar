@@ -79462,3 +79462,1035 @@
       "subCategory": "Tamil Nadu",
       "isVegetarian": true,
       "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 11.5,
+        "carbs": 12.0,
+        "fat": 8.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton dalcha tender goat bones split bengal gram sweet sour tamarind",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f2b2fed5-2e48-4081-82f6-78289603e0a9",
+      "name": "Kalkandu pongal sweet rice split moong dal cooked with crystallized sugar candy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 3.8,
+        "carbs": 44.0,
+        "fat": 5.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kalkandu pongal sweet rice split moong dal cooked with crystallized sugar candy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "fcacba1b-83be-4647-a403-8437835b2faf",
+      "name": "Akkaravadisal traditional Iyengar temple sweet rice dal milk jaggery ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 285.0,
+        "caloriesMax": 305.0,
+        "protein": 5.5,
+        "carbs": 46.0,
+        "fat": 10.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "akkaravadisal traditional iyengar temple sweet rice dal milk jaggery ghee",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3ff264ad-8e28-4508-bc39-f96e9a1a4223",
+      "name": "Sakkarai pongal rich harvest festival sweet rice jaggery ghee cashews raisins",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 255.0,
+        "caloriesMax": 275.0,
+        "protein": 4.2,
+        "carbs": 48.0,
+        "fat": 6.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sakkarai pongal rich harvest festival sweet rice jaggery ghee cashews raisins",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4f812b67-84f1-481f-bbcc-dc170422de87",
+      "name": "Ven pongal hot ghee pepper cumin split yellow moong dal rice porridge",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 4.5,
+        "carbs": 25.0,
+        "fat": 5.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ven pongal hot ghee pepper cumin split yellow moong dal rice porridge",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b7d9addf-fe8e-448b-b06c-6636b0b01f75",
+      "name": "Rava pongal semolina roasted moong dal black pepper cumin ghee porridge",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 5.0,
+        "carbs": 24.0,
+        "fat": 6.8,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rava pongal semolina roasted moong dal black pepper cumin ghee porridge",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0861650d-44b0-484c-a330-e210f00c5696",
+      "name": "Oats pongal rolled oats yellow moong dal ginger pepper tempered ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 5.5,
+        "carbs": 22.0,
+        "fat": 4.8,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "oats pongal rolled oats yellow moong dal ginger pepper tempered ghee",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2e2052e9-8812-4ff4-9a25-515de3b8c55b",
+      "name": "Millet pongal thinai foxtail millet yellow moong pepper cumin ghee",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.8,
+        "carbs": 23.0,
+        "fat": 4.2,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "millet pongal thinai foxtail millet yellow moong pepper cumin ghee",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "698deb4e-a8d1-4ab5-9e93-07fed13f4993",
+      "name": "Kuthiraivali pongal barnyard millet split moong dal pepper porridge",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 4.6,
+        "carbs": 22.5,
+        "fat": 4.0,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kuthiraivali pongal barnyard millet split moong dal pepper porridge",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d5d16e47-a0d2-4230-aa48-2a4640c645f1",
+      "name": "Samai pongal little millet moong dal ghee pepper cashews",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.8,
+        "carbs": 23.0,
+        "fat": 4.2,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samai pongal little millet moong dal ghee pepper cashews",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "97134b5b-eee9-45f2-b27d-2293991eda5e",
+      "name": "Varagu pongal kodo millet yellow lentil tempered black pepper cumin",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.8,
+        "carbs": 23.0,
+        "fat": 4.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "varagu pongal kodo millet yellow lentil tempered black pepper cumin",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7de94649-890f-4e8b-a6a8-cb57f7578548",
+      "name": "Ragi adai savory finger millet flatbread onions drumstick leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 5.5,
+        "carbs": 38.0,
+        "fat": 5.0,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi adai savory finger millet flatbread onions drumstick leaves",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "18e7e403-abf8-4b46-8f9e-9c61945a37a4",
+      "name": "Kambu adai pearl millet coarse lentil pancake onions green chillies",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 6.2,
+        "carbs": 36.0,
+        "fat": 4.5,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kambu adai pearl millet coarse lentil pancake onions green chillies",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b9d91c24-86aa-44d5-8f4c-c6a387b91a46",
+      "name": "Cholam adai sorghum grain mixed lentils savory thick pancake",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 6.5,
+        "carbs": 37.0,
+        "fat": 4.0,
+        "fiber": 5.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cholam adai sorghum grain mixed lentils savory thick pancake",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f0e21397-d40d-4c48-91ab-0e42ca6fd467",
+      "name": "Makka cholam adai yellow corn mixed lentils spicy griddle pancake",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 5.8,
+        "carbs": 39.0,
+        "fat": 4.2,
+        "fiber": 5.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makka cholam adai yellow corn mixed lentils spicy griddle pancake",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "61e4af6d-6bd9-48a2-85db-38b520c2b916",
+      "name": "Navadhanya adai nine grains and pulses nutritious traditional pancake",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 8.8,
+        "carbs": 35.0,
+        "fat": 4.8,
+        "fiber": 6.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "navadhanya adai nine grains and pulses nutritious traditional pancake",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "234ede67-22e2-4fd1-896d-b226de3f7201",
+      "name": "Murungai keerai adai multi lentil pancake packed fresh drumstick leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 8.0,
+        "carbs": 31.0,
+        "fat": 4.5,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "murungai keerai adai multi lentil pancake packed fresh drumstick leaves",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "44d20851-4b63-4286-afec-0549460daaf6",
+      "name": "Vazhaipoo adai lentil pancake mixed finely chopped cleaned banana blossom",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 7.5,
+        "carbs": 32.0,
+        "fat": 4.2,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vazhaipoo adai lentil pancake mixed finely chopped cleaned banana blossom",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ee600150-ab9e-4157-aa33-94574e866a09",
+      "name": "Pasi paruppu adai pure yellow split moong dal ginger green chili crepe",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 9.5,
+        "carbs": 28.0,
+        "fat": 3.8,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pasi paruppu adai pure yellow split moong dal ginger green chili crepe",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e0e242e4-6200-4302-b40d-7854fa195120",
+      "name": "Kollu adai horse gram multi dal protein rich savory pancake",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 9.2,
+        "carbs": 30.0,
+        "fat": 4.0,
+        "fiber": 6.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kollu adai horse gram multi dal protein rich savory pancake",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "49b31713-7f81-48c1-90c8-ef9c1551e6bf",
+      "name": "Thattai payaru adai red cowpea beans mixed lentils rustic pancake",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 8.5,
+        "carbs": 31.0,
+        "fat": 4.0,
+        "fiber": 5.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thattai payaru adai red cowpea beans mixed lentils rustic pancake",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "24779707-0bf3-4807-9e2c-253e75599247",
+      "name": "Karupatti paniyaram sweet fermented rice batter cooked dark palm jaggery",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 235.0,
+        "caloriesMax": 255.0,
+        "protein": 4.2,
+        "carbs": 42.0,
+        "fat": 6.8,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karupatti paniyaram sweet fermented rice batter cooked dark palm jaggery",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "5f5d8780-3eb1-4bb7-a3f0-a020f3245d44",
+      "name": "Vellam paniyaram sweet fluffy dumplings made with sugarcane jaggery cardamom",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 4.0,
+        "carbs": 43.0,
+        "fat": 5.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vellam paniyaram sweet fluffy dumplings made with sugarcane jaggery cardamom",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "873b66b7-d166-49bf-9f11-bc0a84a52a33",
+      "name": "Kara paniyaram savory fermented rice black gram batter onions mustard",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 5.2,
+        "carbs": 28.0,
+        "fat": 6.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kara paniyaram savory fermented rice black gram batter onions mustard",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "892fc3c7-9e2e-40e7-b835-c55e2fdc7297",
+      "name": "Chettinad masala paniyaram spicy dumplings shallots green chili ginger curry leaf",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 5.5,
+        "carbs": 27.0,
+        "fat": 6.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad masala paniyaram spicy dumplings shallots green chili ginger curry leaf",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7ecb3d99-e47e-4b6e-a652-b77d01016898",
+      "name": "Keerai paniyaram savory fermented dumplings stuffed finely chopped amaranth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 5.8,
+        "carbs": 26.0,
+        "fat": 5.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "keerai paniyaram savory fermented dumplings stuffed finely chopped amaranth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "62bcaafd-9d38-429a-9bd1-4c0afd76af76",
+      "name": "Egg paniyaram beaten seasoned eggs poured into appe pan golden spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 13.0,
+        "carbs": 4.5,
+        "fat": 15.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg paniyaram beaten seasoned eggs poured into appe pan golden spheres",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "284501f0-b49a-4ce4-acd7-40dd67c09905",
+      "name": "Mushroom paniyaram diced saut\u00e9ed mushrooms added savory appe batter",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.8,
+        "carbs": 26.0,
+        "fat": 5.8,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom paniyaram diced saut\u00e9ed mushrooms added savory appe batter",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0252f614-157d-43e7-a7c3-b70f1d8d39a0",
+      "name": "Paneer paniyaram grated cottage cheese spiced savory appe spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 205.0,
+        "caloriesMax": 225.0,
+        "protein": 8.5,
+        "carbs": 24.0,
+        "fat": 9.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer paniyaram grated cottage cheese spiced savory appe spheres",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "911a7833-f45e-48fb-8dc1-82e452259a9f",
+      "name": "Oats paniyaram powdered oats curd onions green chillies instant appe",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 6.0,
+        "carbs": 26.0,
+        "fat": 4.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "oats paniyaram powdered oats curd onions green chillies instant appe",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "440e7944-a3db-42dc-b8de-a25411392b3f",
+      "name": "Rava paniyaram semolina spiced yogurt instant breakfast appe balls",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 5.2,
+        "carbs": 29.0,
+        "fat": 5.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rava paniyaram semolina spiced yogurt instant breakfast appe balls",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "85d864a9-7eec-4c69-be4e-336cd75315db",
+      "name": "Ragi paniyaram finger millet flour onions buttermilk savory appe",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
