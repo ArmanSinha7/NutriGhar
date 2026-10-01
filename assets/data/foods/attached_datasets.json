@@ -80494,3 +80494,1035 @@
       "per100g": {
         "caloriesMin": 165.0,
         "caloriesMax": 185.0,
+        "protein": 5.0,
+        "carbs": 29.0,
+        "fat": 4.5,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi paniyaram finger millet flour onions buttermilk savory appe",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "68324f5e-4fd6-4634-942a-9c1080891098",
+      "name": "Kambu paniyaram pearl millet flour fermented savory breakfast spheres",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.2,
+        "carbs": 30.0,
+        "fat": 4.5,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kambu paniyaram pearl millet flour fermented savory breakfast spheres",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8e06a51e-0f90-49c4-bfe6-1d506cba0fc7",
+      "name": "Kozhukkatta pooranam steamed rice flour shells filled jaggery coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 3.2,
+        "carbs": 41.0,
+        "fat": 2.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhukkatta pooranam steamed rice flour shells filled jaggery coconut",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8ad3b8bc-5483-4ea4-a629-b773af98e048",
+      "name": "Kozhukkatta ulundu steamed rice shells filled spicy seasoned black gram dal",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 6.5,
+        "carbs": 32.0,
+        "fat": 2.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhukkatta ulundu steamed rice shells filled spicy seasoned black gram dal",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4c1799b5-09bd-4886-85ac-5339e04a9e95",
+      "name": "Kozhukkatta ammini tiny steamed leftover dough balls tossed mustard chili podi",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.5,
+        "carbs": 30.0,
+        "fat": 2.5,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhukkatta ammini tiny steamed leftover dough balls tossed mustard chili podi",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b49b7990-59d3-41e5-91b6-102688c04c91",
+      "name": "Kozhukkatta pidi steamed rustic rice flour jaggery cardamom dumplings",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 3.0,
+        "carbs": 42.0,
+        "fat": 1.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhukkatta pidi steamed rustic rice flour jaggery cardamom dumplings",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "62ead98c-a9a5-4e73-ba86-489795fb772e",
+      "name": "Kozhukkatta kara pidi savory steamed broken rice tempered mustard dumplings",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 3.5,
+        "carbs": 30.0,
+        "fat": 1.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kozhukkatta kara pidi savory steamed broken rice tempered mustard dumplings",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "6bcca6c8-a795-423a-afd2-e66b1fa94fc2",
+      "name": "Ragi kozhukkatta finger millet flour steamed sweet jaggery coconut modak",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 3.8,
+        "carbs": 39.0,
+        "fat": 1.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi kozhukkatta finger millet flour steamed sweet jaggery coconut modak",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "9ab45a01-2c36-4c83-ab3f-e4473c643c90",
+      "name": "Thinai kozhukkatta foxtail millet flour sweet steamed festival dumplings",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 4.0,
+        "carbs": 40.0,
+        "fat": 1.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thinai kozhukkatta foxtail millet flour sweet steamed festival dumplings",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "fa3fdd03-99eb-4749-8b78-b5ff72750b5e",
+      "name": "Seedai uppu crispy deep fried tiny rice and urad flour salted snack balls",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 500.0,
+        "caloriesMax": 520.0,
+        "protein": 7.5,
+        "carbs": 58.0,
+        "fat": 28.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "seedai uppu crispy deep fried tiny rice and urad flour salted snack balls",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f51db9dc-beb1-4bfd-b558-05e223d2c7bd",
+      "name": "Seedai vella deep fried crunchy sweet jaggery coated rice snack balls",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 450.0,
+        "caloriesMax": 470.0,
+        "protein": 5.5,
+        "carbs": 68.0,
+        "fat": 19.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "seedai vella deep fried crunchy sweet jaggery coated rice snack balls",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0e3bd9a6-3c7f-4625-beb1-4114be7d4045",
+      "name": "Kai murukku traditional hand twisted spiral crisp rice flour snack",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 510.0,
+        "caloriesMax": 530.0,
+        "protein": 7.0,
+        "carbs": 56.0,
+        "fat": 30.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kai murukku traditional hand twisted spiral crisp rice flour snack",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d1694333-5104-48d6-bdd1-34db653a21db",
+      "name": "Mullu murukku spiked crunchy star shaped rice and roasted gram snack",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 505.0,
+        "caloriesMax": 525.0,
+        "protein": 7.5,
+        "carbs": 57.0,
+        "fat": 29.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mullu murukku spiked crunchy star shaped rice and roasted gram snack",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b0d23c8e-a648-4aeb-acae-afa8f0984db6",
+      "name": "Ring murukku crispy crunchy ring shaped spiced rice snack chegodilu",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu/Andhra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 495.0,
+        "caloriesMax": 515.0,
+        "protein": 7.2,
+        "carbs": 58.0,
+        "fat": 28.0,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ring murukku crispy crunchy ring shaped spiced rice snack chegodilu",
+        "tamil nadu/andhra"
+      ]
+    },
+    {
+      "id": "c9d862c3-3b26-499a-8aa3-b84e6208244b",
+      "name": "Achumurukku sweet rose cookies coconut milk egg flour deep fried rosettes",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 440.0,
+        "caloriesMax": 460.0,
+        "protein": 5.5,
+        "carbs": 60.0,
+        "fat": 21.0,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "achumurukku sweet rose cookies coconut milk egg flour deep fried rosettes",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2255f6ef-f068-44e0-aa11-06d8fa11a517",
+      "name": "Thattu vadai set Salem street food raw grated beetroot carrot chutney between thattai",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 5.5,
+        "carbs": 38.0,
+        "fat": 10.0,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thattu vadai set salem street food raw grated beetroot carrot chutney between thattai",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b1f44da3-d41d-4fec-a591-d91eafda37a1",
+      "name": "Nerkondur vadai crispy split pea lentil fried patties",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 285.0,
+        "caloriesMax": 305.0,
+        "protein": 11.0,
+        "carbs": 33.0,
+        "fat": 13.5,
+        "fiber": 5.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nerkondur vadai crispy split pea lentil fried patties",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b603e662-e933-4731-9663-7a0aa7fe4bdd",
+      "name": "Ulundu vadai fluffy crisp donut shaped black gram lentil fritter medu vada",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 11.5,
+        "carbs": 30.0,
+        "fat": 16.5,
+        "fiber": 4.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ulundu vadai fluffy crisp donut shaped black gram lentil fritter medu vada",
+        "south indian"
+      ]
+    },
+    {
+      "id": "afa1ede4-bfec-45ac-ae16-483bbfebd37b",
+      "name": "Sambar vadai crispy medu vada soaked steaming hot spicy lentil sambar",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 6.5,
+        "carbs": 22.0,
+        "fat": 8.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sambar vadai crispy medu vada soaked steaming hot spicy lentil sambar",
+        "south indian"
+      ]
+    },
+    {
+      "id": "90bd553b-c6ef-4256-9a88-5ea9ef877b1a",
+      "name": "Rasa vadai crisp medu vada immersed piping hot digestive pepper rasam",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 6.0,
+        "carbs": 20.0,
+        "fat": 6.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rasa vadai crisp medu vada immersed piping hot digestive pepper rasam",
+        "south indian"
+      ]
+    },
+    {
+      "id": "9d319eae-8bfb-4c64-8453-838c7594d795",
+      "name": "Thayir vadai soft lentil donut fritters soaked seasoned spiced curd boondi",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 7.2,
+        "carbs": 18.0,
+        "fat": 8.8,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thayir vadai soft lentil donut fritters soaked seasoned spiced curd boondi",
+        "south indian"
+      ]
+    },
+    {
+      "id": "88d1020e-5565-4be4-9d23-f5f362e080c3",
+      "name": "Curd vada North Indian style soft lentil dumplings sweetened curd sweet chutney",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 6.8,
+        "carbs": 24.0,
+        "fat": 7.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "curd vada north indian style soft lentil dumplings sweetened curd sweet chutney",
+        "north indian"
+      ]
+    },
+    {
+      "id": "5ec21348-badf-4140-a32e-f6dc5cb24ea6",
+      "name": "Kanji vada fermented mustard hing water soaked yellow moong dal vadas",
+      "category": "imported_csv_2",
+      "subCategory": "Rajasthan",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 5.5,
+        "carbs": 17.0,
+        "fat": 3.5,
+        "fiber": 3.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kanji vada fermented mustard hing water soaked yellow moong dal vadas",
+        "rajasthan"
+      ]
+    },
+    {
+      "id": "5ba285f0-3d63-4c73-950f-8f3f974b1122",
+      "name": "Dahi vada soft urad moong dumplings topped roasted cumin black salt sweet tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 6.5,
+        "carbs": 22.0,
+        "fat": 7.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dahi vada soft urad moong dumplings topped roasted cumin black salt sweet tamarind",
+        "north indian"
+      ]
+    },
+    {
+      "id": "8a90f50b-271e-414e-9007-d80217e0b391",
+      "name": "Kanjika fermented rice water cooling probiotic traditional drink",
+      "category": "imported_csv_2",
+      "subCategory": "Odisha/South",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0.8,
+        "carbs": 9.5,
+        "fat": 0.1,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kanjika fermented rice water cooling probiotic traditional drink",
+        "odisha/south"
+      ]
+    },
+    {
+      "id": "16712b58-3c53-4761-a056-30857304fe0b",
+      "name": "Neeragaram soaked leftover rice water buttermilk shallots green chili",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 1.5,
+        "carbs": 11.0,
+        "fat": 0.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "neeragaram soaked leftover rice water buttermilk shallots green chili",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "27f18473-11c7-43f4-bd70-4da7c7290f5a",
+      "name": "Pazhaya sadam fermented overnight cooked rice cooling breakfast pot",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 1.8,
+        "carbs": 14.5,
+        "fat": 0.4,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pazhaya sadam fermented overnight cooked rice cooling breakfast pot",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b72334db-8172-4499-aacb-deed427d0958",
+      "name": "Kambu koozh fermented pearl millet porridge onions sour buttermilk",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 2.5,
+        "carbs": 13.5,
+        "fat": 1.2,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kambu koozh fermented pearl millet porridge onions sour buttermilk",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "20dbbe21-fa53-4fdf-ab12-4eabd4ad6588",
+      "name": "Ragi koozh fermented finger millet mash seasoned onions buttermilk",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.2,
+        "carbs": 13.0,
+        "fat": 1.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ragi koozh fermented finger millet mash seasoned onions buttermilk",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "14ab2b2e-395b-4608-aa44-fa12f0a3579d",
+      "name": "Sorghum koozh jowar millet fermented cooling street porridge",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 62.0,
+        "caloriesMax": 82.0,
+        "protein": 2.4,
+        "carbs": 13.2,
+        "fat": 1.0,
+        "fiber": 2.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sorghum koozh jowar millet fermented cooling street porridge",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "651310ab-da0e-4583-ae9d-2826e8987cda",
+      "name": "Samai koozh little millet fermented soothing summer breakfast drink",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 58.0,
+        "caloriesMax": 78.0,
+        "protein": 2.2,
+        "carbs": 12.8,
+        "fat": 0.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "samai koozh little millet fermented soothing summer breakfast drink",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "97a316da-c042-4fc8-b93c-d5dff4893916",
+      "name": "Thinai koozh foxtail millet porridge blended churned salted curd",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.4,
+        "carbs": 13.0,
+        "fat": 0.8,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
