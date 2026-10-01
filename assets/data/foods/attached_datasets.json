@@ -78430,3 +78430,1035 @@
       "aliases": [
         "kothu chapati shredded whole wheat rotis stir fried egg chicken vegetables",
         "tamil nadu"
+      ]
+    },
+    {
+      "id": "e1b7646e-8a78-42e7-8ec4-eced5ad7e0a4",
+      "name": "Madurai bun parotta multi layered spiraled round fluffy crispy soft bread",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 355.0,
+        "caloriesMax": 375.0,
+        "protein": 7.2,
+        "carbs": 45.0,
+        "fat": 17.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "madurai bun parotta multi layered spiraled round fluffy crispy soft bread",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2b710da3-32fa-4288-80ea-378912a0ef4a",
+      "name": "Veechu parotta thin stretched folded square flaky street flatbread",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 335.0,
+        "caloriesMax": 355.0,
+        "protein": 7.0,
+        "carbs": 46.0,
+        "fat": 15.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veechu parotta thin stretched folded square flaky street flatbread",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "061734b5-9d7b-4235-b946-d0a8f5f23059",
+      "name": "Ennai parotta deep fried small layered ultra crispy flatbread Tuticorin",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 380.0,
+        "caloriesMax": 400.0,
+        "protein": 6.5,
+        "carbs": 44.0,
+        "fat": 21.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ennai parotta deep fried small layered ultra crispy flatbread tuticorin",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4335a2ff-64c6-4629-a4f8-8e1eca89dbc7",
+      "name": "Ceylon egg parotta square folded layered parotta stuffed spiced egg mince",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 290.0,
+        "caloriesMax": 310.0,
+        "protein": 12.0,
+        "carbs": 34.0,
+        "fat": 13.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ceylon egg parotta square folded layered parotta stuffed spiced egg mince",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "964c076e-a575-4cd7-a5a1-5fd81eea707a",
+      "name": "Ceylon mutton parotta thin crispy bread stuffed spiced minced goat meat",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 14.0,
+        "carbs": 32.0,
+        "fat": 15.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ceylon mutton parotta thin crispy bread stuffed spiced minced goat meat",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "ca8a9bd1-d7fb-457a-98c3-4917d5a13a76",
+      "name": "Ceylon chicken parotta thin square flatbread stuffed minced chicken egg",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 14.0,
+        "carbs": 33.0,
+        "fat": 14.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ceylon chicken parotta thin square flatbread stuffed minced chicken egg",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "2513c180-6565-4e8f-8dae-258aa9cc90b4",
+      "name": "Salna plain empty road side stall spicy watery tomato fennel gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 2.2,
+        "carbs": 10.0,
+        "fat": 7.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "salna plain empty road side stall spicy watery tomato fennel gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "bd076818-7074-41de-b978-9e57bd137412",
+      "name": "Chicken salna street style watery chicken bone gravy for parotta dip",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 12.5,
+        "carbs": 6.0,
+        "fat": 10.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken salna street style watery chicken bone gravy for parotta dip",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "9cc7a193-2f36-4290-8642-81a1235632c0",
+      "name": "Mutton salna rich aromatic spicy mutton broth for dipping bun parotta",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 13.5,
+        "carbs": 5.5,
+        "fat": 12.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mutton salna rich aromatic spicy mutton broth for dipping bun parotta",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "272e5285-42ae-4aeb-a2f3-dc4d1d3bdc4d",
+      "name": "Veg salna mixed vegetable coconut poppy seed fennel thin street gravy",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.0,
+        "carbs": 11.0,
+        "fat": 7.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg salna mixed vegetable coconut poppy seed fennel thin street gravy",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e7e79d34-513e-4e73-83ea-c6c85a66bffc",
+      "name": "Biryani kuska plain fragrant seeraga samba rice cooked meat broth without pieces",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 4.5,
+        "carbs": 26.0,
+        "fat": 6.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "biryani kuska plain fragrant seeraga samba rice cooked meat broth without pieces",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c8755469-ff9c-48b4-b966-1a9e8fd2f127",
+      "name": "Dindigul thalappakatti chicken biryani seeraga samba curd black pepper",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 195.0,
+        "caloriesMax": 215.0,
+        "protein": 12.5,
+        "carbs": 23.0,
+        "fat": 7.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dindigul thalappakatti chicken biryani seeraga samba curd black pepper",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0138f925-0171-4f22-a22b-d1fc1767a40e",
+      "name": "Dindigul thalappakatti mutton biryani seeraga samba rich tender goat meat",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 13.5,
+        "carbs": 22.0,
+        "fat": 9.5,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dindigul thalappakatti mutton biryani seeraga samba rich tender goat meat",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "cb334104-6695-4568-9962-800515e981a4",
+      "name": "Ambur star mutton biryani seeraga samba red chili paste curd marinated",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 13.0,
+        "carbs": 23.0,
+        "fat": 8.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ambur star mutton biryani seeraga samba red chili paste curd marinated",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "da13fcb6-ca9e-4c3e-a4e7-d5394d982316",
+      "name": "Ambur star chicken biryani mild tangy aromatic seeraga samba rice",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 185.0,
+        "caloriesMax": 205.0,
+        "protein": 12.0,
+        "carbs": 24.0,
+        "fat": 5.8,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ambur star chicken biryani mild tangy aromatic seeraga samba rice",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e0c65282-257e-4cf5-9cd8-b75d73c08f89",
+      "name": "Chennai wedding mutton biryani basmati dum cooked saffron ghee cashews",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 215.0,
+        "caloriesMax": 235.0,
+        "protein": 13.0,
+        "carbs": 23.5,
+        "fat": 9.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chennai wedding mutton biryani basmati dum cooked saffron ghee cashews",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "5f4998d9-8d39-41c1-9752-2b059747b09c",
+      "name": "Chennai wedding chicken biryani long grain basmati chicken dum cooked",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 190.0,
+        "caloriesMax": 210.0,
+        "protein": 12.0,
+        "carbs": 24.5,
+        "fat": 6.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chennai wedding chicken biryani long grain basmati chicken dum cooked",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3ad25571-d4b9-42db-92b8-55193d8688ac",
+      "name": "Chettinad chicken biryani seeraga samba whole spices stone flower kalpasi",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 12.8,
+        "carbs": 23.0,
+        "fat": 7.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad chicken biryani seeraga samba whole spices stone flower kalpasi",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "52eafc07-79fc-45b9-8a10-99d225e15b4f",
+      "name": "Chettinad mutton biryani fragrant short grain spicy rich country goat",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 13.8,
+        "carbs": 22.5,
+        "fat": 10.0,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad mutton biryani fragrant short grain spicy rich country goat",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "20ba2e67-59a3-48ab-b562-f003a2da8b55",
+      "name": "Chettinad prawn biryani seeraga samba fresh ocean prawns spiced masala",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 12.5,
+        "carbs": 24.0,
+        "fat": 5.2,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad prawn biryani seeraga samba fresh ocean prawns spiced masala",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7cafec49-2e6f-40aa-bff9-c5c791dfd99f",
+      "name": "Chettinad fish biryani seer fish steaks layered aromatic seeraga samba rice",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 13.0,
+        "carbs": 23.5,
+        "fat": 5.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chettinad fish biryani seer fish steaks layered aromatic seeraga samba rice",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "26062a75-8e87-47e3-bbc9-4a9fb0f30488",
+      "name": "Egg biryani Tamil style boiled eggs roasted masala layered flavored rice",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 7.5,
+        "carbs": 25.0,
+        "fat": 5.8,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg biryani tamil style boiled eggs roasted masala layered flavored rice",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3f533748-1458-473a-b42a-8b0baf863e3c",
+      "name": "Mushroom biryani button mushrooms cooked spicy seeraga samba masala",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 4.5,
+        "carbs": 26.0,
+        "fat": 4.5,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mushroom biryani button mushrooms cooked spicy seeraga samba masala",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f8b9d539-3f1d-42e7-97e1-59df34f610c1",
+      "name": "Paneer biryani fresh cottage cheese cubes seasoned layered rice",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 7.2,
+        "carbs": 25.0,
+        "fat": 6.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer biryani fresh cottage cheese cubes seasoned layered rice",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a44a2f6d-ffb5-4351-afb4-9ffe9f924602",
+      "name": "Soya chunks biryani protein rich meal maker seeraga samba biryani",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 8.5,
+        "carbs": 26.0,
+        "fat": 4.2,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "soya chunks biryani protein rich meal maker seeraga samba biryani",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "3cdf4e97-79d2-42c0-a9fc-b0f2426a37d6",
+      "name": "Vegetable biryani mixed country vegetables mint coriander seeraga samba",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 4.0,
+        "carbs": 26.0,
+        "fat": 4.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vegetable biryani mixed country vegetables mint coriander seeraga samba",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "db6c2d65-2844-4523-8450-64d8e7486227",
+      "name": "Brinjal gravy ennai kathirikai spicy sour eggplant side dish for biryani",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 2.5,
+        "carbs": 11.0,
+        "fat": 10.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "brinjal gravy ennai kathirikai spicy sour eggplant side dish for biryani",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b47132de-ed4c-4718-b751-5c57652b0674",
+      "name": "Onion raita finely sliced shallots green chili thick curd for biryani",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 2.8,
+        "carbs": 5.5,
+        "fat": 4.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "onion raita finely sliced shallots green chili thick curd for biryani",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "1f5054f7-1da1-443d-b3e7-779fe746f602",
+      "name": "Cucumber raita fresh diced cucumber cumin seasoned curd",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 2.6,
+        "carbs": 5.0,
+        "fat": 3.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cucumber raita fresh diced cucumber cumin seasoned curd",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f5ec7465-bd2d-4d78-9072-a01191cfb5e7",
+      "name": "Boondi raita crisp fried gram flour pearls seasoned thick curd",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.5,
+        "carbs": 10.0,
+        "fat": 7.2,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "boondi raita crisp fried gram flour pearls seasoned thick curd",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c594e1fc-2022-423a-9ab4-37f464c6a86f",
+      "name": "Dalcha veg chana dal bottle gourd tamarind gravy for biryani",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 4.8,
+        "carbs": 15.0,
+        "fat": 3.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dalcha veg chana dal bottle gourd tamarind gravy for biryani",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "4f8b8d40-275f-4401-a562-f29549c05bf1",
+      "name": "Mutton dalcha tender goat bones split Bengal gram sweet sour tamarind",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
