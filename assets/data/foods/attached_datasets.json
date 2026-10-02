@@ -81526,3 +81526,1035 @@
         {
           "name": "1 serving",
           "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thinai koozh foxtail millet porridge blended churned salted curd",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "0761a49b-7743-4880-a5bd-2974fd6e322f",
+      "name": "Kuthiraivali koozh barnyard millet porridge seasoned moru curry leaves",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 2.2,
+        "carbs": 12.5,
+        "fat": 0.8,
+        "fiber": 2.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kuthiraivali koozh barnyard millet porridge seasoned moru curry leaves",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "a9a60a14-0840-4f2e-a774-be4e39632c2d",
+      "name": "Varagu koozh kodo millet fermented rustic breakfast porridge",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 58.0,
+        "caloriesMax": 78.0,
+        "protein": 2.2,
+        "carbs": 12.8,
+        "fat": 0.8,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "varagu koozh kodo millet fermented rustic breakfast porridge",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d5fc254d-140b-4cee-b270-419062be4c05",
+      "name": "Makka cholam koozh crushed cornmeal fermented buttermilk porridge",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 2.5,
+        "carbs": 15.0,
+        "fat": 1.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "makka cholam koozh crushed cornmeal fermented buttermilk porridge",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "7e9620af-7a14-4588-93b8-655396eecbdb",
+      "name": "Barley water boiled pearl barley grains strained cooling drink lemon",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0.8,
+        "carbs": 10.0,
+        "fat": 0.1,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barley water boiled pearl barley grains strained cooling drink lemon",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5b06a367-fc6e-4ccd-8105-feb0e4febe6b",
+      "name": "Jeera water boiled cumin seed digestive warm infusion",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 2.0,
+        "caloriesMax": 22.0,
+        "protein": 0.3,
+        "carbs": 2.2,
+        "fat": 0.2,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jeera water boiled cumin seed digestive warm infusion",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "9908c469-f775-4073-8130-acc3945f26d3",
+      "name": "Methi water overnight soaked fenugreek seed diabetes health drink",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 5.0,
+        "caloriesMax": 25.0,
+        "protein": 0.6,
+        "carbs": 2.5,
+        "fat": 0.2,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "methi water overnight soaked fenugreek seed diabetes health drink",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "085eadde-0bee-432b-a211-cff14e548d60",
+      "name": "Dhaniya water steeped crushed coriander seed thyroid wellness water",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 2.0,
+        "caloriesMax": 22.0,
+        "protein": 0.4,
+        "carbs": 2.0,
+        "fat": 0.2,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dhaniya water steeped crushed coriander seed thyroid wellness water",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "6409fdc0-dd2d-4d40-8817-cb0e4bf5c2f6",
+      "name": "Ajwain water boiled carom seed gastric acidity relief infusion",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 4.0,
+        "caloriesMax": 24.0,
+        "protein": 0.4,
+        "carbs": 2.2,
+        "fat": 0.3,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ajwain water boiled carom seed gastric acidity relief infusion",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "995eb815-2569-4e4a-9436-286d13764c5e",
+      "name": "Saunf water boiled fennel seed mouth freshening cooling infusion",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 5.0,
+        "caloriesMax": 25.0,
+        "protein": 0.4,
+        "carbs": 2.8,
+        "fat": 0.2,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "saunf water boiled fennel seed mouth freshening cooling infusion",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d3a97286-491c-49cb-a561-f62f78871079",
+      "name": "Tulsi ginger tea fresh holy basil root ginger honey herbal infusion",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 15.0,
+        "caloriesMax": 35.0,
+        "protein": 0.4,
+        "carbs": 5.5,
+        "fat": 0.1,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tulsi ginger tea fresh holy basil root ginger honey herbal infusion",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "e5fed738-7408-409e-b46c-c950c3f70745",
+      "name": "Kashayam traditional herbal decoction pepper dry ginger coriander jaggery",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0.8,
+        "carbs": 10.0,
+        "fat": 0.2,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kashayam traditional herbal decoction pepper dry ginger coriander jaggery",
+        "south indian"
+      ]
+    },
+    {
+      "id": "36ebfb85-e677-493d-98b2-274e19821b05",
+      "name": "Sukku coffee dry ginger black pepper coriander cardamom palm jaggery hot brew",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 0.6,
+        "carbs": 13.0,
+        "fat": 0.1,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sukku coffee dry ginger black pepper coriander cardamom palm jaggery hot brew",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "20ef3d10-f8e4-49d5-9043-971c96779061",
+      "name": "Chukku kapi Malabar dry ginger coffee brew palm sugar spices",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 40.0,
+        "caloriesMax": 60.0,
+        "protein": 0.6,
+        "carbs": 12.0,
+        "fat": 0.1,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chukku kapi malabar dry ginger coffee brew palm sugar spices",
+        "kerala"
+      ]
+    },
+    {
+      "id": "6c1d20e8-0a77-40fc-a2bb-f155e3160599",
+      "name": "Black filter coffee freshly brewed South Indian chicory blend without sugar",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 0,
+        "caloriesMax": 14.0,
+        "protein": 0.3,
+        "carbs": 0.6,
+        "fat": 0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "black filter coffee freshly brewed south indian chicory blend without sugar",
+        "south indian"
+      ]
+    },
+    {
+      "id": "980a6b9a-6e5b-4fde-87b2-9d8423cdfd43",
+      "name": "Filter coffee with full cream milk two spoons white sugar",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 105.0,
+        "caloriesMax": 125.0,
+        "protein": 3.2,
+        "carbs": 14.5,
+        "fat": 4.8,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "filter coffee with full cream milk two spoons white sugar",
+        "south indian"
+      ]
+    },
+    {
+      "id": "c17f331c-2408-4a8e-aad1-478baa946ff1",
+      "name": "Filter coffee with toned milk one spoon sugar South Indian brass tumbler",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 2.8,
+        "carbs": 9.5,
+        "fat": 2.5,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "filter coffee with toned milk one spoon sugar south indian brass tumbler",
+        "south indian"
+      ]
+    },
+    {
+      "id": "6b79ef67-a763-4439-9f4d-c4112b2784c2",
+      "name": "Filter coffee with cow milk jaggery sweetened traditional filter kaapi",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 2.8,
+        "carbs": 11.5,
+        "fat": 2.8,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "filter coffee with cow milk jaggery sweetened traditional filter kaapi",
+        "south indian"
+      ]
+    },
+    {
+      "id": "773f5358-5d91-4894-af9a-18c175d478bf",
+      "name": "Kumbakonam degree coffee pure cows milk rich frothy chicory free coffee",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 4.0,
+        "carbs": 15.0,
+        "fat": 5.8,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kumbakonam degree coffee pure cows milk rich frothy chicory free coffee",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "b825eaa0-70b2-4413-bb58-aab0d43ab0d3",
+      "name": "Madras filter coffee frothy meter coffee beaten milk froth",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 110.0,
+        "caloriesMax": 130.0,
+        "protein": 3.5,
+        "carbs": 14.0,
+        "fat": 5.2,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "madras filter coffee frothy meter coffee beaten milk froth",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "c27b47ba-8152-40a5-823b-9342198f2f6b",
+      "name": "Irani chai condensed milk mawa slow boiled sugary Hyderabad tea",
+      "category": "imported_csv_2",
+      "subCategory": "Hyderabad",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 4.2,
+        "carbs": 18.0,
+        "fat": 5.2,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "irani chai condensed milk mawa slow boiled sugary hyderabad tea",
+        "hyderabad"
+      ]
+    },
+    {
+      "id": "2a29e302-2254-4433-9f18-fede1d1da6c8",
+      "name": "Amruttulya chai Pune style cardamom ginger thick sweetened milk tea",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 3.8,
+        "carbs": 17.0,
+        "fat": 4.8,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amruttulya chai pune style cardamom ginger thick sweetened milk tea",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "8a6eddf2-492f-45c5-9b4b-b0ce4210decd",
+      "name": "Cutting chai Mumbai roadside half glass strong ginger cardamom tea",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 2.6,
+        "carbs": 12.0,
+        "fat": 2.8,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cutting chai mumbai roadside half glass strong ginger cardamom tea",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "77c783e9-85f3-4a1f-a6d5-9608cb3a28b6",
+      "name": "Masala chai CTC tea boiled whole milk crushed ginger green cardamom cloves",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 3.0,
+        "carbs": 13.0,
+        "fat": 3.2,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala chai ctc tea boiled whole milk crushed ginger green cardamom cloves",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "42d04128-4b53-48e4-8425-d140df9ac9ee",
+      "name": "Ginger tea adrak chai fresh grated ginger boiled milk sugar",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 2.8,
+        "carbs": 12.5,
+        "fat": 3.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ginger tea adrak chai fresh grated ginger boiled milk sugar",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "90f2c032-c9cf-4628-95ec-5084be35ddc8",
+      "name": "Elaichi chai green cardamom pods crushed boiled sweet milk tea",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 2.8,
+        "carbs": 12.5,
+        "fat": 3.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "elaichi chai green cardamom pods crushed boiled sweet milk tea",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "962e265a-13db-44f8-9fac-5ed9a50225c4",
+      "name": "Kullad tea hot spiced milk tea served porous unglazed clay cup",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 3.0,
+        "carbs": 13.0,
+        "fat": 3.2,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kullad tea hot spiced milk tea served porous unglazed clay cup",
+        "north indian"
+      ]
+    },
+    {
+      "id": "26684146-c11d-4784-94b9-6fed816bc09b",
+      "name": "Lemon tea freshly brewed black tea lemon juice honey mint",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 0.2,
+        "carbs": 8.5,
+        "fat": 0,
+        "fiber": 0.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lemon tea freshly brewed black tea lemon juice honey mint",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "0b9774c7-7c9a-4bf0-98c0-2cb65e0c3861",
+      "name": "Green tea brewed whole loose leaves antioxidant hot water",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 0,
+        "caloriesMax": 12.0,
+        "protein": 0.2,
+        "carbs": 0.3,
+        "fat": 0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green tea brewed whole loose leaves antioxidant hot water",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c120a44c-cf5e-41a0-a7f1-68cfb29a3ede",
+      "name": "Kahwa green tea saffron strands crushed green cardamom cinnamon almond flakes",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0.8,
+        "carbs": 9.5,
+        "fat": 0.5,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kahwa green tea saffron strands crushed green cardamom cinnamon almond flakes",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "fcffccd6-3d24-4cf9-abe5-7aa79d053fe3",
+      "name": "Noon chai Kashmiri pink tea green tea leaves baking soda salt whole milk",
+      "category": "imported_csv_2",
+      "subCategory": "Kashmir",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 2.5,
+        "carbs": 4.0,
+        "fat": 4.2,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "noon chai kashmiri pink tea green tea leaves baking soda salt whole milk",
+        "kashmir"
+      ]
+    },
+    {
+      "id": "3dd5fcde-a458-4b74-ade9-b4d35febb140",
+      "name": "Butter tea po cha churning yak butter tea leaves salt Himalayan warmth",
+      "category": "imported_csv_2",
+      "subCategory": "Sikkim/Ladakh",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 1.8,
+        "carbs": 1.2,
+        "fat": 11.0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "butter tea po cha churning yak butter tea leaves salt himalayan warmth",
+        "sikkim/ladakh"
+      ]
+    },
+    {
