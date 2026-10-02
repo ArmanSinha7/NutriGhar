@@ -82558,3 +82558,1035 @@
       ]
     },
     {
+      "id": "dcd2bd28-95ef-41d6-b4d4-aa472e44ad49",
+      "name": "Badam milk kesar hot full cream milk crushed almond paste saffron sugar",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 5.2,
+        "carbs": 18.0,
+        "fat": 6.0,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "badam milk kesar hot full cream milk crushed almond paste saffron sugar",
+        "north indian"
+      ]
+    },
+    {
+      "id": "284f3dbd-e966-4124-a720-014d9a009ef0",
+      "name": "Masala milk kojagiri night milk boiled saffron nutmeg cardamom dry fruits",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 5.0,
+        "carbs": 17.5,
+        "fat": 5.8,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala milk kojagiri night milk boiled saffron nutmeg cardamom dry fruits",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "9e099889-3782-4526-a8c4-12f27c859edd",
+      "name": "Turmeric latte golden milk haldi doodh boiled milk turmeric black pepper honey",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 3.8,
+        "carbs": 12.0,
+        "fat": 4.5,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "turmeric latte golden milk haldi doodh boiled milk turmeric black pepper honey",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "bf26db3c-b0d1-42d1-8342-67e2dad3a519",
+      "name": "Thandai chilled whole milk rich paste almonds fennel poppy melon seeds saffron",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 175.0,
+        "caloriesMax": 195.0,
+        "protein": 6.2,
+        "carbs": 22.0,
+        "fat": 7.8,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "thandai chilled whole milk rich paste almonds fennel poppy melon seeds saffron",
+        "north indian"
+      ]
+    },
+    {
+      "id": "31e35575-9947-4009-9e66-46cc4e953431",
+      "name": "Bhang thandai Holi festive drink almonds spices blended cannabis leaves",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 6.5,
+        "carbs": 22.0,
+        "fat": 8.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bhang thandai holi festive drink almonds spices blended cannabis leaves",
+        "north indian"
+      ]
+    },
+    {
+      "id": "6da28083-ed2a-460a-8eee-e1db0c205bed",
+      "name": "Mango mastani thick mango milkshake topped mango ice cream dry fruits tutty fruity",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 4.5,
+        "carbs": 34.0,
+        "fat": 7.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mango mastani thick mango milkshake topped mango ice cream dry fruits tutty fruity",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "f1354f9f-a6a7-47cf-beed-688cf0298142",
+      "name": "Chikoo shake fresh sapota fruit blended chilled whole milk sugar",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 2.8,
+        "carbs": 24.0,
+        "fat": 3.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chikoo shake fresh sapota fruit blended chilled whole milk sugar",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "670a1096-3cd4-4ee5-994c-eb34be660a91",
+      "name": "Banana milkshake ripe yellow banana blended milk honey",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 120.0,
+        "caloriesMax": 140.0,
+        "protein": 3.2,
+        "carbs": 23.0,
+        "fat": 2.8,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "banana milkshake ripe yellow banana blended milk honey",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "5955ba7c-a8e3-4555-b4f1-03d94508889c",
+      "name": "Papaya shake ripe sweet papaya pulp blended cold milk",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 2.6,
+        "carbs": 18.0,
+        "fat": 2.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "papaya shake ripe sweet papaya pulp blended cold milk",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "75110ab0-34df-438a-8f26-c4623ae7b0b7",
+      "name": "Sitaphal shake creamy custard apple pulp blended fresh chilled milk",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 3.5,
+        "carbs": 28.0,
+        "fat": 4.2,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sitaphal shake creamy custard apple pulp blended fresh chilled milk",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "4e620664-ef60-4b61-957f-5ba029d6d5b4",
+      "name": "Anjeer shake dried soaked figs blended thick milk cashews",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 165.0,
+        "caloriesMax": 185.0,
+        "protein": 4.2,
+        "carbs": 29.0,
+        "fat": 4.8,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "anjeer shake dried soaked figs blended thick milk cashews",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "bee67118-aaf7-475c-a9cf-216c7b5aaf7d",
+      "name": "Khajoor shake soft Arabian dates blended cold milk almonds",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 160.0,
+        "caloriesMax": 180.0,
+        "protein": 4.0,
+        "carbs": 30.0,
+        "fat": 4.0,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "khajoor shake soft arabian dates blended cold milk almonds",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "a429bcc1-9860-41f8-b386-27d5a1ec9aaf",
+      "name": "Rose milkshake chilled milk fragrant rose syrup basil seeds",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 115.0,
+        "caloriesMax": 135.0,
+        "protein": 3.2,
+        "carbs": 20.0,
+        "fat": 3.5,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rose milkshake chilled milk fragrant rose syrup basil seeds",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d358e0b8-4c14-4510-b988-f76a5a0a5232",
+      "name": "Kesar pista milkshake rich saffron pistachio blended cold milk",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 145.0,
+        "caloriesMax": 165.0,
+        "protein": 5.0,
+        "carbs": 19.0,
+        "fat": 6.5,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kesar pista milkshake rich saffron pistachio blended cold milk",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f77ba91c-5710-4059-9f1c-2ab6b88ccf15",
+      "name": "Chocolate milkshake cocoa powder chocolate syrup whole milk",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 3.8,
+        "carbs": 24.0,
+        "fat": 5.5,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chocolate milkshake cocoa powder chocolate syrup whole milk",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "c171983f-ee12-436e-80be-0284e9e7f076",
+      "name": "Cold coffee blended instant coffee powder chilled milk sugar vanilla ice cream",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 155.0,
+        "caloriesMax": 175.0,
+        "protein": 3.5,
+        "carbs": 24.0,
+        "fat": 6.0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cold coffee blended instant coffee powder chilled milk sugar vanilla ice cream",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ef52e424-6025-40eb-9853-cd56ad11eb89",
+      "name": "Lassi sweet thick chilled curd churned sugar topped fresh malai",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 130.0,
+        "caloriesMax": 150.0,
+        "protein": 4.2,
+        "carbs": 19.0,
+        "fat": 5.2,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lassi sweet thick chilled curd churned sugar topped fresh malai",
+        "punjab"
+      ]
+    },
+    {
+      "id": "950d3ad8-76d0-402c-81be-5143e6ffa69f",
+      "name": "Lassi mango ripe alphonso mango pulp churned sweet yogurt",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 140.0,
+        "caloriesMax": 160.0,
+        "protein": 3.8,
+        "carbs": 24.0,
+        "fat": 4.2,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lassi mango ripe alphonso mango pulp churned sweet yogurt",
+        "punjab"
+      ]
+    },
+    {
+      "id": "00246cdb-2713-4659-8612-9eeb9c26a96d",
+      "name": "Lassi rose fragrant sweet pink rose syrup churned yogurt",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 135.0,
+        "caloriesMax": 155.0,
+        "protein": 4.0,
+        "carbs": 21.0,
+        "fat": 4.8,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lassi rose fragrant sweet pink rose syrup churned yogurt",
+        "punjab"
+      ]
+    },
+    {
+      "id": "45549d51-3d6c-4c37-abbd-f3543ebb9abd",
+      "name": "Lassi strawberry fresh sweet strawberry pulp blended curd",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 125.0,
+        "caloriesMax": 145.0,
+        "protein": 3.6,
+        "carbs": 21.0,
+        "fat": 4.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lassi strawberry fresh sweet strawberry pulp blended curd",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ad0c1170-24ec-4bc4-b620-588a86e4fb79",
+      "name": "Lassi salted namkeen roasted cumin black salt mint chilled churned curd",
+      "category": "imported_csv_2",
+      "subCategory": "Punjab",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 3.2,
+        "carbs": 4.8,
+        "fat": 3.0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lassi salted namkeen roasted cumin black salt mint chilled churned curd",
+        "punjab"
+      ]
+    },
+    {
+      "id": "d71160e6-559b-439a-9326-6354c05b9e70",
+      "name": "Chaas spiced thin buttermilk roasted cumin curry leaves ginger green chili",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 30.0,
+        "caloriesMax": 50.0,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 1.8,
+        "fiber": 0.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chaas spiced thin buttermilk roasted cumin curry leaves ginger green chili",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "eca01829-032c-4d3c-9b83-1978c91e346e",
+      "name": "Mattha Maharashtrian spiced thin buttermilk roasted cumin coriander",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 2.2,
+        "carbs": 4.2,
+        "fat": 2.0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mattha maharashtrian spiced thin buttermilk roasted cumin coriander",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "4d594960-1600-4f88-9e4d-b5a4855f38b0",
+      "name": "Moru South Indian tempered buttermilk mustard ginger green chili curry leaf",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 1.8,
+        "carbs": 3.5,
+        "fat": 1.5,
+        "fiber": 0.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "moru south indian tempered buttermilk mustard ginger green chili curry leaf",
+        "south indian"
+      ]
+    },
+    {
+      "id": "d201b7e6-91dd-4e54-a95c-3e6c24faf07b",
+      "name": "Neer mor festive Rama Navami tempered buttermilk crushed ginger asafoetida",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 22.0,
+        "caloriesMax": 42.0,
+        "protein": 1.6,
+        "carbs": 3.2,
+        "fat": 1.4,
+        "fiber": 0.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "neer mor festive rama navami tempered buttermilk crushed ginger asafoetida",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "8d95fb91-fdf9-430e-abe4-e1f4a977ef42",
+      "name": "Sambharam Kerala spicy curd drink crushed bird eye chili ginger shallots",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 1.8,
+        "carbs": 3.5,
+        "fat": 1.5,
+        "fiber": 0.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sambharam kerala spicy curd drink crushed bird eye chili ginger shallots",
+        "kerala"
+      ]
+    },
+    {
+      "id": "4653c7a0-45f3-4703-a90f-9ce82fa10650",
+      "name": "Jaljeera iced water roasted cumin dry mango black salt mint lemon juice",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 20.0,
+        "caloriesMax": 40.0,
+        "protein": 0.4,
+        "carbs": 6.5,
+        "fat": 0.1,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jaljeera iced water roasted cumin dry mango black salt mint lemon juice",
+        "north indian"
+      ]
+    },
+    {
+      "id": "faa768e9-2093-4397-bad6-676c53752df1",
+      "name": "Aam panna fire charred raw mango pulp mint cumin black salt chilled cooler",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 0.6,
+        "carbs": 18.0,
+        "fat": 0.2,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aam panna fire charred raw mango pulp mint cumin black salt chilled cooler",
+        "north indian"
+      ]
+    },
+    {
+      "id": "0b23bd48-77ad-4395-82ee-7477ec22b47b",
+      "name": "Shikanji North Indian lemonade freshly squeezed lemons mint black salt cumin",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0.2,
+        "carbs": 11.0,
+        "fat": 0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shikanji north indian lemonade freshly squeezed lemons mint black salt cumin",
+        "north indian"
+      ]
+    },
+    {
+      "id": "98b49f6f-fdf8-4495-ae81-5321d99c6200",
+      "name": "Fuljar soda Kerala spiced mint ginger green chili shot dropped lemon soda",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 40.0,
+        "caloriesMax": 60.0,
+        "protein": 0.5,
+        "carbs": 12.0,
+        "fat": 0.1,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "fuljar soda kerala spiced mint ginger green chili shot dropped lemon soda",
+        "kerala"
+      ]
+    },
+    {
+      "id": "03f4deb8-2a01-4d68-a572-56552fef5982",
+      "name": "Nannari sarbath wild sarsaparilla root sweet herbal syrup lemon iced water",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 0.2,
+        "carbs": 21.0,
+        "fat": 0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nannari sarbath wild sarsaparilla root sweet herbal syrup lemon iced water",
+        "south indian"
+      ]
+    },
+    {
+      "id": "e7e877be-a3b2-4073-be51-5f4ce5b8ed22",
+      "name": "Nannari soda wild sarsaparilla root syrup freshly squeezed lemon fizz soda",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
