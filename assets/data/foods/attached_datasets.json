@@ -83590,3 +83590,1035 @@
         "lunch",
         "dinner",
         "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 70.0,
+        "caloriesMax": 90.0,
+        "protein": 0.1,
+        "carbs": 20.0,
+        "fat": 0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "nannari soda wild sarsaparilla root syrup freshly squeezed lemon fizz soda",
+        "south indian"
+      ]
+    },
+    {
+      "id": "b1a383b6-d276-4328-b2bd-d7ba9afa5ef2",
+      "name": "Goli soda codd-neck bottle classic lemon flavored fizzy street soda",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0,
+        "carbs": 11.5,
+        "fat": 0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "goli soda codd-neck bottle classic lemon flavored fizzy street soda",
+        "street food"
+      ]
+    },
+    {
+      "id": "21fd483e-6b48-4e8d-909d-70994c8f191f",
+      "name": "Paneer soda essence scented rose sweet carbonated fizzy bottle soda",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 40.0,
+        "caloriesMax": 60.0,
+        "protein": 0,
+        "carbs": 12.5,
+        "fat": 0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer soda essence scented rose sweet carbonated fizzy bottle soda",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "d2161ebd-6309-474a-8ea0-d539f433dc9b",
+      "name": "Kokum juice garcinia indica rind extract cumin black salt cooling drink",
+      "category": "imported_csv_2",
+      "subCategory": "Konkan/Goa",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 0.3,
+        "carbs": 15.0,
+        "fat": 0.1,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kokum juice garcinia indica rind extract cumin black salt cooling drink",
+        "konkan/goa"
+      ]
+    },
+    {
+      "id": "74bcc79f-be82-4321-b71c-2a84ed01a602",
+      "name": "Solkadhi coconut milk fresh kokum extract green chili garlic digestive drink",
+      "category": "imported_csv_2",
+      "subCategory": "Konkan/Goa",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 1.8,
+        "carbs": 6.0,
+        "fat": 6.0,
+        "fiber": 0.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "solkadhi coconut milk fresh kokum extract green chili garlic digestive drink",
+        "konkan/goa"
+      ]
+    },
+    {
+      "id": "0c6941c3-398d-4307-bcb1-4276a515847a",
+      "name": "Sugarcane juice fresh pressed crushed ginger lemon mint ice street stall",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 0.5,
+        "carbs": 21.0,
+        "fat": 0.1,
+        "fiber": 0.6
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sugarcane juice fresh pressed crushed ginger lemon mint ice street stall",
+        "street food"
+      ]
+    },
+    {
+      "id": "d354e01a-0564-4f91-898c-d4a8a61ab5d1",
+      "name": "Neera unfermented fresh sweet nutritious palm tree nectar sap",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 60.0,
+        "caloriesMax": 80.0,
+        "protein": 0.6,
+        "carbs": 16.5,
+        "fat": 0.1,
+        "fiber": 0.4
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "neera unfermented fresh sweet nutritious palm tree nectar sap",
+        "south indian"
+      ]
+    },
+    {
+      "id": "bd53734f-2eb6-4765-b496-2699dd19fc9c",
+      "name": "Toddy mildly fermented alcoholic palm sap",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 0.4,
+        "carbs": 8.0,
+        "fat": 0,
+        "fiber": 0.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "toddy mildly fermented alcoholic palm sap",
+        "south indian"
+      ]
+    },
+    {
+      "id": "225fe34e-6405-45d8-bb1a-7015027af2fd",
+      "name": "Mahua fermented traditional indigenous forest flower liquor",
+      "category": "imported_csv_2",
+      "subCategory": "Central India",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 0.2,
+        "carbs": 6.0,
+        "fat": 0,
+        "fiber": 0.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "mahua fermented traditional indigenous forest flower liquor",
+        "central india"
+      ]
+    },
+    {
+      "id": "9a8a08f9-e2c8-491a-a354-995a2ac5a114",
+      "name": "Feni cashew Goan traditional pot distilled cashew apple spirit",
+      "category": "imported_csv_2",
+      "subCategory": "Goa",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "feni cashew goan traditional pot distilled cashew apple spirit",
+        "goa"
+      ]
+    },
+    {
+      "id": "30a731ea-8ccb-43aa-997d-60fe07070dad",
+      "name": "Feni coconut Goan traditional pot distilled coconut palm toddy spirit",
+      "category": "imported_csv_2",
+      "subCategory": "Goa",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "fiber": 0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "feni coconut goan traditional pot distilled coconut palm toddy spirit",
+        "goa"
+      ]
+    },
+    {
+      "id": "69019528-f3bc-4938-99a7-853abcd014e0",
+      "name": "Sattu drink sweet roasted Bengal gram flour chilled water jaggery lemon",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 6.0,
+        "carbs": 20.0,
+        "fat": 1.5,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sattu drink sweet roasted bengal gram flour chilled water jaggery lemon",
+        "bihar"
+      ]
+    },
+    {
+      "id": "c87c3926-2413-431d-aa00-829f0f5f21aa",
+      "name": "Sattu drink salted roasted gram flour water green chili roasted cumin lemon",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 75.0,
+        "caloriesMax": 95.0,
+        "protein": 6.5,
+        "carbs": 12.0,
+        "fat": 1.5,
+        "fiber": 3.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sattu drink salted roasted gram flour water green chili roasted cumin lemon",
+        "bihar"
+      ]
+    },
+    {
+      "id": "5b55d569-55b8-4b71-a5ad-3f45752423ac",
+      "name": "Bel sharbat nutritious sweet wood apple pulp strained chilled summer cooler",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 95.0,
+        "caloriesMax": 115.0,
+        "protein": 1.5,
+        "carbs": 25.0,
+        "fat": 0.2,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "bel sharbat nutritious sweet wood apple pulp strained chilled summer cooler",
+        "north indian"
+      ]
+    },
+    {
+      "id": "ad5ff4f8-fb7d-491e-b49b-f6753067edd6",
+      "name": "Phalsa sharbat wild purple berry sweet tangy summer cooling drink",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 65.0,
+        "caloriesMax": 85.0,
+        "protein": 1.2,
+        "carbs": 17.0,
+        "fat": 0.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "phalsa sharbat wild purple berry sweet tangy summer cooling drink",
+        "north indian"
+      ]
+    },
+    {
+      "id": "e298dcd4-13c9-4269-aca7-333398d9f42f",
+      "name": "Jamun juice fresh black plum pulp extract salt cumin diabetes drink",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 50.0,
+        "caloriesMax": 70.0,
+        "protein": 0.8,
+        "carbs": 14.5,
+        "fat": 0.1,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "jamun juice fresh black plum pulp extract salt cumin diabetes drink",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "98940447-5b37-4768-86ff-acb103a309ee",
+      "name": "Amla juice fresh Indian gooseberry cold pressed vitamin C shot",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 25.0,
+        "caloriesMax": 45.0,
+        "protein": 0.8,
+        "carbs": 8.0,
+        "fat": 0.1,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amla juice fresh indian gooseberry cold pressed vitamin c shot",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ec930c1b-eb56-4ed5-ae80-82af004a483d",
+      "name": "Aloe vera juice fresh inner leaf gel cold pressed digestive juice",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 5.0,
+        "caloriesMax": 25.0,
+        "protein": 0.2,
+        "carbs": 3.5,
+        "fat": 0.1,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloe vera juice fresh inner leaf gel cold pressed digestive juice",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "3aec7596-5729-4049-b90f-b3cebd5aeaa9",
+      "name": "Lauki juice raw fresh bottle gourd ginger mint lemon heart health juice",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 10.0,
+        "caloriesMax": 30.0,
+        "protein": 0.8,
+        "carbs": 4.0,
+        "fat": 0.1,
+        "fiber": 1.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lauki juice raw fresh bottle gourd ginger mint lemon heart health juice",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ad9a61a7-a26d-4164-a02d-daea3c63f915",
+      "name": "Karela juice raw fresh bitter gourd lemon ginger diabetes health shot",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 12.0,
+        "caloriesMax": 32.0,
+        "protein": 1.2,
+        "carbs": 4.5,
+        "fat": 0.2,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karela juice raw fresh bitter gourd lemon ginger diabetes health shot",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "7a600593-ad17-4bf4-b325-07d422a6bf8a",
+      "name": "Wheatgrass juice freshly harvested young wheat shoots chlorophyll shot",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 15.0,
+        "caloriesMax": 35.0,
+        "protein": 2.0,
+        "carbs": 4.0,
+        "fat": 0.2,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "wheatgrass juice freshly harvested young wheat shoots chlorophyll shot",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "2a5ace09-54ba-48cc-9602-16f848dfa36b",
+      "name": "Coconut water fresh tender green coconut water natural electrolytes",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 9.0,
+        "caloriesMax": 29.0,
+        "protein": 0.7,
+        "carbs": 3.7,
+        "fat": 0.2,
+        "fiber": 1.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut water fresh tender green coconut water natural electrolytes",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "4006633e-13a1-480a-8621-ccfe943dbdb1",
+      "name": "Coconut malai soft gelatinous inner meat tender green coconut",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 100.0,
+        "caloriesMax": 120.0,
+        "protein": 1.5,
+        "carbs": 8.0,
+        "fat": 8.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "coconut malai soft gelatinous inner meat tender green coconut",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "40c20ec4-5e60-449e-b4e5-479ab265f9a7",
+      "name": "Ice apple nungu peeled translucent cooling toddy palm fruit jelly",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0.8,
+        "carbs": 10.5,
+        "fat": 0.1,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ice apple nungu peeled translucent cooling toddy palm fruit jelly",
+        "south indian"
+      ]
+    },
+    {
+      "id": "94a4a86a-01ce-443c-b1ad-d0f8c23016f2",
+      "name": "Singhara raw peeled crisp aquatic fresh water chestnuts",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 85.0,
+        "caloriesMax": 105.0,
+        "protein": 1.5,
+        "carbs": 23.0,
+        "fat": 0.1,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "singhara raw peeled crisp aquatic fresh water chestnuts",
+        "north indian"
+      ]
+    },
+    {
+      "id": "f5965dff-edc9-4c1b-b3b2-6b9bb6796694",
+      "name": "Singhara boiled street style whole boiled black water chestnuts",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 80.0,
+        "caloriesMax": 100.0,
+        "protein": 1.4,
+        "carbs": 21.5,
+        "fat": 0.1,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "singhara boiled street style whole boiled black water chestnuts",
+        "north indian"
+      ]
+    },
+    {
+      "id": "9e54f7d0-cf78-4e4b-97fa-b205d69f9a58",
+      "name": "Kamrakh raw crisp sour yellow star fruit slices street masala",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 21.0,
+        "caloriesMax": 41.0,
+        "protein": 1.0,
+        "carbs": 6.7,
+        "fat": 0.3,
+        "fiber": 2.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kamrakh raw crisp sour yellow star fruit slices street masala",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f4cfa6e8-eba3-42a3-9288-8a910e4a8110",
+      "name": "Ber wild Indian jujube small tart green red fruit rock salt",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 69.0,
+        "caloriesMax": 89.0,
+        "protein": 1.2,
+        "carbs": 20.0,
+        "fat": 0.2,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ber wild indian jujube small tart green red fruit rock salt",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "1693d64d-c109-4d5f-b86a-dae58134c840",
+      "name": "Karonda raw crisp sour pink berry white flesh pickled street snack",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 1.0,
+        "carbs": 13.0,
+        "fat": 0.3,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "karonda raw crisp sour pink berry white flesh pickled street snack",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "88466ec2-d440-4220-b895-fd6a51affeb1",
+      "name": "Shahtoot fresh ripe wild sweet red black mulberry fruit",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 33.0,
+        "caloriesMax": 53.0,
+        "protein": 1.4,
+        "carbs": 9.8,
+        "fat": 0.4,
+        "fiber": 1.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "shahtoot fresh ripe wild sweet red black mulberry fruit",
+        "north indian"
+      ]
+    },
+    {
+      "id": "c8960e20-157b-4922-b1a3-ffd5190f084b",
+      "name": "Tadgola palm fruit sweet jelly seed sockets",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 35.0,
+        "caloriesMax": 55.0,
+        "protein": 0.8,
+        "carbs": 10.5,
+        "fat": 0.1,
+        "fiber": 1.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tadgola palm fruit sweet jelly seed sockets",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "442e73bf-0951-4853-b4bf-c1d47693959c",
+      "name": "Chalta elephant apple wild fruit cooked dal Assamese fish curry",
+      "category": "imported_csv_2",
+      "subCategory": "Assam/Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 45.0,
+        "caloriesMax": 65.0,
+        "protein": 0.8,
+        "carbs": 12.0,
+        "fat": 0.2,
