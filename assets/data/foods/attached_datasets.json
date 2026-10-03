@@ -86686,3 +86686,1035 @@
       "id": "c7aa7623-f892-48aa-96d0-ce5fd05d39dc",
       "name": "Dried blueberries sweet dried whole blue fruit",
       "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 1.1,
+        "carbs": 80.0,
+        "fat": 1.0,
+        "fiber": 6.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "dried blueberries sweet dried whole blue fruit",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "da3997df-42f6-4826-b886-ca3999fa9a38",
+      "name": "Golden raisins kishmish sun dried seedless grapes",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 289.0,
+        "caloriesMax": 309.0,
+        "protein": 3.1,
+        "carbs": 79.2,
+        "fat": 0.5,
+        "fiber": 3.7
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "golden raisins kishmish sun dried seedless grapes",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "febfb11d-a449-44a4-8487-eb621e56c1a7",
+      "name": "Black raisins munakka large seeded dark dried grapes",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 285.0,
+        "caloriesMax": 305.0,
+        "protein": 3.0,
+        "carbs": 78.0,
+        "fat": 0.4,
+        "fiber": 4.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "black raisins munakka large seeded dark dried grapes",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "ea153a1c-be27-4d35-9fdc-58ac61a286db",
+      "name": "Green raisins Afghan long kishmish sweet",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 292.0,
+        "caloriesMax": 312.0,
+        "protein": 3.3,
+        "carbs": 79.5,
+        "fat": 0.4,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "green raisins afghan long kishmish sweet",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d65b660f-75b6-44ac-97be-85c6f7487c1c",
+      "name": "Tandoori Momos",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 10.0,
+        "carbs": 30.0,
+        "fat": 10.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tandoori momos",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "600d4982-b853-438e-a229-f70b05e0d181",
+      "name": "Afghani Chicken",
+      "category": "imported_csv_2",
+      "subCategory": "Mughlai",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 270.0,
+        "caloriesMax": 290.0,
+        "protein": 18.0,
+        "carbs": 4.0,
+        "fat": 21.0,
+        "fiber": 0.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "afghani chicken",
+        "mughlai"
+      ]
+    },
+    {
+      "id": "9ea8882f-de58-4238-92b8-a852abbde1bc",
+      "name": "Chicken Tikka Pizza",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 12.0,
+        "carbs": 32.0,
+        "fat": 10.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken tikka pizza",
+        "fusion"
+      ]
+    },
+    {
+      "id": "8d077ce1-58e1-4753-93a3-388e1ecd3d67",
+      "name": "Paneer Tikka Pizza",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 10.0,
+        "carbs": 33.0,
+        "fat": 9.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer tikka pizza",
+        "fusion"
+      ]
+    },
+    {
+      "id": "5f77e645-391f-49b5-8ef6-33d3e95a7d4a",
+      "name": "Gobi Manchurian Dry",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 4.0,
+        "carbs": 30.0,
+        "fat": 10.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gobi manchurian dry",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "27661a3f-aa74-4070-bae7-9197b284d719",
+      "name": "Chilli Paneer Dry",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 11.0,
+        "carbs": 20.0,
+        "fat": 16.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chilli paneer dry",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "c915c7e3-f386-4039-8109-dfab896fd12b",
+      "name": "Veg Hakka Noodles",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 180.0,
+        "caloriesMax": 200.0,
+        "protein": 5.0,
+        "carbs": 35.0,
+        "fat": 5.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg hakka noodles",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "92257afb-c56a-4cde-af9b-79419bcf4b85",
+      "name": "Chicken Hakka Noodles",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 10.0,
+        "carbs": 33.0,
+        "fat": 6.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken hakka noodles",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "88f61545-111b-4ad5-9dc1-ebf7912f8d9f",
+      "name": "Veg Fried Rice",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 4.0,
+        "carbs": 32.0,
+        "fat": 4.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg fried rice",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "2a717df2-8b15-40d0-b0a6-86843dae2e14",
+      "name": "Gobi 65",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 225.0,
+        "caloriesMax": 245.0,
+        "protein": 4.5,
+        "carbs": 24.0,
+        "fat": 13.5,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gobi 65",
+        "south indian"
+      ]
+    },
+    {
+      "id": "6f76b83b-a13d-49ca-b5be-de1013c9970e",
+      "name": "Aloo Tikki Burger",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 5.0,
+        "carbs": 38.0,
+        "fat": 8.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "aloo tikki burger",
+        "fusion"
+      ]
+    },
+    {
+      "id": "6e6a1c2b-2825-44aa-824a-544890789c9f",
+      "name": "Chicken Burger",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 12.0,
+        "carbs": 35.0,
+        "fat": 10.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken burger",
+        "fusion"
+      ]
+    },
+    {
+      "id": "e6a4d1db-403c-43a1-bdd5-8120b2117187",
+      "name": "Masala Fries",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 3.5,
+        "carbs": 42.0,
+        "fat": 13.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "masala fries",
+        "fusion"
+      ]
+    },
+    {
+      "id": "50549e98-9853-497c-b439-b251e7efa119",
+      "name": "Cheese Garlic Bread",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 310.0,
+        "caloriesMax": 330.0,
+        "protein": 9.0,
+        "carbs": 40.0,
+        "fat": 14.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "cheese garlic bread",
+        "fusion"
+      ]
+    },
+    {
+      "id": "7d196d1a-bc60-4826-a76e-16eb400f9e1c",
+      "name": "Macaroni Kurma",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 170.0,
+        "caloriesMax": 190.0,
+        "protein": 5.5,
+        "carbs": 28.0,
+        "fat": 5.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "macaroni kurma",
+        "fusion"
+      ]
+    },
+    {
+      "id": "4170e28d-6e9e-4031-9eeb-1ae5f72848b2",
+      "name": "Paneer Bhurji Pav",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 210.0,
+        "caloriesMax": 230.0,
+        "protein": 10.0,
+        "carbs": 26.0,
+        "fat": 9.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer bhurji pav",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "31eb0776-3b6a-4f75-85e8-68ddd9b8cf15",
+      "name": "Egg Bhurji Pav",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 11.0,
+        "carbs": 24.0,
+        "fat": 8.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "egg bhurji pav",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "910a5b74-d07f-45a3-80bf-55a3204dd355",
+      "name": "Keema Pav",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 14.0,
+        "carbs": 28.0,
+        "fat": 10.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "keema pav",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "15b32597-df58-4eff-b3ea-3127c16d949c",
+      "name": "Vada Pav Cheese",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 300.0,
+        "caloriesMax": 320.0,
+        "protein": 8.0,
+        "carbs": 35.0,
+        "fat": 16.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "vada pav cheese",
+        "maharashtra"
+      ]
+    },
+    {
+      "id": "64c4e083-c375-40eb-aa38-72dc33daa707",
+      "name": "Schezwan Vada Pav",
+      "category": "imported_csv_2",
+      "subCategory": "Fusion",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 280.0,
+        "caloriesMax": 300.0,
+        "protein": 6.5,
+        "carbs": 36.0,
+        "fat": 13.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "schezwan vada pav",
+        "fusion"
+      ]
+    },
+    {
+      "id": "db44f0d8-5437-471a-8d30-499e0b5016cb",
+      "name": "Paneer Frankie",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 11.0,
+        "carbs": 30.0,
+        "fat": 8.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "paneer frankie",
+        "street food"
+      ]
+    },
+    {
+      "id": "368df012-ea80-4bef-8bca-5704bdc4551b",
+      "name": "Chicken Frankie",
+      "category": "imported_csv_2",
+      "subCategory": "Street food",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 240.0,
+        "caloriesMax": 260.0,
+        "protein": 14.0,
+        "carbs": 28.0,
+        "fat": 9.0,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken frankie",
+        "street food"
+      ]
+    },
+    {
+      "id": "367c3e67-984e-462b-a9b9-8dfcf72085ea",
+      "name": "Veg Spring Roll",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 200.0,
+        "caloriesMax": 220.0,
+        "protein": 4.0,
+        "carbs": 28.0,
+        "fat": 9.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "veg spring roll",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "2d93bce9-81f6-4a29-a106-96b930324fca",
+      "name": "Chicken Spring Roll",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 220.0,
+        "caloriesMax": 240.0,
+        "protein": 9.0,
+        "carbs": 25.0,
+        "fat": 10.0,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chicken spring roll",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "02ab0dde-556c-4d5d-959c-488de4a3b5d8",
+      "name": "Chilli Potato",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 230.0,
+        "caloriesMax": 250.0,
+        "protein": 3.0,
+        "carbs": 35.0,
+        "fat": 10.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chilli potato",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "25e14d25-d3d4-40c0-bd24-9f1c4c670cc2",
+      "name": "Honey Chilli Potato",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 250.0,
+        "caloriesMax": 270.0,
+        "protein": 3.0,
+        "carbs": 40.0,
+        "fat": 10.0,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "honey chilli potato",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "f62a9924-4936-4a94-a850-4704cb2d6278",
+      "name": "Crispy Corn",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 260.0,
+        "caloriesMax": 280.0,
+        "protein": 5.0,
+        "carbs": 38.0,
+        "fat": 11.0,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "crispy corn",
+        "indo-chinese"
+      ]
+    },
+    {
+      "id": "8f74ff52-e070-40e0-8fe7-805d5071756f",
+      "name": "Veg Kothe",
+      "category": "imported_csv_2",
+      "subCategory": "Indo-Chinese",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
