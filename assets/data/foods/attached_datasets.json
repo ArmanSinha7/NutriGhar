@@ -84622,3 +84622,1035 @@
         "protein": 0.8,
         "carbs": 12.0,
         "fat": 0.2,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "chalta elephant apple wild fruit cooked dal assamese fish curry",
+        "assam/bengal"
+      ]
+    },
+    {
+      "id": "2bb55709-33d0-4d87-87c1-83c66e9f3f43",
+      "name": "Elephant foot yam boiled suran jimikand senai tubers",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 108.0,
+        "caloriesMax": 128.0,
+        "protein": 1.6,
+        "carbs": 27.5,
+        "fat": 0.1,
+        "fiber": 4.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "elephant foot yam boiled suran jimikand senai tubers",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "79070d2d-927e-486e-9fe9-7f73fe3d56f8",
+      "name": "Colocasia root boiled peeled arbi chamadumpa seppankizhangu",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 102.0,
+        "caloriesMax": 122.0,
+        "protein": 1.5,
+        "carbs": 26.0,
+        "fat": 0.2,
+        "fiber": 4.1
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "colocasia root boiled peeled arbi chamadumpa seppankizhangu",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "7bc0d39b-ff2b-4906-9469-b0119b6d0a8a",
+      "name": "Sweet potato boiled shakarkandi steamed nutritious tuber",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 76.0,
+        "caloriesMax": 96.0,
+        "protein": 1.6,
+        "carbs": 20.1,
+        "fat": 0.1,
+        "fiber": 3.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sweet potato boiled shakarkandi steamed nutritious tuber",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "eb022990-d2c6-4e1a-a4df-ab0cbdb7a1e6",
+      "name": "Tapioca root boiled peeled kappa cassava tubers",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 150.0,
+        "caloriesMax": 170.0,
+        "protein": 1.4,
+        "carbs": 38.0,
+        "fat": 0.3,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "tapioca root boiled peeled kappa cassava tubers",
+        "kerala"
+      ]
+    },
+    {
+      "id": "3a8dd508-7f06-4a62-9f20-9de4b945aa23",
+      "name": "Arrowroot boiled koova nutritious easily digestible root",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 55.0,
+        "caloriesMax": 75.0,
+        "protein": 1.5,
+        "carbs": 14.0,
+        "fat": 0.1,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "arrowroot boiled koova nutritious easily digestible root",
+        "kerala"
+      ]
+    },
+    {
+      "id": "c9a01b62-94ad-4be6-8541-2e63fa1bd99a",
+      "name": "Lotus root boiled raw sliced nadru bhey lotus stem",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 64.0,
+        "caloriesMax": 84.0,
+        "protein": 2.6,
+        "carbs": 17.2,
+        "fat": 0.1,
+        "fiber": 4.9
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "lotus root boiled raw sliced nadru bhey lotus stem",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "3d678c3b-8c72-4bef-9180-c9571714e26d",
+      "name": "Water chestnut flour singhare ka atta pure dry starch",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 8.0,
+        "carbs": 76.0,
+        "fat": 0.8,
+        "fiber": 4.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "water chestnut flour singhare ka atta pure dry starch",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "6a73bed2-2767-4696-807d-b7b1f4e6d374",
+      "name": "Buckwheat flour kuttu ka atta whole grain fasting flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 335.0,
+        "caloriesMax": 355.0,
+        "protein": 13.0,
+        "carbs": 71.0,
+        "fat": 3.0,
+        "fiber": 10.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "buckwheat flour kuttu ka atta whole grain fasting flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "f29e7323-ffcd-4e99-9b4e-24fe14b7eaed",
+      "name": "Amaranth flour rajgira flour high protein puffed flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 360.0,
+        "caloriesMax": 380.0,
+        "protein": 14.5,
+        "carbs": 65.0,
+        "fat": 7.0,
+        "fiber": 9.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "amaranth flour rajgira flour high protein puffed flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "35cd9980-0190-44d2-9305-0898655a768f",
+      "name": "Barnyard millet flour samak flour fasting flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 11.0,
+        "carbs": 65.0,
+        "fat": 3.5,
+        "fiber": 10.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "barnyard millet flour samak flour fasting flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "a66cc631-8fbe-41a1-b985-bc7a98954ddd",
+      "name": "Finger millet ragi flour nachni pure whole grain flour",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 320.0,
+        "caloriesMax": 340.0,
+        "protein": 7.3,
+        "carbs": 72.0,
+        "fat": 1.3,
+        "fiber": 11.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "finger millet ragi flour nachni pure whole grain flour",
+        "south indian"
+      ]
+    },
+    {
+      "id": "991f97d9-e4d8-4ed5-bcd5-b4834ac71d17",
+      "name": "Sorghum jowar flour jola pure ancient grain flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 10.4,
+        "carbs": 72.0,
+        "fat": 1.9,
+        "fiber": 9.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sorghum jowar flour jola pure ancient grain flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "9fe57d25-9798-48ff-803f-b24775f1b099",
+      "name": "Pearl millet bajra flour kambu sajje grey winter flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 11.6,
+        "carbs": 67.0,
+        "fat": 5.0,
+        "fiber": 11.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "pearl millet bajra flour kambu sajje grey winter flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "6ea0da15-7ba5-45a0-a2ab-0e60fca18429",
+      "name": "Foxtail millet flour kangni thinai navane flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 345.0,
+        "caloriesMax": 365.0,
+        "protein": 12.3,
+        "carbs": 67.0,
+        "fat": 4.3,
+        "fiber": 8.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "foxtail millet flour kangni thinai navane flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "d9cf7ac5-27f5-4acf-a263-ef3db1238a47",
+      "name": "Little millet flour samai kutki flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 10.0,
+        "carbs": 67.0,
+        "fat": 4.7,
+        "fiber": 7.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "little millet flour samai kutki flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "9eb86ea4-65fe-4fb3-ba16-0e939d50277a",
+      "name": "Kodo millet flour varagu arikalu flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 11.0,
+        "carbs": 66.0,
+        "fat": 3.5,
+        "fiber": 9.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "kodo millet flour varagu arikalu flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "da1562ca-bc6f-4bd2-87cc-82cf0a2ec399",
+      "name": "Proso millet flour chena barri flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 345.0,
+        "caloriesMax": 365.0,
+        "protein": 12.5,
+        "carbs": 70.0,
+        "fat": 3.0,
+        "fiber": 6.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "proso millet flour chena barri flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "0cb37750-f795-47c4-a078-e6c90b6e7da4",
+      "name": "Emmer wheat flour khapli gehun diabetic ancient wheat flour",
+      "category": "imported_csv_2",
+      "subCategory": "Maharashtra/Karnataka",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 14.0,
+        "carbs": 68.0,
+        "fat": 2.0,
+        "fiber": 10.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "emmer wheat flour khapli gehun diabetic ancient wheat flour",
+        "maharashtra/karnataka"
+      ]
+    },
+    {
+      "id": "719dcac9-5f8f-4077-aeb5-01b909d6bfd2",
+      "name": "Roasted gram sattu high protein chana flour Bihar",
+      "category": "imported_csv_2",
+      "subCategory": "Bihar",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 400.0,
+        "caloriesMax": 420.0,
+        "protein": 25.0,
+        "carbs": 62.0,
+        "fat": 6.0,
+        "fiber": 16.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roasted gram sattu high protein chana flour bihar",
+        "bihar"
+      ]
+    },
+    {
+      "id": "9a059b88-83e8-4081-be4d-de2d3e47e09d",
+      "name": "Roasted barley sattu jau sattu cooling summer flour",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 360.0,
+        "caloriesMax": 380.0,
+        "protein": 11.5,
+        "carbs": 74.0,
+        "fat": 2.0,
+        "fiber": 15.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "roasted barley sattu jau sattu cooling summer flour",
+        "north indian"
+      ]
+    },
+    {
+      "id": "6ce97ace-5b34-4c70-b8e0-f3387bad3449",
+      "name": "Whole wheat atta stone ground chakki fresh whole wheat flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 330.0,
+        "caloriesMax": 350.0,
+        "protein": 12.0,
+        "carbs": 70.0,
+        "fat": 1.8,
+        "fiber": 11.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "whole wheat atta stone ground chakki fresh whole wheat flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "7089ff34-4533-49a2-8fbe-a0960929c3de",
+      "name": "Refined flour maida all purpose white wheat flour",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 10.0,
+        "carbs": 76.0,
+        "fat": 1.0,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "refined flour maida all purpose white wheat flour",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "dd5fdf7d-a977-4070-8457-6a329ba55d42",
+      "name": "Semolina rava sooji coarse durum wheat granules",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 11.5,
+        "carbs": 73.0,
+        "fat": 1.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "semolina rava sooji coarse durum wheat granules",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "2e403d5d-63b7-4a59-b367-306ed630fa70",
+      "name": "Rice flour fine ground white raw rice powder",
+      "category": "imported_csv_2",
+      "subCategory": "Pan-Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 355.0,
+        "caloriesMax": 375.0,
+        "protein": 6.0,
+        "carbs": 80.0,
+        "fat": 0.8,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "rice flour fine ground white raw rice powder",
+        "pan-indian"
+      ]
+    },
+    {
+      "id": "35f4f24c-4737-4cfa-bf2d-25352052b058",
+      "name": "Idli rice parboiled short bold grain rice raw",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 345.0,
+        "caloriesMax": 365.0,
+        "protein": 7.0,
+        "carbs": 78.0,
+        "fat": 0.6,
+        "fiber": 2.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "idli rice parboiled short bold grain rice raw",
+        "south indian"
+      ]
+    },
+    {
+      "id": "45ca55d0-c7c9-4643-b0d6-ea36836df2d2",
+      "name": "Basmati rice raw aged extra long slender fragrant grain",
+      "category": "imported_csv_2",
+      "subCategory": "North Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 8.0,
+        "carbs": 77.0,
+        "fat": 0.6,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "basmati rice raw aged extra long slender fragrant grain",
+        "north indian"
+      ]
+    },
+    {
+      "id": "43418394-524a-41c8-88b9-d875e9f7bf1e",
+      "name": "Sona masoori rice raw unpolished medium grain",
+      "category": "imported_csv_2",
+      "subCategory": "South Indian",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 345.0,
+        "caloriesMax": 365.0,
+        "protein": 7.5,
+        "carbs": 78.0,
+        "fat": 0.5,
+        "fiber": 1.8
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "sona masoori rice raw unpolished medium grain",
+        "south indian"
+      ]
+    },
+    {
+      "id": "f56fa07a-29bc-4bc9-ab7e-0780ce23f18c",
+      "name": "Ponni rice boiled parboiled classic Tamil Nadu grain",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 340.0,
+        "caloriesMax": 360.0,
+        "protein": 7.2,
+        "carbs": 77.5,
+        "fat": 0.5,
+        "fiber": 2.0
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "ponni rice boiled parboiled classic tamil nadu grain",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "e4486b28-a1a6-4980-9335-f822e74ac3f9",
+      "name": "Seeraga samba rice raw tiny fragrant biryani grain",
+      "category": "imported_csv_2",
+      "subCategory": "Tamil Nadu",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 345.0,
+        "caloriesMax": 365.0,
+        "protein": 7.5,
+        "carbs": 77.0,
+        "fat": 0.6,
+        "fiber": 2.2
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "seeraga samba rice raw tiny fragrant biryani grain",
+        "tamil nadu"
+      ]
+    },
+    {
+      "id": "f288a2d9-dc12-452b-a802-4072aeddb254",
+      "name": "Gobindobhog rice raw aromatic short white grain Bengal",
+      "category": "imported_csv_2",
+      "subCategory": "Bengal",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 350.0,
+        "caloriesMax": 370.0,
+        "protein": 7.0,
+        "carbs": 78.0,
+        "fat": 0.5,
+        "fiber": 1.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
+      "aliases": [
+        "gobindobhog rice raw aromatic short white grain bengal",
+        "bengal"
+      ]
+    },
+    {
+      "id": "70df983a-caea-4482-b891-24f22c80ee84",
+      "name": "Matta rice raw Kerala red parboiled whole grain",
+      "category": "imported_csv_2",
+      "subCategory": "Kerala",
+      "isVegetarian": true,
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "snack"
+      ],
+      "confidenceLevel": "HIGH",
+      "per100g": {
+        "caloriesMin": 335.0,
+        "caloriesMax": 355.0,
+        "protein": 8.0,
+        "carbs": 75.0,
+        "fat": 1.0,
+        "fiber": 3.5
+      },
+      "portions": [
+        {
+          "name": "1 serving",
+          "weightMinG": 100,
+          "weightMaxG": 150
+        }
+      ],
