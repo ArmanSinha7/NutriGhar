@@ -35,7 +35,7 @@ NutriGhar is a Flutter-based Android application for personal nutrition tracking
 - Meal-preparation support
 
 ### 👨‍👩‍👧 Family Profiles
-- Support for personal/family-oriented nutrition tracking
+- Family-oriented nutrition profiles and management
 
 ## Why I Built It
 
@@ -44,42 +44,45 @@ Ayushi wanted a practical way to keep track of what she was eating without turni
 That made me focus on three things:
 
 **Indian food first.**  
-Nutrition apps often feel easier when the database and portions match the food people actually eat.
+Nutrition tracking should work with the foods, portions, and terminology people actually use.
 
 **Simple tracking.**  
-The goal is to make logging something you can keep doing every day.
+The goal is to make logging easy enough to keep doing every day.
 
 **Privacy and offline-first design.**  
-NutriGhar stores its core data locally and does not require a cloud backend for the basic nutrition-tracking experience.
+The core application stores its data locally and does not require a cloud backend for basic nutrition tracking.
 
 ## Hacktoberfest 2026 — Build for a Friend
 
-NutriGhar is being developed as part of the **Hacktoberfest 2026 Weekend Challenge: Build for a Friend**.
+NutriGhar is being developed for the **Hacktoberfest 2026 Weekend Challenge: Build for a Friend**.
 
-For the challenge, the project is being extended with an **open-weight AI meal-understanding layer** designed around the way Ayushi and I naturally describe meals.
+The project is built for **Ayushi Sinha — my sister and best friend**.
 
-The direction is:
+For the challenge, I am extending NutriGhar with an **open-weight AI meal-understanding workflow** based on the way Ayushi naturally describes what she eats.
+
+The goal is to make food logging work more like a normal conversation:
 
 **Natural-language meal → AI understanding → food matching → deterministic nutrition calculation**
 
-The AI is intended to handle the language and ambiguity in a meal description, while the application's existing nutrition engine remains responsible for the actual calculations.
-
-This separation is deliberate:
+The AI handles language and ambiguity. The application's nutrition engine remains responsible for the actual calculations.
 
 > **The AI understands. The application does the math.**
 
 ### Open AI Direction
 
-The AI extension uses **Gemma 3 4B** through **Ollama** for local inference.
+The challenge-specific AI workflow is designed around **Gemma 3 4B** running locally through **Ollama**.
 
-The goal is to make natural-language meal logging more useful for Indian and Hinglish inputs while keeping the processing local rather than relying on a proprietary cloud API.
+The model is used for understanding natural-language meal descriptions and extracting structured information such as food items, quantities, and portions.
 
-This approach provides:
+That output can then be grounded against NutriGhar's local food database before the application's deterministic nutrition calculations are applied.
+
+This approach is intended to provide:
+
 - Local inference
 - No per-request API cost
 - Better privacy for personal nutrition data
 - The ability to experiment with and swap open-weight models
-- A path toward future customization for Indian/Hinglish food terminology
+- A path toward improving Indian and Hinglish food understanding
 
 ## Tech Stack
 
@@ -90,29 +93,29 @@ This approach provides:
 | State Management | Riverpod |
 | Local Storage | SharedPreferences + SQLite |
 | Charts | fl_chart |
-| Local AI | Gemma 3 4B + Ollama |
+| AI Extension | Gemma 3 4B + Ollama |
 | Data | Local Indian food datasets |
 
 ## Architecture
 
-At its core, NutriGhar follows a local-first architecture:
+### Core application
 
-\`\`\`
+```
 Flutter UI
     ↓
 Riverpod state / services
     ↓
 Food search + meal logging
     ↓
-Local nutrition engine
+Nutrition engine
     ↓
 Local persistence
     └── SharedPreferences / SQLite
-\`\`\`
+```
 
-The AI-assisted meal workflow extends that flow:
+### AI-assisted meal workflow
 
-\`\`\`
+```
 Natural-language meal
         ↓
 Gemma 3 4B (local)
@@ -124,13 +127,15 @@ NutriGhar food search / grounding
 Deterministic nutrition calculation
         ↓
 Daily calories + protein
-\`\`\`
+```
+
+The key design decision is that the model does not become the source of truth for nutrition arithmetic. The application keeps that part deterministic.
 
 ## Project Structure
 
-The main application areas are organized around core services and features:
+The application is organized into core services and feature modules:
 
-\`\`\`
+```
 lib/
 ├── core/
 │   ├── database/
@@ -153,77 +158,77 @@ lib/
 │   └── progress/
 │
 └── main.dart
-\`\`\`
+```
 
 Food data is stored locally under:
 
-\`\`\`
+```
 assets/data/
-\`\`\`
+```
 
 ## Getting Started
 
 ### Requirements
 
 - Flutter SDK
-- Android Studio / Android SDK
 - Dart
-- An Android device or emulator
+- Android Studio / Android SDK
+- Android device or emulator
 
 ### Run locally
 
 Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/ArmanSinha7/NutriGhar.git
 cd NutriGhar
-\`\`\`
+```
 
 Install dependencies:
 
-\`\`\`bash
+```bash
 flutter pub get
-\`\`\`
+```
 
 Run the application:
 
-\`\`\`bash
+```bash
 flutter run
-\`\`\`
+```
 
 ## Local AI Setup
 
-The open-weight AI extension uses Ollama.
+The challenge-specific AI workflow uses Ollama for local inference.
 
 Install Ollama and pull the model:
 
-\`\`\`bash
+```bash
 ollama pull gemma3:4b
-\`\`\`
+```
 
 Start Ollama:
 
-\`\`\`bash
+```bash
 ollama serve
-\`\`\`
+```
 
-The Flutter application can then connect to the local Ollama endpoint when the AI meal-logging extension is enabled.
+When the AI meal-logging workflow is enabled, the Flutter application can connect to the local Ollama endpoint.
 
-> **Note:** The core nutrition tracker remains useful without cloud AI. Local inference is used for the AI-assisted natural-language workflow.
+> The core nutrition tracker is designed to remain useful without a cloud AI dependency.
 
 ## Design Principles
 
 ### Local-first
-Core nutrition data and calculations are designed to work locally.
+Core nutrition data and calculations are kept local wherever possible.
 
 ### Deterministic nutrition math
-The AI should not invent calorie or protein values. Nutrition calculations are handled by application logic and the local food data.
+The AI should not invent calorie or protein values. Nutrition calculations come from application logic and the local food data.
 
 ### Grounded AI
-AI-generated food interpretations should be grounded against the application's food database rather than blindly accepted.
+AI-generated food interpretations should be checked against the application's food database rather than blindly trusted.
 
 ### Indian food context
-The database and user experience are designed around Indian meals, portions, and terminology.
+The experience is designed around Indian meals, portions, and the way people naturally describe them.
 
 ## Roadmap
 
@@ -238,22 +243,20 @@ The database and user experience are designed around Indian meals, portions, and
 - [ ] Model comparison and evaluation
 - [ ] Fully on-device inference on supported Android hardware
 
-## Hacktoberfest Submission
+## Hacktoberfest Story
 
-This project is being submitted for:
+NutriGhar is not just a nutrition tracker to me.
 
-**Hacktoberfest Weekend Challenge: Build for a Friend**
+It started because **Ayushi**, my sister and best friend, asked me for something that would make tracking her food easier while she worked toward losing weight and getting fitter.
 
-The person behind the project is **Ayushi Sinha — my sister and best friend**.
+The challenge gave me an opportunity to take that personal problem and explore where open-source AI could make the experience genuinely better.
 
-The challenge-specific AI work focuses on turning the real-world way she describes her meals into structured nutrition entries while keeping the rest of the nutrition pipeline reliable and deterministic.
-
-## License
-
-This project is open source. See the repository for the current licensing status and project files.
+The focus is not on adding an AI chatbot for the sake of having AI. It is on using an open-weight model where language understanding is actually useful, while keeping the nutrition calculations reliable and deterministic.
 
 ## Author
 
 **Arman Sinha**
 
 GitHub: https://github.com/ArmanSinha7
+
+Repository: https://github.com/ArmanSinha7/NutriGhar
