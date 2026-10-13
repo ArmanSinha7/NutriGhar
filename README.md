@@ -196,6 +196,14 @@ Run the application:
 flutter run
 ```
 
+## Contributor Resources
+
+- [Contributing guide](CONTRIBUTING.md) — local setup, quality checks, and pull request expectations.
+- [AI meal-logging design](docs/AI_MEAL_LOGGING_DESIGN.md) — proposed grounded parsing workflow and evaluation plan.
+- [Food data maintenance](docs/FOOD_DATA_MAINTENANCE.md) — dataset structure, validation command, and review checklist.
+
+These documents describe development guidance and a proposed AI workflow; they do not imply that every planned AI feature is already implemented.
+
 ## Local AI Setup
 
 The challenge-specific AI workflow uses Ollama for local inference.
